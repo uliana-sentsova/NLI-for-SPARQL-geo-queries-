@@ -41,6 +41,11 @@ def is_word(word):
             return False
     return True
 
+def reordered(bigram):
+    bigram = bigram.split(" ")
+    bigram = bigram[1] + " " + bigram[0]
+    return bigram
+
 # Вспомогательная функция для поиска биграммов в словаре локаций.
 def search_bigram(words_list):
     locations = []
@@ -53,6 +58,10 @@ def search_bigram(words_list):
     for bigram in bigrams:
         if bigram in LOCATION_DICTIONARY:
             locations.append(bigram)
+    if not locations:
+        for bigram in bigrams:
+            if reordered(bigram) in LOCATION_DICTIONARY:
+                locations.append(bigram)
     return locations
 
 # Функция ищет локацию в запросе: сначала отдельные слова, затем биграммы.
