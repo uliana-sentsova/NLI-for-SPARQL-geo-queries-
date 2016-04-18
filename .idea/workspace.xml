@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92853f2-6143-4c85-9213-a6d82225cfc5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generating SPARQL query.py" afterPath="$PROJECT_DIR$/Generating SPARQL query.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Города/абв.tsv" afterPath="$PROJECT_DIR$/Города/абв.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Local_changes.py" afterPath="$PROJECT_DIR$/Local_changes.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Generating SPARQL query.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Generating SPARQL query.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generating SPARQL query.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26078027">
-              <caret line="130" column="49" selection-start-line="130" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -48,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Local_changes.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Local_changes.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Local_changes.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8151951">
+              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="абв.tsv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Города/абв.tsv">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+              <caret line="3841" column="0" selection-start-line="3841" selection-start-column="0" selection-end-line="3841" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,8 +141,8 @@
         <option value="$PROJECT_DIR$/CONFIG/PROP.txt" />
         <option value="$PROJECT_DIR$/CONFIG/PROPERTIES.txt" />
         <option value="$PROJECT_DIR$/Города/абв.tsv" />
-        <option value="$PROJECT_DIR$/Local_changes.py" />
         <option value="$PROJECT_DIR$/Generating SPARQL query.py" />
+        <option value="$PROJECT_DIR$/Local_changes.py" />
       </list>
     </option>
   </component>
@@ -835,14 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CONFIG/PROPERTIES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="112" column="11" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Города/где.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -851,9 +854,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generating SPARQL query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONFIG/PROPERTIES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="112" column="11" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Города/абв.tsv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="133.06004">
+        <state vertical-scroll-proportion="0.0">
           <caret line="3841" column="0" selection-start-line="3841" selection-start-column="0" selection-end-line="3841" selection-end-column="0" />
           <folding />
         </state>
@@ -861,19 +882,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Local_changes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.8151951">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generating SPARQL query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26078027">
-          <caret line="130" column="49" selection-start-line="130" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

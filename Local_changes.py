@@ -16,21 +16,36 @@ for line in fh:
     line = line.split("\t")
     location = line[1]
     value = line[0].split("resource/")[1]
-    if "(город)" in location:
-        location = location.split("(")
-        city_name = location[0].lower().strip()
-        dictionary[city_name] = value
-        dictionary["город " + city_name] = value
-        dictionary["г " + city_name] = value
-    elif "(город," in location:
-        location = location.split("(город, ")
-        city_name = location[0].lower().strip()
-        dictionary[city_name] = value
-        dictionary["город " + city_name] = value
-        dictionary[city_name + location[1].lower()[:-1]] = value
-        dictionary["город " + city_name + location[1].lower()[:-1]] = value
-    else:
-        pass
-
+    if ("(") in location:
+        if "(город)" in location:
+            location = location.split("(")
+            city_name = location[0].lower().strip()
+            dictionary[city_name] = value
+            dictionary["город " + city_name] = value
+        elif "(город," in location:
+            location = location.split("(город, ")
+            city_name = location[0].lower().strip()
+            dictionary[city_name] = value
+            dictionary["город " + city_name] = value
+            dictionary[city_name + " " + location[1].lower()[:-1]] = value
+            dictionary["город " + city_name + " " + location[1].lower()[:-1]] = value
+        else:
+            city_name = location.split("(")[0].lower().strip()
+            rest = location.split("(")[1].strip(")")
+            if rest.istitle() and len(rest.split()) == 1:
+                dictionary[city_name] = value
+                dictionary[city_name + " " + rest.lower()] = value
+            elif rest.istitle():
+                if "—" not in rest:
+                    dictionary[city_name] = value
+                    dictionary[city_name + " " + rest.split(" ")[1].lower()] = value
+                    dictionary[city_name + " " + rest.lower()] = value
+                else:
+                    dictionary[city_name] = value
+                    dictionary[city_name + " папуа новая гвинея"] = value
+                    dictionary[city_name + " новая гвинея"] = value
+            else:
+                pass
+                #TODO: написать дальше!
 for key in dictionary:
     print(key + ": " + dictionary[key])

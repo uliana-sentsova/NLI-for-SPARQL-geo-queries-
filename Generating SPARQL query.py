@@ -41,12 +41,16 @@ def is_word(word):
             return False
     return True
 
+
+# Вспомогательная функция
 def reordered(bigram):
     bigram = bigram.split(" ")
     bigram = bigram[1] + " " + bigram[0]
     return bigram
 
-# Вспомогательная функция для поиска биграммов в словаре локаций.
+
+# Вспомогательная функция для поиска биграммов в словаре локаций
+# (чтобы находить такие локации как "новосибирская область").
 def search_bigram(words_list):
     locations = []
     bigrams = []
