@@ -1,0 +1,3149 @@
+славянск	Slavyansk-na-Kubani
+ярославский район	Yaroslavsky_District,_Yaroslavl_Oblast
+тулунский район	Tulunsky_District
+медногорск	Mednogorsk
+кюренга-ат	Kyureng-At
+суражский район	Surazhsky_District
+усть-оленек	Ust-Olenyok
+воскресенский район	Voskresensky_District,_Saratov_Oblast
+усть-джегута	Ust-Dzheguta
+нукутский район	Nukutsky_District
+звездный	Zvyozdny,_Perm_Krai
+железногорск-илимский	Zheleznogorsk-Ilimsky
+мглинский район	Mglinsky_District
+лоухи	Loukhi
+заполярный район	Zapolyarny_District
+кузино	Kuzino
+улах-ан	Ulakh-An
+кардымовский район	Kardymovsky_District
+булус	Bulus
+рябово	Ryabovo,_Tosnensky_District,_Leningrad_Oblast
+даровской район	Darovskoy_District
+колвица	Kolvitsa
+ликино-дулево	Likino-Dulyovo
+корзуново	Korzunovo
+рамонский район	Ramonsky_District
+митино	Mitino_District
+долгоруковский район	Dolgorukovsky_District
+доволенский район	Dovolensky_District
+орловский район	Orlovsky_District,_Rostov_Oblast
+чухлома	Chukhloma
+адамовский район	Adamovsky_District
+моршанск	Morshansk
+новосокольники	Novosokolniki
+елабуга	Yelabuga
+мамедкал	Mamedkala
+александров гай	Alexandrov_Gay
+шенталинский район	Shentalinsky_District
+кострома	Kostroma
+кумертау	Kumertau
+тобольск	Tobolsk
+имя полина осипенко	Imeni_Poliny_Osipenko_(rural_locality)
+омск	Omsk
+удачный	Udachny
+чукочье	Chukochya
+чакыр 2-й	Chakyr_2-y
+хелюля	Khelyulya
+каспийск	Kaspiysk
+боронук	Boronuk
+алапаевский район	Alapayevsky_District
+бологовский район	Bologovsky_District
+гремячинск	Gremyachinsk
+большесельский район	Bolsheselsky_District
+выборгский район	Vyborgsky_District,_Leningrad_Oblast
+богородицкий район	Bogoroditsky_District
+бобровский район	Bobrovsky_District
+лаганить	Lagan,_Russia
+даркылах	Darkylakh
+белоусово	Belousovo,_Kaluga_Oblast
+пиндуша	Pindushi
+ларево	Laryovo,_Moscow_Oblast
+починковский район	Pochinkovsky_District,_Smolensk_Oblast
+махачкала	Makhachkala
+бабаево	Babayevo_(town),_Vologda_Oblast
+пыть-ях	Pyt-Yakh
+благовещенск	Blagoveshchensk
+хата	Khaty
+клепиковский район	Klepikovsky_District
+алысард	Alysardakh,_Verkhoyansky_District,_Sakha_Republic
+казачинско-ленский район	Kazachinsko-Lensky_District
+назия	Naziya
+сапожковский район	Sapozhkovsky_District
+старый русс	Staraya_Russa
+сатагай	Satagay,_Vilyuysky_District,_Sakha_Republic
+асекеевский район	Asekeyevsky_District
+щелково	Shchyolkovo
+балтийский район	Baltiysky_District,_Kaliningrad_Oblast
+микунь	Mikun
+ангарск	Angarsk
+пушкинский район	Pushkinsky_District,_Moscow_Oblast
+ударный	Udarny,_Karachay-Cherkess_Republic
+верещагино	Vereshchagino,_Vereshchaginsky_District,_Perm_Krai
+тарат	Tarat,_Russia
+юрино	Yurino,_Mari_El_Republic
+самойловский район	Samoylovsky_District
+комсомольск-на-амуре	Komsomolsk-on-Amur
+безенчукский район	Bezenchuksky_District
+корочанский район	Korochansky_District
+снежный	Snezhnoye,_Chukotka_Autonomous_Okrug
+крестовский лесоучасток	Krestovsky_Lesouchastok
+волжский	Volzhsky,_Volgograd_Oblast
+новосибирский область	Novosibirsk_Oblast
+лобня	Lobnya
+саратовский область	Saratov_Oblast
+лысковский район	Lyskovsky_District
+волжск	Volzhsk
+палкино	Palkino,_Palkinsky_District,_Pskov_Oblast
+красный луч	Krasny_Luch,_Pskov_Oblast
+магнитогорск	Magnitogorsk
+намский улус	Namsky_District
+дрезна	Drezna
+наровчатский район	Narovchatsky_District
+борисоглебск	Borisoglebsk
+медногорский	Mednogorsky
+осташков	Ostashkov
+дорожный	Dorozhny
+гагино	Gagino,_Moscow_Oblast
+саргатский район	Sargatsky_District
+муравленко	Muravlenko
+кюбяинд	Kyubyainde
+магаданский область	Magadan_Oblast
+еманжелинск	Yemanzhelinsk
+кочегаровый	Kochegarovo
+бежецк	Bezhetsk
+тюльганский район	Tyulgansky_District
+парабельский район	Parabelsky_District
+нижневартовский район	Nizhnevartovsky_District
+осохтох	Osokhtokh
+кескил	Keskil
+архангельск	Arkhangelsk
+юрьев-польский	Yuryev-Polsky_(town)
+северный район	Severny_District,_Orenburg_Oblast
+чериктей	Cheriktey
+кандалакша	Kandalaksha
+клявлинский район	Klyavlinsky_District
+туапсе	Tuapse
+район хорошево-мневники	Khoroshevo-Mnevniki_District
+куровское	Kurovskoye,_Moscow_Oblast
+жуковка	Zhukovka,_Bryansk_Oblast
+видный	Vidnoye,_Moscow_Oblast
+хибины	Khibiny,_Murmansk_Oblast
+выгоничский район	Vygonichsky_District
+боготольский район	Bogotolsky_District
+чекалин	Chekalin
+волчанск	Volchansk
+минеральный вода	Mineralnye_Vody
+знаменск	Znamensk,_Astrakhan_Oblast
+мантурово	Manturovo,_Kostroma_Oblast
+район крюково	Kryukovo_District
+харбала	Kharbalakh
+плесецкий район	Plesetsky_District
+белгородский область	Belgorod_Oblast
+наро-фоминск	Naro-Fominsk
+вилюйск	Vilyuysk
+далматовский район	Dalmatovsky_District
+кондрово	Kondrovo,_Kaluga_Oblast
+верхнекамский район	Verkhnekamsky_District
+белинский район	Belinsky_District
+уйский район	Uysky_District
+пластовский район	Plastovsky_District
+колпнянский район	Kolpnyansky_District
+ирбит	Irbit
+алексин	Aleksin
+тара	Tara,_Omsk_Oblast
+томск	Tomsk
+боковский район	Bokovsky_District
+синегорье	Sinegorye
+упоровский район	Uporovsky_District
+красносельский район	Krasnoselsky_District,_Kostroma_Oblast
+вичугский район	Vichugsky_District
+чесменский район	Chesmensky_District
+Изъяю	Izyayu
+максатихинский район	Maksatikhinsky_District
+ноглики	Nogliki
+сандовский район	Sandovsky_District
+локнянский район	Loknyansky_District
+шацкий район	Shatsky_District
+инсар	Insar,_Insarsky_District,_Republic_of_Mordovia
+рыбный	Rybnoye,_Ryazan_Oblast
+муром	Murom
+теплый ключ	Teply_Klyuch
+елизово	Yelizovo
+кюерель	Kyuyorelyakh
+антроповский район	Antropovsky_District
+яранский район	Yaransky_District
+аромашевский район	Aromashevsky_District
+шербакульский район	Sherbakulsky_District
+черюмча	Chyoryumche
+заринск	Zarinsk
+фрунзе	Frunze,_Sakha_Republic
+кириши	Kirishi
+мга	Mga
+верхний пышма	Verkhnyaya_Pyshma
+октябрьский район	Oktyabrsky_District,_Volgograd_Oblast
+пинозеро	Pinozero
+эжанец	Ezhantsy
+бутурлиновский район	Buturlinovsky_District
+смоленский район	Smolensky_District,_Smolensk_Oblast
+молоково	Molokovo,_Molokovsky_District,_Tver_Oblast
+гаринский район	Garinsky_District
+седельниковский район	Sedelnikovsky_District
+павлово	Pavlovo,_Pavlovsky_District,_Nizhny_Novgorod_Oblast
+светлый	Svetly,_Saratov_Oblast
+верея	Vereya,_Naro-Fominsky_District,_Moscow_Oblast
+киц	Kitsa,_Russia
+бирск	Birsk
+парфеньевский район	Parfenyevsky_District
+калининск	Kalininsk,_Saratov_Oblast
+щелковский район	Shchyolkovsky_District
+дунай	Dunay,_Primorsky_Krai
+ус-кюель	Us-Kyuyol
+строитель	Stroitel,_Belgorod_Oblast
+оренбургский район	Orenburgsky_District
+усогорск	Usogorsk
+власих	Vlasikha,_Moscow_Oblast
+алатырь	Alatyr,_Chuvash_Republic
+боробула	Borobul
+толмачево	Tolmachyovo
+ретинский	Retinskoye
+никольский	Nikolsky,_Sakha_Republic
+мамадыш	Mamadysh
+пряжа	Pryazha
+асбест	Asbest
+эльгян	Elgyan
+район братеево	Brateyevo_District
+краскино	Kraskino
+чебсар	Chyobsara
+катав-ивановск	Katav-Ivanovsk
+ленинск-кузнецкий	Leninsk-Kuznetsky_(city)
+пулозеро	Pulozero
+луг	Luga,_Leningrad_Oblast
+ямало-ненецкий автономный округ	Yamalo-Nenets_Autonomous_Okrug
+кусинский район	Kusinsky_District
+жигулевск	Zhigulyovsk
+красномайский	Krasnomaysky,_Tver_Oblast
+вяземский	Vyazemsky,_Khabarovsk_Krai
+никольский район	Nikolsky_District,_Penza_Oblast
+жирятинский район	Zhiryatinsky_District
+шадринск	Shadrinsk
+кинель-черкасский район	Kinel-Cherkassky_District
+белый море	Beloye_More_(rural_locality)
+новоузенск	Novouzensk
+севск	Sevsk,_Bryansk_Oblast
+лапландский заповедник	Laplandsky_Zapovednik
+куженер	Kuzhener,_Mari_El_Republic
+волоколамский район	Volokolamsky_District
+стрежевой	Strezhevoy
+уренский район	Urensky_District
+одинцово	Odintsovo
+туймазы	Tuymazy
+кадников	Kadnikov
+поронайск	Poronaysk
+лиски	Liski,_Voronezh_Oblast
+североонежск	Severoonezhsk
+эсэ-хайя	Ese-Khayya
+неверкинский район	Neverkinsky_District
+тенькинский район	Tenkinsky_District
+балашиха	Balashikha
+кузнечный	Kuznechnoye
+бирилюсский район	Birilyussky_District
+кузомень	Kuzomen,_Murmansk_Oblast
+подосиновский район	Podosinovsky_District
+кизильский район	Kizilsky_District
+ханты-мансийский район	Khanty-Mansiysky_District
+турочакский район	Turochaksky_District
+миасс	Miass
+киренский район	Kirensky_District
+шихан	Shikhany
+гаджиево	Gadzhiyevo
+верхний куран	Verkhny_Kuranakh
+алмазный	Almazny,_Sakha_Republic
+югорск	Yugorsk
+любимский район	Lyubimsky_District
+карапатский	Karapatskoye
+вельск	Velsk
+большеуковский район	Bolsheukovsky_District
+балыкте	Balyktakh,_Ust-Aldansky_District,_Sakha_Republic
+смородичный	Smorodichny
+купинский район	Kupinsky_District
+столб	Stolby,_Verkhoyansky_District,_Sakha_Republic
+константиновск	Konstantinovsk
+кандалакшский район	Kandalakshsky_District
+иультинский район	Iultinsky_District
+моркок	Morkoka
+республика ингушетия	Ingushetia
+велиж	Velizh
+бийск	Biysk
+петропавловский район	Petropavlovsky_District,_Voronezh_Oblast
+тайцы	Taytsy
+васильсурск	Vasilsursk
+коломенский район	Kolomensky_District
+луховицкий район	Lukhovitsky_District
+клинцовский район	Klintsovsky_District
+даппарай	Dapparay
+ядрин	Yadrin
+йошкар-ола	Yoshkar-Ola
+оленекский улус	Olenyoksky_District
+куньинский район	Kunyinsky_District
+цыпнаволакивать	Tsypnavolok
+болгарин	Bolgar,_Spassky_District,_Republic_of_Tatarstan
+сватать	Svatay
+илирный	Ilirney
+николаевск-на-амур	Nikolayevsk-on-Amur
+усмань	Usman,_Russia
+заря	Zarya,_Sakha_Republic
+нолинск	Nolinsk
+ижевск	Izhevsk
+торбеево	Torbeyevo,_Republic_of_Mordovia
+архаринский район	Arkharinsky_District
+бологое	Bologoye,_Tver_Oblast
+баяндаевский район	Bayandayevsky_District
+полесск	Polessk
+торжокский район	Torzhoksky_District
+хара-тумул	Khara-Tumul
+турковский район	Turkovsky_District
+алакуртти	Alakurtti_(rural_locality)
+маст	Mastakh
+дружный горка	Druzhnaya_Gorka,_Leningrad_Oblast
+прохладный	Prokhladny,_Kabardino-Balkar_Republic
+вуктыл	Vuktyl
+мегион	Megion
+котлас	Kotlas
+красноармейск	Krasnoarmeysk,_Saratov_Oblast
+бисерть	Bisert
+россошь	Rossosh,_Rossoshansky_District,_Voronezh_Oblast
+семикаракорский район	Semikarakorsky_District
+альбурикент	Alburikent
+карачаево-черкесский республика	Karachay-Cherkessia
+аян	Ayan,_Russia
+уфа	Ufa
+алзамай	Alzamay
+чаранг	Charang,_Ust-Aldansky_District,_Sakha_Republic
+дубровский район	Dubrovsky_District
+первомайский	Pervomaysky_(urban-type_settlement),_Kirov_Oblast
+приозерный	Priozerny,_Murmansk_Oblast
+некоузский район	Nekouzsky_District
+шлиссельбург	Shlisselburg
+бедема	Bedemyo
+ирбейский район	Irbeysky_District
+няксимволь	Nyaksimvol
+хатас	Khatas
+чусовой	Chusovoy
+усть-алданский улус	Ust-Aldansky_District
+воткинск	Votkinsk
+чамзинка	Chamzinka,_Chamzinsky_District,_Republic_of_Mordovia
+аша	Asha,_Russia
+дорогобуж	Dorogobuzh
+межевской район	Mezhevskoy_District
+тевризский район	Tevrizsky_District
+федосеевка	Fedoseyevka,_Murmansk_Oblast
+кольцово	Koltsovo,_Novosibirsk_Oblast
+верхний фиагдон	Verkhny_Fiagdon
+алексинский район	Aleksinsky_District
+шамхал	Shamkhal,_Russia
+вагайский район	Vagaysky_District
+святой нос	Svyatoy_Nos,_Murmansk_Oblast
+ситт	Sitte,_Kobyaysky_District,_Sakha_Republic
+миньяр	Minyar
+томтор	Tomtor,_Ust-Aldansky_District,_Sakha_Republic
+вилюйский улус	Vilyuysky_District
+березовский	Beryozovsky,_Sverdlovsk_Oblast
+жарковский	Zharkovsky_(urban-type_settlement)
+матт	Matta,_Russia
+малый вишера	Malaya_Vishera
+эйик	Eyik
+катайск	Kataysk,_Kurgan_Oblast
+юбилейный	Yubileyny,_Moscow_Oblast
+смидовичский район	Smidovichsky_District
+пугачев	Pugachyov
+осташковский район	Ostashkovsky_District
+красноармейский район	Krasnoarmeysky_District,_Saratov_Oblast
+самодед	Samoded
+ухоловский район	Ukholovsky_District
+кашарский район	Kasharsky_District
+харбала 1-я	Kharbala_1-ya
+пижанский район	Pizhansky_District
+красный кут	Krasny_Kut,_Saratov_Oblast
+республика бурятия	Buryatia
+смоленский область	Smolensk_Oblast
+мышкинский район	Myshkinsky_District
+чычым	Chychymakh
+молоковский район	Molokovsky_District
+брейтовский район	Breytovsky_District
+кузнецк	Kuznetsk
+заплюсье	Zaplyusye_(urban-type_settlement)
+быракан	Byrakan
+кондинский район	Kondinsky_District
+усть-илимский район	Ust-Ilimsky_District
+уолба	Uolba
+южнопортовый район	Yuzhnoportovy_District
+грозный	Grozny
+палехский район	Palekhsky_District
+полярный	Polyarny,_Sakha_Republic
+оймякон	Oymyakon
+алтайский край	Altai_Krai
+озеры	Ozyory,_Moscow_Oblast
+ой	Oy,_Russia
+луза	Luza,_Luzsky_District,_Kirov_Oblast
+кирово	Kirovo,_Sakha_Republic
+краснознаменский район	Krasnoznamensky_District
+азы	Azov
+мамско-чуйский район	Mamsko-Chuysky_District
+молчановский район	Molchanovsky_District
+некрасовский район	Nekrasovsky_District
+кунашакский район	Kunashaksky_District
+кондопога	Kondopoga
+куда	Kudu,_Russia
+нижнеингашский район	Nizhneingashsky_District
+старокулаткинский район	Starokulatkinsky_District
+рыбновский район	Rybnovsky_District
+краснобродский	Krasnobrodsky
+емва	Yemva
+салехард	Salekhard
+топкинский район	Topkinsky_District
+касимовский район	Kasimovsky_District
+чапом	Chapoma
+кингисепп	Kingisepp
+западный двина	Zapadnaya_Dvina
+палкинский район	Palkinsky_District
+кошкинский район	Koshkinsky_District
+чудово	Chudovo,_Chudovsky_District,_Novgorod_Oblast
+энгольжа	Engolzha
+москаленский район	Moskalensky_District
+козьмодемьянск	Kozmodemyansk,_Mari_El_Republic
+ергелех	Yergyolyokh
+ойусард	Oyusardakh
+ноябрьск	Noyabrsk
+оксовский	Oksovsky
+свирьстрой	Svirstroy
+лискинский район	Liskinsky_District
+омсукчанский район	Omsukchansky_District
+сортол	Sortol
+беджелек	Bedzhelek
+агинское	Aginskoye,_Zabaykalsky_Krai
+гагарин	Gagarin,_Smolensk_Oblast
+нерчинск	Nerchinsk
+аркадакский район	Arkadaksky_District
+абдулинский район	Abdulinsky_District
+партизан	Partizan,_Sakha_Republic
+куолоярви	Kuoloyarvi
+маркс	Marks,_Russia
+морозовский район	Morozovsky_District
+грязь	Gryazi
+бутурлиновка	Buturlinovka
+юрг	Yurga
+смирный	Smirnykh
+холм-жирковский район	Kholm-Zhirkovsky_District
+чердынь	Cherdyn,_Perm_Krai
+сухобузимский район	Sukhobuzimsky_District
+калачинск	Kalachinsk
+сонковский район	Sonkovsky_District
+тинный	Tinnaya
+кудымкара	Kudymkar
+хатанга	Khatanga,_Russia
+каслинский район	Kaslinsky_District
+бестях	Bestyakh,_Zhigansky_District,_Sakha_Republic
+ломтук	Lomtuka
+бирюч	Biryuch
+валуйский район	Valuysky_District
+комсомольск	Komsomolsk,_Ivanovo_Oblast
+пономаревский район	Ponomaryovsky_District
+пыталовский район	Pytalovsky_District
+печора	Pechory
+миляка	Milyake
+полярный заря	Polyarnye_Zori
+облучье	Obluchye,_Jewish_Autonomous_Oblast
+кыстатыам	Kystatyam
+орша	Orsha_(urban-type_settlement),_Tver_Oblast
+кубачи	Kubachi_(urban-type_settlement)
+котельнич	Kotelnich
+пролетарий	Proletariy
+риколатва	Rikolatva
+пелым	Pelym,_Ivdel,_Sverdlovsk_Oblast
+андреапольский район	Andreapolsky_District
+бикин	Bikin
+краснодарский край	Krasnodar_Krai
+стародубский район	Starodubsky_District
+костенок	Kostyonki,_Voronezh_Oblast
+ковда	Kovda,_Zelenoborsky,_Kandalakshsky_District,_Murmansk_Oblast
+ойун-унгуохт	Oyun-Unguokhtakh
+донской	Donskoy,_Tula_Oblast
+нововоронеж	Novovoronezh
+ногинский район	Noginsky_District
+батамай	Batamay,_Lensky_District,_Sakha_Republic
+остров	Ostrov,_Ostrovsky_District,_Pskov_Oblast
+дзержинский	Dzerzhinsky,_Moscow_Oblast
+чеховский район	Chekhovsky_District
+чишмы	Chishmy_(urban-type_settlement),_Chishminsky_District,_Republic_of_Bashkortostan
+бузулукский район	Buzuluksky_District
+хани	Khani,_Sakha_Republic
+калтан	Kaltan
+вадинский район	Vadinsky_District
+мартыновский район	Martynovsky_District
+неклиновский район	Neklinovsky_District
+умба	Umba,_Russia
+кореневский район	Korenevsky_District
+благодарный	Blagodarny,_Stavropol_Krai
+дябыл	Dyabyla
+лениногорск	Leninogorsk,_Russia
+алексеевка	Alexeyevka,_Sakha_Republic
+батецкий	Batetsky_(rural_locality)
+медвенский район	Medvensky_District
+кош-агачский район	Kosh-Agachsky_District
+ишимский район	Ishimsky_District
+константиновский район	Konstantinovsky_District,_Rostov_Oblast
+белозерск	Belozersk
+вохтог	Vokhtoga
+андреаполь	Andreapol
+викуловский район	Vikulovsky_District
+елецкий район	Yeletsky_District
+бирюк	Biryuk_(rural_locality)
+городище	Gorodishche,_Gorodishchensky_District,_Penza_Oblast
+кизилюрт	Kizilyurt
+путевой усадьба 9 км железный дорога луостарь–никель	Putevaya_Usadba_9_km_zheleznoy_dorogi_Luostari–Nikel
+елховский район	Yelkhovsky_District
+веселый	Vesyoloye,_Krasnodar_Krai
+завитинск	Zavitinsk
+воловский район	Volovsky_District,_Tula_Oblast
+урюпинск	Uryupinsk
+хоро	Khoro,_Verkhnevilyuysky_District,_Sakha_Republic
+нарым	Narym
+невель	Nevel_(town)
+тамалинский район	Tamalinsky_District
+гай	Gay,_Orenburg_Oblast
+угольный	Ugolnoye,_Sakha_Republic
+южский район	Yuzhsky_District
+токко	Tokko,_Russia
+заводоуковский район	Zavodoukovsky_District
+шумиха	Shumikha,_Kurgan_Oblast
+шилка	Shilka_(town)
+песчанокопский район	Peschanokopsky_District
+хоточча	Khotochchu
+эвенкийский район	Evenkiysky_District
+верхнедонской район	Verkhnedonskoy_District
+томилино	Tomilino
+буор-сыс	Buor-Sysy
+яблоновский	Yablonovsky,_Republic_of_Adygea
+кувшиново	Kuvshinovo,_Kuvshinovsky_District,_Tver_Oblast
+оля	Olya
+александровск	Alexandrovsk,_Perm_Krai
+ивантеевка	Ivanteyevka,_Moscow_Oblast
+рузаевка	Ruzayevka
+кузоватовский район	Kuzovatovsky_District
+буинск	Buinsk,_Republic_of_Tatarstan
+мурья	Murya,_Russia
+бутурлинский район	Buturlinsky_District
+республика тыва	Tuva
+скопин	Skopin
+милютинский район	Milyutinsky_District
+светлоград	Svetlograd
+вятский поляна	Vyatskiye_Polyany
+мурашинский район	Murashinsky_District
+майский	Maysky,_Kabardino-Balkar_Republic
+веневский район	Venyovsky_District
+среднеколымск	Srednekolymsk
+алейск	Aleysk
+тетюши	Tetyushi,_Republic_of_Tatarstan
+вырица	Vyritsa
+пеновский район	Penovsky_District
+пено	Peno,_Russia
+пермь	Perm
+подгоренский район	Podgorensky_District
+балашов	Balashov_(town)
+бугульма	Bugulma
+тайбол	Taybola
+орджоникидзевский	Ordzhonikidzevsky_(urban-type_settlement)
+кильмезский район	Kilmezsky_District
+мурманск	Murmansk
+нейский район	Neysky_District
+ивантеевский район	Ivanteyevsky_District
+республика крым	Republic_of_Crimea
+ясногорск	Yasnogorsk,_Tula_Oblast
+ловозеро	Lovozero_(rural_locality)
+республика адыгея	Adygea
+макушино	Makushino,_Kurgan_Oblast
+сеченовский район	Sechenovsky_District
+глинковский район	Glinkovsky_District
+воробьевский район	Vorobyovsky_District
+михайловский район	Mikhaylovsky_District,_Volgograd_Oblast
+чернышевский	Chernyshevsky,_Sakha_Republic
+усть-ыныкчанин	Ust-Ynykchan
+еткульский район	Yetkulsky_District
+урдом	Urdoma,_Lensky_District,_Arkhangelsk_Oblast
+сергино	Sergino,_Khanty-Mansi_Autonomous_Okrug
+сергачский район	Sergachsky_District
+тырныауз	Tyrnyauz
+сенгилей	Sengiley
+мичуринск	Michurinsk
+бядя	Byadi
+хилок	Khilok,_Zabaykalsky_Krai
+яровой	Yarovoye,_Altai_Krai
+кюндяй	Kyundyae
+губаха	Gubakha
+спас-клепики	Spas-Klepiki
+усть-удинский район	Ust-Udinsky_District
+ала	Aly
+валдай	Valday,_Novgorod_Oblast
+котельниковский район	Kotelnikovsky_District
+карабаново	Karabanovo,_Vladimir_Oblast
+гайский район	Gaysky_District
+белово	Belovo,_Kemerovo_Oblast
+красногорск	Krasnogorsk,_Moscow_Oblast
+клин	Klin,_Klinsky_District,_Moscow_Oblast
+панковка	Pankovka
+нестеров	Nesterov
+новомосковский район	Novomoskovsky_District
+ревда	Revda,_Sverdlovsk_Oblast
+сырдах	Syrdakh,_Ust-Aldansky_District,_Sakha_Republic
+бавлы	Bavly
+хатырка	Khatyrka
+дзержинский район	Dzerzhinsky_District,_Krasnoyarsk_Krai
+свободненский район	Svobodnensky_District
+еманжелинский район	Yemanzhelinsky_District
+дубок	Dubki,_Republic_of_Dagestan
+кинешемский район	Kineshemsky_District
+хоногор	Khonogor
+орочный 2-й	Orochen_2-y
+сунтарский улус	Suntarsky_District
+чернский район	Chernsky_District
+бысыттах	Bysyttakh
+большереченский район	Bolsherechensky_District
+пиренга	Pirenga
+полазный	Polazna
+мирный	Mirny,_Sakha_Republic
+лебедянь	Lebedyan
+энгельс	Engels,_Saratov_Oblast
+лянтор	Lyantor
+тутаев	Tutayev
+кироваул	Kirovaul
+якутск	Yakutsk
+печорский район	Pechorsky_District
+лев-толстовский район	Lev-Tolstovsky_District
+билибинский район	Bilibinsky_District
+няла	Nyal
+кирсанов	Kirsanov
+рудня	Rudnya,_Rudnyansky_District,_Smolensk_Oblast
+мизура	Mizur
+мишкинский район	Mishkinsky_District,_Kurgan_Oblast
+сычевский район	Sychyovsky_District
+пышминский район	Pyshminsky_District
+тербунский район	Terbunsky_District
+анжеро-судженск	Anzhero-Sudzhensk
+новый уренгой	Novy_Urengoy
+хатынгна	Khatyngnakh
+новый ляля	Novaya_Lyalya
+республика хакасия	Khakassia
+должанский район	Dolzhansky_District
+боровск	Borovsk
+рубцовск	Rubtsovsk
+нерехтский район	Nerekhtsky_District
+ознобишин	Oznobishino,_Vladimir_Oblast
+егорлыкский район	Yegorlyksky_District
+курагинский район	Kuraginsky_District
+корсаков	Korsakov_(town)
+дроздовка	Drozdovka,_Murmansk_Oblast
+северомуйск	Severomuysk
+ербогатить	Yerbogachen
+оренбург	Orenburg
+хамра	Khamra
+тереньгульский район	Terengulsky_District
+кадомский район	Kadomsky_District
+сузунский район	Suzunsky_District
+кушкопать	Kushkopala
+заволжский район	Zavolzhsky_District,_Ivanovo_Oblast
+иловлинский район	Ilovlinsky_District
+котово	Kotovo,_Volgograd_Oblast
+район ореховый-борисово южный	Orekhovo-Borisovo_Yuzhnoye_District
+старицкий район	Staritsky_District
+белгород	Belgorod
+оюсут	Oyusut
+балаганск	Balagansk
+куртамыш	Kurtamysh_(town)
+шарлыкский район	Sharlyksky_District
+дубно	Dubna
+аллаиховский улус	Allaikhovsky_District
+краснозоренский район	Krasnozorensky_District
+чебоксары	Cheboksary
+нагайбакский район	Nagaybaksky_District
+кулотина	Kulotino,_Novgorod_Oblast
+невинномысск	Nevinnomyssk
+матвеевский район	Matveyevsky_District
+инзенский район	Inzensky_District
+джаргал	Dzhargalakh
+олом-кюель	Olom-Kyuyole
+раякоски	Rayakoski
+петуховский район	Petukhovsky_District
+хотынецкий район	Khotynetsky_District
+советский	Sovetsky,_Mari_El_Republic
+бековский район	Bekovsky_District
+бютейдях	Byuteydyakh,_Verkhnevilyuysky_District,_Sakha_Republic
+имя бабушкин	Imeni_Babushkina
+волоконовский район	Volokonovsky_District
+сосновоборский район	Sosnovoborsky_District
+ижморский район	Izhmorsky_District
+вадский район	Vadsky_District
+называевск	Nazyvayevsk
+ойотунг	Oyotung
+кашкаранец	Kashkarantsy
+зуевка	Zuyevka,_Kirov_Oblast
+великооктябрьский	Velikooktyabrsky
+селенгинск	Selenginsk
+сургут	Surgut
+графский берег	Grafsky_Bereg
+ливны	Livny
+чита	Chita,_Zabaykalsky_Krai
+заларинский район	Zalarinsky_District
+русско-полянский район	Russko-Polyansky_District
+саргатское	Sargatskoye
+богучанский район	Boguchansky_District
+кирово-чепецкий район	Kirovo-Chepetsky_District
+шебекинский район	Shebekinsky_District
+макаров	Makarov,_Russia
+борисоглебский	Borisoglebsky,_Murmansk_Oblast
+лермонтов	Lermontov_(town)
+суровикинский район	Surovikinsky_District
+троснянский район	Trosnyansky_District
+армизонский район	Armizonsky_District
+камышин	Kamyshin
+лебяжий	Lebyazhye,_Lomonosovsky_District,_Leningrad_Oblast
+чан-ручей	Chan-Ruchey
+сосновый бор	Sosnovy_Bor,_Sebezhsky_District,_Pskov_Oblast
+булунский улус	Bulunsky_District
+нефтеюганский район	Nefteyugansky_District
+владивосток	Vladivostok
+новозыбковский район	Novozybkovsky_District
+лужский район	Luzhsky_District
+камышловский район	Kamyshlovsky_District
+сальмиярви	Salmiyarvi
+витим	Vitim,_Sakha_Republic
+хайыр	Khayyr
+даниловский район	Danilovsky_District,_Yaroslavl_Oblast
+кюсюр	Kyusyur
+малоархангельск	Maloarkhangelsk,_Oryol_Oblast
+нижний одес	Nizhny_Odes
+вологда	Vologda
+кедровый	Kedrovy,_Tomsk_Oblast
+беловский район	Belovsky_District,_Kursk_Oblast
+чаинский район	Chainsky_District
+мариинский посад	Mariinsky_Posad
+техтюр	Tyokhtyur,_Khangalassky_District,_Sakha_Republic
+агидель	Agidel
+елецкий	Yeletsky,_Komi_Republic
+вознесенский район	Voznesensky_District
+дивеевский район	Diveyevsky_District
+хатын-сыс	Khatyn-Sysy
+налимск	Nalimsk
+белорецк	Beloretsk
+ивановский область	Ivanovo_Oblast
+энгя-сайылыга	Engya-Sayylyga
+волгодонск	Volgodonsk
+нефтекамск	Neftekamsk
+тепло-огаревский район	Tyoplo-Ogaryovsky_District
+ударник	Udarnik,_Sakha_Republic
+одинцовский район	Odintsovsky_District
+мач	Macha,_Russia
+конаковский район	Konakovsky_District
+дегтярск	Degtyarsk
+грязовец	Gryazovets
+максатиха	Maksatikha
+тулун	Tulun
+нижнедевицкий район	Nizhnedevitsky_District
+краснощелие	Krasnoshchelye
+тамбовский область	Tambov_Oblast
+болотнинский район	Bolotninsky_District
+михалкино	Mikhalkino
+ермоловый	Yermolovo,_Sakha_Republic
+район измайлово	Izmaylovo_District
+локня	Loknya,_Pskov_Oblast
+видяево	Vidyayevo
+хатыстыр	Khatystyr
+артем	Artyom,_Russia
+калачинский район	Kalachinsky_District
+тасеевский район	Taseyevsky_District
+партизанский район	Partizansky_District,_Krasnoyarsk_Krai
+Кырыкый	Kyrykyy
+вожега	Vozhega
+духовщина	Dukhovshchina,_Smolensk_Oblast
+горный	Gorny,_Zabaykalsky_Krai
+аллах-юнь	Allakh-Yun
+бессоновский район	Bessonovsky_District
+дюпсить	Dyupsya
+астрамьево	Astramyevo
+байкит	Baykit
+володарск	Volodarsk,_Russia
+новосокольнический район	Novosokolnichesky_District
+кашин	Kashin_(town)
+моршанский район	Morshansky_District
+лабинск	Labinsk
+кирс	Kirs,_Russia
+зима	Zima_(town)
+набережная челн	Naberezhnye_Chelny
+краснокамск	Krasnokamsk
+верхний максаковка	Verkhnyaya_Maksakovka
+новороссийск	Novorossiysk
+сазоновый	Sazonovo,_Chagodoshchensky_District,_Vologda_Oblast
+лакинск	Lakinsk
+одесский район	Odessky_District
+бярийе	Byariye
+ковровский район	Kovrovsky_District
+правокубанский	Pravokubansky
+тюмень	Tyumen
+нижневартовск	Nizhnevartovsk
+кулун-елбют	Kulun-Yelbyut
+волоколамск	Volokolamsk
+подпорожский район	Podporozhsky_District
+республика марья эл	Mari_El
+таборинский район	Taborinsky_District
+слюдянский район	Slyudyansky_District
+бор	Bor,_Turukhansky_District,_Krasnoyarsk_Krai
+усть-катав	Ust-Katav
+пущино	Pushchino
+курганинск	Kurganinsk
+троицкий район	Troitsky_District,_Chelyabinsk_Oblast
+гусь-хрустальный	Gus-Khrustalny_(town)
+комаричский район	Komarichsky_District
+краснознаменск	Krasnoznamensk,_Moscow_Oblast
+киришский район	Kirishsky_District
+панинский район	Paninsky_District
+лазарев	Lazarev,_Russia
+гаврилов-яма	Gavrilov-Yam
+седкыркещ	Sedkyrkeshch
+кердюген	Kerdyugen
+губкинский	Gubkinsky_(town)
+шелехов	Shelekhov
+бейдинг	Beydinga
+новоаннинский район	Novoanninsky_District
+горнозаводск	Gornozavodsk,_Sakhalin_Oblast
+тетрино	Tetrino
+нижнетавдинский район	Nizhnetavdinsky_District
+мульда	Mulda,_Russia
+елец	Yelets
+шахта	Shakhty
+баханай	Bakhanay
+чулымский район	Chulymsky_District
+кувандык	Kuvandyk
+козловка	Kozlovka,_Kozlovsky_District,_Chuvash_Republic
+кустур	Kustur
+крест-кытыл	Krest-Kytyl
+зея	Zeya,_Russia
+усть-миля	Ust-Mil
+гуково	Gukovo
+наволока	Navoloki,_Ivanovo_Oblast
+новошахтинск	Novoshakhtinsk
+тонгул	Tongulakh
+зеленодольск	Zelenodolsk,_Republic_of_Tatarstan
+синявина	Sinyavino,_Leningrad_Oblast
+гагинский район	Gaginsky_District
+гвардейск	Gvardeysk
+цимлянск	Tsimlyansk
+санкт-петербург	Saint_Petersburg
+тамбовский район	Tambovsky_District,_Tambov_Oblast
+холмогорский район	Kholmogorsky_District
+синск	Sinsk
+бырам	Byrama
+заозерск	Zaozyorsk
+липка	Lipki,_Kireyevsky_District,_Tula_Oblast
+северск	Seversk
+ручей	Ruchyi,_Murmansk_Oblast
+нижнеудинск	Nizhneudinsk
+ишим	Ishim,_Tyumen_Oblast
+иенгр	Iyengra
+жемчужный	Zhemchuzhnaya
+сурский район	Sursky_District
+хворостянский район	Khvorostyansky_District
+приводино	Privodino
+тихвин	Tikhvin
+кежемский	Kezhemsky_(rural_locality)
+нычал	Nychalakh
+чебаркульский район	Chebarkulsky_District
+новотроицк	Novotroitsk
+ульяновский район	Ulyanovsky_District,_Ulyanovsk_Oblast
+сюльдюкар	Syuldyukar
+омутнинский район	Omutninsky_District
+подюга	Podyuga
+ашинский  район	Ashinsky_District
+таксить	Taksimo
+щукозеро	Shchukozero
+саныяхта	Sanyyakhtakh
+володарский район	Volodarsky_District,_Nizhny_Novgorod_Oblast
+новозавидовский	Novozavidovsky
+багратионовский район	Bagrationovsky_District
+олений губа	Olenya_Guba_(rural_locality)
+авиапорт	Aviaport,_Olyokminsky_District,_Sakha_Republic
+лухский район	Lukhsky_District
+ахтубинск	Akhtubinsk
+егорьевск	Yegoryevsk
+пролетарск	Proletarsk,_Rostov_Oblast
+усинск	Usinsk
+хайысард	Khayysardakh
+пинега	Pinega
+дергачевский район	Dergachyovsky_District
+чамча	Chamcha
+верхний уфалей	Verkhny_Ufaley
+куокунать	Kuokunu
+чай	Chay,_Sakha_Republic
+томский район	Tomsky_District
+иркутский район	Irkutsky_District
+шебекино	Shebekino
+обозерский	Obozersky
+можга	Mozhga
+шенкурск	Shenkursk
+железноводск	Zheleznovodsk
+мелеуз	Meleuz
+перелюбский район	Perelyubsky_District
+оймяконский улус	Oymyakonsky_District
+килиер	Kiliyer
+базарносызганский район	Bazarnosyzgansky_District
+северный	Severny,_Komi_Republic
+люберцы	Lyubertsy
+нестеровский район	Nesterovsky_District
+бурановый	Buranovo,_Udmurt_Republic
+чермоз	Chyormoz
+курчатов	Kurchatov,_Russia
+рыткучи	Rytkuchi
+сафоново	Safonovo,_Safonovsky_District,_Smolensk_Oblast
+трудовой	Trudovaya
+мытищи	Mytishchi
+мичуринский район	Michurinsky_District
+благоев	Blagoyevo
+духовщинский район	Dukhovshchinsky_District
+волот	Volot,_Volot_Settlement,_Volotovsky_District,_Novgorod_Oblast
+тверская область	Tver_Oblast
+топка	Topki_(town),_Kemerovo_Oblast
+бард	Barda,_Perm_Krai
+апапельгино	Apapelgino
+гатчина	Gatchina
+далыр	Dalyr
+палласовский район	Pallasovsky_District
+абдулино	Abdulino
+москва	Moscow
+лешуконское	Leshukonskoye
+терский-орловский маяк	Tersko-Orlovsky_Mayak
+ольский район	Olsky_District
+советский район	Sovetsky_District,_Saratov_Oblast
+лазаревский внутригородской район	Lazarevsky_City_District
+североуральск	Severouralsk
+чернышковский район	Chernyshkovsky_District
+новосильский район	Novosilsky_District
+аргаяшский район	Argayashsky_District
+знаменский район	Znamensky_District,_Tambov_Oblast
+шахунья	Shakhunya
+пестравский район	Pestravsky_District
+тымп	Tympy
+тимашевск	Timashyovsk
+шиловский район	Shilovsky_District
+юрьев-польский район	Yuryev-Polsky_District
+путеец	Puteyets
+чановский район	Chanovsky_District
+молодежный	Molodyozhny,_Moscow_Oblast
+абинск	Abinsk
+хоринец	Khorintsy
+пушкино	Pushkino,_Pushkinsky_District,_Moscow_Oblast
+сие	Sim,_Chelyabinsk_Oblast
+сергиев посад	Sergiyev_Posad
+кюль	Kyul
+новоселовский район	Novosyolovsky_District
+бондарский район	Bondarsky_District
+железногорский район	Zheleznogorsky_District
+бек	Byokyo
+каргат	Kargat
+натор	Natora
+чеченский республика	Chechnya
+шуя	Shuya,_Ivanovo_Oblast
+магарас	Magaras
+сунтар	Suntar_(rural_locality)
+первомайск	Pervomaysk,_Nizhny_Novgorod_Oblast
+мончегорск	Monchegorsk
+нижнеудинский район	Nizhneudinsky_District
+апрелевка	Aprelevka
+барыш	Barysh
+арсеньево	Arsenyevo,_Arsenyevsky_District,_Tula_Oblast
+окоемовка	Okoyemovka
+пяйв	Pyayve
+май	May,_Verkhnevilyuysky_District,_Sakha_Republic
+гавриловский район	Gavrilovsky_District
+рогнединский район	Rognedinsky_District
+ясногорский район	Yasnogorsky_District
+ярцевский район	Yartsevsky_District
+малосердобинский район	Maloserdobinsky_District
+нюя северный	Nyuya_Severnaya
+янтарный	Yantarny
+радченко	Radchenko_(urban-type_settlement)
+саяногорск	Sayanogorsk
+усольский район	Usolsky_District,_Irkutsk_Oblast
+старый ладога	Staraya_Ladoga
+едей	Yedey,_Nyurbinsky_District,_Sakha_Republic
+орто-нахар	Orto-Nakhara
+нахар	Nakhara
+орто-сурт	Orto-Surt
+яковлевский район	Yakovlevsky_District,_Belgorod_Oblast
+всеволожский район	Vsevolozhsky_District
+кинельский район	Kinelsky_District
+шуйский район	Shuysky_District
+узловой	Uzlovaya
+себеж	Sebezh
+эхирит-булагатский район	Ekhirit-Bulagatsky_District
+харабалинский  район	Kharabalinsky_District
+балтийск	Baltiysk
+потьма	Potma,_Zubovo-Polyansky_District,_Republic_of_Mordovia
+ялуторовск	Yalutorovsk
+глазуновский район	Glazunovsky_District
+каменногорск	Kamennogorsk
+зашеек	Zasheyek,_Murmansk_Oblast
+тимкин	Timkino
+алданский улус	Aldansky_District
+звездный городок	Zvyozdny_gorodok_(urban-type_settlement)
+екатериновский район	Yekaterinovsky_District
+духовницкий район	Dukhovnitsky_District
+быранаттал	Byranattalakh
+сурск	Sursk
+кировград	Kirovgrad
+ершовский район	Yershovsky_District
+домново	Domnovo
+таганрог	Taganrog
+сланцевский район	Slantsevsky_District
+никифоровский район	Nikiforovsky_District
+чухломский район	Chukhlomsky_District
+верхнеландеховский район	Verkhnelandekhovsky_District
+усманский район	Usmansky_District
+пестяковский район	Pestyakovsky_District
+ирбитский район	Irbitsky_District
+нариманов	Narimanov,_Astrakhan_Oblast
+кюндядя	Kyundyade
+фаленский район	Falyonsky_District
+ермаковский район	Yermakovsky_District
+старомайнский район	Staromaynsky_District
+ленинкент	Leninkent,_Makhachkala,_Republic_of_Dagestan
+шадринский район	Shadrinsky_District
+сысерть	Sysert
+руза	Ruza,_Ruzsky_District,_Moscow_Oblast
+клинский район	Klinsky_District
+ялуторовский район	Yalutorovsky_District
+сафоновский район	Safonovsky_District
+тикси	Tiksi
+пионерский	Pionersky,_Kaliningrad_Oblast
+зиминский район	Ziminsky_District
+вичуга	Vichuga
+новоорский район	Novoorsky_District
+новодеревеньковский район	Novoderevenkovsky_District
+бисер	Biser,_Russia
+антоновка	Antonovka,_Sakha_Republic
+усть-чаркы	Ust-Charky
+пировский район	Pirovsky_District
+нарткала	Nartkala
+бал	Bala,_Russia
+буй	Buy,_Kostroma_Oblast
+луткун	Lutkun
+архангельский область	Arkhangelsk_Oblast
+ставропольский район	Stavropolsky_District
+таштагол	Tashtagol
+саянск	Sayansk
+тлюстенхабль	Tlyustenkhabl
+карасук	Karasuk,_Novosibirsk_Oblast
+тайшет	Tayshet
+порховский район	Porkhovsky_District
+чистоозерный район	Chistoozyorny_District
+сергач	Sergach
+саранск	Saransk
+Кыйы	Kyyy
+нюксеница	Nyuksenitsa
+пустошкинский район	Pustoshkinsky_District
+угранский район	Ugransky_District
+зарайский район	Zaraysky_District
+лумбовка	Lumbovka
+шахтерск	Shakhtyorsk
+ломоносовский район	Lomonosovsky_District,_Leningrad_Oblast
+ярославль	Yaroslavl
+псковский район	Pskovsky_District
+сыаганна	Syagannakh
+чебаркуль	Chebarkul
+северобайкальск	Severobaykalsk
+ленинский район	Leninsky_District,_Volgograd_Oblast
+лесозаводский	Lesozavodsky,_Murmansk_Oblast
+матвеево-курганский район	Matveyevo-Kurgansky_District
+кимовский район	Kimovsky_District
+усть-майский улус	Ust-Maysky_District
+тегульдетский район	Teguldetsky_District
+заветинский район	Zavetinsky_District
+сосновский район	Sosnovsky_District,_Tambov_Oblast
+починок	Pochinok,_Pochinkovsky_District,_Smolensk_Oblast
+горняк	Gornyak,_Altai_Krai
+бобров	Bobrov,_Bobrovsky_District,_Voronezh_Oblast
+кадошкин	Kadoshkino
+новохоперский район	Novokhopyorsky_District
+дюртюли	Dyurtyuli
+курск	Kursk
+белый	Bely,_Tver_Oblast
+омутинский район	Omutinsky_District
+сатка	Satka
+делянкир	Delyankir
+тобольский район	Tobolsky_District
+болотное	Bolotnoye
+пуксоозеро	Puksoozero
+тонкинский район	Tonkinsky_District
+малоархангельский район	Maloarkhangelsky_District
+малаховка	Malakhovka,_Moscow_Oblast
+нохора	Nokhoroy
+надым	Nadym
+маст 2-й	Mastakh_2-y
+сампурский район	Sampursky_District
+чкаловский район	Chkalovsky_District,_Nizhny_Novgorod_Oblast
+южный-сухокумск	Yuzhno-Sukhokumsk
+баксан	Baksan_(town)
+клетнянский район	Kletnyansky_District
+кузнецкий район	Kuznetsky_District,_Penza_Oblast
+ачи-су	Achi-Su
+демянск	Demyansk
+горьковский район	Gorkovsky_District
+пеледуй	Peleduy
+астрахань	Astrakhan
+балтайский район	Baltaysky_District
+энгельсский район	Engelssky_District
+чернушка	Chernushka,_Chernushinsky_District,_Perm_Krai
+новоаннинский	Novoanninsky_(town)
+эльдикан	Eldikan
+заводоуковск	Zavodoukovsk
+ефимовский	Yefimovsky_(urban-type_settlement)
+грайворонский район	Grayvoronsky_District
+усть-кут	Ust-Kut
+данковский район	Dankovsky_District
+пяозерский	Pyaozersky
+лебяжский район	Lebyazhsky_District
+суччино	Suchchino
+павловск	Pavlovsk,_Voronezh_Oblast
+хасан	Khasan_(urban-type_settlement)
+волгореченск	Volgorechensk
+соль-илецкий район	Sol-Iletsky_District
+бордон 3-й	Bordon_3-y
+агаповский район	Agapovsky_District
+сулгаччы	Sulgachchy
+северодвинск	Severodvinsk
+батайск	Bataysk
+нама	Namy
+момский улус	Momsky_District
+жешарт	Zheshart
+мышкин	Myshkin_(town)
+тюхтетский район	Tyukhtetsky_District
+форносовый	Fornosovo
+сковородино	Skovorodino,_Amur_Oblast
+краснозаводск	Krasnozavodsk
+печора	Pechora
+петров вал	Petrov_Val
+верхневилюйск	Verkhnevilyuysk
+звездочка	Zvyozdochka,_Sakha_Republic
+красноуральск	Krasnouralsk
+каменск-шахтинский	Kamensk-Shakhtinsky
+хвалынский район	Khvalynsky_District
+акан	Akana,_Russia
+орочный 1-й	Orochen_1-y
+шегарский район	Shegarsky_District
+улахан-мунгку	Ulakhan-Mungku
+воронеж	Voronezh
+ботул	Botulu
+кагальницкий район	Kagalnitsky_District
+чкаловск	Chkalovsk,_Russia
+петровск	Petrovsk,_Saratov_Oblast
+верхнеколымский улус	Verkhnekolymsky_District
+моккет	Mokket
+явас	Yavas
+кувшиновский район	Kuvshinovsky_District
+маяк городецкий	Mayak_Gorodetsky
+белькач	Belkachi
+бугурусланский район	Buguruslansky_District
+турукт	Turukta
+хоробувать	Khorobut
+сямжа	Syamzha
+алексеевский район	Alexeyevsky_District,_Volgograd_Oblast
+нерчинский завод	Nerchinsky_Zavod
+кабардино-балкарский республика	Kabardino-Balkaria
+ростов	Rostov
+аркадак	Arkadak
+краколье	Krakolye
+мырыть	Myryla
+мелекесский район	Melekessky_District
+плавск	Plavsk
+пограничный	Pogranichny,_Primorsky_Krai
+режевский район	Rezhevsky_District
+нерюнгринский улус	Neryungrinsky_District
+черепановский район	Cherepanovsky_District
+марха	Markha
+великий новгород	Veliky_Novgorod
+светлогорский район	Svetlogorsky_District
+дальнеконстантиновский район	Dalnekonstantinovsky_District
+сортавала	Sortavala
+курганский область	Kurgan_Oblast
+буйский район	Buysky_District
+аллага	Allaga
+инжавинский район	Inzhavinsky_District
+песчаный	Peschany,_Murmansk_Oblast
+вешкаймский район	Veshkaymsky_District
+магадан	Magadan
+улу	Ulu,_Russia
+сызрань	Syzran
+оленица	Olenitsa
+кердь	Kerdyom
+кыра	Kyra,_Russia
+исаклинский район	Isaklinsky_District
+склад	Sklad
+куменский район	Kumyonsky_District
+восточный мунозеро	Vostochnoye_Munozero
+кильдинстрой	Kildinstroy
+байкаловский район	Baykalovsky_District
+славянка	Slavyanka,_Primorsky_Krai
+республика башкортостан	Bashkortostan
+лихославль	Likhoslavl
+аршан	Arshan,_Republic_of_Buryatia
+хасынский район	Khasynsky_District
+кокино	Kokino,_Vygonichsky_District,_Bryansk_Oblast
+утай	Utaya
+николаевский район	Nikolayevsky_District,_Volgograd_Oblast
+калачеевский район	Kalacheyevsky_District
+ужурский район	Uzhursky_District
+бердск	Berdsk
+кальвица	Kalvitsa
+сиверский	Siversky
+кимовск	Kimovsk
+калининаул	Kalininaul,_Kazbekovsky_District,_Republic_of_Dagestan
+шонгуй	Shonguy
+дубровка	Dubrovka,_Vsevolozhsky_District,_Leningrad_Oblast
+биробиджанский район	Birobidzhansky_District
+коломна	Kolomna
+охотск	Okhotsk
+заполярный	Zapolyarny,_Murmansk_Oblast
+ольховский район	Olkhovsky_District
+путевой усадьба 1331 км	Putevye_Usadby_1331_km
+белый холуница	Belaya_Kholunitsa
+пересвет	Peresvet
+шаховской район	Shakhovskoy_District
+тайшетский район	Tayshetsky_District
+липецкий область	Lipetsk_Oblast
+мекимдя	Mekimdya
+акбулакский район	Akbulaksky_District
+романовский район	Romanovsky_District,_Saratov_Oblast
+глазов	Glazov
+хосед-хардский	Khoseda-Khardsky
+республика коми	Komi_Republic
+Сылгы-ытар	Sylgy-Ytar
+саткинский район	Satkinsky_District
+нолинский район	Nolinsky_District
+шурышкарский район	Shuryshkarsky_District
+титан	Titan,_Russia
+кулебаки	Kulebaki
+острогожск	Ostrogozhsk
+ростовский область	Rostov_Oblast
+сысертский район	Sysertsky_District
+усун	Usun
+зуевский район	Zuyevsky_District
+харбала	Kharbala
+болохово	Bolokhovo
+струнино	Strunino,_Vladimir_Oblast
+харабали	Kharabali
+солнечный	Solnechny,_Sakha_Republic
+подольский район	Podolsky_District
+дедович	Dedovichi
+баганский район	Bagansky_District
+верхневилюйский улус	Verkhnevilyuysky_District
+куйдусун	Kuydusun
+славный	Slavny,_Tula_Oblast
+брянский область	Bryansk_Oblast
+новоалтайск	Novoaltaysk
+спасский район	Spassky_District,_Ryazan_Oblast
+немский район	Nemsky_District
+кунгур	Kungur
+беломорск	Belomorsk
+кысыл-деревня	Kysyl-Derevnya
+инняла	Innyaly
+серпуховский район	Serpukhovsky_District
+нурлат	Nurlat
+семилуки	Semiluki
+новокуйбышевск	Novokuybyshevsk
+краснопартизанский район	Krasnopartizansky_District
+светлинский район	Svetlinsky_District
+усун-кюель	Usun-Kyuyol,_Verkhnekolymsky_District,_Sakha_Republic
+ковер	Kovrov
+кюпец	Kyuptsy
+долгопрудный	Dolgoprudny
+большой ижора	Bolshaya_Izhora
+серышевский район	Seryshevsky_District
+лунинский район	Luninsky_District
+горячий ручей	Goryachiye_Ruchyi
+снежногорск	Snezhnogorsk,_Murmansk_Oblast
+кенг-кюель	Keng-Kyuyol,_Verkhnevilyuysky_District,_Sakha_Republic
+улахан-ан	Ulakhan-An
+республика дагестан	Dagestan
+амурск	Amursk
+красносулинский район	Krasnosulinsky_District
+большеглушицкий район	Bolsheglushitsky_District
+новониколаевский район	Novonikolayevsky_District
+новгородский область	Novgorod_Oblast
+серпухов	Serpukhov
+погарский район	Pogarsky_District
+шумерля	Shumerlya
+спасск-рязанский	Spassk-Ryazansky
+уярский район	Uyarsky_District
+ступино	Stupino,_Stupinsky_District,_Moscow_Oblast
+дедовичский район	Dedovichsky_District
+енский	Yonsky
+шалинский район	Shalinsky_District,_Sverdlovsk_Oblast
+лопарский	Loparskaya
+кемерово	Kemerovo
+переславль-залесский	Pereslavl-Zalessky
+макарья	Makarye,_Voronezh_Oblast
+ростовский район	Rostovsky_District
+тугулымский район	Tugulymsky_District
+котовский район	Kotovsky_District
+пачелмский район	Pachelmsky_District
+бирюсинск	Biryusinsk
+шарангский район	Sharangsky_District
+кадыйский район	Kadyysky_District
+новый юркович	Novy_Yurkovich
+судиславский район	Sudislavsky_District
+усть-баргузин	Ust-Barguzin
+дал	Daly,_Russia
+тольятти	Tolyatti
+варненский район	Varnensky_District
+горный улус	Gorny_District
+богородский район	Bogorodsky_District,_Nizhny_Novgorod_Oblast
+голышмановский район	Golyshmanovsky_District
+чаппанда	Chappanda
+северо-енисейский район	Severo-Yeniseysky_District
+тэгэн	Tegen
+новохоперск	Novokhopyorsk
+кронштадт	Kronstadt
+поныровский район	Ponyrovsky_District
+соянг	Soyangi
+няндомский район	Nyandomsky_District
+челябинск	Chelyabinsk
+джебарик-хая	Dzhebariki-Khaya
+солигалич	Soligalich
+бясь-кюель	Byas-Kyuyol,_Olyokminsky_District,_Sakha_Republic
+дербент	Derbent
+киренск	Kirensk
+нефтеюганск	Nefteyugansk
+березник	Berezniki
+белев	Belyov
+буденновск	Budyonnovsk
+приречный	Prirechny,_Murmansk_Oblast
+переславский район	Pereslavsky_District
+колыванский район	Kolyvansky_District
+сибирский	Sibirsky,_Altai_Krai
+эйикяр	Eyikyar
+новоникольск	Novonikolsk_(Primorsky_krai)
+иннополис	Innopolis
+воин	Voin_(rural_locality)
+республика мордовия	Mordovia
+пудож	Pudozh
+чурапчинский улус	Churapchinsky_District
+татарский район	Tatarsky_District
+пучеж	Puchezh
+дятьковский район	Dyatkovsky_District
+данилов	Danilov,_Yaroslavl_Oblast
+камчатский край	Kamchatka_Krai
+краснозатонский	Krasnozatonsky
+приладожский	Priladozhsky
+раменское	Ramenskoye,_Moscow_Oblast
+бодайбинский район	Bodaybinsky_District
+гурьевский район	Guryevsky_District,_Kemerovo_Oblast
+смоленск	Smolensk
+хохольский район	Khokholsky_District
+суворовский район	Suvorovsky_District
+темкинский район	Tyomkinsky_District
+ртищево	Rtishchevo
+новокузнецкий район	Novokuznetsky_District
+жирновск	Zhirnovsk
+ыгыатта	Ygyatta
+фролово	Frolovo
+нагорный	Nagorny,_Sakha_Republic
+чайыгда	Chayygda
+серовский район	Serovsky_District
+молочный	Molochny
+ермолин	Yermolino,_Kaluga_Oblast
+новоуральск	Novouralsk
+токаревский район	Tokaryovsky_District
+вычегодский	Vychegodsky
+новочеркасск	Novocherkassk
+павинский район	Pavinsky_District
+ветлуга	Vetluga
+майнский район	Maynsky_District
+янаул	Yanaul
+вяртсиль	Vyartsilya
+таймылыр	Taymylyr
+шумячский район	Shumyachsky_District
+мара-кюель	Mar-Kyuyol
+воркута	Vorkuta
+кузьмоловский	Kuzmolovsky
+балаковский район	Balakovsky_District
+тит-ара	Tit-Ary,_Ust-Aldansky_District,_Sakha_Republic
+егорьевский район	Yegoryevsky_District,_Moscow_Oblast
+советский гавань	Sovetskaya_Gavan
+белокаменка	Belokamenka,_Murmansk_Oblast
+сосновка	Sosnovka,_Vyatskopolyansky_District,_Kirov_Oblast
+осинский район	Osinsky_District,_Irkutsk_Oblast
+ефремовский район	Yefremovsky_District
+истринский район	Istrinsky_District
+тверь	Tver
+княжой губа	Knyazhaya_Guba
+давлеканово	Davlekanovo
+тихвинский район	Tikhvinsky_District
+лебий	Lebiya
+амгинский улус	Amginsky_District
+каргасокский район	Kargasoksky_District
+маягас	Mayagas
+некрасовское	Nekrasovskoye
+сасово	Sasovo,_Ryazan_Oblast
+касумкент	Kasumkent
+сосковский район	Soskovsky_District
+находка	Nakhodka
+убинский район	Ubinsky_District
+даккы	Dakky
+усвяты	Usvyaty,_Usvyatsky_District,_Pskov_Oblast
+бердяш	Berdyash,_Zilairsky_District,_Republic_of_Bashkortostan
+новосибирск	Novosibirsk
+абаг	Abaga,_Olyokminsky_District,_Sakha_Republic
+далматово	Dalmatovo
+острогожский район	Ostrogozhsky_District
+сутуруох	Suturuokha
+лысьва	Lysva
+волосово	Volosovo,_Volosovsky_District,_Leningrad_Oblast
+александро-невский район	Alexandro-Nevsky_District
+октябрьск	Oktyabrsk
+мариинск	Mariinsk
+салаир	Salair_(town)
+кадуй	Kaduy,_Vologda_Oblast
+туобуй	Tuobuya
+большесолдатский район	Bolshesoldatsky_District
+ура-губа	Ura-Guba
+маклок	Maklok,_Voronezh_Oblast
+туринский район	Turinsky_District
+карталы	Kartaly
+канаш	Kanash
+горно-алтайск	Gorno-Altaysk
+брянский район	Bryansky_District
+тик-губа	Tik-Guba
+серафимович	Serafimovich_(town)
+холм	Kholm,_Kholmsky_District,_Novgorod_Oblast
+элясина	Elyasin
+брасовский район	Brasovsky_District
+талдом	Taldom
+колпашево	Kolpashevo
+зубцовский район	Zubtsovsky_District
+кольский район	Kolsky_District
+называевский район	Nazyvayevsky_District
+правдинск	Pravdinsk
+унеча	Unecha
+нюрба	Nyurba
+тындинский район	Tyndinsky_District
+петровский район	Petrovsky_District,_Tambov_Oblast
+киквидзенский район	Kikvidzensky_District
+добровский район	Dobrovsky_District
+артемовский район	Artyomovsky_District
+нефтекумск	Neftekumsk
+8	8-y_km
+тойбоха	Toybokhoy
+новоульяновск	Novoulyanovsk
+лесозаводск	Lesozavodsk
+икрянинский район	Ikryaninsky_District
+арсеньев	Arsenyev
+эбель	Ebelyakh
+куйбышевский район	Kuybyshevsky_District,_Rostov_Oblast
+заиграево	Zaigrayevo
+уродан	Urodan
+пятигорск	Pyatigorsk
+кайрал	Kayraly
+чумп-кытыл	Chumpu-Kytyl
+покров	Pokrov,_Vladimir_Oblast
+сергиевский район	Sergiyevsky_District
+урай	Uray
+сибай	Sibay
+тотьма	Totma
+славск	Slavsk
+каширский район	Kashirsky_District,_Voronezh_Oblast
+тацинский район	Tatsinsky_District
+толон	Tolon,_Tolonsky_Rural_Okrug,_Suntarsky_District,_Sakha_Republic
+будогощь	Budogoshch
+кобяй	Kobyay
+клетский район	Kletsky_District
+тополиный	Topolinoye
+ачитский район	Achitsky_District
+белиджи	Belidzhi
+дубенский район	Dubensky_District,_Tula_Oblast
+никель	Nikel
+злынковский район	Zlynkovsky_District
+ивдель	Ivdel
+имя морозов	Imeni_Morozova
+оха	Okha,_Russia
+петрозаводск	Petrozavodsk
+хамп	Khampa,_Russia
+бугуруслан	Buguruslan
+лиинахамари	Liinakhamari
+великий луки	Velikiye_Luki
+вятскополянский район	Vyatskopolyansky_District
+щербинка	Shcherbinka
+льговский район	Lgovsky_District
+усть-ишимский район	Ust-Ishimsky_District
+гололобовый	Gololobovo,_Zaraysky_District,_Moscow_Oblast
+павлово-посадский район	Pavlovo-Posadsky_District
+найба	Nayba
+хабаровский край	Khabarovsk_Krai
+нязепетровск	Nyazepetrovsk
+саскылах	Saskylakh
+туойд	Tuoydakh
+нижнеилимский район	Nizhneilimsky_District
+певек	Pevek
+алдан	Aldan,_Russia
+неболчать	Nebolchi
+качугский район	Kachugsky_District
+апонитища	Aponitishchi
+лобуй	Lobuya
+верх-нейвинский	Verkh-Neyvinsky
+шатурский район	Shatursky_District
+изоплит	Izoplit
+новоржевский район	Novorzhevsky_District
+манский район	Mansky_District
+тайга	Tayga
+юнер-олох	Yuner-Olokh
+верхоянский улус	Verkhoyansky_District
+лысково	Lyskovo,_Nizhny_Novgorod_Oblast
+тумул	Tumul,_Ust-Maysky_District,_Sakha_Republic
+соловецкий район	Solovetsky_District
+петухово	Petukhovo_(town),_Kurgan_Oblast
+хаптагай	Khaptagay
+челно-вершинский район	Chelno-Vershinsky_District
+мещовский район	Meshchovsky_District
+саратов	Saratov
+красноселькупский район	Krasnoselkupsky_District
+ныроб	Nyrob
+барсовый	Barsovo,_Khanty-Mansi_Autonomous_Okrug
+кваркенский район	Kvarkensky_District
+сокольский район	Sokolsky_District,_Nizhny_Novgorod_Oblast
+ынахсытый	Ynakhsyt
+муезерский	Muyezersky_(urban-type_settlement)
+тейковский район	Teykovsky_District
+саракташский район	Saraktashsky_District
+арзамасский район	Arzamassky_District
+мурмаш	Murmashi
+павловка	Pavlovka,_Pavlovsky_District,_Ulyanovsk_Oblast
+вейделевский район	Veydelevsky_District
+сольвычегодск	Solvychegodsk
+мезень	Mezen,_Mezensky_District,_Arkhangelsk_Oblast
+большой нимныр	Bolshoy_Nimnyr
+новоспасский район	Novospassky_District
+всеволожск	Vsevolozhsk
+терек	Terek,_Kabardino-Balkar_Republic
+зерноград	Zernograd
+дыгдать	Dygdal
+зарубиный	Zarubino,_Primorsky_Krai
+новый	Novy,_Tomponsky_District,_Sakha_Republic
+чульман	Chulman
+хохлово	Khokhlovo,_Kaduysky_District,_Vologda_Oblast
+шамилькать	Shamilkala
+кашинский район	Kashinsky_District
+реутов	Reutov
+кытынуть-дюр	Kytyl-Dyura
+республика северный осетия — алания	North_Ossetia-Alania
+славский район	Slavsky_District
+никольск	Nikolsk,_Vologda_Oblast
+илекский район	Ileksky_District
+тектюр	Tyokhtyur,_Megino-Kangalassky_District,_Sakha_Republic
+Тенкя	Tenkya
+абаг центральный	Abaga_tsentralnaya
+красногорский	Krasnogorsky,_Mari_El_Republic
+хадыженск	Khadyzhensk
+мохсоголлох	Mokhsogollokh
+дорогобужский район	Dorogobuzhsky_District
+красноярск	Krasnoyarsk
+камызякский район	Kamyzyaksky_District
+ольховатский район	Olkhovatsky_District
+урюпинский район	Uryupinsky_District
+мяунджа	Myaundzha
+верхотурский район	Verkhotursky_District
+ара-толон	Ary-Tolon
+нефтегорский район	Neftegorsky_District
+углегорск	Uglegorsk,_Sakhalin_Oblast
+мордовский район	Mordovsky_District
+мценск	Mtsensk
+эбя	Ebya,_Vilyuysky_District,_Sakha_Republic
+плавский район	Plavsky_District
+волгоград	Volgograd
+нижнеомский район	Nizhneomsky_District
+мотыгинский район	Motyginsky_District
+лосино-петровский	Losino-Petrovsky
+чымнайя	Chymnayi
+приволжский	Privolzhsky,_Mari_El_Republic
+бежаницы	Bezhanitsy
+усть-май	Ust-Maya
+тавдинский район	Tavdinsky_District
+ровенский район	Rovensky_District,_Saratov_Oblast
+катав-ивановский район	Katav-Ivanovsky_District
+стерлитамак	Sterlitamak
+озинский район	Ozinsky_District
+павлоградский район	Pavlogradsky_District
+ягоднинский район	Yagodninsky_District
+ытык-кюель	Ytyk-Kyuyol
+лаврентий	Lavrentiya
+зеленоградск	Zelenogradsk
+кяхта	Kyakhta
+лузский район	Luzsky_District
+илимнир	Ilimnir
+терновский район	Ternovsky_District
+безымянный	Bezymyanny,_Sakha_Republic
+воскресенск	Voskresensk,_Moscow_Oblast
+коммунар	Kommunar,_Gatchinsky_District,_Leningrad_Oblast
+котельничский район	Kotelnichsky_District
+волжский район	Volzhsky_District,_Samara_Oblast
+рыльский район	Rylsky_District
+суон-тит	Suon-Tit
+уржумский район	Urzhumsky_District
+ефремов	Yefremov_(town)
+лукояновский район	Lukoyanovsky_District
+староуткинск	Staroutkinsk
+уолбут	Uolbut
+бельский район	Belsky_District,_Tver_Oblast
+новопавловск	Novopavlovsk
+газимурский завод	Gazimursky_Zavod
+богдановичский район	Bogdanovichsky_District
+учалы	Uchaly_(town)
+правдинский район	Pravdinsky_District
+княгинино	Knyaginino,_Nizhny_Novgorod_Oblast
+пикалево	Pikalyovo,_Leningrad_Oblast
+каменск	Kamensk,_Republic_of_Buryatia
+калач-на-дон	Kalach-na-Donu
+мучкапский район	Muchkapsky_District
+коченевский район	Kochenyovsky_District
+спутник	Sputnik,_Murmansk_Oblast
+анадырь	Anadyr_(town)
+район сокольники	Sokolniki_District
+слюдянка	Slyudyanka,_Slyudyansky_District,_Irkutsk_Oblast
+красноярский район	Krasnoyarsky_District,_Samara_Oblast
+новоалександровск	Novoalexandrovsk
+нечаевка	Nechayevka,_Voronezh_Oblast
+краснинский район	Krasninsky_District,_Smolensk_Oblast
+алапаевск	Alapayevsk
+восточный кильдин	Vostochny_Kildin
+дмитриевский район	Dmitriyevsky_District
+вельский район	Velsky_District
+ворсма	Vorsma
+малмыжский район	Malmyzhsky_District
+ыллым	Yllymakh
+владимир	Vladimir
+старобаширово	Starobashirovo
+корсаковский район	Korsakovsky_District,_Oryol_Oblast
+ягодный	Yagodnoye,_Magadan_Oblast
+крест-хальджай	Krest-Khaldzhay
+бердигестях	Berdigestyakh
+чаунский район	Chaunsky_District
+электроугли	Elektrougli
+велижский район	Velizhsky_District
+ипатово	Ipatovo,_Stavropol_Krai
+сернур	Sernur
+каргополь	Kargopol
+башмаковский район	Bashmakovsky_District
+серов	Serov_(town)
+шатура	Shatura
+намцы	Namtsy
+корф	Korf,_Russia
+шарья	Sharya
+мындаба	Myndaba
+ульяновка	Ulyanovka,_Leningrad_Oblast
+полигус	Poligus
+эмисс	Emissy
+кичменгский городок	Kichmengsky_Gorodok
+дмитровск	Dmitrovsk
+шабалинский район	Shabalinsky_District
+уваровский район	Uvarovsky_District
+тарногский городок	Tarnogsky_Gorodok
+маяк тювагубский	Mayak_Tyuvagubsky
+коркинский район	Korkinsky_District
+весьегонский район	Vesyegonsky_District
+тюбяй	Tyubyay
+чолбон	Cholbon
+савинский	Savinsky,_Arkhangelsk_Oblast
+ржаксинский район	Rzhaksinsky_District
+электросталь	Elektrostal
+верхний дуброво	Verkhneye_Dubrovo,_Sverdlovsk_Oblast
+абакан	Abakan
+долинск	Dolinsk,_Sakhalin_Oblast
+шелеховский район	Shelekhovsky_District
+анадырский район	Anadyrsky_District
+верхошижемский район	Verkhoshizhemsky_District
+фатеж	Fatezh
+пошехонье	Poshekhonye
+белокуриха	Belokurikha
+кыштовский район	Kyshtovsky_District
+тимский район	Timsky_District
+курган	Kurgan,_Kurgan_Oblast
+ефремовый	Yefremovo,_Sakha_Republic
+юкагир	Yukagir
+качикатец	Kachikattsy
+светлогорск	Svetlogorsk,_Kaliningrad_Oblast
+новомичуринск	Novomichurinsk
+арамиль	Aramil
+бютяй-юрдь	Byutyay-Yurdya
+североморск	Severomorsk
+опочецкий район	Opochetsky_District
+фировский район	Firovsky_District
+беркакит	Berkakit
+вохомский район	Vokhomsky_District
+бежецкий район	Bezhetsky_District
+краснояружский район	Krasnoyaruzhsky_District
+становлянский район	Stanovlyansky_District
+алтухово	Altukhovo,_Karinskoye_Rural_Settlement,_Zaraysky_District,_Moscow_Oblast
+урус-мартан	Urus-Martan
+демидовский район	Demidovsky_District
+ставрополь	Stavropol
+балахна	Balakhna
+избербаш	Izberbash
+яранск	Yaransk
+шаблыкинский район	Shablykinsky_District
+новый ладога	Novaya_Ladoga
+очер	Ochyor
+гатчинский район	Gatchinsky_District
+пушкинский гора	Pushkinskiye_Gory
+купино	Kupino,_Novosibirsk_Oblast
+геленджик	Gelendzhik
+кяччи	Kyachchi
+нижний салда	Nizhnyaya_Salda
+кировский район	Kirovsky_District,_Leningrad_Oblast
+росляково	Roslyakovo,_Murmansk_Oblast
+сангар	Sangar,_Sakha_Republic
+торжок	Torzhok
+приозерск	Priozersk
+новомосковск	Novomoskovsk,_Russia
+братский район	Bratsky_District
+мошенской	Moshenskoye,_Novgorod_Oblast
+чегем	Chegem
+сакмарский район	Sakmarsky_District
+ленинск	Leninsk,_Volgograd_Oblast
+нижний тойма	Nizhnyaya_Toyma_(rural_locality)
+крестец	Kresttsy,_Krestetsky_District,_Novgorod_Oblast
+котовск	Kotovsk,_Russia
+кемь	Kem,_Russia
+костромской район	Kostromskoy_District
+селижаровский район	Selizharovsky_District
+мач	Machakh
+лахдепохья	Lakhdenpokhya
+кюбем	Kyubeme
+нытва	Nytva
+хара-алдан	Khara-Aldan
+воргашор	Vorgashor
+семендер	Semender
+красноборск	Krasnoborsk,_Arkhangelsk_Oblast
+ветлужский район	Vetluzhsky_District
+маяк никодимский	Mayak_Nikodimsky
+невельск	Nevelsk
+воронцовый	Vorontsovo,_Sakha_Republic
+климовск	Klimovsk
+угличский район	Uglichsky_District
+волосовский район	Volosovsky_District
+ярковский район	Yarkovsky_District
+казанский район	Kazansky_District
+сретенск	Sretensk
+луостарь	Luostari_(railway_station)
+анабарский улус	Anabarsky_District
+нарьян-мар	Naryan-Mar
+алагир	Alagir
+омутнинск	Omutninsk
+рассказово	Rasskazovo
+лувеньга	Luvenga
+альметьевск	Almetyevsk
+котельник	Kotelniki
+нуочаха	Nuochakha
+юрьевецкий район	Yuryevetsky_District
+кантемировский район	Kantemirovsky_District
+гусиноозерск	Gusinoozyorsk
+лейпи	Leypi
+алтанец	Altantsy
+тогучинский район	Toguchinsky_District
+навашинский район	Navashinsky_District
+екюндю	Yekyundyu
+корабельный	Korabelnoye
+ясный	Yasny,_Orenburg_Oblast
+липецкий район	Lipetsky_District
+каменский  район	Kamensky_District,_Rostov_Oblast
+тегюлить	Tegyulte
+лукоянов	Lukoyanov
+тихорецк	Tikhoretsk
+спасск	Spassk,_Penza_Oblast
+калязин	Kalyazin
+улаганский район	Ulagansky_District
+кочковский район	Kochkovsky_District
+комсомол	Komsomol,_Russia
+шимск	Shimsk
+цивильск	Tsivilsk
+хонуу	Khonuu
+нюя	Nyuya
+красный холм	Krasny_Kholm,_Krasnokholmsky_District,_Tver_Oblast
+богатовский район	Bogatovsky_District
+краснокутский район	Krasnokutsky_District
+зеленокумск	Zelenokumsk
+багратионовск	Bagrationovsk
+золотинка	Zolotinka
+приморский край	Primorsky_Krai
+калашниково	Kalashnikovo,_Tver_Oblast
+камышинский район	Kamyshinsky_District
+исит	Isit,_Russia
+любинский район	Lyubinsky_District
+гимра	Gimry
+сызранский район	Syzransky_District
+голицыно	Golitsyno,_Moscow_Oblast
+курчатовский район	Kurchatovsky_District,_Kursk_Oblast
+светогорск	Svetogorsk
+андрюшкино	Andryushkino
+соловецкий	Solovetsky,_Arkhangelsk_Oblast
+енотаевский район	Yenotayevsky_District
+дзержинск	Dzerzhinsk,_Russia
+краснодар	Krasnodar
+большой хатый	Bolshoy_Khatymi
+камешкирский район	Kameshkirsky_District
+сюль	Syulya
+элиста	Elista
+кежемский район	Kezhemsky_District
+короча	Korocha
+сунский район	Sunsky_District
+сальский район	Salsky_District
+чебулинский район	Chebulinsky_District
+шацк	Shatsk,_Russia
+шигонский район	Shigonsky_District
+ржевский район	Rzhevsky_District
+белевский район	Belyovsky_District
+камызяк	Kamyzyak
+иланский район	Ilansky_District
+амбарчик	Ambarchik
+городецкий район	Gorodetsky_District
+когалым	Kogalym
+килпъявр	Kilpyavr_(rural_locality)
+новый сулак	Novy_Sulak
+богородицк	Bogoroditsk
+щигры	Shchigry,_Kursk_Oblast
+азовский район	Azovsky_District
+ленск	Lensk
+усть-нера	Ust-Nera
+северо-курильск	Severo-Kurilsk
+новый уоян	Novy_Uoyan
+шенкурский район	Shenkursky_District
+умет	Umyot,_Republic_of_Mordovia
+заинск	Zainsk
+кысыл-юрюйя	Kysyl-Yuryuyya
+малыкать	Malykay
+лесогорский	Lesogorsky
+екатеринбург	Yekaterinburg
+крымск	Krymsk
+малышева	Malysheva,_Sverdlovsk_Oblast
+кологрив	Kologriv
+дельгей	Delgey
+хвалынск	Khvalynsk
+любытино	Lyubytino
+кстовский район	Kstovsky_District
+район бирюлево восточный	Biryulyovo_Vostochnoye_District
+жиганский улус	Zhigansky_District
+курлово	Kurlovo_(town),_Vladimir_Oblast
+северо-эвенский район	Severo-Evensky_District
+опаринский район	Oparinsky_District
+хабаровск	Khabarovsk
+голубой ручей	Golubye_Ruchyi
+трехгорный	Tryokhgorny
+имя свердлов	Imeni_Sverdlova,_Russia
+каменское	Kamenskoye,_Kamchatka_Krai
+калужский область	Kaluga_Oblast
+понежукать	Ponezhukay
+хапчагай	Khapchagay
+пителинский район	Pitelinsky_District
+николаевск	Nikolayevsk
+перевоз	Perevoz,_Nizhny_Novgorod_Oblast
+багадить	Bagadya,_Verkhnevilyuysky_District,_Sakha_Republic
+кинель	Kinel
+почеп	Pochep,_Bryansk_Oblast
+шаль	Shali,_Chechen_Republic
+нижний новгород	Nizhny_Novgorod
+новолялинский район	Novolyalinsky_District
+павловский посад	Pavlovsky_Posad
+обливский район	Oblivsky_District
+нефтегорск	Neftegorsk,_Samara_Oblast
+соболох	Sobolokh
+хатырык-хомо	Khatyryk-Khomo
+русский устье	Russkoye_Ustye
+черепаново	Cherepanovo,_Novosibirsk_Oblast
+родионово-несветайский район	Rodionovo-Nesvetaysky_District
+переволоцкий район	Perevolotsky_District
+княгининский район	Knyagininsky_District
+сандово	Sandovo
+медвежьегорск	Medvezhyegorsk
+семенов	Semyonov,_Nizhny_Novgorod_Oblast
+усть-донецкий район	Ust-Donetsky_District
+новомалыклинский район	Novomalyklinsky_District
+ивнянский район	Ivnyansky_District
+ивановский район	Ivanovsky_District,_Ivanovo_Oblast
+шипицыно	Shipitsyno
+бердюжский район	Berdyuzhsky_District
+ахт	Akhty
+куран-сало	Kuranakh-Sala
+карабулак	Karabulak,_Republic_of_Ingushetia
+новый карачай	Novy_Karachay
+верховажье	Verkhovazhye
+пермский край	Perm_Krai
+раменский район	Ramensky_District
+кемеровский область	Kemerovo_Oblast
+верхнекетский район	Verkhneketsky_District
+сарданг	Sardanga
+чара	Chara_(rural_locality)
+бясь-шея	Byas-Sheya
+каргатский район	Kargatsky_District
+холмск	Kholmsk
+димитровград	Dimitrovgrad,_Russia
+демидов	Demidov,_Smolensk_Oblast
+фурмановский район	Furmanovsky_District
+дмитров	Dmitrov
+Кылайы	Kylayy
+сердобский район	Serdobsky_District
+красновишерск	Krasnovishersk
+навлинский район	Navlinsky_District
+орел	Oryol
+щекино	Shchyokino_(town),_Tula_Oblast
+кысыл-сыр	Kysyl-Syr,_Vilyuysky_District,_Sakha_Republic
+карагай	Karagay,_Perm_Krai
+юрьевец	Yuryevets,_Ivanovo_Oblast
+27	27_km_Zheleznoy_Dorogi_Monchegorsk–Olenya
+кириллов	Kirillov_(town)
+костерево	Kosteryovo
+кинешма	Kineshma
+тоцкий район	Totsky_District
+идринский район	Idrinsky_District
+петропавловск-камчатский	Petropavlovsk-Kamchatsky
+партизанск	Partizansk
+тятербаш	Tyaterbash
+кубинка	Kubinka
+сеят	Seyat
+злынка	Zlynka
+грязинский район	Gryazinsky_District
+биробиджан	Birobidzhan
+район капотня	Kapotnya_District
+богучар	Boguchar
+лангепас	Langepas
+покровский район	Pokrovsky_District
+булун	Bulun,_Tattinsky_District,_Sakha_Republic
+ногинск	Noginsk
+норск	Norsk_(rural_locality)
+дюллюкю	Dyullyukyu
+аэропорт	Aeroport,_Tomponsky_District,_Sakha_Republic
+белокалитвинский район	Belokalitvinsky_District
+арангаста	Arangastakh
+покровка	Pokrovka,_Sakha_Republic
+касимов	Kasimov
+ярцево	Yartsevo,_Smolensk_Oblast
+ымыяхта	Ymyyakhtakh
+троицк	Troitsk,_Ust-Maysky_District,_Sakha_Republic
+зареченск	Zarechensk
+эльбрусский	Elbrussky_(urban-type_settlement)
+зырянский район	Zyryansky_District
+нижнеколымск	Nizhnekolymsk
+иваново	Ivanovo
+ессентуки	Yessentuki
+нижний куран	Nizhny_Kuranakh
+оршанка	Orshanka,_Orshansky_District,_Mari_El_Republic
+мегино-алдан	Megino-Aldan
+краснотурьинск	Krasnoturyinsk
+нязепетровский район	Nyazepetrovsky_District
+кораблино	Korablino,_Korablinsky_District,_Ryazan_Oblast
+борзя	Borzya
+пушкиногорский район	Pushkinogorsky_District
+ленинградский область	Leningrad_Oblast
+она	Neya_(town)
+козульский район	Kozulsky_District
+звенигово	Zvenigovo
+вяземский район	Vyazemsky_District,_Smolensk_Oblast
+усолье	Usolye,_Usolsky_District,_Perm_Krai
+беслан	Beslan
+ельнинский район	Yelninsky_District
+цильнинский район	Tsilninsky_District
+посьета	Posyet
+мишуково	Mishukovo,_Murmansk_Oblast
+марксовский район	Marksovsky_District
+питкяранта	Pitkyaranta
+домодедово	Domodedovo_(town)
+усть-янский улус	Ust-Yansky_District
+семилукский район	Semiluksky_District
+борович	Borovichi
+лекечен	Lyokyochyon
+озерский район	Ozyorsky_District,_Moscow_Oblast
+бальшемуртинский район	Bolshemurtinsky_District
+белый городок	Bely_Gorodok
+данков	Dankov
+параньга	Paranga,_Russia
+михайловск	Mikhaylovsk,_Sverdlovsk_Oblast
+неманский район	Nemansky_District
+томпонский улус	Tomponsky_District
+воронежский область	Voronezh_Oblast
+тужинский район	Tuzhinsky_District
+Абый	Abyy
+бузулук	Buzuluk,_Orenburg_Oblast
+зверосовхоз	Zverosovkhoz
+каменский район	Kamensky_District,_Voronezh_Oblast
+трубчевский район	Trubchevsky_District
+ючюгей	Yuchyugey
+конаково	Konakovo
+тея	Teya,_Russia
+гусь-хрустальный район	Gus-Khrustalny_District
+ступинский район	Stupinsky_District
+здвинский район	Zdvinsky_District
+хвойный	Khvoynaya,_Khvoyninsky_District,_Novgorod_Oblast
+инта	Inta
+верхнетуломский	Verkhnetulomsky
+карасукский район	Karasuksky_District
+эвено-бытантайский национальный улус	Eveno-Bytantaysky_National_District
+вихоревка	Vikhorevka
+домбай	Dombay,_Karachay-Cherkess_Republic
+уссурийск	Ussuriysk
+пустошка	Pustoshka,_Pustoshkinsky_District,_Pskov_Oblast
+белинский	Belinsky,_Penza_Oblast
+могоча	Mogocha
+васильевский мох	Vasilyevsky_Mokh
+зубцов	Zubtsov
+орда	Orda,_Perm_Krai
+похвистнево	Pokhvistnevo,_Samara_Oblast
+кромский район	Kromskoy_District
+высоковск	Vysokovsk
+сасылыкать	Sasylykan
+череповец	Cherepovets
+чукотский район	Chukotsky_District
+кеди	Kedy
+лебедянский район	Lebedyansky_District
+колышлейский район	Kolyshleysky_District
+нерехта	Nerekhta,_Kostroma_Oblast
+южа	Yuzha
+новый кяхулай	Novy_Kyakhulay
+южноуральск	Yuzhnouralsk
+калининградский область	Kaliningrad_Oblast
+адыгейск	Adygeysk
+калачевский район	Kalachyovsky_District
+сарапул	Sarapul
+армавир	Armavir,_Russia
+кюлекянь	Kyulekyan
+кептень	Kepteni
+александров	Alexandrov,_Vladimir_Oblast
+миллерово	Millerovo,_Millerovsky_District,_Rostov_Oblast
+верхнемамонский район	Verkhnemamonsky_District
+змеиногорск	Zmeinogorsk
+ростов-на-дону	Rostov-on-Don
+вилючинск	Vilyuchinsk
+суол	Suola,_Moruksky_Rural_Okrug,_Megino-Kangalassky_District,_Sakha_Republic
+чойский район	Choysky_District
+красногвардейский район	Krasnogvardeysky_District,_Orenburg_Oblast
+енисейский район	Yeniseysky_District
+республика карелия	Republic_of_Karelia
+уварово	Uvarovo,_Tambov_Oblast
+чаваньга	Chavanga
+люберецкий район	Lyuberetsky_District
+торго	Torgo_(urban-type_settlement)
+искитимский район	Iskitimsky_District
+кологривский район	Kologrivsky_District
+дубовский район	Dubovsky_District,_Volgograd_Oblast
+мари-турек	Mari-Turek
+еланк	Yelanka
+мирнинский улус	Mirninsky_District
+балагаччы	Balagachchy
+забайкальск	Zabaykalsk
+озерск	Ozyorsk,_Kaliningrad_Oblast
+чагд	Chagda,_Kobyaysky_District,_Sakha_Republic
+полесский район	Polessky_District
+руднянский район	Rudnyansky_District,_Volgograd_Oblast
+майя	Mayya_(rural_locality)
+киреевский район	Kireyevsky_District
+дайа-амгат	Daya-Amgata
+торопец	Toropets
+лесна	Lesnoy,_Sverdlovsk_Oblast
+орехово-зуевский район	Orekhovo-Zuyevsky_District
+покровск	Pokrovsk,_Sakha_Republic
+нижний тагил	Nizhny_Tagil
+плюсса	Plyussa
+сорочинский район	Sorochinsky_District
+батагай-алывать	Batagay-Alyta
+наро-фоминский район	Naro-Fominsky_District
+бронницы	Bronnitsy
+ягельный бор	Yagelny_Bor
+краснохолмский район	Krasnokholmsky_District
+семикаракорск	Semikarakorsk
+карачевский район	Karachevsky_District
+верхоянск	Verkhoyansk
+исетский район	Isetsky_District
+быковский район	Bykovsky_District
+новодугинский район	Novoduginsky_District
+суджа	Sudzha,_Kursk_Oblast
+арзамас	Arzamas
+новорайчихинск	Novoraychikhinsk
+дновский район	Dnovsky_District
+кимрский район	Kimrsky_District
+питерский район	Pitersky_District
+остров большой олений	Ostrov_Bolshoy_Oleny
+чкалов	Chkalov,_Nyurbinsky_District,_Sakha_Republic
+хандыга	Khandyga
+венгеровский район	Vengerovsky_District
+тулома	Tuloma_(rural_locality)
+старый купавна	Staraya_Kupavna
+жархан	Zharkhan,_Olyokminsky_District,_Sakha_Republic
+михайлов	Mikhaylov,_Ryazan_Oblast
+лодейнопольский район	Lodeynopolsky_District
+дабан	Daban,_Russia
+ахтубинский район	Akhtubinsky_District
+нюрбачан	Nyurbachan
+олекминский	Olyokminsky_(rural_locality)
+иссинский район	Issinsky_District
+хасавюрт	Khasavyurt
+малыкать	Malykan
+арыкте	Aryktakh
+вологодский область	Vologda_Oblast
+протвино	Protvino
+джарджан	Dzhardzhan
+усть-таркский район	Ust-Tarksky_District
+пласт	Plast_(town)
+багдарин	Bagdarin
+балаково	Balakovo
+коряжма	Koryazhma
+тургенево	Turgenevo,_Republic_of_Mordovia
+ванавара	Vanavara_(rural_locality)
+таловский район	Talovsky_District
+ковернинский район	Koverninsky_District
+тюнгюля	Tyungyulyu
+дагестанский огонь	Dagestanskiye_Ogni
+чапаево	Chapayevo,_Olyokminsky_District,_Sakha_Republic
+белогорский район	Belogorsky_District
+заволжск	Zavolzhsk
+бокситогорск	Boksitogorsk
+орто-балаган	Orto-Balagan
+кетердех	Kyotyordyokh
+обоянь	Oboyan
+электрогорск	Elektrogorsk
+узловский район	Uzlovsky_District
+черняховск	Chernyakhovsk
+новоузенский район	Novouzensky_District
+жатай	Zhatay
+центара	Tsentaroy,_Kurchaloyevsky_District,_Chechen_Republic
+нуораган	Nuoragana
+касли	Kasli
+магнетит	Magnetity
+муромский район	Muromsky_District
+казань	Kazan
+серебряный бор	Serebryany_Bor,_Sakha_Republic
+чекунда	Chekunda
+аннинский район	Anninsky_District
+саратовский район	Saratovsky_District
+тымовское	Tymovskoye
+люксюгюн	Lyuksyugyun
+навашино	Navashino
+борисоглебский район	Borisoglebsky_District,_Yaroslavl_Oblast
+солигаличский район	Soligalichsky_District
+отрадный	Otradnoye,_Kirovsky_District,_Leningrad_Oblast
+эбях	Ebyakh
+усть-лабинск	Ust-Labinsk
+междуречье	Mezhdurechye
+липецк	Lipetsk
+пичаевский район	Pichayevsky_District
+белый гора	Belaya_Gora,_Sakha_Republic
+кол	Kola,_Russia
+сланцы	Slantsy,_Leningrad_Oblast
+адлерский внутригородской район	Adlersky_City_District
+канский район	Kansky_District
+югоренка	Yugoryonok
+хочо	Khocho
+московский область	Moscow_Oblast
+свободный	Svobodny,_Sverdlovsk_Oblast
+коркино	Korkino,_Chelyabinsk_Oblast
+республика татарстан	Tatarstan
+октябрьский	Oktyabrsky,_Republic_of_Bashkortostan
+гаврилово-посадский район	Gavrilovo-Posadsky_District
+мокшанский район	Mokshansky_District
+староватово	Starovatovo
+сыгынны	Sygynnakh
+почепский район	Pochepsky_District
+кривошеинский район	Krivosheinsky_District
+ракитянский район	Rakityansky_District
+суровикино	Surovikino
+суоярви	Suoyarvi
+идрица	Idritsa
+абыйский улус	Abyysky_District
+мураш	Murashi,_Kirov_Oblast
+ейск	Yeysk
+тарка	Tarki
+красногородск	Krasnogorodsk
+городец	Gorodets,_Nizhny_Novgorod_Oblast
+комсомольский	Komsomolsky,_Republic_of_Mordovia
+павловский район	Pavlovsky_District,_Voronezh_Oblast
+мазановский район	Mazanovsky_District
+гдовский район	Gdovsky_District
+севский район	Sevsky_District
+куберганить	Kuberganya
+кашира	Kashira
+нижнесергинский район	Nizhneserginsky_District
+светлоярский район	Svetloyarsky_District
+танда	Tanda,_Russia
+ливенский район	Livensky_District
+харыял	Kharyyalakh,_Verkhnevilyuysky_District,_Sakha_Republic
+осинник	Osinniki
+сургутский район	Surgutsky_District
+шуйское	Shuyskoye,_Vologda_Oblast
+подкаменный тунгуска	Podkamennaya_Tunguska_(rural_locality)
+горбатов	Gorbatov,_Nizhny_Novgorod_Oblast
+пушной	Pushnoy,_Murmansk_Oblast
+владимирский область	Vladimir_Oblast
+поворино	Povorino
+льгов	Lgov,_Kursk_Oblast
+вышний волочек	Vyshny_Volochyok
+верхний тагил	Verkhny_Tagil
+огородт	Ogorodtakh
+кировский область	Kirov_Oblast
+приуральский район	Priuralsky_District
+борисово-околица	Borisovo-Okolitsy
+фурманов	Furmanov,_Ivanovo_Oblast
+мамоново	Mamonovo
+великий устюг	Veliky_Ustyug
+петушки	Petushki,_Sakha_Republic
+углич	Uglich
+бабынинский район	Babyninsky_District
+первоуральск	Pervouralsk
+псковский область	Pskov_Oblast
+минькин	Minkino,_Murmansk_Oblast
+тас-юряха	Tas-Yuryakh
+большой камень	Bolshoy_Kamen
+аппан	Appany
+асиновский район	Asinovsky_District
+салават	Salavat,_Russia
+пуровский район	Purovsky_District
+черский	Chersky_(settlement)
+район щукино	Shchukino_District
+туора-кюель	Tuora-Kyuyol,_Tattinsky_District,_Sakha_Republic
+рассолод	Rassoloda
+брединский район	Bredinsky_District
+волочанка	Volochanka
+килянка	Kilyanki
+верхнеуральский район	Verkhneuralsky_District
+верхнеуральск	Verkhneuralsk
+республика калмыкия	Kalmykia
+кирово-чепецк	Kirovo-Chepetsk
+быччагдан	Bychchagdan
+селиваново	Selivanovo,_Sakha_Republic
+абаз	Abaza_(town)
+балей	Baley,_Russia
+дмитриев	Dmitriyev_(town)
+ломоносов	Lomonosov,_Russia
+новый оскол	Novy_Oskol
+хомуст	Khomustakh,_Namsky_Rural_Okrug,_Verkhnevilyuysky_District,_Sakha_Republic
+боханский район	Bokhansky_District
+сайда	Saydy,_Verkhoyansky_District,_Sakha_Republic
+свердловский район	Sverdlovsky_District,_Oryol_Oblast
+черемховский район	Cheremkhovsky_District
+имандра	Imandra
+усть-кутский район	Ust-Kutsky_District
+тиличики	Tilichiki
+зырянка	Zyryanka,_Sakha_Republic
+рославль	Roslavl
+кожва	Kozhva
+атяшево	Atyashevo,_Atyashevsky_District,_Republic_of_Mordovia
+федоровский район	Fyodorovsky_District,_Saratov_Oblast
+шея	Sheya
+луховицы	Lukhovitsy
+затон лорп	Zaton_LORPa
+дедовск	Dedovsk
+ордынский район	Ordynsky_District
+михайловский	Mikhaylovsky,_Saratov_Oblast
+верхний амга	Verkhnyaya_Amga
+чернышевск	Chernyshevsk
+майкоп	Maykop
+фокино	Fokino,_Primorsky_Krai
+эртиль	Ertil,_Voronezh_Oblast
+шарьинский район	Sharyinsky_District
+карачев	Karachev
+темников	Temnikov
+златоуст	Zlatoust
+аксай	Aksay,_Rostov_Oblast
+угловка	Uglovka,_Novgorod_Oblast
+тюкалинск	Tyukalinsk
+вознесение	Voznesenye
+новокубанск	Novokubansk
+весьегонск	Vesyegonsk
+чапаевск	Chapayevsk
+ненокс	Nyonoksa
+еланский район	Yelansky_District
+новосибирский район	Novosibirsky_District
+оленино	Olenino,_Tver_Oblast
+целинский район	Tselinsky_District
+суджанский район	Sudzhansky_District
+верхнетоемский район	Verkhnetoyemsky_District
+камбарка	Kambarka
+томарь	Tomari,_Russia
+ряжский район	Ryazhsky_District
+ярославский	Yaroslavsky,_Sakha_Republic
+краснять	Krasneno
+ара-тит	Ary-Tit
+советск	Sovetsk,_Tula_Oblast
+белоярский	Beloyarsky,_Sverdlovsk_Oblast
+полысаево	Polysayevo
+приморск	Primorsk,_Leningrad_Oblast
+задонский район	Zadonsky_District
+сегян-кюель	Segyan-Kyuyol
+кохма	Kokhma
+грибановский район	Gribanovsky_District
+дно	Dno
+черноярский район	Chernoyarsky_District
+крести	Krestyakh
+ульяновск	Ulyanovsk
+пролетарский район	Proletarsky_District,_Rostov_Oblast
+няндома	Nyandoma
+де-кастри	De-Kastri
+кызыл	Kyzyl
+ак-довурак	Ak-Dovurak
+рыльск	Rylsk,_Russia
+подольск	Podolsk
+сертолово	Sertolovo
+чапчылган	Chapchylgan
+шексна	Sheksna,_Sheksninsky_District,_Vologda_Oblast
+урень	Uren,_Russia
+радужный	Raduzhny,_Vladimir_Oblast
+емельяновский район	Yemelyanovsky_District
+александрово-гайский район	Alexandrovo-Gaysky_District
+тала	Tala,_Russia
+янчукан	Yanchukan
+захаровский район	Zakharovsky_District
+сентачать	Sentachan
+чайковский	Chaykovsky,_Perm_Krai
+среднеахтубинский район	Sredneakhtubinsky_District
+нелемный	Nelemnoye
+заречный	Zarechny,_Sverdlovsk_Oblast
+чукар	Chukar_(rural_locality)
+сердобск	Serdobsk
+тамбов	Tambov
+кадыкчанин	Kadykchan
+рамешки	Rameshki,_Rameshkovsky_District,_Tver_Oblast
+хонгор-бие	Khongor-Biye
+лесной район	Lesnoy_District
+калевала	Kalevala,_Russia
+горячий ключ	Goryachy_Klyuch,_Krasnodar_Krai
+ардон	Ardon,_Republic_of_North_Ossetia-Alania
+чюйя	Chyuyya
+жуковский	Zhukovsky,_Moscow_Oblast
+южно-курильск	Yuzhno-Kurilsk
+черемхово	Cheremkhovo,_Irkutsk_Oblast
+шалить	Shalya_(urban-type_settlement)
+приволжск	Privolzhsk
+гдов	Gdov
+дальний зеленца	Dalniye_Zelentsy
+лух	Lukh,_Russia
+усть-канский район	Ust-Kansky_District
+рязанский район	Ryazansky_District,_Ryazan_Oblast
+бавтугай	Bavtugay
+курский район	Kursky_District,_Kursk_Oblast
+шудаяг	Shudayag
+белохолуницкий район	Belokholunitsky_District
+табаг	Tabaga,_Megino-Kangalassky_District,_Sakha_Republic
+илбенг	Ilbenge
+малошуйка	Maloshuyka
+териберка	Teriberka
+республика алтай	Altai_Republic
+самара	Samara,_Russia
+килемары	Kilemary
+большечерниговский район	Bolshechernigovsky_District
+куйтунский район	Kuytunsky_District
+сасыр	Sasyr
+ленинский	Leninsky,_Sakha_Republic
+рославльский район	Roslavlsky_District
+тейково	Teykovo
+опочка	Opochka
+усть-куйг	Ust-Kuyga
+тула	Tula,_Russia
+тамалакан	Tamalakan
+гагаринский район	Gagarinsky_District,_Smolensk_Oblast
+оханск	Okhansk
+Чекя-бясь	Chekya-Byas
+эсел	Eselyakh
+жиганск	Zhigansk
+суздаль	Suzdal
+урицкий район	Uritsky_District
+шатковский район	Shatkovsky_District
+красный бор	Krasny_Bor,_Tosnensky_District,_Leningrad_Oblast
+чинар	Chinar,_Russia
+коашва	Koashva
+барышский район	Baryshsky_District
+стойка	Stoyka
+соль-илецк	Sol-Iletsk
+оленинский район	Oleninsky_District
+торопецкий район	Toropetsky_District
+тасагар	Tasagar
+иркутск	Irkutsk
+нижнеломовский район	Nizhnelomovsky_District
+старополтавский район	Staropoltavsky_District
+щучье	Shchuchye,_Shchuchansky_District,_Kurgan_Oblast
+сайда-губа	Sayda-Guba
+кептина	Keptin
+нерюктяйинск 1-й	Neryuktyayinsk_1-y
+крестовый	Krestovaya,_Sakha_Republic
+чинека	Chineke
+порхов	Porkhov
+унечский район	Unechsky_District
+богучарский район	Bogucharsky_District
+каратузский район	Karatuzsky_District
+слободской	Slobodskoy,_Kirov_Oblast
+щекинский район	Shchyokinsky_District
+пошехонский район	Poshekhonsky_District
+монастырщинский район	Monastyrshchinsky_District
+котельниково	Kotelnikovo,_Volgograd_Oblast
+усть-юдом	Ust-Yudoma
+хлевенский район	Khlevensky_District
+ершичский район	Yershichsky_District
+куропт	Kuropta
+яхрома	Yakhroma
+поназыревский район	Ponazyrevsky_District
+киров	Kirov,_Sakha_Republic
+калининград	Kaliningrad
+забайкальский край	Zabaykalsky_Krai
+истра	Istra,_Istrinsky_District,_Moscow_Oblast
+назаровский район	Nazarovsky_District
+родник	Rodniki,_Ivanovo_Oblast
+удомельский район	Udomelsky_District
+новодвинск	Novodvinsk
+куний	Kunya,_Pskov_Oblast
+зеленоборский	Zelenoborsky
+красногородский район	Krasnogorodsky_District
+нижнеянск	Nizhneyansk
+чирьяковый	Chiryakovo
+домбаровский район	Dombarovsky_District
+красный поляна	Krasnaya_Polyana,_Sochi,_Krasnodar_Krai
+ковдорский район	Kovdorsky_District
+сорск	Sorsk
+пестово	Pestovo,_Pestovsky_District,_Novgorod_Oblast
+кожым	Kozhym
+сальск	Salsk
+чердаклинский район	Cherdaklinsky_District
+красноярский край	Krasnoyarsk_Krai
+красноярский область	Krasnoyarsk_Krai
+вилегодский район	Vilegodsky_District
+усть-чижапка	Ust-Chizhapka
+чыаппар	Chyappara
+ташлинский район	Tashlinsky_District
+грайворон	Grayvoron
+лебединый	Lebediny,_Sakha_Republic
+мошковский район	Moshkovsky_District
+райчихинск	Raychikhinsk
+чаплыгинский район	Chaplyginsky_District
+ленский улус	Lensky_District,_Sakha_Republic
+ванино	Vanino,_Khabarovsk_Krai
+малмыж	Malmyzh,_Kirov_Oblast
+щигровский район	Shchigrovsky_District
+походск	Pokhodsk
+афанасьевский район	Afanasyevsky_District
+емца	Yemtsa
+краснотуранский район	Krasnoturansky_District
+валуйки	Valuyki,_Belgorod_Oblast
+ютть	Yuttyakh
+орск	Orsk
+пензенский район	Penzensky_District
+туран	Turan,_Tuva_Republic
+вязниковский район	Vyaznikovsky_District
+верховский район	Verkhovsky_District
+махнево	Makhnyovo
+ермишинский район	Yermishinsky_District
+гаврилов-ямский район	Gavrilov-Yamsky_District
+сото	Soto,_Russia
+александровский район	Alexandrovsky_District,_Tomsk_Oblast
+охотский-перевоз	Okhotsky-Perevoz
+венев	Venyov
+липин бор	Lipin_Bor
+чертковский район	Chertkovsky_District
+вольск	Volsk
+рязань	Ryazan
+дикимдя	Dikimdya,_Olyokminsky_District,_Sakha_Republic
+еврейский автономный область	Jewish_Autonomous_Oblast
+республика саха	Sakha_Republic
+зейский район	Zeysky_District
+себежский район	Sebezhsky_District
+ачинский район	Achinsky_District
+гурьевск	Guryevsk,_Kemerovo_Oblast
+сосногорск	Sosnogorsk
+кикнурский район	Kiknursky_District
+межгорье	Mezhgorye,_Republic_of_Bashkortostan
+палласовка	Pallasovka_(town)
+троицко-печорск	Troitsko-Pechorsk
+пугачевский район	Pugachyovsky_District
+чокурдах	Chokurdakh
+агрыз	Agryz
+индель	Indel_(rural_locality)
+амурский область	Amur_Oblast
+катынь	Katyn_(rural_locality)
+улан-удэ	Ulan-Ude
+талицкий район	Talitsky_District
+нальчик	Nalchik
+юрюзань	Yuryuzan,_Chelyabinsk_Oblast
+белореченск	Belorechensk,_Krasnodar_Krai
+кула	Kuloy
+орлов	Orlov,_Kirov_Oblast
+междуреченск	Mezhdurechensk,_Komi_Republic
+морк	Morki
+лапландия	Laplandiya
+заволжье	Zavolzhye,_Nizhny_Novgorod_Oblast
+невьянский район	Nevyansky_District
+дальнереченск	Dalnerechensk
+ровеньский район	Rovensky_District,_Belgorod_Oblast
+саянский район	Sayansky_District
+шушенский район	Shushensky_District
+марьяновский район	Maryanovsky_District
+мясниковский район	Myasnikovsky_District
+нижний бестях	Nizhny_Bestyakh
+пильнинский район	Pilninsky_District
+красный сулин	Krasny_Sulin
+абатский район	Abatsky_District
+агдар	Agdary
+комаровский	Komarovsky,_Orenburg_Oblast
+кяхулай	Kyakhulay
+пыталово	Pytalovo
+черкех	Cherkyokh
+жирновский район	Zhirnovsky_District
+верхний инта	Verkhnyaya_Inta
+западный кильдин	Zapadny_Kildin
+ольхонский район	Olkhonsky_District
+перевозский район	Perevozsky_District
+теплый гора	Tyoplaya_Gora
+рыбинский район	Rybinsky_District,_Yaroslavl_Oblast
+михайловка	Mikhaylovka,_Volgograd_Oblast
+сыктывкар	Syktyvkar
+чулым	Chulym,_Chulymsky_District,_Novosibirsk_Oblast
+хордога	Khordogoy
+добрянка	Dobryanka,_Perm_Krai
+слободо-туринский район	Slobodo-Turinsky_District
+зимовниковский район	Zimovnikovsky_District
+леуша	Leushi
+карпинск	Karpinsk
+спировский район	Spirovsky_District
+африканд	Afrikanda_(rural_locality)
+пролив	Prolivy
+пензенский область	Penza_Oblast
+дебин	Debin
+тит-эбя	Tit-Ebya
+козловый	Kozlovo,_Konakovsky_District,_Tver_Oblast
+грачевский район	Grachyovsky_District,_Orenburg_Oblast
+нелидово	Nelidovo,_Nelidovsky_District,_Tver_Oblast
+путятинский район	Putyatinsky_District
+стародуб	Starodub
+шарыповский район	Sharypovsky_District
+тюб	Tyube
+никольское	Nikolskoye,_Tosnensky_District,_Leningrad_Oblast
+хостинский внутригородской район	Khostinsky_City_District
+кулебакский район	Kulebaksky_District
+сольца	Soltsy
+устюжна	Ustyuzhna
+кожевниковский район	Kozhevnikovsky_District
+ильинский район	Ilyinsky_District,_Ivanovo_Oblast
+фрязино	Fryazino
+невельский район	Nevelsky_District,_Pskov_Oblast
+бодайбо	Bodaybo
+оленегорск	Olenegorsk,_Sakha_Republic
+краснозерский район	Krasnozyorsky_District
+петровск-забайкальский	Petrovsk-Zabaykalsky_(town)
+чадан	Chadan_(town)
+кормиловский район	Kormilovsky_District
+мытищинский район	Mytishchinsky_District
+поддорье	Poddorye
+орехово-зуево	Orekhovo-Zuyevo
+золотухинский район	Zolotukhinsky_District
+крутинский район	Krutinsky_District
+чистополь	Chistopol
+волгодонской район	Volgodonskoy_District
+артык	Artyk
+оричевский район	Orichevsky_District
+азовский немецкий национальный район	Azovsky_Nemetsky_National_District
+чекуровка	Chekurovka_(rural_locality)
+усолье-сибирский	Usolye-Sibirskoye
+кирсановский район	Kirsanovsky_District
+тында	Tynda
+старожиловский район	Starozhilovsky_District
+печенга	Pechenga_(urban-type_settlement),_Murmansk_Oblast
+аларский район	Alarsky_District
+выходной	Vykhodnoy
+коноша	Konosha
+ухта	Ukhta
+агаякать	Agayakan
+дубовка	Dubovka,_Dubovsky_District,_Volgograd_Oblast
+барылас	Barylas
+сага	Saga,_Russia
+приморский район	Primorsky_District,_Saint_Petersburg
+быковский	Bykovsky,_Sakha_Republic
+одоевский район	Odoyevsky_District
+тойон-ара	Toyon-Ary
+майминский район	Mayminsky_District
+солянка	Solyanka,_Sakha_Republic
+ожерелие	Ozherelye
+покачи	Pokachi
+наушко	Naushki
+нижний тур	Nizhnyaya_Tura
+харбала 2-я	Kharbala_2-ya
+пушкин	Pushkin,_Saint_Petersburg
+войвож	Voyvozh
+конышевский район	Konyshyovsky_District
+лотошинский район	Lotoshinsky_District
+калач	Kalach,_Kalacheyevsky_District,_Voronezh_Oblast
+солнцевский район	Solntsevsky_District
+асино	Asino
+лыткарино	Lytkarino
+сосенский	Sosensky,_Kaluga_Oblast
+чертаново	Chertanovo
+локомотивный	Lokomotivny
+неман	Neman,_Russia
+зубова поляна	Zubova_Polyana
+березник	Bereznik,_Vinogradovsky_District,_Arkhangelsk_Oblast
+самаров	Samarova
+невьянск	Nevyansk
+можайск	Mozhaysk
+арыл	Arylakh_(Zharkhan)
+старый чечкаба	Starye_Chechkaby
+токум	Tokuma_(rural_locality)
+сладковский район	Sladkovsky_District
+приморско-ахтарск	Primorsko-Akhtarsk
+усть-янск	Ust-Yansk
+дигора	Digora
+калязинский район	Kalyazinsky_District
+кореновск	Korenovsk
+репьевский район	Repyovsky_District
+братск	Bratsk
+юрюнг-хая	Yuryung-Khaya
+дятьково	Dyatkovo
+ярег	Yarega
+уметский район	Umyotsky_District
+оннес	Onnyos
+парма	Parma,_Usinsk,_Komi_Republic
+кутаный	Kutana,_Suntarsky_District,_Sakha_Republic
+волгоградский область	Volgograd_Oblast
+волхов	Volkhov
+спас-деменский район	Spas-Demensky_District
+старый оскол	Stary_Oskol
+бетюнг	Betyung
+исилькульский район	Isilkulsky_District
+суворов	Suvorov,_Tula_Oblast
+серебряно-прудский район	Serebryano-Prudsky_District
+кизляр	Kizlyar
+пристенский район	Pristensky_District
+сусанинский район	Susaninsky_District
+приволжский район	Privolzhsky_District,_Samara_Oblast
+сокол	Sokol,_Vologda_Oblast
+варнавинский район	Varnavinsky_District
+новосергиевский район	Novosergiyevsky_District
+солнечногорск	Solnechnogorsk
+донецк	Donetsk,_Russia
+кюкей	Kyukey
+суземский район	Suzemsky_District
+мензелинск	Menzelinsk
+шагонар	Shagonar
+сулак	Sulak,_Republic_of_Dagestan
+верхний тойма	Verkhnyaya_Toyma,_Arkhangelsk_Oblast
+юргинский район	Yurginsky_District,_Tyumen_Oblast
+кувшинский салом	Kuvshinskaya_Salma
+саров	Sarov
+ишимбай	Ishimbay
+качканар	Kachkanar
+важин	Vazhiny
+тюменский район	Tyumensky_District
+тутаевский район	Tutayevsky_District
+терют	Teryut
+дебдирга	Debdirge
+бужаниновый	Buzhaninovo
+район филевский парк	Filyovsky_park_District
+аргахта	Argakhtakh
+измалковский район	Izmalkovsky_District
+похвистневский район	Pokhvistnevsky_District
+тулун	Tuluna
+краснобаковский район	Krasnobakovsky_District
+харовск	Kharovsk
+нивский	Nivsky
+нижнеколымский улус	Nizhnekolymsky_District
+кылла	Kyllakh
+губкин	Gubkin
+задонск	Zadonsk
+донской	Donskoye,_Lipetsk_Oblast
+удомля	Udomlya
+берег-юрдь	Bereg-Yurdya
+плесецк	Plesetsk
+кесов гора	Kesova_Gora
+вольский район	Volsky_District
+онгудайский район	Ongudaysky_District
+воротынский район	Vorotynsky_District
+25	25_km_Zheleznoy_Dorogi_Monchegorsk–Olenya
+оверенок	Overyata
+выкса	Vyksa
+чемальский район	Chemalsky_District
+таврический район	Tavrichesky_District
+георгиевск	Georgiyevsk
+кингисеппский район	Kingiseppsky_District
+липпе-ат	Lippe-Atakh
+сонково	Sonkovo
+аткарский район	Atkarsky_District
+чагода	Chagoda
+ильинско-подомское	Ilyinsko-Podomskoye
+кесовогорский район	Kesovogorsky_District
+усть-илимск	Ust-Ilimsk
+чукотский автономный округ	Chukotka_Autonomous_Okrug
+баймак	Baymak
+верхнесалдинский район	Verkhnesaldinsky_District
+нехаевский район	Nekhayevsky_District
+ремонтненский район	Remontnensky_District
+облученский район	Obluchensky_District
+лежневский район	Lezhnevsky_District
+тумат	Tumat
+баргузин	Barguzin_(rural_locality)
+сенгилеевский район	Sengileyevsky_District
+березовский район	Beryozovsky_District,_Krasnoyarsk_Krai
+надымский район	Nadymsky_District
+палана	Palana
+кюнде	Kyunde
+байкальск	Baykalsk
+гаврилов посад	Gavrilov_Posad
+бабушкин	Babushkin_(town)
+аргун	Argun,_Chechen_Republic
+любить	Lyubim
+урицкий	Uritskoye,_Sakha_Republic
+район раменки	Ramenki_District
+болугур	Bolugur
+фроловский район	Frolovsky_District
+черлакский район	Cherlaksky_District
+оноха	Onokhoy
+казачий	Kazachye
+холго	Kholgo
+токсово	Toksovo
+морозовск	Morozovsk
+скопинский район	Skopinsky_District
+курманаевский район	Kurmanayevsky_District
+онега	Onega,_Russia
+зарайск	Zaraysk
+барнаул	Barnaul
+нелидовский район	Nelidovsky_District
+артинский район	Artinsky_District
+аксайский район	Aksaysky_District
+староюрьевский район	Staroyuryevsky_District
+нерюктяй	Neryuktyay
+куда-кюель	Kudu-Kyuyol
+уржум	Urzhum,_Urzhumsky_District,_Kirov_Oblast
+район дорогомилово	Dorogomilovo_District
+обоянский район	Oboyansky_District
+онежский район	Onezhsky_District
+черкесск	Cherkessk
+кунцево	Kuntsevo_District
+чувашский республика — чувашия	Chuvashia
+соликамск	Solikamsk
+ульяновский область	Ulyanovsk_Oblast
+энь	Enem_(urban-type_settlement)
+пенза	Penza
+новобурасский район	Novoburassky_District
+шемышейский район	Shemysheysky_District
+суховерковый	Sukhoverkovo
+мегино-кангаласский улус	Megino-Kangalassky_District
+лабытнанги	Labytnangi
+копейск	Kopeysk
+лихославльский район	Likhoslavlsky_District
+сыдыбывать	Sydybyl
+ковдозеро	Kovdozero,_Murmansk_Oblast
+олекминск	Olyokminsk
+моздок	Mozdok,_Republic_of_North_Ossetia-Alania
+удмуртский республика	Udmurtia
+звенигород	Zvenigorod
+таттинский улус	Tattinsky_District
+островский район	Ostrovsky_District,_Pskov_Oblast
+октемец	Oktyomtsy
+солнечногорский район	Solnechnogorsky_District
+судиславль	Sudislavl
+спасск-дальний	Spassk-Dalny
+рахья	Rakhya
+нюрбинский улус	Nyurbinsky_District
+кизел	Kizel
+олекминский улус	Olyokminsky_District
+петровка	Petrovka,_Sakha_Republic
+богородск	Bogorodsk,_Bogorodsky_District,_Nizhny_Novgorod_Oblast
+назрань	Nazran
+сым	Symakh
+тыайа	Tyaya
+улу-сыс	Ulu-Sysy
+боровой	Borovoy,_Komi_Republic
+фирово	Firovo
+колымский	Kolymskoye,_Sakha_Republic
+сорокинский район	Sorokinsky_District
+краснослободск	Krasnoslobodsk,_Volgograd_Oblast
+гордеевский район	Gordeyevsky_District
+елечи	Yelechey
+ушаковское	Ushakovskoye,_Chukotka_Autonomous_Okrug
+новоржев	Novorzhev
+каменка	Kamenka,_Mezensky_District,_Arkhangelsk_Oblast
+абанский район	Abansky_District
+ромненский район	Romnensky_District
+лаишево	Laishevo
+экимчанин	Ekimchan
+угоян	Ugoyan
+пояконда	Poyakonda
+жигаловский район	Zhigalovsky_District
+куранда	Kuranda,_Russia
+якокута	Yakokut
+юнкюр	Yunkyur,_Verkhoyansky_District,_Sakha_Republic
+колосовский район	Kolosovsky_District
+земетчинский район	Zemetchinsky_District
+хотьково	Khotkovo,_Moscow_Oblast
+ессей	Yessey
+новогуровский	Novogurovsky
+черноголовка	Chernogolovka
+нижнекамск	Nizhnekamsk
+кобяйский улус	Kobyaysky_District
+кулусунн	Kulusunnakh
+ардатовский район	Ardatovsky_District,_Nizhny_Novgorod_Oblast
+балабаново	Balabanovo,_Kaluga_Oblast
+мысок	Myski
+арсеньевский район	Arsenyevsky_District
+белозерский район	Belozersky_District,_Kurgan_Oblast
+полтавский район	Poltavsky_District
+юрдюк-кума	Yurdyuk-Kumakh
+рассказовский район	Rasskazovsky_District
+железнодорожный	Zheleznodorozhny,_Moscow_Oblast
+хатынг-тумул	Khating-Tumul
+сычевка	Sychyovka,_Sychyovsky_District,_Smolensk_Oblast
+сегежа	Segezha
+лысогорский район	Lysogorsky_District
+борисовский район	Borisovsky_District
+олом	Olom
+усвятский район	Usvyatsky_District
+жилинда	Zhilinda
+бежаницкий район	Bezhanitsky_District
+черемисиновский район	Cheremisinovsky_District
+талдомский район	Taldomsky_District
+эльгяй	Elgyay
+Маралайы	Maralayy
+уватский район	Uvatsky_District
+спирово	Spirovo,_Spirovsky_District,_Tver_Oblast
+пригородный район	Prigorodny_District,_Sverdlovsk_Oblast
+мценский район	Mtsensky_District
+куркинский район	Kurkinsky_District
+оргет	Orgyot
+тянуть	Tyanya
+макарьев	Makaryev
+костомукша	Kostomuksha
+нефтебаза	Neftebaza,_Olyokminsky_District,_Sakha_Republic
+сергиево-посадский район	Sergiyevo-Posadsky_District
+старица	Staritsa_(town),_Tver_Oblast
+прогресс	Progress,_Amur_Oblast
+сясьстрой	Syasstroy
+закаменск	Zakamensk
+благовещенский район	Blagoveshchensky_District,_Amur_Oblast
+коуровка	Kourovka,_Sverdlovsk_Oblast
+лиманский район	Limansky_District
+городищенский район	Gorodishchensky_District,_Volgograd_Oblast
+льялово	Lyalovo
+цимлянский район	Tsimlyansky_District
+черендей	Cherendey
+новокузнецк	Novokuznetsk
+киселевск	Kiselyovsk
+сасовский район	Sasovsky_District
+белый калитва	Belaya_Kalitva
+красногорский район	Krasnogorsky_District,_Moscow_Oblast
+высокий	Vysoky,_Murmansk_Oblast
+кораблинский район	Korablinsky_District
+пронский район	Pronsky_District
+александровск-сахалинский	Alexandrovsk-Sakhalinsky_(town)
+чуп	Chupa,_Republic_of_Karelia
+нямозеро	Nyamozero
+сиктях	Siktyakh
+усть-цильма	Ust-Tsilma
+ерт	Yert
+краснооктябрьский район	Krasnooktyabrsky_District,_Nizhny_Novgorod_Oblast
+синдор	Sindor
+чаплыгин	Chaplygin,_Lipetsk_Oblast
+миллеровский район	Millerovsky_District
+нижний серги	Nizhniye_Sergi
+улахан-кюель	Ulakhan-Kyuyol,_Verkhoyansky_District,_Sakha_Republic
+карталинский район	Kartalinsky_District
+пялица	Pyalitsa
+петропавловск	Petropavlovsk,_Sakha_Republic
+омский район	Omsky_District
+чучковский район	Chuchkovsky_District
+оленек	Olenyok_(rural_locality)
+ерцево	Yertsevo
+киреевск	Kireyevsk
+рузский район	Ruzsky_District
+тюкалинский район	Tyukalinsky_District
+алеко-кюель	Aleko-Kyuyol
+суорд	Suordakh
+сыс-мейите	Sysy-Meyite
+булгунняхта	Bulgunnyakhtakh
+тосненский район	Tosnensky_District
+метяк	Metyaki
+кисловодск	Kislovodsk
+мыс-черный	Mys-Chyorny
+повенец	Povenets
+каменск-уральский	Kamensk-Uralsky
+тосно	Tosno
+верхнеколымск	Verkhnekolymsk
+славгород	Slavgorod
+черногорск	Chernogorsk
+жигалово	Zhigalovo,_Irkutsk_Oblast
+кувандыкский район	Kuvandyksky_District
+вытегра	Vytegra
+куда-бясь	Kudu-Byas
+тоншаевский район	Tonshayevsky_District
+новочебоксарск	Novocheboksarsk
+белогорск	Belogorsk,_Amur_Oblast
+инза	Inza,_Russia
+добринский район	Dobrinsky_District
+ковдор	Kovdor
+тос	Tosu,_Russia
+десногорск	Desnogorsk
+нерюнгри	Neryungri
+тарасовский район	Tarasovsky_District
+тарагай-бясь	Taragay-Byas
+лодейный поле	Lodeynoye_Pole
+тарский район	Tarsky_District
+буйнакск	Buynaksk
+чиряпча	Chiryapchi
+промкомбинат	Promkombinat
+асым	Asyma
+свирск	Svirsk
+барабинский  район	Barabinsky_District
+суслонгер	Suslonger
+беченч	Bechencha
+телиг	Teligi,_Russia
+белуший губа	Belushya_Guba
+тербяс	Terbyas
+маслянинский район	Maslyaninsky_District
+себян-кюель	Sebyan-Kyuyol
+ясненский район	Yasnensky_District
+болхов	Bolkhov
+лесной	Lesnoye,_Tver_Oblast
+якокит	Yakokit
+великолукский район	Velikoluksky_District
+владикавказ	Vladikavkaz
+высоцк	Vysotsk
+депутатский	Deputatsky,_Sakha_Republic
+островной	Ostrovnoy,_Murmansk_Oblast
+гудермес	Gudermes
+пинежский район	Pinezhsky_District
+марево	Maryovo
+андреевский	Andreyevsky,_Sakha_Republic
+изобильный	Izobilny,_Stavropol_Krai
+белоярский район	Beloyarsky_District,_Sverdlovsk_Oblast
+новоусманский район	Novousmansky_District
+вайда-губа	Vayda-Guba
+подпорожье	Podporozhye,_Leningrad_Oblast
+томмот	Tommot
+серге-бес	Serge-Bes
+азнакаево	Aznakayevo
+богучаны	Boguchany_(rural_locality)
+витязево	Vityazevo,_Krasnodar_Krai
+тас-анна	Tas-Anna
+нижний ломов	Nizhny_Lomov
+прокопьевск	Prokopyevsk
+любань	Lyuban_(town),_Leningrad_Oblast
+железногорск	Zheleznogorsk,_Kursk_Oblast
+выборг	Vyborg
+надвоица	Nadvoitsy
+камышлов	Kamyshlov
+новый уда	Novaya_Uda,_Irkutsk_Oblast
+ханты-мансийск	Khanty-Mansiysk
+исилькуль	Isilkul
+новосиль	Novosil
+рошаль	Roshal_(town)
+вачский район	Vachsky_District
+полевской	Polevskoy
+красноуфимский район	Krasnoufimsky_District
+татищевский район	Tatishchevsky_District
+муромцевский район	Muromtsevsky_District
+нижегородский область	Nizhny_Novgorod_Oblast
+оконешниковский район	Okoneshnikovsky_District
+минусинский район	Minusinsky_District
+заокский район	Zaoksky_District
+черняховский район	Chernyakhovsky_District
+веселовский район	Vesyolovsky_District
+харб-ат	Kharba-Atakh
+сухоложский район	Sukholozhsky_District
+мурманский область	Murmansk_Oblast
+роман	Roman,_Sakha_Republic
+мяндига	Myandigi
+слободской район	Slobodskoy_District
+тысагаччы	Tysagachchy
+брянск	Bryansk
+астраханский область	Astrakhan_Oblast
+диксон	Dikson_(urban-type_settlement)
+североморск-3	Severomorsk-3_(rural_locality)
+восход	Voskhod,_Moscow_Oblast
+кушва	Kushva
+дудинка	Dudinka
+редкино	Redkino,_Konakovsky_District,_Tver_Oblast
+сочи	Sochi
+провиденский район	Providensky_District
+сараевский район	Sarayevsky_District
+хатылым	Khatylyma
+ямальский район	Yamalsky_District
+валдость	Valdost
+мындагай	Myndagai
+чехов	Chekhov,_Moscow_Oblast
+менделеевск	Mendeleyevsk
+тазовский район	Tazovsky_District
+бакчарский район	Bakcharsky_District
+сеймчан	Seymchan_(urban-type_settlement)
+ковылкино	Kovylkino
+вышневолоцкий район	Vyshnevolotsky_District
+сайылык	Sayylyk,_Verkhnevilyuysky_District,_Sakha_Republic
+верхнехавский район	Verkhnekhavsky_District
+западнодвинский район	Zapadnodvinsky_District
+куженкино	Kuzhenkino_(urban-type_settlement)
+оса	Osa,_Perm_Krai
+новый торъял	Novy_Toryal
+белебей	Belebey
+березовка	Berezovka,_Srednekolymsky_District,_Sakha_Republic
+развилка	Razbilka
+балахтинский район	Balakhtinsky_District
+малый цильна	Malaya_Tsilna,_Republic_of_Tatarstan
+казачинский район	Kazachinsky_District
+кстово	Kstovo
+шимановск	Shimanovsk
+хангаласский улус	Khangalassky_District
+жуковский район	Zhukovsky_District,_Bryansk_Oblast
+нижнеангарск	Nizhneangarsk
+красавино	Krasavino,_Veliky_Ustyug,_Vologda_Oblast
+снежинск	Snezhinsk
+мглин	Mglin
+бетенкес	Betenkyos
+королева	Korolyov,_Moscow_Oblast
+аткарск	Atkarsk
+кичера	Kichera
+увельский район	Uvelsky_District
+шолоховский район	Sholokhovsky_District
+краснооктябрьский	Krasnooktyabrsky,_Mari_El_Republic
+медведево	Medvedevo,_Mari_El_Republic
+курильск	Kurilsk
+темрюк	Temryuk
+красненский район	Krasnensky_District
+тарко-сало	Tarko-Sale
+туруханский район	Turukhansky_District
+нерюктяйинск 2-й	Neryuktyayinsk_2-y
+жарковский район	Zharkovsky_District
+кременка	Kremyonki,_Kaluga_Oblast
+анива	Aniva
+галич	Galich,_Russia
+арбажский район	Arbazhsky_District
+устьянский район	Ustyansky_District
+борский район	Borsky_District,_Samara_Oblast
+рамешковский район	Rameshkovsky_District
+целинный район	Tselinny_District,_Kurgan_Oblast
+салтан	Saltany
+среднеканский район	Srednekansky_District
+обуховый	Obukhovo,_Noginsky_District,_Moscow_Oblast
+хиславичский район	Khislavichsky_District
+гулькевичи	Gulkevichi
+зерноградский район	Zernogradsky_District
+ряжск	Ryazhsk
+тогучин	Toguchin
+рыбинск	Rybinsk
+кемпендяй	Kempendyay
+тюбя	Tyubya
+нововаршавский район	Novovarshavsky_District
+кус	Kusa,_Russia
+ставропольский край	Stavropol_Krai
+химки	Khimki
+окуловка	Okulovka_(town),_Novgorod_Oblast
+калуга	Kaluga
+лопатинский район	Lopatinsky_District
+южно-сахалинск	Yuzhno-Sakhalinsk
+ртищевский район	Rtishchevsky_District
+городовиковск	Gorodovikovsk
+первомайский район	Pervomaysky_District,_Yaroslavl_Oblast
+болховский район	Bolkhovsky_District
+бакал	Bakal,_Russia
+абан	Aban,_Russia
+айхал	Aykhal
+камышлинский район	Kamyshlinsky_District
+балашовский район	Balashovsky_District
+бомнак	Bomnak
+парфино	Parfino
+камень-на-обь	Kamen-na-Obi
+большеболдинский район	Bolsheboldinsky_District
+зеленогорск	Zelenogorsk,_Saint_Petersburg
+холуй	Kholuy,_Ivanovo_Oblast
+два висок	Dve_Viski
+ивангород	Ivangorod
+борогонцы	Borogontsy
+чунский район	Chunsky_District
+name	city
+волховский район	Volkhovsky_District
+галичский район	Galichsky_District
+бетюнец	Betyuntsy
+среднеколымский улус	Srednekolymsky_District
+базарно-карабулакский район	Bazarno-Karabulaksky_District
+мантуровский район	Manturovsky_District,_Kursk_Oblast
+климовский район	Klimovsky_District
+сорочинск	Sorochinsk
+шимановский район	Shimanovsky_District
+арск	Arsk
+краснокаменск	Krasnokamensk,_Zabaykalsky_Krai
+пыщугский район	Pyshchugsky_District
+колпашевский район	Kolpashevsky_District
+псков	Pskov
+иння	Innyakh
+отрадный	Otradny,_Samara_Oblast
+орос	Orosu
+обнинск	Obninsk
+титовка	Titovka,_Murmansk_Oblast
+район чертаново северный	Chertanovo_Severnoye_District
+даргавс	Dargavs
+беляевский район	Belyayevsky_District
+сусуман	Susuman
+трубчевск	Trubchevsk
+дальнегорск	Dalnegorsk
+радищевский район	Radishchevsky_District
+кропоткин	Kropotkin,_Krasnodar_Krai
+уральский	Uralsky,_Sverdlovsk_Oblast
+залегощенский район	Zalegoshchensky_District
+рязанский область	Ryazan_Oblast
+верхний тур	Verkhnyaya_Tura
+маймаг	Maymaga
+кумылженский район	Kumylzhensky_District
+кировск	Kirovsk,_Murmansk_Oblast
+усть-коксинский район	Ust-Koksinsky_District
+манас	Manas_(urban-type_settlement)
+водный	Vodny,_Komi_Republic
+серафимовичский район	Serafimovichsky_District
+ершов	Yershov,_Saratov_Oblast
+карсунский район	Karsunsky_District
+анапа	Anapa
+балахнинский район	Balakhninsky_District
+приозерский район	Priozersky_District
+рощино	Roshchino,_Leningrad_Oblast
+балаганна	Balagannakh,_Verkhnevilyuysky_District,_Sakha_Republic
+рефтинский	Reftinsky
+карачаевск	Karachayevsk
+жердевка	Zherdevka,_Tambov_Oblast
+большемурашкинский район	Bolshemurashkinsky_District
+апатит	Apatity
+карпогоры	Karpogory
+промышленный	Promyshlenny,_Komi_Republic
+ладушкин	Ladushkin
+дмитровский район	Dmitrovsky_District,_Oryol_Oblast
+крохино	Krokhino,_Vologda_Oblast
+милославский район	Miloslavsky_District
+магас	Magas
+деска	Dyosku
+ардатов	Ardatov_(town),_Republic_of_Mordovia
+аргас	Argas,_Sakha_Republic
+каневка	Kanevka
+плес	Plyos,_Ivanovo_Oblast
+багаевский район	Bagayevsky_District
+кыштым	Kyshtym
+апшеронск	Apsheronsk
+бердинка	Berdinka
+поворинский район	Povorinsky_District
+туманный	Tumanny
+уянди	Uyandi
+ченгер	Chengere
+уорай	Uoray
+приютово	Priyutovo,_Republic_of_Bashkortostan
+можайский район	Mozhaysky_District,_Moscow_Oblast
+калининский район	Kalininsky_District,_Tver_Oblast
+устье	Ustye,_Ust-Kubinsky_District,_Vologda_Oblast
+россошанский район	Rossoshansky_District
+пластун	Plastun_(urban-type_settlement)
+мара	Mar,_Russia
+ена	Yona,_Russia
+красноуфимск	Krasnoufimsk
+большеулуйский район	Bolsheuluysky_District
+шебалинский район	Shebalinsky_District
+жердевский район	Zherdevsky_District
+зверево	Zverevo
+эртильский район	Ertilsky_District
+сураж	Surazh
+берлин	Berlin
