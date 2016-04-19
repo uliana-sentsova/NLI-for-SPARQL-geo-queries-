@@ -21,21 +21,20 @@ for line in fh:
             location = location.split("(")
             city_name = location[0].lower().strip()
             dictionary[city_name] = value
-            dictionary["город " + city_name] = value
+            dictionary[city_name + " город"] = value
         elif "(город," in location:
             location = location.split("(город, ")
             city_name = location[0].lower().strip()
             dictionary[city_name] = value
-            dictionary["город " + city_name] = value
+            dictionary[city_name + " город"] = value
             dictionary[city_name + " " + location[1].lower()[:-1]] = value
-            dictionary["город " + city_name + " " + location[1].lower()[:-1]] = value
         else:
             city_name = location.split("(")[0].lower().strip()
             rest = location.split("(")[1].strip(")")
-            if rest.istitle() and len(rest.split()) == 1:
+            if rest[0].isupper() and len(rest.split()) == 1:
                 dictionary[city_name] = value
                 dictionary[city_name + " " + rest.lower()] = value
-            elif rest.istitle():
+            elif rest[0].isupper() and len(rest.split()) > 1:
                 if "—" not in rest:
                     dictionary[city_name] = value
                     dictionary[city_name + " " + rest.split(" ")[1].lower()] = value
@@ -44,8 +43,28 @@ for line in fh:
                     dictionary[city_name] = value
                     dictionary[city_name + " папуа новая гвинея"] = value
                     dictionary[city_name + " новая гвинея"] = value
+            elif "значения" in rest:
+                dictionary[city_name] = value
+            elif len(rest.split(" ")) == 1:
+                dictionary[city_name] = value
+                dictionary[rest + " " + city_name] = value
             else:
-                pass
-                #TODO: написать дальше!
-for key in dictionary:
-    print(key + ": " + dictionary[key])
+                if len(rest.split()) == 2:
+                    if rest.split()[0].endswith("й"):
+                        dictionary[city_name] = value
+                        dictionary[city_name + " " + rest.split()[1]] = value
+                        dictionary[city_name + " " + rest] = value
+                    else:
+                        dictionary[city_name] = value
+                        dictionary[city_name + " " + rest.split()[0].strip(",")] = value
+                        dictionary[city_name + " " + rest.split()[0].strip(",") + " " + rest.split()[1].lower()] = value
+                else:
+                    dictionary[city_name] = value
+                    dictionary[city_name + " лондон"] = value
+                    dictionary[city_name + " район"] = value
+                    dictionary[city_name + " район лондон"] = value
+
+with open("Locations from DBPedia.txt", 'w') as fw:
+    for key in dictionary:
+        print(key + "\t" + dictionary[key])
+        fw.write(key + "\t" + dictionary[key] + "\n")
