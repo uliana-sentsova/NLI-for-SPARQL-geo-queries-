@@ -1490,3 +1490,1502 @@
 брум	Broome,_Western_Australia
 вайсвассер верхняя лужица	Weißwasser
 бар цуг	Baar,_Switzerland
+амос город	Amos_(ancient_city)
+арава новая гвинея	Arawa,_Papua_New_Guinea
+арава папуа новая гвинея	Arawa,_Papua_New_Guinea
+аргунь уезд	Ergun_City
+вестминстер лондон	City_of_Westminster
+вестминстер район	City_of_Westminster
+вестминстер район лондон	City_of_Westminster
+брекенридж	Breckenridge,_Minnesota
+артёмовка  область	Artemivka
+асков город	Askov,_Minnesota
+вентура  калифорния	Ventura,_California
+волин	Wolin_(town)
+арден-хилс город	Arden_Hills,_Minnesota
+вале 	Vale,_Georgia
+андовер	Andover,_Minnesota
+акрон  огайо	Akron,_Ohio
+алес  италия	Ales,_Sardinia
+банияс город	Banias
+бат  мэн	Bath,_Maine
+акаси город	Akashi,_Hyōgo
+ариэль	Ariel_(city)
+вашковцы  район	Vashkivtsi
+волчанск  харьковская область	Vovchansk
+бондо 	Bondo,_Trentino
+буссо	Busso
+волчанск 	Vovchansk
+александрия  румыния	Alexandria,_Romania
+бане	Baneh
+вудленд	Woodland,_Minnesota
+арден-хилс миннесота	Arden_Hills,_Minnesota
+арта город	Arta,_Greece
+акутан  аляска	Akutan,_Alaska
+бату город	Batu_(city)
+бюль 	Bulle
+айова-сити  айова	Iowa_City,_Iowa
+бакус город	Backus,_Minnesota
+арсиноя 	Arsinoe_(Southwest_Cyprus)
+валья  италия	Vaglia
+вис хорватия	Vis_(town)
+бродница 	Brodnica
+вильяэрмоса  табаско	Villahermosa
+абилин  канзас	Abilene,_Kansas
+брайтон 	Brighton,_Colorado
+атуотер	Atwater,_Minnesota
+баден  нижняя австрия	Baden_bei_Wien
+брента город	Brenta,_Lombardy
+белвью город	Belview,_Minnesota
+апамея 	Apamea,_Syria
+агуэро 	Agüero,_Huesca
+асбест город	Asbest
+арлингтон город	Arlington,_Minnesota
+балатон миннесота	Balaton,_Minnesota
+броквилл  онтарио	Brockville
+айона город	Iona,_Minnesota
+артёмовск 	Artyomovsk
+коммуна вильяррика 	Villarrica,_Chile
+волхов	Volkhov
+бат 	Bath,_Maine
+армения  антьокия	Armenia,_Antioquia
+бреме 	Breme
+балатон	Balaton,_Minnesota
+ван-бьюрен  арканзас	Van_Buren,_Arkansas
+бурса	Bursa
+бор  судан	Bor,_South_Sudan
+берлингтон  айова	Burlington,_Iowa
+вайдор  техас	Vidor,_Texas
+алаканук  аляска	Alakanuk,_Alaska
+бостон 	Boston,_Lincolnshire
+брукингз 	Brookings,_South_Dakota
+вас	Vas,_Veneto
+айронтон	Ironton,_Minnesota
+агуэро  уэска	Agüero,_Huesca
+баттамбанг	Battambang
+амато 	Amato
+амброз 	Ambrose,_North_Dakota
+артижа  калифорния	Artesia,_California
+брея 	Breia
+вальденбург 	Waldenburg,_Switzerland
+волин город	Wolin_(town)
+валдай 	Valday
+альгарробо  колумбия	Algarrobo,_Magdalena
+брок город	Brok
+белогорск  крым	Bilohirsk
+березовка  область	Berezivka
+бардо  воеводство	Bardo,_Poland
+амаравати 	Amaravati,_Andhra_Pradesh
+брандон	Brandon,_Minnesota
+баффало	Buffalo,_Minnesota
+бигелоу	Bigelow,_Minnesota
+арцакена 	Arzachena
+альтхайм 	Altheim,_Austria
+вольсинии  этрурия	Volsinii
+ама	Ama,_Aichi
+бингхем-лейк город	Bingham_Lake,_Minnesota
+бренна 	Brenna,_Lombardy
+анока город	Anoka,_Minnesota
+брахам	Braham,_Minnesota
+бад  иран	Badrud
+блумингтон 	Bloomington,_Minnesota
+белвью  вашингтон	Bellevue,_Washington
+вулф-лейк	Wolf_Lake,_Minnesota
+брумфилд  колорадо	Broomfield,_Colorado
+бертрум миннесота	Burtrum,_Minnesota
+брионе  провинция	Brione,_Trentino
+ванг  австрия	Wang,_Austria
+ананд гуджарат	Anand,_Gujarat
+альта-виста  оттава	Alta_Vista,_Ottawa
+альберт-ли	Albert_Lea,_Minnesota
+айванхо	Ivanhoe,_Minnesota
+вильянуэва 	Villanueva,_La_Guajira
+ветлуга	Vetluga
+бока	Boca,_Novara
+бакус миннесота	Backus,_Minnesota
+аурангабад город	Aurangabad,_Maharashtra
+бенито-хуарес  кинтана-роо	Benito_Juárez_Municipality,_Quintana_Roo
+вольфсбах 	Wolfsbach
+бомба 	Bomba,_Abruzzo
+бернсвилл миннесота	Burnsville,_Minnesota
+беллона  кампания	Bellona,_Campania
+вермиллион	Vermillion,_Minnesota
+община бюрен 	Buren
+богданович город	Bogdanovich_(town)
+аргос	Argos
+бейкерсфилд 	Bakersfield,_California
+богухвала город	Bфoguchwała
+амами	Amami,_Kagoshima
+андервуд миннесота	Underwood,_Minnesota
+банана 	Banana,_Democratic_Republic_of_the_Congo
+аррах  индия	Arrah
+валенсия  филиппины	Valencia,_Bukidnon
+высока	Wysoka
+бильче-золотое 	Bilche_Zolote
+байрон миннесота	Byron,_Minnesota
+волчанск  свердловская область	Volchansk
+аланья  италия	Alagna
+алекнагик 	Aleknagik,_Alaska
+бар  черногория	Bar,_Montenegro
+ардон 	Ardón
+арсеньев город	Arsenyev
+велес	Veles_(city)
+брандон город	Brandon,_Minnesota
+азуни  сардиния	Asuni
+бенсон	Benson,_Minnesota
+абийек 	Khak-e_Ali
+авока	Avoca,_Minnesota
+биллингс  монтана	Billings,_Montana
+арвада  колорадо	Arvada,_Colorado
+алаканук 	Alakanuk,_Alaska
+берёзовский  кемеровская область	Beryozovsky,_Kemerovo_Oblast
+бостан 	Bostan,_Iran
+бртнице город	Brtnice
+булл-шолс  арканзас	Bull_Shoals,_Arkansas
+брекенридж миннесота	Breckenridge,_Minnesota
+бергхайм  флахгау	Bergheim,_Austria
+валенса 	Valença,_Portugal
+бондо  италия	Bondo,_Trentino
+астипалея 	Astypalaia
+амбой	Amboy,_Minnesota
+альберт-ли город	Albert_Lea,_Minnesota
+барановка	Baranivka_(city)
+бакингхем  квебек	Buckingham,_Quebec
+виктория  колумбия	Victoria,_British_Columbia
+аслинг  тироль	Assling
+вермиллион  южная дакота	Vermillion,_South_Dakota
+бризи-пойнт	Breezy_Point,_Minnesota
+власиха 	Vlasikha,_Moscow_Oblast
+айова-сити 	Iowa_City,_Iowa
+арна 	Arnad
+благовещенск  башкортостан	Blagoveshchensk,_Republic_of_Bashkortostan
+арко  миннесота	Arco,_Minnesota
+анвик 	Anvik,_Alaska
+бруно 	Bruno,_Piedmont
+белвидир 	Belvidere,_Illinois
+батлер  миссури	Butler,_Missouri
+атенс  алабама	Athens,_Alabama
+басти  уттар-прадеш	Basti,_Uttar_Pradesh
+бакингхем 	Buckingham,_Quebec
+али 	Alì
+брейнерд	Brainerd,_Minnesota
+версаль  миссури	Versailles,_Missouri
+район баррейру 	Barreiro_(city)
+вайтен  нижняя австрия	Weiten
+блафтон миннесота	Bluffton,_Minnesota
+брено  италия	Breno
+белтрами миннесота	Beltrami,_Minnesota
+бомба  абруццо	Bomba,_Abruzzo
+арна  валле-д’аоста	Arnad
+бодайбо город	Bodaybo
+бухбах  нижняя австрия	Buchbach,_Austria
+алес 	Ales,_Sardinia
+волен город	Wohlen,_Aargau
+аурангабад	Aurangabad,_Maharashtra
+бьюна-виста  виргиния	Buena_Vista,_Virginia
+армавир	Armavir,_Armenia
+аира	Aira,_Kagoshima_(Aira)
+белвью  небраска	Bellevue,_Nebraska
+бови миннесота	Bovey,_Minnesota
+багли миннесота	Bagley,_Minnesota
+аркола 	Arcola,_Liguria
+бекли  виргиния	Beckley,_West_Virginia
+алпайн  техас	Alpine,_Texas
+вальверде 	Valverde,_Lombardy
+брайслин	Bricelyn,_Minnesota
+бекер	Becker,_Minnesota
+бенито-хуарес 	Benito_Juárez_Municipality,_Quintana_Roo
+вудленд миннесота	Woodland,_Minnesota
+буй	Buy,_Kostroma_Oblast
+вулкан  румыния	Vulcan,_Hunedoara
+балхаш	Balkhash_(city)
+вайсензе  австрия	Weissensee,_Austria
+берта	Bertha,_Minnesota
+вольфсбах  нижняя австрия	Wolfsbach
+арба	Arba,_Friuli-Venezia_Giulia
+астара 	Astara,_Iran
+берни  тасмания	Burnie,_Tasmania
+астен 	Asten,_Austria
+борислав	Boryslav
+аксу город	Aksu,_Kazakhstan
+белград	Belgrade,_Minnesota
+ворожба город	Vorozhba
+белен  пара	Belém
+бодетт город	Baudette,_Minnesota
+брэдли 	Bradley,_Arkansas
+варт  австрия	Warth,_Lower_Austria
+александровск  луганская область	Oleksandrivsk
+белтрами город	Beltrami,_Minnesota
+вас город	Vas,_Veneto
+власиха  область	Vlasikha,_Moscow_Oblast
+бродница  воеводство	Brodnica
+весковато 	Vescovato,_Lombardy
+ако	Akō,_Hyōgo
+бекли  западная виргиния	Beckley,_West_Virginia
+вау  южный судан	Wau,_South_Sudan
+биски	Biscay,_Minnesota
+бусиа  уганда	Busia,_Uganda
+бенгела	Benguela
+боре 	Bore,_Emilia-Romagna
+беттлс  аляска	Bettles,_Alaska
+арлингтон  техас	Arlington,_Texas
+алдан город	Aldan,_Russia
+велюнь 	Wieluń
+богданович	Bogdanovich_(town)
+бьюкенен 	Buchanan,_Michigan
+акри	Acri
+ауаса город	Awasa
+бетел-хайтс 	Bethel_Heights,_Arkansas
+ванкувер 	Vancouver,_Washington
+бейтсвилл  арканзас	Batesville,_Arkansas
+балашов	Balashov_(town)
+валки	Valky
+веста миннесота	Vesta,_Minnesota
+апсала миннесота	Upsala,_Minnesota
+барстоу 	Barstow,_California
+брук-парк	Brook_Park,_Minnesota
+виктория	Victoria,_Minnesota
+бакнер 	Buckner,_Arkansas
+березань город	Berezan
+брум 	Broome,_Western_Australia
+блейн город	Blaine,_Minnesota
+боно  сардиния	Bono,_Italy
+бломкест город	Blomkest,_Minnesota
+ван-бьюрен 	Van_Buren,_Arkansas
+берта город	Bertha,_Minnesota
+боттино 	Bottineau,_North_Dakota
+алексеевка	Alexeyevka,_Belgorod_Oblast
+баббитт город	Babbitt,_Minnesota
+амаро 	Amaro,_Friuli
+бакленд  аляска	Buckland,_Alaska
+волос	Volos
+бойд город	Boyd,_Minnesota
+блэкфут	Blackfoot,_Idaho
+бжостек	Brzostek
+вишнёвое	Vyshneve
+азуни 	Asuni
+аира город	Aira,_Kagoshima_(Aira)
+агра  провинция варезе	Agra,_Lombardy
+бониту  мату-гросу-ду-сул	Bonito,_Mato_Grosso_do_Sul
+анактувук-пасс 	Anaktuvuk_Pass,_Alaska
+баббитт	Babbitt,_Minnesota
+бови	Bovey,_Minnesota
+беруин 	Berwyn,_Illinois
+арко  италия	Arco,_Trentino
+аки город	Aki,_Kōchi
+брум  австралия	Broome,_Western_Australia
+браунсдейл	Brownsdale,_Minnesota
+армеро  колумбия	Armero
+брайтенштайн  австрия	Breitenstein,_Lower_Austria
+альтендорф 	Altendorf,_Austria
+баффало миннесота	Buffalo,_Minnesota
+алькофен  верхняя австрия	Alkoven
+виктория миннесота	Victoria,_Minnesota
+бенкулу	Bengkulu_(city)
+бандера 	Bandera,_Texas
+астория 	Astoria,_Oregon
+белен  нью-мексико	Belen,_New_Mexico
+виджанелло  италия	Viggianello
+бангор 	Bangor,_Gwynedd
+баджер город	Badger,_Minnesota
+анантапур город	Anantapur,_Andhra_Pradesh
+адамов 	Adamov_(Blansko_District)
+алкобаса	Alcobaça,_Portugal
+варберг  швеция	Varberg
+варена 	Varena,_Trentino
+баффало-лейк	Buffalo_Lake,_Minnesota
+велье  италия	Veglie
+айяс  италия	Ayas,_Aosta_Valley
+брукстон город	Brookston,_Minnesota
+власиха  московская область	Vlasikha,_Moscow_Oblast
+афтон город	Afton,_Minnesota
+арканзас-сити 	Arkansas_City,_Arkansas
+блафтон город	Bluffton,_Minnesota
+абилин 	Abilene,_Texas
+вайкинг миннесота	Viking,_Minnesota
+месторождение ассалуйе 	Asaluyeh
+бедиас 	Bedias,_Texas
+березовка 	Berezivka
+вентура 	Ventura,_California
+брукингз  дакота	Brookings,_South_Dakota
+коммуна бренна 	Brenna,_Lombardy
+берли 	Burley,_Idaho
+брайант 	Bryant,_Arkansas
+бирдсли город	Beardsley,_Minnesota
+бертрум	Burtrum,_Minnesota
+биджу	Bejou,_Minnesota
+вустер 	Worcester,_Massachusetts
+вайкинг	Viking,_Minnesota
+блуминг-прери	Blooming_Prairie,_Minnesota
+адамс город	Adams,_Minnesota
+вольфсберг 	Wolfsberg,_Carinthia
+бологое 	Bologoye
+бруно миннесота	Bruno,_Minnesota
+армази город	Armazi
+акутан 	Akutan,_Alaska
+ари  провинция кьети	Ari,_Abruzzo
+баран город	Baran,_Rajasthan
+бингхем-лейк миннесота	Bingham_Lake,_Minnesota
+ако город	Akō,_Hyōgo
+бови город	Bovey,_Minnesota
+коммуна боволента 	Bovolenta
+вале  грузия	Vale,_Georgia
+альтхайм  австрия	Altheim,_Austria
+беллфлауэр 	Bellflower,_California
+байджнатх  химачал-прадеш	Baijnath,_Himachal_Pradesh
+барыш город	Barysh
+бина город	Bena,_Minnesota
+барранкас 	Barrancas,_La_Guajira
+белчестер город	Bellechester,_Minnesota
+бергамаско  италия	Bergamasco,_Piedmont
+брандон миннесота	Brandon,_Minnesota
+аркола  италия	Arcola,_Liguria
+бентон 	Benton,_Arkansas
+боволента 	Bovolenta
+вернон 	Vernon,_Texas
+боа-виста 	Boa_Vista,_Roraima
+восход 	Voskhod,_Moscow_Oblast
+атенс 	Athens,_Ohio
+атенс  джорджия	Athens,_Georgia
+анвик  аляска	Anvik,_Alaska
+боре  италия	Bore,_Emilia-Romagna
+вернон-сентер	Vernon_Center,_Minnesota
+ава япония	Awa,_Tokushima
+америка-ii  тамаулипас	América_II,_Tamaulipas
+атри город	Atri,_Abruzzo
+вермиллион 	Vermillion,_South_Dakota
+альба  пьемонт	Alba,_Piedmont
+вашингтон  округ колумбия	Washington,_D.C.
+беллингхем 	Bellingham,_Washington
+англтон  техас	Angleton,_Texas
+асия город	Ashiya,_Hyōgo
+волхов город	Volkhov
+барнум миннесота	Barnum,_Minnesota
+агуаскальентес город	Aguascalientes,_Aguascalientes
+вакаяма город	Wakayama,_Wakayama
+бишо	Bhisho
+аргайл	Argyle,_Minnesota
+байконур	Baikonur
+атеа 	Atea,_Zaragoza
+альберт-ли миннесота	Albert_Lea,_Minnesota
+берндорф  австрия	Berndorf,_Lower_Austria
+бигфорк миннесота	Bigfork,_Minnesota
+баден  австрия	Baden_bei_Wien
+бранч 	Branch,_Arkansas
+альтенбург 	Altenburg,_Lower_Austria
+брахам город	Braham,_Minnesota
+муниципалитет бучине 	Bucine
+барро 	Barro
+аннаполис 	Annapolis,_Maryland
+байрон город	Byron,_Minnesota
+бозмен 	Bozeman,_Montana
+винкларн  нижняя австрия	Winklarn,_Austria
+вудбери  миннесота	Woodbury,_Minnesota
+бор  район	Bor_(Tachov_District)
+бассет 	Bassett,_Nebraska
+аламида калифорния	Alameda,_California
+бигфорк город	Bigfork,_Minnesota
+бароло город	Barolo,_Piedmont
+андерсон 	Anderson,_Texas
+блафтон	Bluffton,_Minnesota
+вянта	Venta
+беркли 	Berkeley,_California
+берлин  нью-гэмпшир	Berlin,_New_Hampshire
+виктория город	Victoria,_Minnesota
+бангор  уэльс	Bangor,_Gwynedd
+батман	Batman,_Turkey
+бомонт  техас	Beaumont,_Texas
+брукстон	Brookston,_Minnesota
+биласпур	Bilaspur,_Chhattisgarh
+вернберг 	Wernberg
+берривилл 	Berryville,_Arkansas
+варт  форарльберг	Warth,_Vorarlberg
+бейра 	Beira,_Mozambique
+акиак 	Akiak,_Alaska
+брион 	Brión
+айванхо миннесота	Ivanhoe,_Minnesota
+вильяэрмоса 	Villahermosa
+биски город	Biscay,_Minnesota
+бусиа  кения	Busia,_Kenya
+виль 	Wil
+вольфсберг  каринтия	Wolfsberg,_Carinthia
+белоярский	Beloyarsky,_Khanty-Mansi_Autonomous_Okrug
+вермиллион  дакота	Vermillion,_South_Dakota
+бароло	Barolo,_Piedmont
+берд-айленд город	Bird_Island,_Minnesota
+бар  цуг	Baar,_Switzerland
+викторвилл 	Victorville,_California
+бенкулу город	Bengkulu_(city)
+бруклин-сентер город	Brooklyn_Center,_Minnesota
+брустер город	Brewster,_Minnesota
+барлинг 	Barling,_Arkansas
+бристол  виргиния	Bristol,_Virginia
+вайнона 	Winona,_Mississippi
+аксу	Aksu,_Kazakhstan
+альби  калабрия	Albi,_Calabria
+альта-виста 	Alta_Vista,_Ottawa
+висла	Wisła
+акбарпур  амбедкарнагар	Akbarpur,_Ambedkar_Nagar
+борегард  приход луизиана	Beauregard_Parish,_Louisiana
+вау  судан	Wau,_South_Sudan
+ашленд 	Ashland,_Ohio
+виксберг  миссисипи	Vicksburg,_Mississippi
+асо	Aso,_Kumamoto
+визен  бургенланд	Wiesen,_Austria
+армази	Armazi
+баворов  чехия	Bavorov
+биг-фолс город	Big_Falls,_Minnesota
+березань	Berezan
+блайтвилл 	Blytheville,_Arkansas
+бомонт 	Beaumont,_Texas
+боббио  италия	Bobbio
+англтон 	Angleton,_Texas
+барбареско	Barbaresco,_Piedmont
+бюрен 	Buren
+аксай  область	Aksay,_Rostov_Oblast
+вайнбург 	Weinburg
+белоярский город	Beloyarsky,_Khanty-Mansi_Autonomous_Okrug
+бобова	Bobowa
+вахрушево город	Vakhrusheve
+берни 	Burnie,_Tasmania
+винчи город	Vinci,_Tuscany
+вейс 	Veys
+арбус 	Arbus,_Sardinia
+айронтон город	Ironton,_Minnesota
+бистрица  румыния	Bistrița
+барди	Bardi,_Emilia-Romagna
+баффало-лейк город	Buffalo_Lake,_Minnesota
+винкларн  австрия	Winklarn,_Austria
+вышгород 	Vyshhorod
+бучине 	Bucine
+алькофен  австрия	Alkoven
+бирдсли	Beardsley,_Minnesota
+бой-ривер	Boy_River,_Minnesota
+вишнупур город	Bishnupur,_Bankura
+вяземский город	Vyazemsky,_Khabarovsk_Krai
+банияс израиль	Banias
+боулус миннесота	Bowlus,_Minnesota
+альварес 	Álvarez,_Tamaulipas
+александровск  область	Oleksandrivsk
+бостон  линкольншир	Boston,_Lincolnshire
+брайтенштайн 	Breitenstein,_Lower_Austria
+бенд  орегон	Bend,_Oregon
+америка-ii 	América_II,_Tamaulipas
+ванг  нижняя австрия	Wang,_Austria
+батл-лейк город	Battle_Lake,_Minnesota
+альби 	Albi,_Calabria
+агдам	Agdam
+альтендорф  нижняя австрия	Altendorf,_Austria
+бруно	Bruno,_Minnesota
+белл-плейн город	Belle_Plaine,_Minnesota
+авока город	Avoca,_Minnesota
+брутен	Brooten,_Minnesota
+белград миннесота	Belgrade,_Minnesota
+бильче-золотое  район	Bilche_Zolote
+букс  санкт-галлен	Buchs,_St._Gallen
+боннерс-ферри  айдахо	Bonners_Ferry,_Idaho
+аллен 	Allein
+аллакакет  аляска	Allakaket,_Alaska
+вермиллион город	Vermillion,_Minnesota
+абовян город	Abovyan
+амброз  дакота	Ambrose,_North_Dakota
+бридж-сити  техас	Bridge_City,_Texas
+буэна-парк 	Buena_Park,_California
+ветлуга город	Vetluga
+асака 	Asaka,_Saitama
+ари  провинция	Ari,_Abruzzo
+бергамаско 	Bergamasco,_Piedmont
+вэньчан	Wenchang
+беллингхем город	Bellingham,_Minnesota
+батман город	Batman,_Turkey
+буе 	Buje
+бухбах  австрия	Buchbach,_Austria
+коммуна бьянки 	Bianchi,_Calabria
+белый	Bely,_Tver_Oblast
+блитар город	Blitar
+батл-лейк миннесота	Battle_Lake,_Minnesota
+арида	Arida,_Wakayama
+асахи 	Asahi,_Chiba
+вилья-дель-росарио  колумбия	Villa_del_Rosario,_Norte_de_Santander
+аугуста 	Augusta,_Sicily
+арцакена  сардиния	Arzachena
+виноградов	Vynohradiv
+браунсвилл город	Brownsville,_Minnesota
+бьянки 	Bianchi,_Calabria
+бургос  сардиния	Burgos,_Sardinia
+браунтон	Brownton,_Minnesota
+баумгартен  бургенланд	Baumgarten,_Burgenland
+вейс  хузестан	Veys
+батлер 	Butler,_Missouri
+бенгела город	Benguela
+аммон 	Ammon,_Idaho
+брутен миннесота	Brooten,_Minnesota
+белград город	Belgrade,_Minnesota
+бей-сити 	Bay_City,_Michigan
+бигфорк	Bigfork,_Minnesota
+вильнёв 	Villeneuve,_Vaud
+андерсон  индиана	Anderson,_Indiana
+виктория 	Victoria,_Texas
+аргос город	Argos
+село башка 	Baška_(Frýdek-Místek_District)
+волос город	Volos
+аттапы	Attapeu
+бьютт 	Butte,_Montana
+бивер-крик миннесота	Beaver_Creek,_Minnesota
+бенсон миннесота	Benson,_Minnesota
+боржоми	Borjomi
+бибербах  нижняя австрия	Biberbach,_Austria
+барро  испания	Barro
+арауко  чили	Arauco,_Chile
+вудберн  орегон	Woodburn,_Oregon
+вуд-лейк миннесота	Wood_Lake,_Minnesota
+атуотер миннесота	Atwater,_Minnesota
+белчестер миннесота	Bellechester,_Minnesota
+бастроп  техас	Bastrop,_Texas
+авадзи	Awaji,_Hyōgo
+альбек  каринтия	Albeck,_Carinthia
+барранкас  гуахира	Barrancas,_La_Guajira
+вахрушево	Vakhrusheve
+вермиллион миннесота	Vermillion,_Minnesota
+бивер-крик город	Beaver_Creek,_Minnesota
+анива	Aniva
+буэна-парк  калифорния	Buena_Park,_California
+белл  калифорния	Bell,_California
+вуд-лейк	Wood_Lake,_Minnesota
+вэньчан город	Wenchang
+брея  италия	Breia
+боттино  дакота	Bottineau,_North_Dakota
+белл 	Bell,_California
+алфа миннесота	Alpha,_Minnesota
+бекингем  техас	Buckingham,_Richardson,_Texas
+барди город	Bardi,_Emilia-Romagna
+арсиноя  пафос	Arsinoe_(Southwest_Cyprus)
+алфа город	Alpha,_Minnesota
+блейн	Blaine,_Minnesota
+альбертвилл  миннесота	Albertville,_Minnesota
+аппенцелль город	Appenzell_(town)
+алтеймер  арканзас	Altheimer,_Arkansas
+айсанти город	Isanti,_Minnesota
+арена 	Arena,_Calabria
+вольсинии 	Volsinii
+акри город	Acri
+андерсон  техас	Anderson,_Texas
+брионе 	Brione,_Trentino
+багли город	Bagley,_Minnesota
+барнум город	Barnum,_Minnesota
+акрон 	Akron,_Ohio
+брайслин город	Bricelyn,_Minnesota
+видеркер-вилидж  арканзас	Wiederkehr_Village,_Arkansas
+барри миннесота	Barry,_Minnesota
+асков миннесота	Askov,_Minnesota
+анахайм 	Anaheim,_California
+бртнице	Brtnice
+алегзандрия миннесота	Alexandria,_Minnesota
+бор  область	Bor,_Nizhny_Novgorod_Oblast
+биджу город	Bejou,_Minnesota
+барни  комо	Barni
+басти 	Basti,_Uttar_Pradesh
+баффало  вайоминг	Buffalo,_Wyoming
+бьютт  монтана	Butte,_Montana
+вальверде  сицилия	Valverde,_Sicily
+боа-виста  рорайма	Boa_Vista,_Roraima
+альбек 	Albeck,_Carinthia
+адамов  район бланско	Adamov_(Blansko_District)
+акиак  аляска	Akiak,_Alaska
+аксай  ростовская область	Aksay,_Rostov_Oblast
+барлинг  арканзас	Barling,_Arkansas
+бандо	Bandō,_Ibaraki
+биатрис 	Beatrice,_Nebraska
+айона миннесота	Iona,_Minnesota
+бекингем 	Buckingham,_Richardson,_Texas
+вянта город	Venta
+аннополь город	Annopol
+барки 	Barchi,_Marche
+ашби город	Ashby,_Minnesota
+верджиния 	Virginia,_Minnesota
+аплтон город	Appleton,_Minnesota
+айл город	Isle,_Minnesota
+бродница  куявско-поморское воеводство	Brodnica
+вольбуж город	Wolbórz
+бикин	Bikin
+аннаберг 	Annaberg,_Lower_Austria
+амбон город	Ambon,_Maluku
+бивер-крик	Beaver_Creek,_Minnesota
+аппенцелль	Appenzell_(town)
+район вила-реал-де-санту-антониу 	Vila_Real_de_Santo_António_(parish)
+вергас город	Vergas,_Minnesota
+бату	Batu_(city)
+алекнагик  аляска	Aleknagik,_Alaska
+вальехо 	Vallejo,_California
+бунвилл  арканзас	Booneville,_Arkansas
+барретт миннесота	Barrett,_Minnesota
+виктория  румыния	Victoria,_Brașov
+велье 	Veglie
+алексеевка город	Alexeyevka,_Belgorod_Oblast
+браунс-валли	Browns_Valley,_Minnesota
+астара  иран	Astara,_Iran
+беллфлауэр  калифорния	Bellflower,_California
+берёзовский 	Beryozovsky,_Sverdlovsk_Oblast
+адамов  район	Adamov_(Blansko_District)
+агдам город	Agdam
+адаб город	Adab_(city)
+вайнбург  австрия	Weinburg
+билокси  миссисипи	Biloxi,_Mississippi
+агон 	Agón
+бодетт	Baudette,_Minnesota
+биг-фолс миннесота	Big_Falls,_Minnesota
+вулкан 	Vulcan,_Hunedoara
+буффало  техас	Buffalo,_Texas
+апсала	Upsala,_Minnesota
+бад 	Badrud
+бук  познанский повят	Buk
+бургдорф 	Burgdorf,_Switzerland
+вернал  юта	Vernal,_Utah
+абовян	Abovyan
+артёмовск  область	Artemivsk,_Luhansk_Oblast
+бивертон 	Beaverton,_Oregon
+боубеллс  дакота	Bowbells,_North_Dakota
+аннистон 	Anniston,_Alabama
+амблер  аляска	Ambler,_Alaska
+белиз город	Belize_City
+вайдор 	Vidor,_Texas
+амакуса город	Amakusa,_Kumamoto
+аллен  валле-д’аоста	Allein
+брумфилд 	Broomfield,_Colorado
+буксар	Buxar
+бук  повят	Buk
+бурса город	Bursa
+блэкфут айдахо	Blackfoot,_Idaho
+алексин город	Aleksin
+абаза	Abaza_(town)
+боруп	Borup,_Minnesota
+верт 	Weert
+алтура миннесота	Altura,_Minnesota
+бибербах  австрия	Biberbach,_Austria
+барроу 	Barrow,_Alaska
+брокен-боу 	Broken_Bow,_Nebraska
+вестминстер  колорадо	Westminster,_Colorado
+браунсвилл миннесота	Brownsville,_Minnesota
+адамс миннесота	Adams,_Minnesota
+бжостек город	Brzostek
+асков	Askov,_Minnesota
+берлин 	Berlin,_New_Hampshire
+вольбуж	Wolbórz
+виксберг 	Vicksburg,_Mississippi
+арад 	Arad,_Romania
+блайтвилл  арканзас	Blytheville,_Arkansas
+бурон  леон	Burón
+варка город	Warka
+брокен-хилл  австралия	Broken_Hill,_New_South_Wales
+бехар 	Bahar,_Iran
+браке  нижний везер	Brake,_Lower_Saxony
+бернсвилл город	Burnsville,_Minnesota
+беркли  калифорния	Berkeley,_California
+авока миннесота	Avoca,_Minnesota
+вальверде  провинция павия	Valverde,_Lombardy
+биг-лейк город	Big_Lake,_Minnesota
+блоне 	Błonie
+остров вис 	Vis_(island)
+бока-ратон 	Boca_Raton,_Florida
+биг-лейк	Big_Lake,_Minnesota
+битти  сардиния	Bitti
+бербанк 	Burbank,_California
+брайтенштайн  нижняя австрия	Breitenstein,_Lower_Austria
+алжир город	Algiers
+виллард миннесота	Villard,_Minnesota
+брутен город	Brooten,_Minnesota
+андрус 	Andrews,_Texas
+валлерн  бургенланд	Wallern_im_Burgenland
+брайтенау  нижняя австрия	Breitenau,_Lower_Austria
+артёмовка 	Artemivka
+баттерфилд  миннесота	Butterfield,_Minnesota
+визен 	Wiesen,_Austria
+берд-айленд	Bird_Island,_Minnesota
+брук-парк город	Brook_Park,_Minnesota
+бисби 	Bisbee,_Arizona
+болд-ноб 	Bald_Knob,_Arkansas
+алварейдо город	Alvarado,_Minnesota
+брейнерд миннесота	Brainerd,_Minnesota
+баффало 	Buffalo,_Wyoming
+аксай 	Aksay,_Rostov_Oblast
+броктон 	Brockton,_Massachusetts
+вяземский	Vyazemsky,_Khabarovsk_Krai
+белчестер	Bellechester,_Minnesota
+велюнь  польша	Wieluń
+бар город	Bar,_Ukraine
+аннистон  алабама	Anniston,_Alabama
+альварес  тамаулипас	Álvarez,_Tamaulipas
+вольфсбах  австрия	Wolfsbach
+блуминг-прери миннесота	Blooming_Prairie,_Minnesota
+альгарробо 	Algarrobo,_Magdalena
+армавир город	Armavir,_Armenia
+банана  демократическая республика конго	Banana,_Democratic_Republic_of_the_Congo
+войнич  польша	Wojnicz
+бистрица 	Bistrița
+арсеньев	Arsenyev
+коммуна амаро 	Amaro,_Friuli
+борегард  приход	Beauregard_Parish,_Louisiana
+арад  израиль	Arad,_Israel
+богуслав город	Bohuslav
+байвабик город	Biwabik,_Minnesota
+вайсвассер 	Weißwasser
+бельви  италия	Belvì
+бисмарк 	Bismarck,_North_Dakota
+берлингтон 	Burlington,_North_Carolina
+асан	Asan
+берёзовский  область	Beryozovsky,_Sverdlovsk_Oblast
+аплтон миннесота	Appleton,_Minnesota
+ашленд  огайо	Ashland,_Ohio
+аннополь	Annopol
+браунсвилл 	Brownsville,_Texas
+буссо город	Busso
+аллакакет 	Allakaket,_Alaska
+бедфорд  виргиния	Bedford,_Virginia
+банана  республика	Banana,_Democratic_Republic_of_the_Congo
+альманса  леон	Almanza
+абингдон  иллинойс	Abingdon,_Illinois
+бониту 	Bonito,_Mato_Grosso_do_Sul
+восточная провинция  сьерра-леоне	Eastern_Province,_Sierra_Leone
+бакстер миннесота	Baxter,_Minnesota
+бингхем-лейк	Bingham_Lake,_Minnesota
+баумгартен 	Baumgarten,_Burgenland
+вулвертон миннесота	Wolverton,_Minnesota
+бородино	Borodino,_Krasnoyarsk_Krai
+александрия  виргиния	Alexandria,_Virginia
+остров астипалея 	Astypalaia
+ворожба	Vorozhba
+буе  хорватия	Buje
+альма  арканзас	Alma,_Arkansas
+аннандейл миннесота	Annandale,_Minnesota
+вакаяма	Wakayama,_Wakayama
+баффало город	Buffalo,_Minnesota
+бок	Bock,_Minnesota
+бьюна-виста 	Buena_Vista,_Virginia
+анока миннесота	Anoka,_Minnesota
+вайнинг город	Vining,_Minnesota
+анан  токусима	Anan,_Tokushima
+арлингтон миннесота	Arlington,_Minnesota
+вулвертон	Wolverton,_Minnesota
+аурангабад махараштра	Aurangabad,_Maharashtra
+вильнёв  валле-д’аоста	Villeneuve,_Aosta_Valley
+варта	Warta,_Poland
+арта	Arta,_Greece
+бакман город	Buckman,_Minnesota
+брунталь  чехия	Bruntál
+бар  валле-д’аоста	Bard,_Aosta_Valley
+бина миннесота	Bena,_Minnesota
+брейди 	Brady,_Texas
+брок	Brok
+алхамбра  калифорния	Alhambra,_California
+болдуин-парк  калифорния	Baldwin_Park,_California
+брайтенау 	Breitenau,_Lower_Austria
+васильевка	Vasylivka
+банияс	Banias
+бакленд 	Buckland,_Alaska
+борислав город	Boryslav
+ардон  леон	Ardón
+барановка город	Baranivka_(city)
+аслинг 	Assling
+вис город	Vis_(town)
+альтурас  калифорния	Alturas,_California
+бишо город	Bhisho
+амброз  северная дакота	Ambrose,_North_Dakota
+арад  румыния	Arad,_Romania
+бедфорд 	Bedford,_Virginia
+браунтон город	Brownton,_Minnesota
+вустер  массачусетс	Worcester,_Massachusetts
+белла 	Bella,_Basilicata
+ваднес-хайтс миннесота	Vadnais_Heights,_Minnesota
+боржоми город	Borjomi
+вальмала  италия	Valmala,_Italy
+берчвуд-виллидж миннесота	Birchwood_Village,_Minnesota
+авара город	Awara,_Fukui
+банджар город	Banjar,_West_Java
+ваднес-хайтс город	Vadnais_Heights,_Minnesota
+волосово 	Volosovo
+вильферсдорф 	Wilfersdorf
+адак 	Adak,_Alaska
+вудберн 	Woodburn,_Oregon
+муниципалитет бруно 	Bruno,_Piedmont
+бар	Bar,_Ukraine
+бой-ривер город	Boy_River,_Minnesota
+аламида	Alameda,_California
+беруин  иллинойс	Berwyn,_Illinois
+барретт город	Barrett,_Minnesota
+арта греция	Arta,_Greece
+бейнбридж  джорджия	Bainbridge,_Georgia
+акбарпур 	Akbarpur,_Ambedkar_Nagar
+бейтсвилл  миссисипи	Batesville,_Mississippi
+арагацотн 	Aragatsotn_(village)
+брест  франция	Brest,_France
+асакура город	Asakura,_Fukuoka
+беллингхем	Bellingham,_Minnesota
+блэкдак	Blackduck,_Minnesota
+боруп город	Borup,_Minnesota
+виноградов город	Vynohradiv
+анаконда 	Anaconda,_Montana
+бановичи	Banovići
+беллвилл  иллинойс	Belleville,_Illinois
+асадабад  хамадан	Asadabad,_Iran
+браунсдейл город	Brownsdale,_Minnesota
+батл-лейк	Battle_Lake,_Minnesota
+альтенбург  австрия	Altenburg,_Lower_Austria
+во  италия	Vò
+брукс	Brooks,_Minnesota
+айронтон миннесота	Ironton,_Minnesota
+агра  провинция	Agra,_Lombardy
+бьюл	Buhl,_Minnesota
+армения 	Armenia,_Antioquia
+александровск 	Alexandrovsk,_Perm_Krai
+браунтон миннесота	Brownton,_Minnesota
+волчанск  область	Vovchansk
+бассет  небраска	Bassett,_Nebraska
+виллард город	Villard,_Minnesota
+боза  сардиния	Bosa
+ава город	Awa,_Tokushima
+банджар индонезия	Banjar,_West_Java
+биски миннесота	Biscay,_Minnesota
+вильегас 	Villegas
+боулдер 	Boulder,_Colorado
+бруклин-сентер миннесота	Brooklyn_Center,_Minnesota
+арозио 	Arosio
+альма 	Alma,_Arkansas
+айяс 	Ayas,_Aosta_Valley
+богухвала	Boguchwała
+бастроп 	Bastrop,_Texas
+ариэль город	Ariel_(city)
+апамея  сирия	Apamea,_Syria
+бор 	Bor_(Tachov_District)
+вентотене город	Ventotene
+арона  италия	Arona,_Piedmont
+арена  калабрия	Arena,_Calabria
+боулус	Bowlus,_Minnesota
+балад  ирак	Balad,_Iraq
+бристол 	Bristol,_Tennessee
+антиок 	Antioch,_California
+белиз	Belize_City
+бен  и	Ben,_Iran
+белл-плейн	Belle_Plaine,_Minnesota
+беттлс 	Bettles,_Alaska
+бхаратпур  индия	Bharatpur,_Rajasthan
+билина город	Bílina
+вишнупур	Bishnupur,_Bankura
+браунсдейл миннесота	Brownsdale,_Minnesota
+арберг  берн	Aarberg
+барнум	Barnum,_Minnesota
+виола	Viola,_Piedmont
+белый город	Bely,_Tver_Oblast
+брукстон миннесота	Brookston,_Minnesota
+аммон  айдахо	Ammon,_Idaho
+батерст город	Bathurst,_New_South_Wales
+аплтон	Appleton,_Minnesota
+бруклин-сентер	Brooklyn_Center,_Minnesota
+белтрами	Beltrami,_Minnesota
+бейра  мозамбик	Beira,_Mozambique
+бетлехем  пенсильвания	Bethlehem,_Pennsylvania
+бар 	Bar,_Montenegro
+аргайл город	Argyle,_Minnesota
+армавир 	Armavir,_Russia
+алькофен 	Alkoven
+ананд	Anand,_Gujarat
+балхаш город	Balkhash_(city)
+бромберг  нижняя австрия	Bromberg,_Lower_Austria
+адаб	Adab_(city)
+берг 	Berg,_Lower_Austria
+броуэрвилл	Browerville,_Minnesota
+врангель  аляска	Wrangell,_Alaska
+ама город	Ama,_Aichi
+бухбах 	Buchbach,_Austria
+брента	Brenta,_Lombardy
+бивер-бей миннесота	Beaver_Bay,_Minnesota
+ваган 	Vahan,_Armenia
+ашшур	Assur
+баворов 	Bavorov
+бигелоу город	Bigelow,_Minnesota
+вернон  калифорния	Vernon,_California
+балашов город	Balashov_(town)
+биллингс 	Billings,_Montana
+биль	Biel/Bienne
+броквилл 	Brockville
+блумингтон  иллинойс	Bloomington,_Illinois
+барнсвилл	Barnesville,_Minnesota
+бирмингем 	Birmingham,_Alabama
+брадфорд 	Bradford,_Arkansas
+виборг	Viborg,_Denmark
+альбертвилл 	Albertville,_Minnesota
+банбери 	Bunbury,_Western_Australia
+баджер	Badger,_Minnesota
+арвада 	Arvada,_Colorado
+брэдбери  калифорния	Bradbury,_California
+алкобаса город	Alcobaça,_Portugal
+верндейл	Verndale,_Minnesota
+аннаберг  нижняя австрия	Annaberg,_Lower_Austria
+вайсвассер  верхняя лужица	Weißwasser
+альтштеттен  санкт-галлен	Altstätten
+ассалуйе 	Asaluyeh
+баббитт миннесота	Babbitt,_Minnesota
+блитар	Blitar
+браунсвилл	Brownsville,_Minnesota
+биль город	Biel/Bienne
+вышгород  украина	Vyshhorod
+андервуд	Underwood,_Minnesota
+арлингтон	Arlington,_Minnesota
+ананд город	Anand,_Gujarat
+адак  аляска	Adak,_Alaska
+бивертон  орегон	Beaverton,_Oregon
+байвабик миннесота	Biwabik,_Minnesota
+бенд 	Bend,_Oregon
+балатон город	Balaton,_Minnesota
+аркадия  калифорния	Arcadia,_California
+апсала город	Upsala,_Minnesota
+варта город	Warta,_Poland
+бенсон город	Benson,_Minnesota
+бристол  теннесси	Bristol,_Tennessee
+баски 	Baschi
+авадзи город	Awaji,_Hyōgo
+белвидир  иллинойс	Belvidere,_Illinois
+бедиас  техас	Bedias,_Texas
+вила-реал-де-санту-антониу 	Vila_Real_de_Santo_António_(parish)
+берта миннесота	Bertha,_Minnesota
+брук-парк миннесота	Brook_Park,_Minnesota
+вайкинг город	Viking,_Minnesota
+бреме  италия	Breme
+бруклин-парк миннесота	Brooklyn_Park,_Minnesota
+бейпорт город	Bayport,_Minnesota
+бор  нижегородская область	Bor,_Nizhny_Novgorod_Oblast
+аулетта  кампания	Auletta
+афтон	Afton,_Minnesota
+боно 	Bono,_Italy
+бат  англия	Bath,_Somerset
+владимир	Vladimir
+амами город	Amami,_Kagoshima
+байвабик	Biwabik,_Minnesota
+ава	Awa,_Tokushima
+бейтсвилл 	Batesville,_Mississippi
+альманса 	Almanza
+бруклин-парк	Brooklyn_Park,_Minnesota
+ари 	Ari,_Abruzzo
+артижа 	Artesia,_New_Mexico
+вашингтон  северная каролина	Washington,_North_Carolina
+баррейру 	Barreiro_(city)
+абингдон 	Abingdon,_Illinois
+брадфорд  арканзас	Bradford,_Arkansas
+балад 	Balad,_Iraq
+асадабад 	Asadabad,_Iran
+берлингтон  северная каролина	Burlington,_North_Carolina
+вудбери 	Woodbury,_Minnesota
+бургдорф  берн	Burgdorf,_Switzerland
+асака  япония	Asaka,_Saitama
+александрия 	Alexandria,_Romania
+алтус  арканзас	Altus,_Arkansas
+барыш	Barysh
+брайтенау  австрия	Breitenau,_Lower_Austria
+блу-эрт	Blue_Earth,_Minnesota
+баран	Baran,_Rajasthan
+берривилл  арканзас	Berryville,_Arkansas
+бентон  арканзас	Benton,_Arkansas
+агаджари  хузестан	Aghajari
+бальбоа 	Balboa,_León
+округ барнала 	Barnala_district
+бока-ратон  флорида	Boca_Raton,_Florida
+алпайн 	Alpine,_Texas
+айсанти миннесота	Isanti,_Minnesota
+виль  санкт-галлен	Wil
+асакура	Asakura,_Fukuoka
+артём город	Artyom,_Russia
+вудленд город	Woodland,_Minnesota
+вальехо  калифорния	Vallejo,_California
+анока	Anoka,_Minnesota
+армеро 	Armero
+бертрум город	Burtrum,_Minnesota
+алтус 	Altus,_Arkansas
+аниак  аляска	Aniak,_Alaska
+алфа	Alpha,_Minnesota
+бриджпорт 	Bridgeport,_Connecticut
+артём	Artyom,_Russia
+белвью	Belview,_Minnesota
+аруша	Arusha
+биг-фолс	Big_Falls,_Minnesota
+арида город	Arida,_Wakayama
+адамс	Adams,_Minnesota
+войнич 	Wojnicz
+банджар	Banjar,_West_Java
+бостан  хузестан	Bostan,_Iran
+барстоу  калифорния	Barstow,_California
+вальмала 	Valmala,_Italy
+владимир город	Vladimir
+америка  тамаулипас	América,_Tamaulipas
+абердин  дакота	Aberdeen,_South_Dakota
+бойсе город	Boise,_Idaho
+боруп миннесота	Borup,_Minnesota
+варт 	Warth,_Vorarlberg
+бетлехем 	Bethlehem,_Pennsylvania
+атри	Atri,_Abruzzo
+абаза город	Abaza_(town)
+виола город	Viola,_Piedmont
+валдиз  аляска	Valdez,_Alaska
+банбери  австралия	Bunbury,_Western_Australia
+бандера  техас	Bandera,_Texas
+бетел город	Bethel,_Minnesota
+винкларн 	Winklarn,_Austria
+баджер миннесота	Badger,_Minnesota
+бойд миннесота	Boyd,_Minnesota
+буин  иран	Buin_Zahra
+авара	Awara,_Fukui
+агон  сарагоса	Agón
+вергас миннесота	Vergas,_Minnesota
+вильяррика 	Villarrica,_Chile
+амелия	Amelia,_Umbria
+бигелоу миннесота	Bigelow,_Minnesota
+вашингтон  каролина	Washington,_North_Carolina
+авалон 	Avalon,_California
+бунвилл 	Booneville,_Arkansas
+абботсфорд  британская колумбия	Abbotsford,_British_Columbia
+версуа 	Versoix
+бессемер  алабама	Bessemer,_Alabama
+абердин 	Aberdeen,_South_Dakota
+америка 	América,_Tamaulipas
+верджиния  миннесота	Virginia,_Minnesota
+альтхайм  верхняя австрия	Altheim,_Austria
+альтурас 	Alturas,_California
+бисмарк  дакота	Bismarck,_North_Dakota
+абфальтерсбах  тироль	Abfaltersbach
+алварейдо	Alvarado,_Minnesota
+висла город	Wisła
+берлингтон  вермонт	Burlington,_Vermont
+брайтон  колорадо	Brighton,_Colorado
+бодетт миннесота	Baudette,_Minnesota
+буй город	Buy,_Kostroma_Oblast
+бхаратпур 	Bharatpur,_Rajasthan
+виджанелло 	Viggianello
+асо город	Aso,_Kumamoto
+бикин город	Bikin
+астен  австрия	Asten,_Austria
+бакман миннесота	Buckman,_Minnesota
+альбания 	Albania,_La_Guajira
+атуотер город	Atwater,_Minnesota
+агуаскальентес	Aguascalientes,_Aguascalientes
+атенс  огайо	Athens,_Ohio
+антрацит 	Antratsyt
+батерст	Bathurst,_New_South_Wales
+атеа  сарагоса	Atea,_Zaragoza
+амато  италия	Amato
+амаравати  индия	Amaravati,_Andhra_Pradesh
+андрус  техас	Andrews,_Texas
+биатрис  небраска	Beatrice,_Nebraska
+брено 	Breno
+вайнбург  нижняя австрия	Weinburg
+коммуна вельо 	Veglio
+вашковцы 	Vashkivtsi
+амбой миннесота	Amboy,_Minnesota
+блу-эрт миннесота	Blue_Earth,_Minnesota
+брахам миннесота	Braham,_Minnesota
+астория  орегон	Astoria,_Oregon
+барни 	Barni
+белл-плейн миннесота	Belle_Plaine,_Minnesota
+абфальтерсбах 	Abfaltersbach
+варена  италия	Varena,_Trentino
+асия	Ashiya,_Hyōgo
+вудсток	Woodstock,_Minnesota
+ашшур город	Assur
+вилья-дель-росарио 	Villa_del_Rosario,_Norte_de_Santander
+барбара	Barbara,_Marche
+белвью миннесота	Belview,_Minnesota
+арона 	Arona,_Piedmont
+артур  айова	Arthur,_Iowa
+борегард 	Beauregard_Parish,_Louisiana
+абботсфорд  колумбия	Abbotsford,_British_Columbia
+блумингтон  миннесота	Bloomington,_Minnesota
+амакуса	Amakusa,_Kumamoto
+веста город	Vesta,_Minnesota
+березовка  одесская область	Berezivka
+аламида город	Alameda,_California
+берд-айленд миннесота	Bird_Island,_Minnesota
+бар украина	Bar,_Ukraine
+броктон  массачусетс	Brockton,_Massachusetts
+алхамбра 	Alhambra,_California
+вайксельбаум  бургенланд	Weichselbaum
+бид	Beed
+брайант  арканзас	Bryant,_Arkansas
+ванг 	Wang,_Austria
+анаконда  монтана	Anaconda,_Montana
+аки	Aki,_Kōchi
+бриджпорт  коннектикут	Bridgeport,_Connecticut
+бьюл миннесота	Buhl,_Minnesota
+бакстер город	Baxter,_Minnesota
+айона	Iona,_Minnesota
+виктория  техас	Victoria,_Texas
+альберта миннесота	Alberta,_Minnesota
+айос-николаос  крит	Agios_Nikolaos,_Crete
+браунс-валли город	Browns_Valley,_Minnesota
+болдуин-парк 	Baldwin_Park,_California
+биг-лейк миннесота	Big_Lake,_Minnesota
+вулф-лейк миннесота	Wolf_Lake,_Minnesota
+бане город	Baneh
+викторвилл  калифорния	Victorville,_California
+бид город	Beed
+андовер город	Andover,_Minnesota
+браунсвилл  техас	Brownsville,_Texas
+вильхельмсбург 	Wilhelmsburg,_Austria
+вавр 	Wavre
+брейди  техас	Brady,_Texas
+бойсе	Boise,_Idaho
+буинск 	Buinsk,_Republic_of_Tatarstan
+бей-сити  мичиган	Bay_City,_Michigan
+брукс миннесота	Brooks,_Minnesota
+бромберг 	Bromberg,_Lower_Austria
+аба город	Aba,_Abia
+бабушкин 	Babushkin_(town)
+аулетта 	Auletta
+асахи  тиба	Asahi,_Chiba
+баттерфилд 	Butterfield,_Minnesota
+альберта город	Alberta,_Minnesota
+коммуна белла 	Bella,_Basilicata
+волен	Wohlen,_Aargau
+бильче-золотое  борщёвский район	Bilche_Zolote
+беллона 	Bellona,_Campania
+восход  московская область	Voskhod,_Moscow_Oblast
+высока город	Wysoka
+бурон 	Burón
+бакман	Buckman,_Minnesota
+вулвертон город	Wolverton,_Minnesota
+валлерн 	Wallern_im_Burgenland
+ауаса	Awasa
+велес город	Veles_(city)
+бирюч город	Biryuch
+беллингхем  вашингтон	Bellingham,_Washington
+боулдер  колорадо	Boulder,_Colorado
+арканзас-сити  арканзас	Arkansas_City,_Arkansas
+барри город	Barry,_Minnesota
+бардо 	Bardo,_Poland
+веста	Vesta,_Minnesota
+байджнатх  уттаракханд	Baijnath,_Uttarakhand
+буффало 	Buffalo,_Texas
+аксу павлодарская область	Aksu,_Kazakhstan
+вильянуэва  гуахира	Villanueva,_La_Guajira
+аспен  колорадо	Aspen,_Colorado
+вудсток город	Woodstock,_Minnesota
+артур 	Arthur,_Iowa
+бой-ривер миннесота	Boy_River,_Minnesota
+аннаберг  австрия	Annaberg,_Lower_Austria
+боттино  северная дакота	Bottineau,_North_Dakota
+боулус город	Bowlus,_Minnesota
+бернсвилл	Burnsville,_Minnesota
+аттапы город	Attapeu
+барнсвилл миннесота	Barnesville,_Minnesota
+бозмен  монтана	Bozeman,_Montana
+вайсензе 	Weissensee,_Austria
+андовер миннесота	Andover,_Minnesota
+бок миннесота	Bock,_Minnesota
+бальбоа  леон	Balboa,_León
+блэкфут город	Blackfoot,_Idaho
+брокен-боу  небраска	Broken_Bow,_Nebraska
+аниак 	Aniak,_Alaska
+вильхельмсбург  австрия	Wilhelmsburg,_Austria
+коммуна версуа 	Versoix
+аррах 	Arrah
+барнсвилл город	Barnesville,_Minnesota
+боза 	Bosa
+аннандейл город	Annandale,_Minnesota
+арба город	Arba,_Friuli-Venezia_Giulia
+ашби миннесота	Ashby,_Minnesota
+восточная провинция 	Eastern_Province,_Sierra_Leone
+берндорф  зальцбург	Berndorf_bei_Salzburg
+бабушкин  бурятия	Babushkin_(town)
+берчвуд-виллидж	Birchwood_Village,_Minnesota
+барроу  аляска	Barrow,_Alaska
+беллвилл 	Belleville,_Illinois
+версаль 	Versailles,_Missouri
+блайт  калифорния	Blythe,_California
+бивер-бей	Beaver_Bay,_Minnesota
+барри	Barry,_Minnesota
+агра 	Agra,_Lombardy
+виборг город	Viborg,_Denmark
+артёмовск  луганская область	Artemivsk,_Luhansk_Oblast
+броуэрвилл миннесота	Browerville,_Minnesota
+байрон	Byron,_Minnesota
+белогорск 	Bilohirsk
+бетел-хайтс  арканзас	Bethel_Heights,_Arkansas
+вуд-лейк город	Wood_Lake,_Minnesota
+бейпорт миннесота	Bayport,_Minnesota
+шахрестан абийек 	Khak-e_Ali
+бруно город	Bruno,_Minnesota
+айл миннесота	Isle,_Minnesota
+арсиноя  марион	Arsinoe_(Northwest_Cyprus)
+бранч  арканзас	Branch,_Arkansas
+бен  чехармехаль и бахтиария	Ben,_Iran
+барки  италия	Barchi,_Marche
+бина	Bena,_Minnesota
+бейкерсфилд  калифорния	Bakersfield,_California
+аксум	Axum
+бридж-сити 	Bridge_City,_Texas
+белогорск  область	Belogorsk,_Amur_Oblast
+блейн миннесота	Blaine,_Minnesota
+богданци	Bogdanci
+бекер город	Becker,_Minnesota
+бока город	Boca,_Novara
+броуэрвилл город	Browerville,_Minnesota
+аргайл миннесота	Argyle,_Minnesota
+бахман	Bahman,_Fars
+башка 	Baška_(Frýdek-Místek_District)
+вентотене	Ventotene
+брайслин миннесота	Bricelyn,_Minnesota
+бломкест	Blomkest,_Minnesota
+верндейл миннесота	Verndale,_Minnesota
+белогорск  амурская область	Belogorsk,_Amur_Oblast
+арден-хилс	Arden_Hills,_Minnesota
+село ваган 	Vahan,_Armenia
+аргун	Argun,_Chechen_Republic
+берндорф 	Berndorf,_Lower_Austria
+блумингтон  индиана	Bloomington,_Indiana
+вельо 	Veglio
+село арагацотн 	Aragatsotn_(village)
+барбареско город	Barbaresco,_Piedmont
+бангор  мэн	Bangor,_Maine
+брукингз  южная дакота	Brookings,_South_Dakota
+берчвуд-виллидж город	Birchwood_Village,_Minnesota
+армавир  россия	Armavir,_Russia
+вайнинг миннесота	Vining,_Minnesota
+абердин  южная дакота	Aberdeen,_South_Dakota
+бьюкенен  мичиган	Buchanan,_Michigan
+брукс город	Brooks,_Minnesota
+васильевка город	Vasylivka
+бризи-пойнт миннесота	Breezy_Point,_Minnesota
+булл-шолс 	Bull_Shoals,_Arkansas
+виллард	Villard,_Minnesota
+бодайбо	Bodaybo
+блэкдак миннесота	Blackduck,_Minnesota
+винчи	Vinci,_Tuscany
+бергхайм 	Bergheim,_Austria
+ванье 	Vanier,_Ontario
+артижа  нью-мексико	Artesia,_New_Mexico
+валенсия 	Valencia,_Bukidnon
+барнала 	Barnala_district
+антрацит  луганская область	Antratsyt
+бюль  фрибур	Bulle
+во 	Vò
+баттамбанг город	Battambang
+армавир армения	Armavir,_Armenia
+арауко 	Arauco,_Chile
+брест 	Brest,_France
+билина	Bílina
+асбест	Asbest
+бейпорт	Bayport,_Minnesota
+бусиа 	Busia,_Uganda
+батерст австралия	Bathurst,_New_South_Wales
+вайнинг	Vining,_Minnesota
+бук 	Buk
+вернберг  каринтия	Wernberg
+бекли 	Beckley,_West_Virginia
+брион  испания	Brión
+вулф-лейк город	Wolf_Lake,_Minnesota
+боббио 	Bobbio
+бессемер 	Bessemer,_Alabama
+ваднес-хайтс	Vadnais_Heights,_Minnesota
+биласпур город	Bilaspur,_Chhattisgarh
+белен 	Belém
+анауак  техас	Anahuac,_Texas
+вишнёвое город	Vyshneve
+анактувук-пасс  аляска	Anaktuvuk_Pass,_Alaska
+виница город	Vinica,_Macedonia
+брейнерд город	Brainerd,_Minnesota
+берг  нижняя австрия	Berg,_Lower_Austria
+вашковцы  вижницкий район	Vashkivtsi
+арко 	Arco,_Minnesota
+анан 	Anan,_Tokushima
+букс 	Buchs,_St._Gallen
+битти 	Bitti
+варт  нижняя австрия	Warth,_Lower_Austria
+вудсток миннесота	Woodstock,_Minnesota
+алтеймер 	Altheimer,_Arkansas
+байконур город	Baikonur
+амелия город	Amelia,_Umbria
+бобова город	Bobowa
+берлингтон  каролина	Burlington,_North_Carolina
+вильнёв  швейцария	Villeneuve,_Vaud
+блоне  польша	Błonie
+айл	Isle,_Minnesota
+берндорф  нижняя австрия	Berndorf,_Lower_Austria
+аугуста  сицилия	Augusta,_Sicily
+биджу миннесота	Bejou,_Minnesota
+александровск  пермский край	Alexandrovsk,_Perm_Krai
+альтенбург  нижняя австрия	Altenburg,_Lower_Austria
+благовещенск 	Blagoveshchensk,_Republic_of_Bashkortostan
+бербанк  калифорния	Burbank,_California
+боннерс-ферри 	Bonners_Ferry,_Idaho
+алегзандрия	Alexandria,_Minnesota
+бургос 	Burgos,_Sardinia
+бяла  польша	Biała_Prudnicka
+вашингтон  округ	Washington,_D.C.
+буксар город	Buxar
+верт  нидерланды	Weert
+вайтен  австрия	Weiten
+ашби	Ashby,_Minnesota
+бисби  аризона	Bisbee,_Arizona
+бисмарк  северная дакота	Bismarck,_North_Dakota
+община венло 	Venlo
+амблер 	Ambler,_Alaska
+альбания  гуахира	Albania,_La_Guajira
+богданци город	Bogdanci
+алегзандрия город	Alexandria,_Minnesota
+аннаполис  мэриленд	Annapolis,_Maryland
+видеркер-вилидж 	Wiederkehr_Village,_Arkansas
+брустер миннесота	Brewster,_Minnesota
+брионе  провинция тренто	Brione,_Trentino
+вернон  техас	Vernon,_Texas
+восход  область	Voskhod,_Moscow_Oblast
+вайксельбаум 	Weichselbaum
+бакнер  арканзас	Buckner,_Arkansas
+баден  аргау	Baden,_Switzerland
+бломкест миннесота	Blomkest,_Minnesota
+бяла 	Biała_Prudnicka
+андервуд город	Underwood,_Minnesota
+вунсокет 	Woonsocket,_Rhode_Island
+бельви 	Belvì
+али  сицилия	Alì
+бирюч	Biryuch
+вернон-сентер город	Vernon_Center,_Minnesota
+алварейдо миннесота	Alvarado,_Minnesota
+альтендорф  австрия	Altendorf,_Austria
+браке  везер	Brake,_Lower_Saxony
+амбон	Ambon,_Maluku
+барбара город	Barbara,_Marche
+вайнона  миссисипи	Winona,_Mississippi
+вестминстер 	Westminster,_Colorado
+анива город	Aniva
+вашингтон  пенсильвания	Washington,_Pennsylvania
+богуслав	Bohuslav
+вунсокет  род-айленд	Woonsocket,_Rhode_Island
+бризи-пойнт город	Breezy_Point,_Minnesota
+бор  район тахов	Bor_(Tachov_District)
+алтура	Altura,_Minnesota
+белвью 	Bellevue,_Nebraska
+айос-николаос 	Agios_Nikolaos,_Crete
+бромберг  австрия	Bromberg,_Lower_Austria
+бановичи город	Banovići
+аргун город	Argun,_Chechen_Republic
+антиок  калифорния	Antioch,_California
+алдан	Aldan,_Russia
+баски  италия	Baschi
+акаси	Akashi,_Hyōgo
+аланья 	Alagna
+берли  айдахо	Burley,_Idaho
+бетел миннесота	Bethel,_Minnesota
+анахайм  калифорния	Anaheim,_California
+виница	Vinica,_Macedonia
+бакстер	Baxter,_Minnesota
+бойд	Boyd,_Minnesota
+аннандейл	Annandale,_Minnesota
+валья 	Vaglia
+врангель 	Wrangell,_Alaska
+вавр  бельгия	Wavre
+алексеевка белгородская область	Alexeyevka,_Belgorod_Oblast
+агаджари 	Aghajari
+артёмовка  полтавская область	Artemivka
+бирмингем  алабама	Birmingham,_Alabama
+вергас	Vergas,_Minnesota
+вау 	Wau,_South_Sudan
+браке 	Brake,_Lower_Saxony
+брекенридж город	Breckenridge,_Minnesota
+бахман город	Bahman,_Fars
+баден 	Baden_bei_Wien
+бехар  хамадан	Bahar,_Iran
+буинск  татарстан	Buinsk,_Republic_of_Tatarstan
+валенса  португалия	Valença,_Portugal
+берёзовский  свердловская область	Beryozovsky,_Sverdlovsk_Oblast
+анантапур	Anantapur,_Andhra_Pradesh
+брокен-хилл 	Broken_Hill,_New_South_Wales
+браунс-валли миннесота	Browns_Valley,_Minnesota
+айсанти	Isanti,_Minnesota
+беллингхем миннесота	Bellingham,_Minnesota
+баффало-лейк миннесота	Buffalo_Lake,_Minnesota
+бетел	Bethel,_Minnesota
+боубеллс  северная дакота	Bowbells,_North_Dakota
+валдиз 	Valdez,_Alaska
+авалон  калифорния	Avalon,_California
+абботсфорд 	Abbotsford,_British_Columbia
+валки город	Valky
+бельвилл 	Belleville,_Arkansas
+аруша город	Arusha
+ванкувер  вашингтон	Vancouver,_Washington
+буин 	Buin_Zahra
+бибербах 	Biberbach,_Austria
+алжир	Algiers
+бакус	Backus,_Minnesota
+весковато  италия	Vescovato,_Lombardy
+брэдбери 	Bradbury,_California
+байджнатх 	Baijnath,_Himachal_Pradesh
+антрацит  область	Antratsyt
+арлингтон 	Arlington,_Texas
+аспен 	Aspen,_Colorado
+биласпур чхаттисгарх	Bilaspur,_Chhattisgarh
+барретт	Barrett,_Minnesota
+арбус  сардиния	Arbus,_Sardinia
+алтура город	Altura,_Minnesota
+анауак 	Anahuac,_Texas
+абилин  техас	Abilene,_Texas
+варберг 	Varberg
+вернон-сентер миннесота	Vernon_Center,_Minnesota
+бристол  коннектикут	Bristol,_Connecticut
+аркадия 	Arcadia,_California
+арберг 	Aarberg
+арозио  италия	Arosio
+вильферсдорф  австрия	Wilfersdorf
+бьюл город	Buhl,_Minnesota
+аллайанс  небраска	Alliance,_Nebraska
+альба 	Alba,_Piedmont
+бардо  нижнесилезское воеводство	Bardo,_Poland
+виктория  британская колумбия	Victoria,_British_Columbia
+вальверде  провинция	Valverde,_Lombardy
+верндейл город	Verndale,_Minnesota
+болд-ноб  арканзас	Bald_Knob,_Arkansas
+брунталь 	Bruntál
+вальденбург  базель-ланд	Waldenburg,_Switzerland
+брустер	Brewster,_Minnesota
+аксум город	Axum
+вайтен 	Weiten
+айванхо город	Ivanhoe,_Minnesota
+бруклин-парк город	Brooklyn_Park,_Minnesota
+вильферсдорф  нижняя австрия	Wilfersdorf
+альберта	Alberta,_Minnesota
+венло 	Venlo
+брэдли  арканзас	Bradley,_Arkansas
+блуминг-прери город	Blooming_Prairie,_Minnesota
+александровск  край	Alexandrovsk,_Perm_Krai
+блу-эрт город	Blue_Earth,_Minnesota
+бирдсли миннесота	Beardsley,_Minnesota
+аба	Aba,_Abia
+бен 	Ben,_Iran
+блайт 	Blythe,_California
+аллайанс 	Alliance,_Nebraska
+бейнбридж 	Bainbridge,_Georgia
+афтон миннесота	Afton,_Minnesota
+вис 	Vis_(island)
+бородино город	Borodino,_Krasnoyarsk_Krai
+бандо город	Bandō,_Ibaraki
+алексин	Aleksin
+вис	Vis_(town)
+альтштеттен 	Altstätten
+бекер миннесота	Becker,_Minnesota
+арад  иран	Arad,_Iran
+вернал 	Vernal,_Utah
+бок город	Bock,_Minnesota
+боубеллс 	Bowbells,_North_Dakota
+бузулук 	Buzuluk
+билокси 	Biloxi,_Mississippi
+бивер-бей город	Beaver_Bay,_Minnesota
+бор  южный судан	Bor,_South_Sudan
+варка	Warka
+багли	Bagley,_Minnesota
+вашингтон 	Washington,_D.C.
+амбой город	Amboy,_Minnesota
+берг  австрия	Berg,_Lower_Austria
+асан город	Asan
+бельвилл  арканзас	Belleville,_Arkansas
+ванье  оттава	Vanier,_Ontario
+абердин  вашингтон	Aberdeen,_Washington
+абердин  мэриленд	Aberdeen,_Maryland
+вильхельмсбург  нижняя австрия	Wilhelmsburg,_Austria
+вайсвассер  лужица	Weißwasser
+блэкдак город	Blackduck,_Minnesota
+
