@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b92853f2-6143-4c85-9213-a6d82225cfc5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Local_changes.py" afterPath="$PROJECT_DIR$/Local_changes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Города/Locations from DBPedia-1.txt" afterPath="$PROJECT_DIR$/Города/Locations from DBPedia-1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Города/Locations from DBPedia.txt" afterPath="$PROJECT_DIR$/Города/Locations from DBPedia.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Города/где.tsv" afterPath="$PROJECT_DIR$/Города/где.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Города/Unmatched.txt" afterPath="$PROJECT_DIR$/Города/Unmatched.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Города/ёжзий.tsv" afterPath="$PROJECT_DIR$/Города/ёжзий.tsv" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +51,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Local_changes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Local_changes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Local_changes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33505154">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="77" column="42" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unmatched.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Города/Unmatched.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Locations from DBPedia-1.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Города/Locations from DBPedia-1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.81958765">
+              <caret line="4632" column="40" selection-start-line="4632" selection-start-column="40" selection-end-line="4632" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -62,18 +84,8 @@
       <file leaf-file-name="Locations from DBPedia.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Города/Locations from DBPedia.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.444445">
-              <caret line="2990" column="0" selection-start-line="2990" selection-start-column="0" selection-end-line="2990" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Locations from DBPedia-1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Города/Locations from DBPedia-1.txt">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="6753" column="46" selection-start-line="6753" selection-start-column="46" selection-end-line="6753" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -123,8 +135,10 @@
         <option value="$PROJECT_DIR$/Города/абв.tsv" />
         <option value="$PROJECT_DIR$/Generating SPARQL query.py" />
         <option value="$PROJECT_DIR$/Города/где.tsv" />
-        <option value="$PROJECT_DIR$/Local_changes.py" />
+        <option value="$PROJECT_DIR$/Города/ёжзий.tsv" />
         <option value="$PROJECT_DIR$/Города/Locations from DBPedia.txt" />
+        <option value="$PROJECT_DIR$/Города/Unmatched.txt" />
+        <option value="$PROJECT_DIR$/Local_changes.py" />
         <option value="$PROJECT_DIR$/Города/Locations from DBPedia-1.txt" />
       </list>
     </option>
@@ -491,13 +505,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Frequent_patterns.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/queries.txt">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state />
@@ -810,10 +817,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Города/где.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Города/ёжзий.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.185185">
+          <caret line="147" column="48" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Города/абв.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3841" column="0" selection-start-line="3841" selection-start-column="0" selection-end-line="3841" selection-end-column="0" />
+          <caret line="3813" column="41" selection-start-line="3813" selection-start-column="36" selection-end-line="3813" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Города/Locations from DBPedia.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6753" column="46" selection-start-line="6753" selection-start-column="46" selection-end-line="6753" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -828,10 +859,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Города/где.tsv">
+    <entry file="file://$PROJECT_DIR$/Local_changes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="77" column="42" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -839,31 +870,15 @@
     <entry file="file://$PROJECT_DIR$/Города/Unmatched.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Города/Locations from DBPedia.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.444445">
-          <caret line="2990" column="0" selection-start-line="2990" selection-start-column="0" selection-end-line="2990" selection-end-column="0" />
+          <caret line="5" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Города/Locations from DBPedia-1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Local_changes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33505154">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.81958765">
+          <caret line="4632" column="40" selection-start-line="4632" selection-start-column="40" selection-end-line="4632" selection-end-column="40" />
           <folding />
         </state>
       </provider>

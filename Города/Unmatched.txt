@@ -1,4 +1,8 @@
-амос  город	Amos_(ancient_city)
-арава  Папуа — Новая Гвинея	Arawa,_Papua_New_Guinea
-аргунь  уезд	Ergun_City
-вестминстер  самоуправляемый район Лондона	City_of_Westminster
+административное деление пакистана	Administrative_units_of_Pakistan
+амос,античный город	Amos_(ancient_city)
+арава Папуа — Новая Гвинея	Arawa,_Papua_New_Guinea
+аргунь,городской уезд	Ergun_City
+археологический парк маундвиль	Moundville_Archaeological_Site
+варано де малегари	Varano_de'_Melegari
+вестминстер самоуправляемый район Лондона	City_of_Westminster
+вольный город франкфурт	Free_City_of_Frankfurt
