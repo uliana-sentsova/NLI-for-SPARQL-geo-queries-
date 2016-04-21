@@ -53,6 +53,7 @@ dbp:economicRegion
 
 
 yago:AfricanCountries
+
 yago:AlpineCountries
 yago:AncientChineseStates
 yago:Arabic-speakingCountriesAndTerritories
@@ -111,3 +112,5 @@ yago:SovietSatelliteStates
 yago:SovietSpiesAgainstTheUnitedStates
 yago:Spanish-speakingCountries
 yago:States
+
+yago:CommunistStates

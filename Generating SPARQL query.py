@@ -104,7 +104,9 @@ def analyze_input(input_query):
         location = find_location(lemmas)
         print("Локация: ", location)
         rest = re.sub(location[0], "", " ".join(lemmas)).strip()
+        print(rest)
         predicate = is_in_properties(rest)
+        print(predicate)
         return (translate_location(location), predicate)
     except KeyError:
         print("KeyError: Location is not in the dictionary.")
@@ -158,7 +160,7 @@ def make_query(query):
 
 
 
-query1 = "На какой широте и долготе расположен Берлин?"
+query1 = "Какое население Москвы"
 query2 = "В каком экономическом регионе находится Москва?"
 query3 = "Какое население в Берлине?"
 

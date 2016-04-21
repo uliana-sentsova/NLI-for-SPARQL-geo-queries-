@@ -3,43 +3,59 @@ from pymystem3 import Mystem
 m = Mystem()
 import re
 
+# Функция для поиска заданной подстроки во всех поисковых запросах.
+def queries_location(locations_list, queries = "queries.txt"):
+    """
+    Функция берет на вход массив строк (географических названий) и делает поиск по файлу запросов. Запросы для каждого
+    географического названия функция записывает в текстовый файл с названием, соответствующим названию геолокации.
+    Файлы с запросами по конкретной геолокации находятся в директории "./Locations"
 
-queries = []
-count = 0
-
-
-
-# Фукнция для обработки исходного файла и поиска конкретной локации
-def queries_location(city_names, filename="queries.txt"):
+    :param locations_list: массив, содержащий географические названия
+    :return: Функция возвращает значение True, если обработка завершена удачно. Если произошла ошибка, функция
+    возвращает False, сообщение об ошибке и номер последней обработанной строки в файле запросов.
+    """
+    count = 0
     try:
-        count = 0
-        for city_name in city_names:
-            target_file = open(city_name.capitalize() + ".txt", 'w', )
-            source_file = open(filename, 'r', encoding='utf-8')
-            p = re.compile(city_name+"\w{0,2}", re.IGNORECASE)
-            for line in source_file:
-                if p.search(line) is not None:
-                    target_file.write(line)
-                count += 1
-                if count % 1000000 == 0:
-                    print("Обработано ", count, " строк (локация: ", city_name, ").")
-            source_file.close()
-            count = 0
+        for location in locations_list:
+            with open(location.capitalize() + ".txt", 'w') as target_file, open(queries, 'r', encoding='utf-8') as source_file:
+                p = re.compile(location+"\w{0,2}", re.IGNORECASE)
+                for line in source_file:
+                    if p.search(line) is not None:
+                        target_file.write(line)
+                    count += 1
+                    if count % 1000000 == 0:
+                        print("Обработано ", count, " строк (локация: ", location, ").")
+                count = 0
         return True
     except Exception as err:
         print(err)
-        print(count)
+        print("Последняя обработанная строка: {0}".format(count))
         return False
 
 
+# Вспомоагательная функция для создания частотного словаря
 def make_freq_dict(my_array):
+    """
+    Функция создает из массива строк частотный словарь.
+    :param my_array: на вход подаётся массив строк
+    :return: функция возвращает частотный словарь
+    """
     d = dict()
     for m in my_array:
         d[m] = d.get(m, 0) + 1
     return d
 
+
 # Функция ищет общие запросы между разными городами ( "./Locations")
 def all_patterns(lemmatize=False):
+    """
+    Для всех файлов в директории "/Locations/queries" функция заменяет в каждом запросе название геолокации
+    на нижнее подчеркивание, затем составляет общий список из получившихся шаблонов и возвращает частотный словарь.
+    Пример преобразования запроса в шаблон: "какая погода в москве завтра" -> "какая погода в _ завтра".
+    Общий список шаблонов (без повторений) функция записывает в файл "Unique patterns".
+    :param lemmatize: при необходимости, запросы можно лемматизировать. По умолчанию False.
+    :return:
+    """
     all_queries = []
     pwd = os.getcwd()
     path = pwd + "/Locations/queries"
@@ -60,9 +76,9 @@ def all_patterns(lemmatize=False):
         for line in list(set(all_queries)):
             target.write(line + '\n')
 
-    with open("All_patterns.txt", 'w', encoding='utf-8') as target:
-        for line in all_queries:
-            target.write(line + '\n')
+    # with open("All_patterns.txt", 'w', encoding='utf-8') as target:
+    #     for line in all_queries:
+    #         target.write(line + '\n')
 
     # Составляем частотный словарь
     freq = dict()
@@ -75,35 +91,53 @@ def all_patterns(lemmatize=False):
     return freq
 
 
-def frequent_patterns(freq_dict, threshold=10):
+# Функция отбирающая шаблоны с заданной частотностью.
+def frequent_patterns(freq_dict, threshold=200):
+    """
+    Функция возвращает все шаблоны, частотность которых выше заданной. Отобранные шаблоны записываются в файл
+    "Frequent_patterns.txt" в директории проекта.
+    :param freq_dict: частотный словарь
+    :param threshold: пороговое значение частотности
+    :return:
+    """
     frequent = []
     for key in freq_dict:
         if freq_dict[key] > threshold:
             frequent.append(key)
-    f = open("Frequent_patterns.txt", 'w')
-    for pattern in frequent:
-        f.write(pattern + '\n')
-    f.close()
+    with open("Frequent_patterns.txt", 'w') as f:
+        for pattern in frequent:
+            f.write(pattern + '\n')
     print("Создан файл с шаблонами.")
     return frequent
 
 
-def same_structure(pattern, query, missed_word="_"):
-    if pattern != missed_word:
-        if pattern.endswith(missed_word):
-            pattern = pattern[:-len(missed_word)]
-            if (query.startswith(pattern) and len(query.split(pattern)[1].split(" ")) == 1):
+def same_structure(pattern, query, replaced="_"):
+    """
+    Функция сравнивает структуру запроса с заданным шаблоном, и если структура совпадает, то функция
+    возвращает True и токен из запроса, занимающий место пропуска в структуре шаблоне, иначе – False. Например,
+    запрос "какая погода в _" и запрос "какая погода в тюмени" имеют одинаковую структуру, и функция вернет
+    токен "тюмени".
+
+    :param pattern: шаблон, с которым сранивается запрос
+    :param query: запрос
+    :param replaced: символ, которым в шаблоне была заменена геолокация, по умолчанию нижнее подчеркивание.
+    :return:
+    """
+    if pattern != replaced:
+        if pattern.endswith(replaced):
+            pattern = pattern[:-len(replaced)]
+            if query.startswith(pattern) and len(query.split(pattern)[1].split(" ")) == 1:
                 return query.split(pattern)[1]
             else:
                 return False
-        elif pattern.startswith(missed_word):
-            pattern = pattern[len(missed_word):]
-            if (query.endswith(pattern) and len(query.split(pattern)[0].split(" ")) == 1):
+        elif pattern.startswith(replaced):
+            pattern = pattern[len(replaced):]
+            if query.endswith(pattern) and len(query.split(pattern)[0].split(" ")) == 1:
                 return query.split(pattern)[0]
             else:
                 return False
-        elif not pattern.endswith(missed_word) and not pattern.startswith(missed_word):
-            pattern = pattern.split(missed_word)
+        elif not pattern.endswith(replaced) and not pattern.startswith(replaced):
+            pattern = pattern.split(replaced)
             if query.startswith(pattern[0]) and query.endswith(pattern[1]):
                 word_in_the_middle = query[len(pattern[0]):-len(pattern[1])]
                 if word_in_the_middle and len(word_in_the_middle.split(" ")) == 1:
@@ -117,13 +151,23 @@ def same_structure(pattern, query, missed_word="_"):
     else:
         return False
 
-
+# Функция возвращает N наиболее популярных запросов в заданном частотном словаре.
 def most_popular(freq_dictionary, n=10):
     value_key_pairs = [(key, value) for value, key in freq_dictionary.items()]
     value_key_pairs.sort()
     return value_key_pairs[-n:]
 
+
+# Функция для составления словаря биграммов
 def bigrams(queries_list, keyword):
+    """
+    Функция составляет из списка запросов частотный словарь биграмм относительно заданного слова. Например,
+    относительно ключевого слова "новосибирск" будет возвращен словарь, содержащий биграммы "новосибирская область",
+    "погода новосибирск" и т.п.
+    :param queries_list:
+    :param keyword:
+    :return:
+    """
     bigrams_dict = dict()
     for query in queries_list:
         query = query.split()
@@ -137,6 +181,8 @@ def bigrams(queries_list, keyword):
 
     return bigrams_dict
 
+
+# Вспомогательная функция
 def queries_from_file(filename):
     with open(filename, 'r', encoding="utf-8") as f:
         for line in f:
@@ -145,33 +191,38 @@ def queries_from_file(filename):
 
 
 def new_locations(patterns, sourcefile = "queries.txt"):
+    """
+    Функция для выполнения последнего цикла бутстреппинга: на вход подаются шаблоны, функция возвращает геолокации,
+    которые встречаются в данных шаблонах.
+    :param patterns: шаблоны
+    :param sourcefile: название файла с запросами, по умолчанию "queries.txt"
+    :return:
+    """
     locations = []
-    f = open(sourcefile, 'r', encoding="utf-8")
-    for line in f:
-        line = line.strip()
-        for pattern in patterns:
-            if same_structure(pattern, line):
-                locations.append(same_structure(pattern, line))
-    f.close()
+    with open(sourcefile, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            for pattern in patterns:
+                if same_structure(pattern, line):
+                    locations.append(same_structure(pattern, line))
     return locations
 
-city_names = []
-with open("New LOCATIONS_DICTIONARY.txt", 'r') as h:
-    for line in h:
-        line = line.strip()
-        city_names.append(line)
 
-queries_location(city_names, filename="queries.txt")
+# city_names = ["широта", "долгота", "географическое положение", "численность"]
+# queries_location(city_names, filename="queries.txt")
 
+
+# Файл для хранения использованных шаблонов, чтобы избежать повторений.
 used_patterns = []
 with open("Used_patterns.txt", "r", encoding="utf-8") as h:
     for line in h:
         used_patterns.append(line.strip())
 
 freq = all_patterns()
-freq = frequent_patterns(freq, threshold=200)
+freq = frequent_patterns(freq, threshold=50)
 
-patterns_to_use = [key for key in freq if len(key.split()) > 2 and key not in used_patterns]
+patterns_to_use = [key for key in freq if len(key.split()) > 2]
+print(patterns_to_use)
 
 with open("Used_patterns.txt", "a", encoding="utf-8") as f:
     f.write("\n")
@@ -179,11 +230,13 @@ with open("Used_patterns.txt", "a", encoding="utf-8") as f:
         f.write(p + "\n")
 print("Использованные паттерны записаны в файл Used_patterns.txt.")
 
-locs = new_locations(patterns_to_use)
-freq_locs = make_freq_dict(locs)
+# Ищем новые географические локации и составляем из полученных частотный словарь
+locations = new_locations(patterns_to_use)
+freq_locations = make_freq_dict(locations)
 
-f = open("New LOCATIONS_DICTIONARY.txt", 'w')
-for popular in most_popular(freq_locs, 150):
+# Записываем самые часто встречающиеся новые географические названия в файл:
+f = open("New locations.txt", 'w')
+for popular in most_popular(freq_locations, 150):
     print(m.lemmatize(popular[1])[0])
     f.write(popular[1] + '\n')
 f.close()
