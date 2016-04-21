@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92853f2-6143-4c85-9213-a6d82225cfc5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Города.tsv" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CONFIG/FULL.txt" afterPath="$PROJECT_DIR$/DICTIONARIES/FULL.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CONFIG/LOCATIONS_DICTIONARY.txt" afterPath="$PROJECT_DIR$/DICTIONARIES/LOCATIONS_DICTIONARY.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CONFIG/PROP.txt" afterPath="$PROJECT_DIR$/DICTIONARIES/PROP.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CONFIG/PROPERTIES.txt" afterPath="$PROJECT_DIR$/DICTIONARIES/PROPERTIES.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CONFIG/RU-EN.txt" afterPath="$PROJECT_DIR$/DICTIONARIES/RU-EN.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CONFIG/RU-ENG DICTIONARY.txt" afterPath="$PROJECT_DIR$/DICTIONARIES/RU-ENG DICTIONARY.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Local_changes.py" afterPath="$PROJECT_DIR$/Обработка словарей локаций.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Locations/Queries/Архангельск.txt" afterPath="$PROJECT_DIR$/Locations/Архангельск.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Locations/Queries/Белгород.txt" afterPath="$PROJECT_DIR$/Locations/Белгород.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap.py" afterPath="$PROJECT_DIR$/Bootstrap.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frequent_patterns.txt" afterPath="$PROJECT_DIR$/Frequent_patterns.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generating SPARQL query.py" afterPath="$PROJECT_DIR$/Generating SPARQL query.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/New locations.txt" afterPath="$PROJECT_DIR$/New locations.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unique_patterns.txt" afterPath="$PROJECT_DIR$/Unique_patterns.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Used_patterns.txt" afterPath="$PROJECT_DIR$/Used_patterns.txt" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +26,8 @@
       <file leaf-file-name="Generating SPARQL query.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generating SPARQL query.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.2817955">
-              <caret line="122" column="38" selection-start-line="122" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6072319">
+              <caret line="137" column="101" selection-start-line="137" selection-start-column="101" selection-end-line="137" selection-end-column="101" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -136,11 +120,11 @@
         <option value="$PROJECT_DIR$/Local_changes.py" />
         <option value="$PROJECT_DIR$/Города/Locations from DBPedia-1.txt" />
         <option value="$PROJECT_DIR$/Used_patterns.txt" />
-        <option value="$PROJECT_DIR$/Generating SPARQL query.py" />
         <option value="$PROJECT_DIR$/CONFIG/PROP.txt" />
         <option value="$PROJECT_DIR$/CONFIG/FULL.txt" />
         <option value="$PROJECT_DIR$/CONFIG/PROPERTIES.txt" />
         <option value="$PROJECT_DIR$/Bootstrap.py" />
+        <option value="$PROJECT_DIR$/Generating SPARQL query.py" />
       </list>
     </option>
   </component>
@@ -469,7 +453,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -871,8 +855,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generating SPARQL query.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.2817955">
-          <caret line="122" column="38" selection-start-line="122" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6072319">
+          <caret line="137" column="101" selection-start-line="137" selection-start-column="101" selection-end-line="137" selection-end-column="101" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
