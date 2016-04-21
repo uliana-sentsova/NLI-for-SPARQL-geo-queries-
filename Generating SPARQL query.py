@@ -8,7 +8,7 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 # ======================================
 
 pwd = os.getcwd()
-os.chdir(pwd + "/CONFIG")
+os.chdir(pwd + "/DICTIONARIES")
 LOCATION_DICTIONARY = dict()
 with open("RU-EN.txt", 'r', encoding="utf-8") as f:
     for line in f:

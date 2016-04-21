@@ -219,7 +219,7 @@ with open("Used_patterns.txt", "r", encoding="utf-8") as h:
         used_patterns.append(line.strip())
 
 freq = all_patterns()
-freq = frequent_patterns(freq, threshold=50)
+freq = frequent_patterns(freq, threshold=300)
 
 patterns_to_use = [key for key in freq if len(key.split()) > 2]
 print(patterns_to_use)
