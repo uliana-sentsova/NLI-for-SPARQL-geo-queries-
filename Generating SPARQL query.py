@@ -21,11 +21,15 @@ with open("PROP.txt", "r", encoding="utf-8") as g:
         PROPERTIES[line[0]] = (line[1], "default")
         # PROPERTIES[line[1]] = [l for l in line[0].split(",")]
 
-# PROPERTIES_FULL = dict()
 with open("FULL.txt", "r", encoding="utf-8") as g:
     for line in g:
         line = line.strip().split(",")
         PROPERTIES[line[0]] = (line[1], "full")
+
+with open("ABOUT.txt", "r", encoding="utf-8") as g:
+    for line in g:
+        line = line.strip().split(",")
+        PROPERTIES[line[0]] = (line[1], "about")
 
 
 
@@ -111,9 +115,10 @@ def analyze_input(input_query):
     assert type(input_query) == str
     lemmas = m.lemmatize(input_query.lower())
     lemmas = [l for l in lemmas if is_word(l)]
-    try:
-        location = find_location(lemmas)
-        print("Локация: ", location)
+    # try:
+    location = find_location(lemmas)
+    print("Локация: ", location)
+    if location:
         rest = re.sub(location[0], "", " ".join(lemmas)).strip()
         search = is_in_properties(rest)
         if search:
@@ -122,8 +127,9 @@ def analyze_input(input_query):
         else:
             raise KeyError("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
         return (translate_location(location), predicate, query_type)
-    except KeyError:
-        print("KeyError: Location is not in the dictionary.")
+    else:
+        raise KeyError("Location is not in the dictionary")
+
 
 
 def define_pattern(query_type):
@@ -131,6 +137,8 @@ def define_pattern(query_type):
         return open_pattern("pattern1.txt")
     elif query_type == "full":
         return open_pattern("pattern3.txt")
+    elif query_type == "about":
+        return open_pattern("pattern4.txt")
     else:
         return False
 
@@ -161,6 +169,7 @@ def construct_query(subject, variable, predicate, query_pattern):
 # TODO: сделать так, чтобы сначала поиск шел по полным шаблонам, где уже известен и объект и предикат
 
 
+
 # Делаем запрос
 def make_query(query):
     # Открываем шаблоны
@@ -189,7 +198,7 @@ def make_query(query):
 
 
 
-query1 = "Какое население Москвы"
+query1 = "про камышлинский район"
 query2 = "В каком экономическом регионе находится Москва?"
 query3 = "Какое население в Берлине?"
 

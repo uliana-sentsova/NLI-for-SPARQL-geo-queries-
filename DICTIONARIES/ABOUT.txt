@@ -1,0 +1,3 @@
+про,dbo:abstract
+описание,dbo:abstract
+информация о,dbo:abstract
