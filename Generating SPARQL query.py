@@ -39,9 +39,9 @@ pwd = os.getcwd()
 
 # ======================================
 # Функция импортирует шаблон.
-def open_pattern(filename):
+def open_pattern(pattern_name):
     os.chdir(pwd + "/Patterns")
-    with open(filename, 'r') as pattern:
+    with open(pattern_name + ".txt", 'r') as pattern:
         pattern = pattern.read()
     return pattern
 
@@ -86,6 +86,7 @@ def search_bigram(words_list):
 # Функция ищет локацию в запросе: сначала отдельные слова, затем биграммы.
 # На вход нужно подавать лемматизированный array.
 def find_location(words_list):
+    words_list = words_list.split(" ")
     locations = []
     for word in words_list:
         if word in LOCATION_DICTIONARY:
@@ -98,16 +99,21 @@ def find_location(words_list):
 
 # Функция переводит запрос на язык DPBedia: Липецк -> Lipetsk
 def translate_location(location):
-    return LOCATION_DICTIONARY[location[0]]
+    if location == "":
+        return ""
+    else:
+        return LOCATION_DICTIONARY[location[0]]
 
 
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
-def is_in_properties(query):
+def keyword_search(query):
     for key in PROPERTIES.keys():
         if key in query:
             return PROPERTIES[key]
     return False
 
+
+# TODO: что делать, если найдено больше одного ключевого слова?
 
 # Функция лемматизирует запрос, находит в нем локацию, находит потенциальный предикат,
 # проверяет его в словаре предикатов (функция is_in_properties).
@@ -115,40 +121,82 @@ def analyze_input(input_query):
     assert type(input_query) == str
     lemmas = m.lemmatize(input_query.lower())
     lemmas = [l for l in lemmas if is_word(l)]
-    # try:
-    location = find_location(lemmas)
-    print("Локация: ", location)
-    if location:
-        rest = re.sub(location[0], "", " ".join(lemmas)).strip()
-        search = is_in_properties(rest)
-        if search:
-            predicate, query_type = search[0], search[1]
-            print("Предикат:", predicate)
+    lemmas = " ".join(lemmas).strip()
+
+    keyword = keyword_search(lemmas)
+    if keyword:
+        predicate, query_type = keyword[0], keyword[1]
+        print("Предикат:", predicate)
+
+        if query_type == "full":
+            location = ""
         else:
-            raise KeyError("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
+            rest = re.sub(predicate, "", lemmas)
+            location = find_location(lemmas)
+
+            if not location:
+                print("Location is not in the dictionary")
+                raise KeyError
+
+            print("Локация: ", location)
+
         return (translate_location(location), predicate, query_type)
     else:
-        raise KeyError("Location is not in the dictionary")
+        print("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
+        raise KeyError
+
+
+    #
+    # location = find_location(lemmas)
+    # print("Локация: ", location)
+    # if location:
+    #     rest = re.sub(location[0], "", " ".join(lemmas)).strip()
+    #     search = keyword_search(rest)
+    #     if search:
+    #         predicate, query_type = search[0], search[1]
+    #         print("Предикат:", predicate)
+    #     else:
+    #         raise KeyError("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
+    #     return (translate_location(location), predicate, query_type)
+    # else:
+    #     raise KeyError("Location is not in the dictionary")
 
 
 
 def define_pattern(query_type):
     if query_type == "default":
-        return open_pattern("pattern1.txt")
+        return "pattern1"
     elif query_type == "full":
-        return open_pattern("pattern3.txt")
+        return "pattern3"
     elif query_type == "about":
-        return open_pattern("pattern4.txt")
+        return "pattern4"
     else:
         return False
 
 
 # Функция создает запрос. На вход подаётся субъект (локация),
 # переменная (неизвестная информация), предикат и шаблон запроса.
-def construct_query(subject, variable, predicate, query_pattern):
-    query_pattern = query_pattern.replace("SUBJECT", subject)
+def construct_query(subject, variable, predicate, query_type):
+    print("TYPE:    ", query_type)
+    query_pattern = define_pattern(query_type)
+    print("PATTERN:    ", query_pattern)
+    if query_pattern == "pattern1" or query_pattern == "pattern2":
+        query_pattern = open_pattern(query_pattern)
+        query_pattern = query_pattern.replace("SUBJECT", subject)
+        query_pattern = query_pattern.replace("PREDICATE", predicate)
+
+    elif query_pattern == "pattern3":
+        query_pattern = open_pattern(query_pattern)
+        query_pattern = query_pattern.replace("PREDICATE", predicate)
+
+    elif query_pattern == "pattern4":
+        query_pattern = open_pattern(query_pattern)
+        query_pattern = query_pattern.replace("SUBJECT", subject)
+
+    else:
+        print("ТИП ЗАПРОСА НЕ НАЙДЕН.")
+
     query_pattern = query_pattern.replace("VARIABLE", variable)
-    query_pattern = query_pattern.replace("PREDICATE", predicate)
     sparql.setQuery(query_pattern)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
@@ -180,14 +228,17 @@ def make_query(query):
     print(query)
     print("------------------------------------------------------------")
     (subject, predicate, query_type) = analyze_input(query)
-    pattern_to_use = define_pattern(query_type)
     print(query_type)
     print(subject, predicate)
     sparql_query, result = construct_query(subject=subject, variable="variable",
-                                           predicate=predicate, query_pattern=pattern_to_use)
+                                           predicate=predicate, query_type=query_type)
     # if not result:
     #     sparql_query, result = construct_query(subject=subject, variable="variable",
-    #                                            predicate=predicate, query_pattern=pattern2)
+    #                                            predicate=predicate, query_type="pattern2")
+    # if not result:
+    #     sparql_query, result = construct_query(subject=subject, variable="variable",
+    #                                            predicate=predicate, query_type="pattern4")
+
     print("РЕЗУЛЬТАТ ЗАПРОСА: ")
     for r in result:
         print(r)
@@ -198,10 +249,12 @@ def make_query(query):
 
 
 
-query1 = "про камышлинский район"
+query1 = "описание камышлинского района"
 query2 = "В каком экономическом регионе находится Москва?"
 query3 = "Какое население в Берлине?"
+query4 = "какие страны в африке?"
 
 make_query(query1)
 make_query(query2)
 make_query(query3)
+make_query(query4)

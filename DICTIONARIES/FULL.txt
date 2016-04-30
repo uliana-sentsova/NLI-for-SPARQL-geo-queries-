@@ -3,6 +3,7 @@
 африка государство,yago:AfricanCountries
 африка страна,yago:AfricanCountries
 какой страна африка,yago:AfricanCountries
+какой страна в африка,yago:AfricanCountries
 какой государство африка,yago:AfricanCountries
 весь страна африка,yago:AfricanCountries
 государство африка,yago:AfricanCountries
