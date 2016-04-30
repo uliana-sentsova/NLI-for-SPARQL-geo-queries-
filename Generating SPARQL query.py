@@ -18,11 +18,20 @@ PROPERTIES = dict()
 with open("PROP.txt", "r", encoding="utf-8") as g:
     for line in g:
         line = line.strip().split(",")
-        PROPERTIES[line[0]] = line[1]
+        PROPERTIES[line[0]] = (line[1], "default")
         # PROPERTIES[line[1]] = [l for l in line[0].split(",")]
+
+# PROPERTIES_FULL = dict()
+with open("FULL.txt", "r", encoding="utf-8") as g:
+    for line in g:
+        line = line.strip().split(",")
+        PROPERTIES[line[0]] = (line[1], "full")
+
+
 
 os.chdir(pwd)
 pwd = os.getcwd()
+
 
 # ======================================
 # Функция импортирует шаблон.
@@ -31,6 +40,7 @@ def open_pattern(filename):
     with open(filename, 'r') as pattern:
         pattern = pattern.read()
     return pattern
+
 
 # Вспомогательная функция для проверки, является ли токен словом,
 # а не знаком пунктуации или цифрами.
@@ -68,6 +78,7 @@ def search_bigram(words_list):
                 locations.append(bigram)
     return locations
 
+
 # Функция ищет локацию в запросе: сначала отдельные слова, затем биграммы.
 # На вход нужно подавать лемматизированный array.
 def find_location(words_list):
@@ -88,10 +99,10 @@ def translate_location(location):
 
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
 def is_in_properties(query):
-    if query in PROPERTIES.keys():
-        return PROPERTIES[query]
-    else:
-        return False
+    for key in PROPERTIES.keys():
+        if key in query:
+            return PROPERTIES[key]
+    return False
 
 
 # Функция лемматизирует запрос, находит в нем локацию, находит потенциальный предикат,
@@ -104,27 +115,39 @@ def analyze_input(input_query):
         location = find_location(lemmas)
         print("Локация: ", location)
         rest = re.sub(location[0], "", " ".join(lemmas)).strip()
-        print(rest)
-        predicate = is_in_properties(rest)
-        print(predicate)
-        return (translate_location(location), predicate)
+        search = is_in_properties(rest)
+        if search:
+            predicate, query_type = search[0], search[1]
+            print("Предикат:", predicate)
+        else:
+            raise KeyError("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
+        return (translate_location(location), predicate, query_type)
     except KeyError:
         print("KeyError: Location is not in the dictionary.")
 
 
+def define_pattern(query_type):
+    if query_type == "default":
+        return open_pattern("pattern1.txt")
+    elif query_type == "full":
+        return open_pattern("pattern3.txt")
+    else:
+        return False
+
+
 # Функция создает запрос. На вход подаётся субъект (локация),
 # переменная (неизвестная информация), предикат и шаблон запроса.
-def construct_query(subject, variable, predicate, query):
-    query = query.replace("SUBJECT", subject)
-    query = query.replace("VARIABLE", variable)
-    query = query.replace("PREDICATE", predicate)
-    sparql.setQuery(query)
+def construct_query(subject, variable, predicate, query_pattern):
+    query_pattern = query_pattern.replace("SUBJECT", subject)
+    query_pattern = query_pattern.replace("VARIABLE", variable)
+    query_pattern = query_pattern.replace("PREDICATE", predicate)
+    sparql.setQuery(query_pattern)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
     final = []
     for result in results["results"]["bindings"]:
         final.append(result[variable]["value"])
-    return query, final
+    return query_pattern, final
 
 
 
@@ -141,16 +164,21 @@ def construct_query(subject, variable, predicate, query):
 # Делаем запрос
 def make_query(query):
     # Открываем шаблоны
-    pattern1 = open_pattern("pattern1.txt")
-    pattern2 = open_pattern("pattern2.txt")
+
+    # pattern2 = open_pattern("pattern2.txt")
     print("\n")
     print("ЗАПРОС:")
     print(query)
     print("------------------------------------------------------------")
-    (subject, predicate) = analyze_input(query)
-    sparql_query, result = construct_query(subject=subject, variable="variable", predicate=predicate, query=pattern1)
-    if not result:
-        sparql_query, result = construct_query(subject=subject, variable="variable", predicate=predicate, query=pattern2)
+    (subject, predicate, query_type) = analyze_input(query)
+    pattern_to_use = define_pattern(query_type)
+    print(query_type)
+    print(subject, predicate)
+    sparql_query, result = construct_query(subject=subject, variable="variable",
+                                           predicate=predicate, query_pattern=pattern_to_use)
+    # if not result:
+    #     sparql_query, result = construct_query(subject=subject, variable="variable",
+    #                                            predicate=predicate, query_pattern=pattern2)
     print("РЕЗУЛЬТАТ ЗАПРОСА: ")
     for r in result:
         print(r)

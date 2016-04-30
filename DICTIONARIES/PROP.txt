@@ -28,7 +28,6 @@
 в какой экономический регион располагаться,dbp:economicRegion
 население,dbo:populationTotal
 население город,dbo:populationTotal
-какой население в,dbo:populationTotal
 численность,dbo:populationTotal
 численность в,dbo:populationTotal
 официальный численность,dbo:populationTotal
