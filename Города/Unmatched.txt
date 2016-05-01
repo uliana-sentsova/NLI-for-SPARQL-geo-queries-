@@ -4,5 +4,4 @@
 аргунь,городской уезд	Ergun_City
 археологический парк маундвиль	Moundville_Archaeological_Site
 варано де малегари	Varano_de'_Melegari
-вестминстер самоуправляемый район Лондона	City_of_Westminster
 вольный город франкфурт	Free_City_of_Frankfurt

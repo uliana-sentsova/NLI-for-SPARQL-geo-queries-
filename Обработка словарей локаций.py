@@ -8,17 +8,43 @@ os.chdir(pwd + "/Города")
 #     for line in fh:
 #         result.append(line.strip())
 
+
+def check_ambiguity(city_name):
+    if checking.count(city_name) > 1:
+        return True
+    else:
+        return False
+
 unmatched = []
 
 filenames = ['абв.tsv', 'где.tsv', 'ёжзий.tsv', 'клм.tsv', 'ноп.tsv', 'рсту.tsv', 'фхц.tsv', 'чшщыэюя.tsv']
-fh = open(filenames[0], "r", encoding="utf-8")
-dictionary = dict()
+filename = filenames[0]
+
+
+
+checking = []
+fh = open(filename, "r", encoding="utf-8")
 for line in fh:
     line = line.strip()
     line = line.split("\t")
     location = line[1]
+    location = location.split("(")[0].strip()
+    checking.append(location.lower())
+
+
+fh = open(filename, "r", encoding="utf-8")
+dictionary = dict()
+for l in fh:
+    line = l.strip()
+    line = line.split("\t")
+    location = line[1]
     value = line[0].split("resource/")[1]
     value = value.strip("\"")
+    if check_ambiguity(location.split("(")[0].strip().lower()):
+        print(location.split("(")[0].strip().lower())
+        with open("Ambiguos.txt", 'a') as k:
+            k.write(l)
+        continue
     if "(" in location:
         if "(город)" in location:
             location = location.split("(")
@@ -83,3 +109,5 @@ with open("Locations from DBPedia-1.txt", 'w') as fw:
 with open("Unmatched.txt", "w") as unm:
     for u in unmatched:
         unm.write(u + "\n")
+
+
