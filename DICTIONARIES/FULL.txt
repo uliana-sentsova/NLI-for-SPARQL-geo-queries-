@@ -17,3 +17,5 @@
 какой страна в азия,yago:AsianCountries
 какой государство азия,yago:AsianCountries
 какой государство в азия,yago:AsianCountries
+административный деление пакистан,resource:Administrative_units_of_Pakistan
+деление пакистан,resource:Administrative_units_of_Pakistan
