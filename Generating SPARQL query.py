@@ -36,6 +36,7 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
 PWD = os.getcwd()
 
+
 def import_dictionary(list_of_dict_names, key_index=0, value_index=1):
 
     os.chdir(PWD + "/DICTIONARIES")
@@ -82,9 +83,9 @@ def import_ontology(list_of_onto_names):
     os.chdir(PWD)
     return result_dictionary
 
-DICTIONARY_NAMES = ["SUBJECT"]
+DICTIONARY_NAMES = ["OBJECT", "SUBJECT", "FULL", "INFO"]
 
-PROPERTES = import_dictionary(DICTIONARY_NAMES)
+PROPERTIES = import_dictionary(DICTIONARY_NAMES)
 
 
 ONTOLOGY = import_ontology(["CITY"])
@@ -102,6 +103,7 @@ def remove_prepositions(raw_query):
     raw_query = re.sub("\sво?\s", " ", raw_query)
     return raw_query
 
+
 def remove_punctuation(raw_query):
     assert type(raw_query) == str
     raw_query = re.sub("[\.,!?]", "", raw_query)
@@ -110,7 +112,7 @@ def remove_punctuation(raw_query):
 
 def is_word(word):
     assert type(word) == str
-    for symbol in word:
+    for symbol in word.lower():
         if symbol not in "абвгдеёжзийклмнопрстуфхцчшщъыьэюя":
             return False
     return True
@@ -119,14 +121,18 @@ def is_word(word):
 def find_location(input_query):
 
     assert type(input_query) == str
-    print("Input query: ", input_query)
 
+    input_query = input_query.lower()
     input_query = remove_prepositions(input_query)
     input_query = remove_punctuation(input_query)
     lemmas = m.lemmatize(input_query.lower())
     lemmas = [l for l in lemmas if is_word(l)]
-    input_query = [word.strip() for word in input_query.split(" ") if is_word(word)]
+    input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
+    translation = None
+    location = None
+    category = None
+    context = None
 
     for word in lemmas:
         if word in ONTOLOGY:
@@ -134,6 +140,11 @@ def find_location(input_query):
             translation = ONTOLOGY[word][0]
             category = ONTOLOGY[word][1]
             context = ONTOLOGY[word][2:-1]
+    # if not location:
+    #     location = search_bigram(lemmas)
+    #     print(location)
+    #     print("!!----!!----!!")
+
     if translation:
 
         print("translation:",translation)
@@ -144,7 +155,8 @@ def find_location(input_query):
 
         if context:
             for word in context:
-                removing.append(lemmas.index(word))
+                if word in lemmas:
+                    removing.append(lemmas.index(word))
 
         for synonym in SYNONYMS[category]:
             if synonym in lemmas:
@@ -152,32 +164,18 @@ def find_location(input_query):
                 removing.append(ind)
 
         removing.append(lemmas.index(location))
-        print(removing)
-        print(lemmas)
-        print(input_query)
         for i in removing:
             input_query[i] = ""
 
         input_query = " ".join(input_query).strip()
 
-        print("Input query: ", input_query)
-        info = (translation, category, location)
-        return (info, input_query)
+        info = {"translation": translation, "type": category, "normalized": location}
+        return {"info": info, "query": input_query}
 
     else:
         return False
 
-
-
-
-print(find_location("бутурлиновка, воронежская область россия какое население"))
-
-    # if not locations:
-    #     return search_bigram(words_list)
-    # else:
-    #     return locations
 print("=======")
-
 
 
 
@@ -192,12 +190,12 @@ def open_pattern(pattern_name):
 
 # Вспомогательная функция для проверки, является ли токен словом,
 # а не знаком пунктуации или цифрами.
-def is_word(word):
-    assert type(word) == str
-    for symbol in word:
-        if symbol not in "абвгдеёжзийклмнопрстуфхцчшщъыьэюя":
-            return False
-    return True
+# def is_word(word):
+#     assert type(word) == str
+#     for symbol in word:
+#         if symbol not in "абвгдеёжзийклмнопрстуфхцчшщъыьэюя":
+#             return False
+#     return True
 
 
 # Вспомогательная функция
@@ -218,35 +216,13 @@ def search_bigram(words_list):
         except IndexError:
             break
     for bigram in bigrams:
-        if bigram in LOCATION_DICTIONARY:
-            locations.append(bigram)
+        if bigram in ONTOLOGY:
+            locations.append(ONTOLOGY[bigram])
     if not locations:
         for bigram in bigrams:
-            if reordered(bigram) in LOCATION_DICTIONARY:
-                locations.append(bigram)
+            if reordered(bigram) in ONTOLOGY:
+                locations.append(ONTOLOGY[bigram])
     return locations
-
-
-# Функция ищет локацию в запросе: сначала отдельные слова, затем биграммы.
-# На вход нужно подавать лемматизированный array.
-def find_location(words_list):
-    words_list = words_list.split(" ")
-    locations = []
-    for word in words_list:
-        if word in LOCATION_DICTIONARY:
-            locations.append(word)
-    if not locations:
-        return search_bigram(words_list)
-    else:
-        return locations
-
-
-# Функция переводит запрос на язык DPBedia: Липецк -> Lipetsk
-def translate_location(location):
-    if location == "":
-        return ""
-    else:
-        return LOCATION_DICTIONARY[location[0]]
 
 
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
@@ -261,12 +237,13 @@ def keyword_search(query):
 
 # Функция лемматизирует запрос, находит в нем локацию, находит потенциальный предикат,
 # проверяет его в словаре предикатов (функция is_in_properties).
-def analyze_input(input_query):
-    assert type(input_query) == str
-    lemmas = m.lemmatize(input_query.lower())
-    lemmas = [l for l in lemmas if is_word(l)]
-    lemmas = " ".join(lemmas).strip()
+def analyze_input(raw_query):
 
+    assert type(raw_query) == str
+
+    result = find_location(raw_query)
+    print(result)
+# TODO: ----------->>>>>>>>>>>>>>>
     keyword = keyword_search(lemmas)
     if keyword:
         predicate, query_type = keyword[0], keyword[1]
@@ -386,13 +363,13 @@ def make_query(query):
 
 
 
-query1 = "описание камышлинского района"
+# query1 = "описание камышлинского района"
 query2 = "В каком экономическом регионе находится Москва?"
 query3 = "Какое население в Берлине?"
 query4 = "какие страны в африке?"
 query5 = "острова австралии"
 
-make_query(query1)
+# make_query(query1)
 make_query(query2)
 make_query(query3)
 make_query(query4)
