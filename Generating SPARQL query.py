@@ -85,10 +85,85 @@ DICTIONARY_NAMES = ["SUBJECT"]
 PROPERTES = import_dictionary(DICTIONARY_NAMES)
 
 
-LOCATIONS = import_ontology(["CITY_lem"])
-for key, value in LOCATIONS.items():
-    print(key, value)
+ONTOLOGY = import_ontology(["CITY"])
+# for key, value in ONTOLOGY.items():
+#     print(key, value)
 
+SYNONYMS = dict()
+SYNONYMS["CITY"] = ['город', 'г.', 'деревня', "поселок", "село"]
+
+
+def delete_prepositions(raw_query):
+    assert type(raw_query) == str
+    raw_query = re.sub("^во?\s", "", raw_query)
+    raw_query = re.sub("\sво?$", "", raw_query)
+    raw_query = re.sub("\sво?\s", " ", raw_query)
+    return raw_query
+
+
+def is_word(word):
+    assert type(word) == str
+    for symbol in word:
+        if symbol not in "абвгдеёжзийклмнопрстуфхцчшщъыьэюя":
+            return False
+    return True
+
+
+def find_location(input_query):
+
+    assert type(input_query) == str
+    print("Input query: ", input_query)
+
+    input_query = delete_prepositions(input_query)
+    print("Input query: ", input_query)
+
+    lemmas = m.lemmatize(input_query.lower())
+    lemmas = [l for l in lemmas if is_word(l)]
+    input_query = input_query.split(" ")
+
+    locations = []
+    for word in lemmas:
+        if word in ONTOLOGY:
+            locations.append(ONTOLOGY[word][-1])
+            translation = ONTOLOGY[word][0]
+            category = ONTOLOGY[word][1]
+            context = ONTOLOGY[word][2:-1]
+    if translation:
+
+        print("translation:",translation)
+        print("type:",category)
+        print("context:",context)
+
+        if context:
+            for word in context:
+                if word in lemmas:
+                    ind = lemmas.index(word)
+                    del input_query[ind]
+
+        for synonym in SYNONYMS[category]:
+            if synonym in lemmas:
+                ind = lemmas.index(synonym)
+                del input_query[ind]
+
+        print("Input query: ", " ".join(input_query))
+
+
+
+    else:
+        return False
+
+
+
+
+print(find_location("население города армянска в крыму"))
+
+    # if not locations:
+    #     return search_bigram(words_list)
+    # else:
+    #     return locations
+
+
+raise KeyError
 
 
 

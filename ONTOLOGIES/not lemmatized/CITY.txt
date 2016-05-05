@@ -153,8 +153,8 @@
 бенетутти,италия	Benetutti
 бартоломеберг,австрия	Bartholomäberg
 бреббья,италия	Brebbia
-вадзима,	Wajima,_Ishikawa
-армянск,	Armyansk
+вадзима,япония	Wajima,_Ishikawa
+армянск,крым	Armyansk
 венеция,италия	Venice
 варберг,швеция,швеция	Varberg
 арменто,италия	Armento
@@ -167,7 +167,7 @@
 боубеллс,дакота,северная дакота,соединённые штаты америки,сша,америка	Bowbells,_North_Dakota
 али-терме,италия	Alì_Terme
 боргоново-валь-тидоне,италия	Borgonovo_Val_Tidone
-валкеакоски,	Valkeakoski
+валкеакоски,финляндия	Valkeakoski
 виндигштайг,австрия	Windigsteig
 вайтенсфельд-им-гуркталь,австрия	Weitensfeld_im_Gurktal
 вилла-фаральди,италия	Villa_Faraldi
