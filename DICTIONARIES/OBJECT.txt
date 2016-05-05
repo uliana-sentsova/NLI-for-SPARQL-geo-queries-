@@ -1,0 +1,6 @@
+остров	dbo:Island
+остров рядом	dbo:Island
+река	dbo:River
+бассейн река	dbo:River
+гора	dbo:MountainRange
+горный массив	dbo:MountainRange

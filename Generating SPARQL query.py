@@ -7,40 +7,95 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
 # ======================================
 
-pwd = os.getcwd()
-os.chdir(pwd + "/DICTIONARIES")
-LOCATION_DICTIONARY = dict()
-with open("RU-EN.txt", 'r', encoding="utf-8") as f:
-    for line in f:
-        LOCATION_DICTIONARY[line.split("\t")[0]] = line.strip().split("\t")[1]
+# LOCATION_DICTIONARY = dict()
+# with open("RU-EN.txt", 'r', encoding="utf-8") as f:
+#     for line in f:
+#         LOCATION_DICTIONARY[line.split("\t")[0]] = line.strip().split("\t")[1]
+#
+# PROPERTIES = dict()
+# with open("SUBJECT.txt", "r", encoding="utf-8") as g:
+#     for line in g:
+#         line = line.strip().split(",")
+#         PROPERTIES[line[0]] = (line[1], "default")
+#         # PROPERTIES[line[1]] = [l for l in line[0].split(",")]
+#
+# with open("FULL.txt", "r", encoding="utf-8") as g:
+#     for line in g:
+#         line = line.strip().split(",")
+#         PROPERTIES[line[0]] = (line[1], "no_subject")
+#
+# with open("INFO.txt", "r", encoding="utf-8") as g:
+#     for line in g:
+#         line = line.strip().split(",")
+#         PROPERTIES[line[0]] = (line[1], "info")
+#
+# with open("OBJECT.txt", "r", encoding="utf-8") as g:
+#     for line in g:
+#         line = line.strip().split(",")
+#         PROPERTIES[line[0]] = (line[1], "object")
 
-PROPERTIES = dict()
-with open("PROP.txt", "r", encoding="utf-8") as g:
-    for line in g:
-        line = line.strip().split(",")
-        PROPERTIES[line[0]] = (line[1], "default")
-        # PROPERTIES[line[1]] = [l for l in line[0].split(",")]
+PWD = os.getcwd()
 
-with open("FULL.txt", "r", encoding="utf-8") as g:
-    for line in g:
-        line = line.strip().split(",")
-        PROPERTIES[line[0]] = (line[1], "full")
+def import_dictionary(list_of_dict_names, key_index=0, value_index=1):
 
-with open("ABOUT.txt", "r", encoding="utf-8") as g:
-    for line in g:
-        line = line.strip().split(",")
-        PROPERTIES[line[0]] = (line[1], "about")
+    os.chdir(PWD + "/DICTIONARIES")
+
+    assert list_of_dict_names
+    result_dictionary = dict()
+    for name in list_of_dict_names:
+        with open(name + ".txt", "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                line = line.split("\t")
+                assert len(line) == 2
+                result_dictionary[line[key_index].strip()] = (line[value_index].strip(), name)
+
+    os.chdir(PWD)
+    return result_dictionary
 
 
+def import_ontology(list_of_onto_names):
 
-os.chdir(pwd)
-pwd = os.getcwd()
+    os.chdir(PWD + "/ONTOLOGIES")
+
+    assert list_of_onto_names
+    result_dictionary = dict()
+    for name in list_of_onto_names:
+        with open(name + ".txt", "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                line = line.split("\t")
+                assert len(line) == 2
+
+                if "," not in line[0]:
+                    onto_key = line[0].strip()
+                    onto_value = [line[1].strip(), name]
+                else:
+                    onto_key = line[0].split(",")[0]
+                    onto_value = [line[1].strip(), name]
+                    for word in line[0].split(",")[1:]:
+                        onto_value.append(word)
+
+                result_dictionary[onto_key] = onto_value
+    os.chdir(PWD)
+    return result_dictionary
+
+DICTIONARY_NAMES = ["SUBJECT"]
+
+PROPERTES = import_dictionary(DICTIONARY_NAMES)
+
+
+LOCATIONS = import_ontology(["CITY_lem"])
+for key, value in LOCATIONS.items():
+    print(key, value)
+
+
 
 
 # ======================================
 # Функция импортирует шаблон.
 def open_pattern(pattern_name):
-    os.chdir(pwd + "/Patterns")
+    os.chdir(PWD + "/Patterns")
     with open(pattern_name + ".txt", 'r') as pattern:
         pattern = pattern.read()
     return pattern
@@ -126,20 +181,14 @@ def analyze_input(input_query):
     keyword = keyword_search(lemmas)
     if keyword:
         predicate, query_type = keyword[0], keyword[1]
-        print("Предикат:", predicate)
-
-        if query_type == "full":
+        if query_type == "no_subject":
             location = ""
         else:
             rest = re.sub(predicate, "", lemmas)
             location = find_location(lemmas)
 
             if not location:
-                print("Location is not in the dictionary")
-                raise KeyError
-
-            print("Локация: ", location)
-
+                raise KeyError("Location is not in the dictionary")
         return (translate_location(location), predicate, query_type)
     else:
         print("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
@@ -166,9 +215,9 @@ def analyze_input(input_query):
 def define_pattern(query_type):
     if query_type == "default":
         return "pattern1"
-    elif query_type == "full":
+    elif query_type == "no_subject":
         return "pattern3"
-    elif query_type == "about":
+    elif query_type == "info":
         return "pattern4"
     else:
         return False
@@ -228,7 +277,6 @@ def make_query(query):
     print(query)
     print("------------------------------------------------------------")
     (subject, predicate, query_type) = analyze_input(query)
-    print(query_type)
     print(subject, predicate)
     sparql_query, result = construct_query(subject=subject, variable="variable",
                                            predicate=predicate, query_type=query_type)
@@ -253,8 +301,10 @@ query1 = "описание камышлинского района"
 query2 = "В каком экономическом регионе находится Москва?"
 query3 = "Какое население в Берлине?"
 query4 = "какие страны в африке?"
+query5 = "острова австралии"
 
 make_query(query1)
 make_query(query2)
 make_query(query3)
 make_query(query4)
+# make_query(query5)

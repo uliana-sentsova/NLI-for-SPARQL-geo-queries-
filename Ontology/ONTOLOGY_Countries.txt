@@ -1,0 +1,253 @@
+индонезия	Indonesia
+кирибати	Kiribati
+филиппины	Philippines
+коморы	Comoros
+гондурас	Honduras
+сомали	Somalia
+камбоджа	Cambodia
+бенин	Benin
+румыния	Romania
+макао	Macau
+эстония	Estonia
+буркина-фасо	Burkina_Faso
+ирландия	Republic_of_Ireland
+германия	Germany
+сейшельские острова,сейшелы,сейшеллы	Seychelles
+иордания	Jordan
+франция	France
+латвия	Latvia
+габон	Gabon
+бельгия	Belgium
+уганда	Uganda
+панама	Panama
+бахрейн	Bahrain
+пуэрто-рико	Puerto_Rico
+пуэрто рико	Puerto_Rico
+уругвай	Uruguay
+япония	Japan
+нигерия	Nigeria
+сент-люсия	Saint_Lucia
+аруба	Aruba
+украина	Ukraine
+азербайджан	Azerbaijan
+гонконг	Hong_Kong
+хорватия	Croatia
+южный судан	South_Sudan
+джибути	Djibouti
+гамбия	The_Gambia
+самоа	Samoa
+мали	Mali
+тафеа	Tafea_Province
+критское государство	Cretan_State
+крит	Cretan_State
+корсиканская республика	Corsican_Republic
+корсика	Corsican_Republic
+ирак	Iraq
+сирия	Syria
+лесото	Lesotho
+куба	Cuba
+эритрея	Eritrea
+сан-марино	San_Marino
+ндзуани	Anjouan
+фарерские острова	Faroe_Islands
+тонга	Tonga
+свазиленд	Swaziland
+катар	Qatar
+бруней	Brunei
+маршалловы острова	Marshall_Islands
+албания	Albania
+лихтенштейн	Liechtenstein
+лаос	Laos
+ливан	Lebanon
+сингапур	Singapore
+монтсеррат	Montserrat
+гвинея-бисау	Guinea-Bissau
+испания	Spain
+норвегия	Norway
+танзания	Tanzania
+коста-рика	Costa_Rica
+коста рика	Costa_Rica
+уэльс	Wales
+сенегал	Senegal
+перу	Peru
+венгрия	Hungary
+исландия	Iceland
+республика эдзо	Republic_of_Ezo
+эдзо	Republic_of_Ezo
+южно-африканская республика	South_Africa
+юар	South_Africa
+республика гаити	Haiti
+гаити	Haiti
+острова кука	Cook_Islands
+бразилия	Brazil
+виргинские острова,сша	United_States_Virgin_Islands
+ямайка	Jamaica
+чили	Chile
+доминика	Dominica
+тайвань	Taiwan
+австрия	Austria
+нидерланды	Netherlands
+англия	England
+шри-ланка	Sri_Lanka
+багамские острова	The_Bahamas
+кувейт	Kuwait
+сербия	Serbia
+грузия	Georgia_(country)
+польша	Poland
+чехия	Czech_Republic
+ангилья	Anguilla
+армения	Armenia
+науру	Nauru
+вануату	Vanuatu
+таиланд	Thailand
+тайланд	Thailand
+мальдивы	Maldives
+мозамбик	Mozambique
+непал	Nepal
+боливия	Bolivia
+бермудские острова	Bermuda
+мавритания	Mauritania
+соломоновы острова	Solomon_Islands
+малайзия	Malaysia
+острова кайман	Cayman_Islands
+белиз	Belize
+ангола	Angola
+западная сахара	Western_Sahara
+кабо-верде	Cape_Verde
+руанда	Rwanda
+франсвиль,гебриды,новые гебриды	Franceville,_New_Hebrides
+судан	Sudan
+аргентина	Argentina
+центральноафриканская республика	Central_African_Republic
+новая зеландия	New_Zealand
+мвали	Mohéli
+словения	Slovenia
+бурунди	Burundi
+шотландия	Scotland
+оман	Oman
+республика конго	Republic_of_the_Congo
+конго	Republic_of_the_Congo
+мальта	Malta
+бангладеш	Bangladesh
+узбекистан	Uzbekistan
+словакия	Slovakia
+эквадор	Ecuador
+дания	Denmark
+суринам	Suriname
+австралия	Australia
+гватемала	Guatemala
+гана	Ghana
+вьетнам	Vietnam
+казахстан	Kazakhstan
+молдавия	Moldova
+замбия	Zambia
+острова питкэрн	Pitcairn_Islands
+финляндия	Finland
+ливия	Libya
+экваториальная гвинея	Equatorial_Guinea
+таджикистан	Tajikistan
+бутан	Bhutan
+королевство таволара	Kingdom_of_Tavolara
+королевство нидерландов	Kingdom_of_the_Netherlands
+афганистан	Afghanistan
+сьерра-леоне	Sierra_Leone
+швейцария	Switzerland
+фиджи	Fiji
+никарагуа	Nicaragua
+венесуэла	Venezuela
+мексика	Mexico
+йемен	Yemen
+люксембург	Luxembourg
+либерия	Liberia
+литва	Lithuania
+россия	Russia
+рф	Russia
+российская федерация	Russia
+ватикан	Vatican_City
+греция	Greece
+республика кипр	Cyprus
+израиль	Israel
+парагвай	Paraguay
+северная ирландия	Northern_Ireland
+иран	Iran
+гайана	Guyana
+китайская республика	Taiwan
+тайвань	Taiwan
+кения	Kenya
+туркмения	Turkmenistan
+великобритания	United_Kingdom
+намибия	Namibia
+белоруссия	Belarus
+французская полинезия	French_Polynesia
+маврикий	Mauritius
+палау	Palau
+италия	Italy
+швеция	Sweden
+монголия	Mongolia
+марокко	Morocco
+египет	Egypt
+барбадос	Barbados
+зимбабве	Zimbabwe
+мадагаскар	Madagascar
+саудовская аравия	Saudi_Arabia
+гренландия	Greenland
+доминиканская республика	Dominican_Republic
+доминикана	Dominican_Republic
+болгария	Bulgaria
+тунис	Tunisia
+нигер	Niger
+ботсвана	Botswana
+андорра	Andorra
+восточный тимор	East_Timor
+пакистан	Pakistan
+индия	India
+колумбия	Colombia
+эфиопия	Ethiopia
+того	Togo
+гренада	Grenada
+сен-бартелеми	Saint_Barthélemy
+тувалу	Tuvalu
+сальвадор	El_Salvador
+черногория	Montenegro
+малави	Malawi
+джерси,остров	Jersey
+португалия	Portugal
+княжество тринидад	Principality_of_Trinidad
+киргизия	Kyrgyzstan
+камерун	Cameroon
+республика корея	South_Korea
+южная корея	South_Korea
+корейская республика	South_Korea
+канада	Canada
+республика македония	Republic_of_Macedonia
+родригес,остров	Rodrigues
+монако	Monaco
+алжир	Algeria
+британские виргинские острова	British_Virgin_Islands
+нидерландские антильские острова	Netherlands_Antilles
+объединённая республика сувадиве	United_Suvadive_Republic
+сувадиве	United_Suvadive_Republic
+северные марианские острова	Northern_Mariana_Islands
+марианские острова	Northern_Mariana_Islands
+демократическая республика конго	Democratic_Republic_of_the_Congo
+заир	Democratic_Republic_of_the_Congo
+китайская народная республика	China
+китай	China
+кнр	China
+корейская народно-демократическая республика	North_Korea
+северная корея	North_Korea
+кндр	North_Korea
+объединённые арабские эмираты	United_Arab_Emirates
+оаэ	United_Arab_Emirates
+арабские эмираты	United_Arab_Emirates
+папуа новая гвинея	Papua_New_Guinea
+новая гвинея	Papua_New_Guinea
+гвинея	Papua_New_Guinea
+соединённые штаты америки	United_States
+америка	United_States
+сша	United_States
+федеративные штаты микронезии	Federated_States_of_Micronesia
+микронезия	Federated_States_of_Micronesia
+турецкая республика северного кипра	Northern_Cyprus
+северный кипр	Northern_Cyprus
+турция  Turkey

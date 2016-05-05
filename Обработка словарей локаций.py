@@ -2,7 +2,7 @@ import os
 
 result = []
 pwd = os.getcwd()
-os.chdir(pwd + "/Города")
+os.chdir(pwd + "/Ontology")
 # for filename in os.listdir():
 #     fh = open(filename, "r", encoding="utf-8")
 #     for line in fh:

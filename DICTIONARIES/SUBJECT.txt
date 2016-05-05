@@ -1,0 +1,86 @@
+описание	dbo:abstract
+площадь	dbo:areaTotal
+в какой страна	dbo:country
+где находиться	dbo:country
+как звать мэр	dbo:leader
+как звать мэр город	dbo:leader
+мэр	dbo:leader
+мэр город	dbo:leader
+почтовый код	dbo:postalCode
+почтовый код город	dbo:postalCode
+сайт	foaf:homepage
+столица что	dbo:capital
+столица какая страна	dbo:capital
+столица какое государство	dbo:capital
+кто родиться в	dbo:birthPlace
+кто родиться	dbo:birthPlace
+родиться	dbo:birthPlace
+родиться в	dbo:birthPlace
+место рождение	dbo:birthPlace
+кто умирать в	dbo:deathPlace
+кто умирать	dbo:deathPlace
+место смерть	dbo:deathPlace
+умирать в	dbo:deathPlace
+умирать	dbo:deathPlace
+экономический регион	dbp:economicRegion
+какой экономический регион	dbp:economicRegion
+в какой экономический регион находиться	dbp:economicRegion
+в какой экономический регион располагаться	dbp:economicRegion
+население	dbo:populationTotal
+население город	dbo:populationTotal
+численность	dbo:populationTotal
+численность в	dbo:populationTotal
+официальный численность	dbo:populationTotal
+численность официально	dbo:populationTotal
+численность официальный	dbo:populationTotal
+население составлять	dbo:populationTotal
+население составить	dbo:populationTotal
+сколько население	dbo:populationTotal
+какой население	dbo:populationTotal
+сколько население в	dbo:populationTotal
+количество население	dbo:populationTotal
+широта	geo:lat
+какая широта у	geo:lat
+на какой широта	geo:lat
+на какой широта находиться	geo:lat
+на какой широта расположиться	geo:lat
+географический широта	geo:lat
+географический широта в градус	geo:lat
+долгота	geo:lat
+какой долгота у	geo:lat
+на какой долгота	geo:lat
+на какой долгота находиться	geo:lat
+на какой долгота располагаться	geo:lat
+широта долгота	geo:geometry
+долгота широта	geo:geometry
+координата	geo:geometry
+географический положение	geo:geometry
+географический координата	geo:geometry
+определить широта долгота	geo:geometry
+определить широта и долгота	geo:geometry
+на какой широта и долгота находиться	geo:geometry
+на какой широта и долгота располагаться	geo:geometry
+на какой широта и долгота расположиться	geo:geometry
+на какой широта и долгота располагать	geo:geometry
+европа город культура	yago:EuropeanCapitalsOfCulture
+про	dbo:abstract
+описание	dbo:abstract
+в какой год	dbp:establishedDate
+в какой год построить	dbp:establishedDate
+когда построить	dbp:establishedDate
+когда основать	dbp:establishedDate
+сайт	dbp:website
+на какой язык говорить	dbo:language
+язык в	dbo:language
+официальный язык	dbo:language
+какой язык	dbo:language
+самый крупный город	dbo:largestCity
+самый большой город	dbo:largestCity
+крупнейший город	dbo:largestCity
+город самый большой	dbo:largestCity
+город самый крупный	dbo:largestCity
+часовой пояс	dbo:timeZone
+сколько время	dbo:timeZone
+время в	dbo:timeZone
+народ проживать в	dbo:ethnicGroup
+этнический группа	dbo:ethnicGroup

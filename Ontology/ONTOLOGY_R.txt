@@ -1,0 +1,90 @@
+тыва	Tuva
+белгородская область	Belgorod_Oblast
+приморский край	Primorsky_Krai
+тюменская область	Tyumen_Oblast
+кабардино-балкария	Kabardino-Balkaria
+волгоградская область	Volgograd_Oblast
+самарская область	Samara_Oblast
+магаданская область	Magadan_Oblast
+рязанская область	Ryazan_Oblast
+калужская область	Kaluga_Oblast
+северная осетия	North_Ossetia-Alania
+тверская область	Tver_Oblast
+оренбургская область	Orenburg_Oblast
+хабаровский край	Khabarovsk_Krai
+пензенская область	Penza_Oblast
+ингушетия	Ingushetia
+свердловская область	Sverdlovsk_Oblast
+ставропольский край	Stavropol_Krai
+татарстан	Tatarstan
+архангельская область	Arkhangelsk_Oblast
+камчатский край	Kamchatka_Krai
+камчатка край	Kamchatka_Krai
+ростовская область	Rostov_Oblast
+новгородская область	Novgorod_Oblast
+костромская область	Kostroma_Oblast
+дагестан	Dagestan
+республика алтай	Altai_Republic
+ивановская область	Ivanovo_Oblast
+карачаево-черкесия	Karachay-Cherkessia
+томская область	Tomsk_Oblast
+башкортостан	Bashkortostan
+ленинградская область	Leningrad_Oblast
+алтайский край	Altai_Krai
+алтай	Altai_Krai
+республика карелия	Republic_of_Karelia
+смоленская область	Smolensk_Oblast
+хакасия	Khakassia
+краснодарский край	Krasnodar_Krai
+иркутская область	Irkutsk_Oblast
+сахалинская область	Sakhalin_Oblast
+астраханская область	Astrakhan_Oblast
+курганская область	Kurgan_Oblast
+новосибирская область	Novosibirsk_Oblast
+тульская область	Tula_Oblast
+московская область	Moscow_Oblast
+кировская область	Kirov_Oblast
+владимирская область	Vladimir_Oblast
+нижегородская область	Nizhny_Novgorod_Oblast
+курская область	Kursk_Oblast
+саратовская область	Saratov_Oblast
+чечня	Chechnya
+омская область	Omsk_Oblast
+орловская область	Oryol_Oblast
+калининградская область	Kaliningrad_Oblast
+москва	Moscow
+вологодская область	Vologda_Oblast
+челябинская область	Chelyabinsk_Oblast
+амурская область	Amur_Oblast
+красноярский край	Krasnoyarsk_Krai
+ульяновская область	Ulyanovsk_Oblast
+бурятия	Buryatia
+тамбовская область	Tambov_Oblast
+ярославская область	Yaroslavl_Oblast
+чувашия	Chuvashia
+забайкальский край	Zabaykalsky_Krai
+якутия	Sakha_Republic
+адыгея	Adygea
+удмуртия	Udmurtia
+кемеровская область	Kemerovo_Oblast
+калмыкия	Kalmykia
+санкт-петербург	Saint_Petersburg
+петербург	Saint_Petersburg
+питер	Saint_Petersburg
+спб	Saint_Petersburg
+брянская область	Bryansk_Oblast
+марий эл	Mari_El
+республика коми	Komi_Republic
+коми	Komi_Republic
+псковская область	Pskov_Oblast
+липецкая область	Lipetsk_Oblast
+воронежская область	Voronezh_Oblast
+мордовия	Mordovia
+пермский край	Perm_Krai
+мурманская область	Murmansk_Oblast
+чукотский автономный округ	Chukotka_Autonomous_Okrug
+чукотка	Chukotka_Autonomous_Okrug
+еврейская автономная область	Jewish_Autonomous_Oblast
+ямало-ненецкий автономный округ	Yamalo-Nenets_Autonomous_Okrug
+ханты-мансийский автономный округ — югра	Khanty-Mansi_Autonomous_Okrug
+ненецкий автономный округ	Nenets_Autonomous_Okrug

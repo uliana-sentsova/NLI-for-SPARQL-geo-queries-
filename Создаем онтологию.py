@@ -8,11 +8,11 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 # не записывает одну и ту же локацию в различные строки. Результат записывается в файл "ONTOLOGY.txt",
 # который можно будет использовать в качестве онтологии и для анализа запроса.
 
-# TODO: пополнить онтологию новыми дескрипторами, используя запросы к SPARQL
+# TODO: запустить с начала
 
 result = []
 pwd = os.getcwd()
-os.chdir(pwd + "/Города")
+os.chdir(pwd + "/Ontology")
 # for filename in os.listdir():
 #     fh = open(filename, "r", encoding="utf-8")
 #     for line in fh:
@@ -47,7 +47,7 @@ def make_query_to_DB(subject, pattern, predicate):
     # for f in final:
     #     print(f)
     if final:
-        return final[0].lower()
+        return final
     else:
         query_pattern = re.sub('\ \"ru\"\ ', "\"en\"", query_pattern)
         sparql.setQuery(query_pattern)
@@ -57,14 +57,14 @@ def make_query_to_DB(subject, pattern, predicate):
         for result in results["results"]["bindings"]:
             final.append(result["name"]["value"])
         if final:
-            return final[0].lower()
+            return final
         else:
             return ""
 
 unmatched = []
 
-filenames = ['абв.tsv', 'где.tsv', 'ёжзий.tsv', 'клм.tsv', 'ноп.tsv', 'рсту.tsv', 'фхц.tsv', 'чшщыэюя.tsv']
-filename = filenames[1]
+filenames = ['Реки.tsv', 'где.tsv', 'ёжзий.tsv', 'клм.tsv', 'ноп.tsv', 'рсту.tsv', 'фхц.tsv', 'чшщыэюя.tsv']
+filename = filenames[0]
 
 
 pattern5 = open_pattern("pattern5")
@@ -75,8 +75,8 @@ fh = open(filename, "r", encoding="utf-8")
 for line in fh:
     line = line.strip()
     line = line.split("\t")
-    location = line[1]
-    location = location.split("(")[0].strip()
+    location = line[0]
+    # location = location.split("(")[1].strip()
     checking.append(location.lower())
 
 
@@ -85,36 +85,46 @@ dictionary = dict()
 for l in fh:
     line = l.strip()
     line = line.split("\t")
-    location = line[1]
-    value = line[0].split("resource/")[1]
+    location = line[0]
+    value = line[1].split("resource/")[1]
     value = value.strip("\"")
+    country = ""
+    district = ""
     country = make_query_to_DB(value, pattern5, "dbo:country")
     if not country:
-        country = make_query_to_DB(value, pattern5, "dbo:country")
-    if not country:
         unmatched.append(l + "\n")
-    print(country, location)
-    if country == "россия":
-        district = make_query_to_DB(value, pattern5, "dbp:federalSubject")
-        print("FFF", district)
+    if not country:
+        country = make_query_to_DB(value, pattern5, "dbo:sourceRegion")
+    if country:
+        country = country[0].lower()
     else:
+        country = ""
+    print(country, location)
+    district = make_query_to_DB(value, pattern5, "dbp:city")
+    if not district:
         district = ""
+    else:
+        district = ",".join(district).lower()
+    print(district, location)
     if check_ambiguity(location.split("(")[0].strip().lower()):
         # print(location.split("(")[0].strip().lower())
-        with open("Ambiguos_2.txt", 'a') as k:
+        with open("Ambiguos_Countries.txt", 'a') as k:
             k.write(l)
         continue
     if "(" in location:
-        if "(город)" in location:
+        if "(река)" in location:
             location = location.split("(")
             city_name = location[0].lower().strip().strip("\")")
             # dictionary[city_name] = value
-            dictionary[city_name + ",город," + country + "," + district] = value
-        elif "(город," in location:
-            location = location.split("(город, ")
+            dictionary[city_name + ",река," + country + "," + district] = value
+        elif("(приток") in location:
+            city_name = location[0].lower().strip().strip("\")")
+            dictionary[city_name + ",река," + country + "," + district] = value
+        elif "(река," in location:
+            location = location.split("(река, ")
             city_name = location[0].lower().strip().strip("\")")
             # dictionary[city_name] = value
-            dictionary[city_name + ",город" + "," + location[1].lower()[:-1] + "," + country + "," + district] = value
+            dictionary[city_name + ",река" + "," + location[1].lower()[:-1] + "," + country + "," + district] = value
         else:
             city_name = location.split("(")[0].lower().strip("\") ")
             rest = location.split("(")[1].strip("\")")
@@ -140,14 +150,14 @@ for l in fh:
             else:
                 if len(rest.split(" ")) == 2:
                     if rest.split()[0].endswith("й"):
-                        unmatched.append(city_name + "," + rest + "," + country + "," + district + "\t" + value)
+                        unmatched.append(city_name + ",река," + rest + "," + country + "," + district + "\t" + value)
                         # dictionary[city_name] = value
                         # dictionary[city_name + " " + rest.split()[1]] = value
                         # dictionary[city_name + " " + rest] = value
                     else:
                         # dictionary[city_name] = value
                         # dictionary[city_name + "," + rest.split()[0].strip(",")] = value
-                        dictionary[city_name + "," + rest.split()[0].strip(",") + "," + rest.split()[1].lower() + ","
+                        dictionary[city_name + ",река," + rest.split()[0].strip(",") + "," + rest.split()[1].lower() + ","
                                    + country + "," + district] = value
                 else:
                     unmatched.append(city_name + " " + rest + "," + country + "," + district + "\t" + value)
@@ -162,14 +172,14 @@ for l in fh:
             dictionary[location.lower().strip('\"') + "," + country + "," + district] = value
 
 
-with open("ONTOLOGY_2.txt", 'w') as fw:
+with open("ONTOLOGY_Rivers.txt", 'w') as fw:
     for key in dictionary:
         # print(key + "\t" + dictionary[key])
         fw.write(key + "\t" + dictionary[key] + "\n")
 
 for u in unmatched:
     print(u)
-with open("Unmatched_2.txt", "a") as unm:
+with open("Unmatched_Countries.txt", "a") as unm:
     for u in unmatched:
         unm.write(u + "\n")
 

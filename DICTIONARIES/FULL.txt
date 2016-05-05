@@ -1,21 +1,22 @@
-африканский страна,yago:AfricanCountries
-африканский государство,yago:AfricanCountries
-африка государство,yago:AfricanCountries
-африка страна,yago:AfricanCountries
-какой страна африка,yago:AfricanCountries
-какой страна в африка,yago:AfricanCountries
-какой государство африка,yago:AfricanCountries
-весь страна африка,yago:AfricanCountries
-государство африка,yago:AfricanCountries
-азия страна,yago:AsianCountries
-азиатский страна,yago:AsianCountries
-азиатский государство,yago:AsianCountries
-государство азия,yago:AsianCountries
-государство в азия,yago:AsianCountries
-страна в азия,yago:AsianCountries
-какой страна азия,yago:AsianCountries
-какой страна в азия,yago:AsianCountries
-какой государство азия,yago:AsianCountries
-какой государство в азия,yago:AsianCountries
-административный деление пакистан,resource:Administrative_units_of_Pakistan
-деление пакистан,resource:Administrative_units_of_Pakistan
+африканский страна	yago:AfricanCountries
+африканский государство	yago:AfricanCountries
+африка государство	yago:AfricanCountries
+африка страна	yago:AfricanCountries
+какой страна африка	yago:AfricanCountries
+какой страна в африка	yago:AfricanCountries
+какой государство африка	yago:AfricanCountries
+весь страна африка	yago:AfricanCountries
+государство африка	yago:AfricanCountries
+азия страна	yago:AsianCountries
+азиатский страна	yago:AsianCountries
+азиатский государство	yago:AsianCountries
+государство азия	yago:AsianCountries
+государство в азия	yago:AsianCountries
+страна в азия	yago:AsianCountries
+какой страна азия	yago:AsianCountries
+какой страна в азия	yago:AsianCountries
+какой государство азия	yago:AsianCountries
+какой государство в азия	yago:AsianCountries
+административный деление пакистан	resource:Administrative_units_of_Pakistan
+деление пакистан	resource:Administrative_units_of_Pakistan
+какой страна говорить на английский	 resource:English-speakingCountriesAndTerritories

@@ -1,0 +1,8455 @@
+государства — члены оон	Member_states_of_the_United_Nations
+британские виргинские острова	British_Virgin_Islands
+нидерландские антильские острова	Netherlands_Antilles
+объединённая республика сувадиве	United_Suvadive_Republic
+северные марианские острова	Northern_Mariana_Islands
+государства — члены оон	Member_states_of_the_United_Nations
+демократическая республика конго	Democratic_Republic_of_the_Congo
+китайская народная республика	China
+корейская народно-демократическая республика	North_Korea
+объединённые арабские эмираты	United_Arab_Emirates
+папуа — новая гвинея	Papua_New_Guinea
+соединённые штаты америки	United_States
+федеративные штаты микронезии	Federated_States_of_Micronesia
+китайская народная республика	China
+китайская народная республика	China
+корейская народно-демократическая республика	North_Korea
+турецкая республика северного кипра	Northern_Cyprus
+объединённые арабские эмираты	United_Arab_Emirates
+соединённые штаты америки	United_States
+федеративные штаты микронезии	Federated_States_of_Micronesia
+демократическая республика конго	Democratic_Republic_of_the_Congo
+папуа — новая гвинея	Papua_New_Guinea
+федеративные штаты микронезии	Federated_States_of_Micronesia
+британские виргинские острова	British_Virgin_Islands
+нидерландские антильские острова	Netherlands_Antilles
+объединённая республика сувадиве	United_Suvadive_Republic
+папуа — новая гвинея	Papua_New_Guinea
+северные марианские острова	Northern_Mariana_Islands
+турецкая республика северного кипра	Northern_Cyprus
+федеративные штаты микронезии	Federated_States_of_Micronesia
+китайская народная республика	China
+китайская народная республика	China
+корейская народно-демократическая республика	North_Korea
+"чукотский автономный округ",,	Chukotka_Autonomous_Okrug
+"еврейская автономная область",,	Jewish_Autonomous_Oblast
+"ямало-ненецкий автономный округ",,	Yamalo-Nenets_Autonomous_Okrug
+"ханты-мансийский автономный округ — югра",,	Khanty-Mansi_Autonomous_Okrug
+"ненецкий автономный округ",,	Nenets_Autonomous_Okrug
+Ёдо	http://dbpedia.org/resource/Yodo_River
+
+
+Ёжуга (приток Пинеги)	http://dbpedia.org/resource/Yezhuga_River
+
+
+Ёлма (приток Вишеры)	http://dbpedia.org/resource/Yelva_River
+
+
+Абава	http://dbpedia.org/resource/Abava
+
+
+Абах	http://dbpedia.org/resource/Aabach_(Afte)
+
+
+Аббабах	http://dbpedia.org/resource/Abbabach
+
+
+Аброкксбах	http://dbpedia.org/resource/Abrocksbach
+
+
+Абэ (река)	http://dbpedia.org/resource/Abe_River
+
+
+Аверон (река)	http://dbpedia.org/resource/Aveyron_(river)
+
+
+Авизио	http://dbpedia.org/resource/Avisio
+
+
+Авока (река, Ирландия)	http://dbpedia.org/resource/River_Avoca
+
+
+Авонбег	http://dbpedia.org/resource/River_Avonbeg
+
+
+Авонмор	http://dbpedia.org/resource/River_Avonmore
+
+
+Авр (приток Соммы)	http://dbpedia.org/resource/Avre_(Somme)
+
+
+Авр (приток Эра)	http://dbpedia.org/resource/Avre_(Eure)
+
+
+Ага (река)	http://dbpedia.org/resource/Aga_River
+
+
+Агано (река)	http://dbpedia.org/resource/Agano_River
+
+
+Аггер (река)	http://dbpedia.org/resource/Agger_(river)
+
+
+Аглуона	http://dbpedia.org/resource/Agluona_(Akmenė)
+
+
+Агонья	http://dbpedia.org/resource/Agogna
+
+
+Агу (река)	http://dbpedia.org/resource/Agout
+
+
+Агуан	http://dbpedia.org/resource/Aguán_River
+
+
+Адда	http://dbpedia.org/resource/Adda_(river)
+
+
+Адзьва (река)	http://dbpedia.org/resource/Adzva_River
+
+
+Адидже	http://dbpedia.org/resource/Adige
+
+
+Адур	http://dbpedia.org/resource/Adour
+
+
+Азе	http://dbpedia.org/resource/Ahse
+
+
+Азельбах	http://dbpedia.org/resource/Aselbach
+
+
+Азерг	http://dbpedia.org/resource/Azergues
+
+
+Азо (река)	http://dbpedia.org/resource/Aso_(river)
+
+
+Айах	http://dbpedia.org/resource/Eyach_(Enz)
+
+
+Айб (река)	http://dbpedia.org/resource/Eyb
+
+
+Айвиексте	http://dbpedia.org/resource/Aiviekste
+
+
+Айвишак	http://dbpedia.org/resource/Ivishak_River
+
+
+Айдер (река)	http://dbpedia.org/resource/Eider_(river)
+
+
+Айзак	http://dbpedia.org/resource/Eisack
+
+
+Айккумер-Мюленбах	http://dbpedia.org/resource/Eickumer_Mühlenbach
+
+
+Айова (река)	http://dbpedia.org/resource/Iowa_River
+
+
+Айпбах	http://dbpedia.org/resource/Eipbach
+
+
+Айсбах (приток Кохера)	http://dbpedia.org/resource/Eisbach_(Kocher)
+
+
+Айсбах (приток Рейна)	http://dbpedia.org/resource/Eisbach_(Rhine)
+
+
+Айсикл-Крик	http://dbpedia.org/resource/Icicle_Creek
+
+
+Айстрингхаузер-Бах	http://dbpedia.org/resource/Eistringhauser_Bach
+
+
+Айтер	http://dbpedia.org/resource/Eiter
+
+
+Айтерах	http://dbpedia.org/resource/Aiterach
+
+
+Айтра	http://dbpedia.org/resource/Eitra
+
+
+Айтрах (река)	http://dbpedia.org/resource/Aitrach_(Iller)
+
+
+Айтценбах	http://dbpedia.org/resource/Aitzenbach
+
+
+Айфгенбах	http://dbpedia.org/resource/Eifgenbach
+
+
+Айх	http://dbpedia.org/resource/Aich_(river)
+
+
+Айхенвальдграбен	http://dbpedia.org/resource/Eichenwaldgraben
+
+
+Айш (приток Альзета)	http://dbpedia.org/resource/Eisch
+
+
+Айя (приток Колвы)	http://dbpedia.org/resource/Ayya_River
+
+
+Акари (приток Павуны)	http://dbpedia.org/resource/Acari_River_(Rio_de_Janeiro)
+
+
+Аконкагуа (река)	http://dbpedia.org/resource/Aconcagua_River
+
+
+Акстбах	http://dbpedia.org/resource/Axtbach
+
+
+Аксу (река, впадает в Балхаш)	http://dbpedia.org/resource/Aksu_River_(Kazakhstan)
+
+
+Актай (приток Волги)	http://dbpedia.org/resource/Aktay_River
+
+
+Акчим	http://dbpedia.org/resource/Akchim_River
+
+
+Алабама (река)	http://dbpedia.org/resource/Alabama_River
+
+
+Алагнак	http://dbpedia.org/resource/Alagnak_River
+
+
+Алазани	http://dbpedia.org/resource/Alazani
+
+
+Аламо (река)	http://dbpedia.org/resource/Alamo_River
+
+
+Аланд (река)	http://dbpedia.org/resource/Aland_(river)
+
+
+Алгама	http://dbpedia.org/resource/Algama_River
+
+
+Алгети	http://dbpedia.org/resource/Algeti_River
+
+
+Алдан (река)	http://dbpedia.org/resource/Aldan_River
+
+
+Александр (река)	http://dbpedia.org/resource/Nahal_Alexander
+
+
+Алена	http://dbpedia.org/resource/Alène
+
+
+Алерсбах (верхний приток Кинцига)	http://dbpedia.org/resource/Ahlersbach_(Kinzig,_Schlüchtern-Herolz)
+
+
+алерсбах верхний приток Кинцига,,	Ahlersbach_(Kinzig,_Schlüchtern-Herolz)
+Алерсбах (нижний приток Кинцига)	http://dbpedia.org/resource/Ahlersbach_(Kinzig,_Schlüchtern-Niederzell)
+
+
+алерсбах нижний приток Кинцига,,	Ahlersbach_(Kinzig,_Schlüchtern-Niederzell)
+Аллаиха	http://dbpedia.org/resource/Allaikha_River
+
+
+Аллах-Юнь (река)	http://dbpedia.org/resource/Allakh-Yun_River
+
+
+Аллегейни (река)	http://dbpedia.org/resource/Allegheny_River
+
+
+Аллен (река)	http://dbpedia.org/resource/Allaine_(river)
+
+
+Алоля	http://dbpedia.org/resource/Alolya_River
+
+
+Алсей	http://dbpedia.org/resource/Alsea_River
+
+
+Алсек	http://dbpedia.org/resource/Alsek_River
+
+
+Алфей (река)	http://dbpedia.org/resource/Alfeios
+
+
+Альб (верхний приток Рейна)	http://dbpedia.org/resource/Alb_(Northern_Black_Forest)
+
+
+альб верхний приток Рейна,,	Alb_(Northern_Black_Forest)
+Альб (нижний приток Рейна)	http://dbpedia.org/resource/Alb_(Southern_Black_Forest)
+
+
+альб нижний приток Рейна,,	Alb_(Southern_Black_Forest)
+Альбаумер-Бах	http://dbpedia.org/resource/Albaumer_Bach
+
+
+Альбах (приток Веттера)	http://dbpedia.org/resource/Albach_(Wetter)
+
+
+Альбах (приток Майна)	http://dbpedia.org/resource/Aalbach_(Main)
+
+
+Альбек (река)	http://dbpedia.org/resource/Aalbek_(Hemmelsdorfer_See)
+
+
+Алье (река)	http://dbpedia.org/resource/Allier_(river)
+
+
+Альзенц (река)	http://dbpedia.org/resource/Alsenz_(river)
+
+
+Альзет	http://dbpedia.org/resource/Alzette
+
+
+Алькантара (река)	http://dbpedia.org/resource/Alcantara_(river)
+
+
+Альма	http://dbpedia.org/resource/Alma_River_(Crimea)
+
+
+Альме (река)	http://dbpedia.org/resource/Alme_(river)
+
+
+Альмендарес	http://dbpedia.org/resource/Almendares_River
+
+
+Альна	http://dbpedia.org/resource/Allna
+
+
+Альстер (приток Ица)	http://dbpedia.org/resource/Alster_(Itz)
+
+
+Альстер (приток Эльбы)	http://dbpedia.org/resource/Alster
+
+
+Альта (река)	http://dbpedia.org/resource/Alta_River
+
+
+Альтенау (приток Альме)	http://dbpedia.org/resource/Altenau_(Alme)
+
+
+Альтмюль	http://dbpedia.org/resource/Altmühl
+
+
+Альц	http://dbpedia.org/resource/Alz
+
+
+Альякмон	http://dbpedia.org/resource/Haliacmon
+
+
+Амаргоса	http://dbpedia.org/resource/Amargosa_River
+
+
+Амба (река, впадает в Амурский залив)	http://dbpedia.org/resource/Amba_River
+
+
+Амга	http://dbpedia.org/resource/Amga_River
+
+
+Амгуэма (река)	http://dbpedia.org/resource/Amguema_River
+
+
+Амедичи	http://dbpedia.org/resource/Amedichi_River
+
+
+Амель (река)	http://dbpedia.org/resource/Amblève_(river)
+
+
+Амме	http://dbpedia.org/resource/Amme
+
+
+Аммер (приток Неккара)	http://dbpedia.org/resource/Ammer_(Neckar)
+
+
+Ампер (река)	http://dbpedia.org/resource/Amper
+
+
+Амуд	http://dbpedia.org/resource/Nahal_Amud
+
+
+Амур	http://dbpedia.org/resource/Amur_River
+
+
+Анабар	http://dbpedia.org/resource/Anabar_River
+
+
+Анадырь (река)	http://dbpedia.org/resource/Anadyr_River
+
+
+Анактувук	http://dbpedia.org/resource/Anaktuvuk_River
+
+
+Анапо	http://dbpedia.org/resource/Anapo
+
+
+Анвик (река)	http://dbpedia.org/resource/Anvik_River
+
+
+Ангара	http://dbpedia.org/resource/Angara_River
+
+
+Ангель	http://dbpedia.org/resource/Angel_(river)
+
+
+Ангербах	http://dbpedia.org/resource/Angerbach_(Rhein)
+
+
+Андерсон (река)	http://dbpedia.org/resource/Anderson_River_(Northwest_Territories)
+
+
+Андийское Койсу	http://dbpedia.org/resource/Andi_Koysu
+
+
+Андога	http://dbpedia.org/resource/Andoga_River
+
+
+Андома	http://dbpedia.org/resource/Andoma_River
+
+
+Андроскоггин (река)	http://dbpedia.org/resource/Androscoggin_River
+
+
+Ане (ручей)	http://dbpedia.org/resource/Ahne_(Fulda)
+
+
+Аниак (река)	http://dbpedia.org/resource/Aniak_River
+
+
+Аниакчак (река)	http://dbpedia.org/resource/Aniakchak_River
+
+
+Аниш (приток Волги)	http://dbpedia.org/resource/Anish_River
+
+
+Аннаполис (река)	http://dbpedia.org/resource/Annapolis_River
+
+
+Анненбах	http://dbpedia.org/resource/Annenbach
+
+
+Ансэба (река)	http://dbpedia.org/resource/Anseba_River
+
+
+Антрефф	http://dbpedia.org/resource/Antrift
+
+
+Аныль	http://dbpedia.org/resource/Anyl_River
+
+
+Аньене	http://dbpedia.org/resource/Aniene
+
+
+Апалачикола (река)	http://dbpedia.org/resource/Apalachicola_River
+
+
+Апуре (река)	http://dbpedia.org/resource/Apure_River
+
+
+Апфельштедт (река)	http://dbpedia.org/resource/Apfelstädt_(Gera)
+
+
+Ар (приток Дилля)	http://dbpedia.org/resource/Aar_(Dill)
+
+
+Ар (приток Лана)	http://dbpedia.org/resource/Aar_(Lahn)
+
+
+Арагон (река)	http://dbpedia.org/resource/Aragón_(river)
+
+
+Аракс	http://dbpedia.org/resource/Aras_(river)
+
+
+Арапей-Гранде	http://dbpedia.org/resource/Arapey_Grande_River
+
+
+Арахтос	http://dbpedia.org/resource/Arachthos_(river)
+
+
+Арв	http://dbpedia.org/resource/Arve
+
+
+Аргун (река)	http://dbpedia.org/resource/Argun_River_(Caucasus)
+
+
+Арда (приток Марицы)	http://dbpedia.org/resource/Arda_(Maritsa)
+
+
+Арда (приток По)	http://dbpedia.org/resource/Arda_(Italy)
+
+
+Ардеш (река)	http://dbpedia.org/resource/Ardèche_(river)
+
+
+Ардон (река)	http://dbpedia.org/resource/Ardon_River
+
+
+Аре	http://dbpedia.org/resource/Aare
+
+
+Аржанс (река)	http://dbpedia.org/resource/Argens
+
+
+Арикари	http://dbpedia.org/resource/Arikaree_River
+
+
+Арк (приток Изера)	http://dbpedia.org/resource/Arc_(Savoie)
+
+
+Арно (река, впадает в Лигурийское море)	http://dbpedia.org/resource/Arno
+
+
+Арнсбах	http://dbpedia.org/resource/Arnsbach_(Usa)
+
+
+Арон (река)	http://dbpedia.org/resource/Aron_(Loire)
+
+
+Арпе (верхний приток Венне)	http://dbpedia.org/resource/Arpe_(Wenne,_Niederberndorf)
+
+
+арпе верхний приток Венне,,	Arpe_(Wenne,_Niederberndorf)
+Арпе (нижний приток Венне)	http://dbpedia.org/resource/Arpe_(Wenne,_Berge)
+
+
+арпе нижний приток Венне,,	Arpe_(Wenne,_Berge)
+Арроу-Крик (приток Миссури)	http://dbpedia.org/resource/Arrow_Creek_(Fergus_County,_Montana)
+
+
+Арру (река)	http://dbpedia.org/resource/Arroux
+
+
+Арсеньевка	http://dbpedia.org/resource/Arsenyevka_River
+
+
+Арувими	http://dbpedia.org/resource/Aruwimi_River
+
+
+Арустук (река)	http://dbpedia.org/resource/Aroostook_River
+
+
+Арьеж (река)	http://dbpedia.org/resource/Ariège_(river)
+
+
+Асбеке	http://dbpedia.org/resource/Asbeke
+
+
+Асдорф	http://dbpedia.org/resource/Asdorf
+
+
+Асида (река)	http://dbpedia.org/resource/Ashida_River
+
+
+Асовка	http://dbpedia.org/resource/Asovka_River
+
+
+Асопардо	http://dbpedia.org/resource/Azopardo_River
+
+
+Аспа (приток Ирени)	http://dbpedia.org/resource/Aspa_River
+
+
+Асса (приток Сунжи)	http://dbpedia.org/resource/Assa_River_(Sunzha_River)
+
+
+Асфе	http://dbpedia.org/resource/Asphe
+
+
+Атбара (река)	http://dbpedia.org/resource/Atbarah_River
+
+
+Атерно-Пескара	http://dbpedia.org/resource/Aterno-Pescara
+
+
+Аттерт	http://dbpedia.org/resource/Attert_(river)
+
+
+Аубах (приток Ара)	http://dbpedia.org/resource/Aubach_(Aar)
+
+
+Аубах (приток Дилля)	http://dbpedia.org/resource/Aubach_(Dill)
+
+
+Ауграбен	http://dbpedia.org/resource/Augraben_(Liederbach)
+
+
+Ауде-Маас	http://dbpedia.org/resource/Oude_Maas
+
+
+Ауде-Маасье	http://dbpedia.org/resource/Oude_Maasje
+
+
+Ауде-Рейн	http://dbpedia.org/resource/Oude_Rijn_(Utrecht_and_South_Holland)
+
+
+Ауде-Эйссел	http://dbpedia.org/resource/Oude_IJssel
+
+
+Аула (река)	http://dbpedia.org/resource/Aula_(river)
+
+
+Аура (река)	http://dbpedia.org/resource/Aura_(Sinn)
+
+
+Аурайоки (река, впадает в Балтийское море)	http://dbpedia.org/resource/Aura_(Archipelago_Sea)
+
+
+Аурах (река)	http://dbpedia.org/resource/Aurach_(Rednitz)
+
+
+Ауса	http://dbpedia.org/resource/Ausa_(river)
+
+
+Ауфзес (река)	http://dbpedia.org/resource/Aufseß_(river)
+
+
+Ауэ (река)	http://dbpedia.org/resource/Aue_(Weser)
+
+
+Афгедамде-Маас	http://dbpedia.org/resource/Afgedamde_Maas
+
+
+Афте	http://dbpedia.org/resource/Afte
+
+
+Аффингер-Бах	http://dbpedia.org/resource/Affinger_Bach
+
+
+Ах (приток Аммера)	http://dbpedia.org/resource/Ach_(Ammer)
+
+
+Ах (приток Блау)	http://dbpedia.org/resource/Ach_(Blau)
+
+
+Ахелоос	http://dbpedia.org/resource/Achelous_River
+
+
+Ахер (река)	http://dbpedia.org/resource/Acher
+
+
+Ахерон	http://dbpedia.org/resource/Acheron
+
+
+Ахурян	http://dbpedia.org/resource/Akhurian_River
+
+
+Ахья	http://dbpedia.org/resource/Ahja_(river)
+
+
+Ачанковил	http://dbpedia.org/resource/Achankovil
+
+
+Ашбертон (река, впадает в Индийский океан)	http://dbpedia.org/resource/Ashburton_River_(Western_Australia)
+
+
+Ашит (река)	http://dbpedia.org/resource/Ashit_River
+
+
+Бабка (приток Сылвы)	http://dbpedia.org/resource/Babka_River
+
+
+Багебах	http://dbpedia.org/resource/Baagebach
+
+
+Бадья (приток Чёрной)	http://dbpedia.org/resource/Badiya_River
+
+
+Базавлук	http://dbpedia.org/resource/Bazavluk_River
+
+
+Базенто	http://dbpedia.org/resource/Basento
+
+
+Баиз	http://dbpedia.org/resource/Baïse
+
+
+Байльбах	http://dbpedia.org/resource/Beilbach
+
+
+Баккильоне	http://dbpedia.org/resource/Bacchiglione
+
+
+Бакленд (река)	http://dbpedia.org/resource/Buckland_River
+
+
+Бальсас	http://dbpedia.org/resource/Balsas_River
+
+
+Бандон	http://dbpedia.org/resource/River_Bandon
+
+
+Банфе	http://dbpedia.org/resource/Banfe_(Lahn)
+
+
+Баппагай	http://dbpedia.org/resource/Bappagay_River
+
+
+Барака (река)	http://dbpedia.org/resource/Barka_River
+
+
+Барбах	http://dbpedia.org/resource/Baarbach
+
+
+Барда (приток Сылвы)	http://dbpedia.org/resource/Barda_River
+
+
+Бардуэльва	http://dbpedia.org/resource/Barduelva
+
+
+Барку (река)	http://dbpedia.org/resource/Barcoo_River
+
+
+Баро (река)	http://dbpedia.org/resource/Baro_River
+
+
+Барте	http://dbpedia.org/resource/Barthe_(river)
+
+
+Бартува	http://dbpedia.org/resource/Bārta
+
+
+Бартым (приток Шаквы)	http://dbpedia.org/resource/Bartym_River
+
+
+Барун (река)	http://dbpedia.org/resource/Barun_River
+
+
+Барыч (река)	http://dbpedia.org/resource/Barycz
+
+
+Бауна	http://dbpedia.org/resource/Bauna
+
+
+Баунах (река)	http://dbpedia.org/resource/Baunach_(river)
+
+
+Бахзайфен	http://dbpedia.org/resource/Bachseifen
+
+
+Бебра (приток Фульды)	http://dbpedia.org/resource/Bebra_(Fulda)
+
+
+Бевер (приток Везера)	http://dbpedia.org/resource/Bever_(Weser)
+
+
+Бевер (приток Вуппера)	http://dbpedia.org/resource/Bever_(Wupper)
+
+
+Бевер (приток Осте)	http://dbpedia.org/resource/Bever_(Oste)
+
+
+Бевера	http://dbpedia.org/resource/Bévéra
+
+
+Бега (приток Верре)	http://dbpedia.org/resource/Bega_(Werre)
+
+
+Бездна (приток Волги)	http://dbpedia.org/resource/Bezdna_River,_Tatarstan
+
+
+Бездна (приток Суры)	http://dbpedia.org/resource/Bezdna_River,_Chuvashia
+
+
+Бейкер (река)	http://dbpedia.org/resource/Baker_River_(Chile)
+
+
+Беке (приток Варнова)	http://dbpedia.org/resource/Beke_(Warnow)
+
+
+Беке (приток Липпе)	http://dbpedia.org/resource/Beke_(Lippe)
+
+
+Беккендорфер-Мюленбах	http://dbpedia.org/resource/Beckendorfer_Mühlenbach
+
+
+Бекстер	http://dbpedia.org/resource/Bexter
+
+
+Белая (приток Камы)	http://dbpedia.org/resource/Belaya_River_(Kama)
+
+
+Белая (приток Кубани)	http://dbpedia.org/resource/Belaya_River_(Kuban)
+
+
+Белиз (река)	http://dbpedia.org/resource/Belize_River
+
+
+Беличе	http://dbpedia.org/resource/Belice
+
+
+Белт-Крик	http://dbpedia.org/resource/Belt_Creek_(Montana)
+
+
+Белый Дрин	http://dbpedia.org/resource/White_Drin
+
+
+Бельбо	http://dbpedia.org/resource/Belbo
+
+
+Беннир-Грабен	http://dbpedia.org/resource/Bennier_Graben
+
+
+Бентграбен	http://dbpedia.org/resource/Bentgraben
+
+
+Бенфе	http://dbpedia.org/resource/Benfe_(Eder)
+
+
+Березайка (река)	http://dbpedia.org/resource/Berezayka_River
+
+
+Березина (нижний приток Днепра)	http://dbpedia.org/resource/Berezina_River
+
+
+березина нижний приток Днепра,,	Berezina_River
+Березина (приток Немана)	http://dbpedia.org/resource/Western_Berezina
+
+
+Беркель	http://dbpedia.org/resource/Berkel
+
+
+Берсте	http://dbpedia.org/resource/Berste
+
+
+Берч-Крик	http://dbpedia.org/resource/Birch_Creek_(Alaska)
+
+
+Берёзовая (приток Колвы)	http://dbpedia.org/resource/Beryozovaya_River
+
+
+Берёзовка (приток Колымы)	http://dbpedia.org/resource/Beryozovka_River_(Kolyma)
+
+
+Берёзовка (река, впадает в Чусовское озеро)	http://dbpedia.org/resource/Beryozovka_River_(Perm_Krai)
+
+
+Бесос	http://dbpedia.org/resource/Besòs_(river)
+
+
+Беттенбах	http://dbpedia.org/resource/Bettenbach
+
+
+Бехлесбах	http://dbpedia.org/resource/Bächlesbach
+
+
+Бзыбь	http://dbpedia.org/resource/Bzyb_River
+
+
+Бибер (приток Кинцига)	http://dbpedia.org/resource/Bieber_(Kinzig)
+
+
+Бибер (приток Лана)	http://dbpedia.org/resource/Bieber_(Lahn)
+
+
+Бибер (приток Мёне)	http://dbpedia.org/resource/Biber_(Möhne)
+
+
+Бибер (приток Рейна)	http://dbpedia.org/resource/Biber_(Rhine)
+
+
+Бибер (приток Родау)	http://dbpedia.org/resource/Bieber_(Rodau)
+
+
+Бибер (приток Хауне)	http://dbpedia.org/resource/Bieber_(Haune)
+
+
+Бибербах (приток Майна)	http://dbpedia.org/resource/Biberbach_(Main)
+
+
+Биберс	http://dbpedia.org/resource/Bibers
+
+
+Биг-Вуд	http://dbpedia.org/resource/Big_Wood_River
+
+
+Биг-Мадди	http://dbpedia.org/resource/Big_Muddy_River
+
+
+Бигге	http://dbpedia.org/resource/Bigge_(river)
+
+
+Бигхорн (река)	http://dbpedia.org/resource/Bighorn_River
+
+
+Бидасоа	http://dbpedia.org/resource/Bidasoa
+
+
+Бизярка	http://dbpedia.org/resource/Bizyarka_River
+
+
+Бике	http://dbpedia.org/resource/Bieke_(Bigge)
+
+
+Билле	http://dbpedia.org/resource/Bille_(Elbe)
+
+
+Био-Био (река)	http://dbpedia.org/resource/Bío_Bío_River
+
+
+Бист (река)	http://dbpedia.org/resource/Bist_(river)
+
+
+Биттеррут	http://dbpedia.org/resource/Bitterroot_River
+
+
+Бицценбах	http://dbpedia.org/resource/Bizzenbach
+
+
+Бия	http://dbpedia.org/resource/Biya_River
+
+
+Блаве (река)	http://dbpedia.org/resource/Blavet
+
+
+Блайхенбах	http://dbpedia.org/resource/Bleichenbach_(Nidder)
+
+
+Блеон	http://dbpedia.org/resource/Bléone
+
+
+Блес	http://dbpedia.org/resource/Blees
+
+
+Близ (река)	http://dbpedia.org/resource/Blies
+
+
+Блинде-Рот	http://dbpedia.org/resource/Blinde_Rot
+
+
+Бломбах	http://dbpedia.org/resource/Blombach
+
+
+Блэкуотер (приток Блэк-Форка)	http://dbpedia.org/resource/Blackwater_River_(West_Virginia)
+
+
+Блэкуотер (река, Ирландия)	http://dbpedia.org/resource/Munster_Blackwater
+
+
+Бобрич (река)	http://dbpedia.org/resource/Bobritzsch_(river)
+
+
+Бови	http://dbpedia.org/resource/River_Bovey
+
+
+Богота (река)	http://dbpedia.org/resource/Bogotá_River
+
+
+Боде (река)	http://dbpedia.org/resource/Bode_(river)
+
+
+Бодрог	http://dbpedia.org/resource/Bodrog
+
+
+Бойн	http://dbpedia.org/resource/River_Boyne
+
+
+Боккхорнер-Бах	http://dbpedia.org/resource/Bockhorner_Bach
+
+
+Болленбах (приток Аргена)	http://dbpedia.org/resource/Bollenbach_(Argen)
+
+
+Больгенах	http://dbpedia.org/resource/Bolgenach
+
+
+Большая Вая	http://dbpedia.org/resource/Bolshaya_Vaya_River
+
+
+Большая Высь	http://dbpedia.org/resource/Velyka_Vys
+
+
+Большая Горевая	http://dbpedia.org/resource/Bolshaya_Gorevaya_River
+
+
+Большая Золотанка	http://dbpedia.org/resource/Bolshaya_Zolotanka_River
+
+
+Большая Кокшага	http://dbpedia.org/resource/Bolshaya_Kokshaga_River
+
+
+Большая Кумина	http://dbpedia.org/resource/Bolshaya_Kumina_River
+
+
+Большая Лиахви	http://dbpedia.org/resource/Greater_Liakhvi_River
+
+
+Большая Лямпа	http://dbpedia.org/resource/Bolshaya_Lyampa
+
+
+Большая Мартайка	http://dbpedia.org/resource/Bolshaya_Martayka_River
+
+
+Большая Невка	http://dbpedia.org/resource/Bolshaya_Nevka_River
+
+
+Большая Рассоха (приток Большого Ашапа)	http://dbpedia.org/resource/Bolshaya_Rassokha_River
+
+
+Большая Хета	http://dbpedia.org/resource/Bolshaya_Kheta_River
+
+
+Большой Ашап	http://dbpedia.org/resource/Bolshoy_Ashap_River
+
+
+Большой Зеленчук	http://dbpedia.org/resource/Bolshoy_Zelenchuk_River
+
+
+Большой Ик (приток Сакмары)	http://dbpedia.org/resource/Bolshoy_Ik_River
+
+
+Большой Иргиз	http://dbpedia.org/resource/Bolshoy_Irgiz_River
+
+
+Большой Куб	http://dbpedia.org/resource/Bolshoy_Kub_River
+
+
+Большой Кундыш	http://dbpedia.org/resource/Bolshoy_Kundysh_River
+
+
+Большой Лип	http://dbpedia.org/resource/Bolshoy_Lip_River
+
+
+Большой Салым	http://dbpedia.org/resource/Bolshoy_Salym_River
+
+
+Большой Цивиль	http://dbpedia.org/resource/Tsivil_River
+
+
+Большой Чабис	http://dbpedia.org/resource/Bolshoy_Chabes_River
+
+
+Большой Черемшан	http://dbpedia.org/resource/Bolshoy_Cheremshan_River
+
+
+Борбах (приток Рура)	http://dbpedia.org/resource/Borbach_(Ruhr)
+
+
+Борбах (приток Эннепе)	http://dbpedia.org/resource/Borbach_(Ennepe)
+
+
+Бормида (река)	http://dbpedia.org/resource/Bormida_(river)
+
+
+Борстенбах	http://dbpedia.org/resource/Borstenbach
+
+
+Бос (река)	http://dbpedia.org/resource/Bos_(Nahe)
+
+
+Босут	http://dbpedia.org/resource/Bosut_(river)
+
+
+Ботан (река)	http://dbpedia.org/resource/Botan_River
+
+
+Боу (река)	http://dbpedia.org/resource/Bow_River
+
+
+Брабекке	http://dbpedia.org/resource/Brabecke_(Valme)
+
+
+Брагинка	http://dbpedia.org/resource/Braginka_River
+
+
+Бразо	http://dbpedia.org/resource/Brazeau_River
+
+
+Брайтбах	http://dbpedia.org/resource/Breitbach_(Main)
+
+
+Брамшебах	http://dbpedia.org/resource/Bramschebach
+
+
+Брандбах	http://dbpedia.org/resource/Brandbach
+
+
+Браубах (река)	http://dbpedia.org/resource/Braubach_(Liederbach)
+
+
+Брахт	http://dbpedia.org/resource/Bracht_(river)
+
+
+Бребах	http://dbpedia.org/resource/Brebach_(Spreeler_Bach)
+
+
+Брег	http://dbpedia.org/resource/Breg_(river)
+
+
+Брегальница	http://dbpedia.org/resource/Bregalnica
+
+
+Брегенцер-Ах	http://dbpedia.org/resource/Bregenzer_Ache
+
+
+Брембо	http://dbpedia.org/resource/Brembo_(river)
+
+
+Брент (река)	http://dbpedia.org/resource/River_Brent
+
+
+Брента	http://dbpedia.org/resource/Brenta_(river)
+
+
+Бреттах (приток Кохера)	http://dbpedia.org/resource/Brettach_(Kocher)
+
+
+Бреттах (приток Ягста)	http://dbpedia.org/resource/Brettach_(Jagst)
+
+
+Брианса	http://dbpedia.org/resource/Briance
+
+
+Бригах	http://dbpedia.org/resource/Brigach
+
+
+Брисбен (река)	http://dbpedia.org/resource/Brisbane_River
+
+
+Бросна	http://dbpedia.org/resource/River_Brosna
+
+
+Бротенау	http://dbpedia.org/resource/Brotenaubach
+
+
+Бруней (река)	http://dbpedia.org/resource/Brunei_River
+
+
+Бруно (река)	http://dbpedia.org/resource/Bruneau_River
+
+
+Брунсбах (приток Вуппера)	http://dbpedia.org/resource/Brunsbach_(Wupper)
+
+
+Брунсбах (приток Зюльца)	http://dbpedia.org/resource/Brunsbach_(Sülz)
+
+
+Брухт	http://dbpedia.org/resource/Brucht
+
+
+Брюш	http://dbpedia.org/resource/Bruche_(river)
+
+
+Брёль	http://dbpedia.org/resource/Bröl
+
+
+Бубыл (приток Колвы)	http://dbpedia.org/resource/Bubyl_River
+
+
+Бузан	http://dbpedia.org/resource/Buzan_River
+
+
+Буй (приток Камы)	http://dbpedia.org/resource/Buy_River
+
+
+Буксах	http://dbpedia.org/resource/Buxach_(Iller)
+
+
+Була (река)	http://dbpedia.org/resource/Bula_River
+
+
+Бурбенса	http://dbpedia.org/resource/Bourbince
+
+
+Буттербах	http://dbpedia.org/resource/Butterbach
+
+
+Бушо (река)	http://dbpedia.org/resource/Bouchot
+
+
+Бхадра	http://dbpedia.org/resource/Bhadra_River
+
+
+Бык (приток Днестра)	http://dbpedia.org/resource/Bîc_River
+
+
+Бык (приток Самары)	http://dbpedia.org/resource/Byk_River
+
+
+Бым	http://dbpedia.org/resource/Bym_River
+
+
+Бымок	http://dbpedia.org/resource/Bymok_River
+
+
+Бырма (приток Турки)	http://dbpedia.org/resource/Byrma_River
+
+
+Быстрица (нижний приток Днестра)	http://dbpedia.org/resource/Bystrytsia_River
+
+
+быстрица нижний приток Днестра,,	Bystrytsia_River
+Быстрица (приток Одры)	http://dbpedia.org/resource/Bystrzyca_(Odra)
+
+
+Бэйпаньцзян	http://dbpedia.org/resource/Beipan_River
+
+
+Бэйцзян	http://dbpedia.org/resource/Bei_River
+
+
+Бюлер (река)	http://dbpedia.org/resource/Bühler_(river)
+
+
+Бюэш	http://dbpedia.org/resource/Buëch
+
+
+Бяла (приток Вислы)	http://dbpedia.org/resource/Biała_(Vistula)
+
+
+Бёрстельбах	http://dbpedia.org/resource/Börstelbach
+
+
+Вага (приток Северной Двины)	http://dbpedia.org/resource/Vaga_River
+
+
+Вагенштайгбах	http://dbpedia.org/resource/Wagensteigbach
+
+
+Вадрилль	http://dbpedia.org/resource/Wadrill_(Prims)
+
+
+Ваеньга	http://dbpedia.org/resource/Vayenga_River
+
+
+Важинка	http://dbpedia.org/resource/Vazhinka_River
+
+
+Вазуза	http://dbpedia.org/resource/Vazuza_River
+
+
+Вайда (река)	http://dbpedia.org/resource/Weida_(river)
+
+
+Вайербах (приток Брунсбаха)	http://dbpedia.org/resource/Weierbach_(Brunsbach)
+
+
+Вайлах	http://dbpedia.org/resource/Weilach
+
+
+Вайль (река)	http://dbpedia.org/resource/Weil_(river)
+
+
+Вайс (приток Зига)	http://dbpedia.org/resource/Weiß_(Sieg)
+
+
+Вайсах (река)	http://dbpedia.org/resource/Weißach_(Bregenzer_Ach)
+
+
+Вайсбах (приток Роды)	http://dbpedia.org/resource/Weißbach_(Roda)
+
+
+Вайсбах (приток Шварцбаха)	http://dbpedia.org/resource/Weissbach_(Schwarzbach)
+
+
+Вайсе-Эльстер	http://dbpedia.org/resource/White_Elster
+
+
+Вайсер-Кохер	http://dbpedia.org/resource/Weißer_Kocher
+
+
+Вайсмайн (река)	http://dbpedia.org/resource/Weismain_(river)
+
+
+Вайценбах	http://dbpedia.org/resource/Waizenbach
+
+
+Валапаттанам	http://dbpedia.org/resource/Valapattanam_River
+
+
+Валдайка	http://dbpedia.org/resource/Valdayka_River
+
+
+Валлуф (река)	http://dbpedia.org/resource/Walluf_(Rhine)
+
+
+Вальбах (приток Аггера)	http://dbpedia.org/resource/Walbach_(Agger)
+
+
+Вальдангельбах	http://dbpedia.org/resource/Waldangelbach
+
+
+Вальдбах (приток Швальбаха)	http://dbpedia.org/resource/Waldbach_(Schwalbach)
+
+
+Вальдбрёльбах	http://dbpedia.org/resource/Waldbrölbach
+
+
+Вальдивия (река)	http://dbpedia.org/resource/Valdivia_River
+
+
+Ванбах	http://dbpedia.org/resource/Wahnbach
+
+
+Ванг (приток Пинга)	http://dbpedia.org/resource/Wang_River
+
+
+Вандея (река)	http://dbpedia.org/resource/Vendée_(river)
+
+
+Ванне (приток Рура)	http://dbpedia.org/resource/Wanne_(Ruhr)
+
+
+Ванненбах	http://dbpedia.org/resource/Wannenbach
+
+
+Ваннигсбах	http://dbpedia.org/resource/Wannigsbach
+
+
+Вар (река)	http://dbpedia.org/resource/Var_(river)
+
+
+Вардар	http://dbpedia.org/resource/Vardar
+
+
+Варене	http://dbpedia.org/resource/Varėnė
+
+
+Варзуга (река)	http://dbpedia.org/resource/Varzuga_River
+
+
+Варк (река)	http://dbpedia.org/resource/Wark_(river)
+
+
+Варме	http://dbpedia.org/resource/Warme
+
+
+Варме-Штайнах	http://dbpedia.org/resource/Warme_Steinach
+
+
+Варменау	http://dbpedia.org/resource/Warmenau
+
+
+Варнов	http://dbpedia.org/resource/Warnow
+
+
+Варта	http://dbpedia.org/resource/Warta
+
+
+Ваттер	http://dbpedia.org/resource/Watter_(Twiste)
+
+
+Вах (река)	http://dbpedia.org/resource/Vakh_River
+
+
+Вахандарья	http://dbpedia.org/resource/Wakhan_River
+
+
+Вахбах	http://dbpedia.org/resource/Wachbach
+
+
+Вахш	http://dbpedia.org/resource/Vakhsh_River
+
+
+Вачаган (река)	http://dbpedia.org/resource/Vachagan_River
+
+
+Вашка (река)	http://dbpedia.org/resource/Vashka_River
+
+
+Вебер (река)	http://dbpedia.org/resource/Weber_River
+
+
+Веггентальбах	http://dbpedia.org/resource/Weggentalbach
+
+
+Везебах	http://dbpedia.org/resource/Wesebach
+
+
+Везер (приток Дордони)	http://dbpedia.org/resource/Vézère
+
+
+Везуза	http://dbpedia.org/resource/Vezouze
+
+
+Везюби	http://dbpedia.org/resource/Vésubie
+
+
+Велека	http://dbpedia.org/resource/Veleka
+
+
+Великая (река, впадает в Псковское озеро)	http://dbpedia.org/resource/Velikaya_River
+
+
+Велс (река)	http://dbpedia.org/resource/Vels_River
+
+
+Вель (приток Ваги)	http://dbpedia.org/resource/Vel_River_(Arkhangelsk_Oblast)
+
+
+Вель (приток Эны)	http://dbpedia.org/resource/Vesle
+
+
+Вельзе	http://dbpedia.org/resource/Welse
+
+
+Вельплагебах	http://dbpedia.org/resource/Welplagebach
+
+
+Вельтерсбах	http://dbpedia.org/resource/Weltersbach
+
+
+Вельцбах (приток Майна)	http://dbpedia.org/resource/Welzbach_(Park_Schönbusch)
+
+
+Вембах (река)	http://dbpedia.org/resource/Wembach_(Gersprenz)
+
+
+Вемерхорстер-Бах	http://dbpedia.org/resource/Wehmerhorster_Bach
+
+
+Вена (река)	http://dbpedia.org/resource/Wien_(river)
+
+
+Вендбах	http://dbpedia.org/resource/Wendbach
+
+
+Венкбах	http://dbpedia.org/resource/Wenkbach_(Lahn)
+
+
+Вента	http://dbpedia.org/resource/Venta_(river)
+
+
+Вера (река)	http://dbpedia.org/resource/Wehra
+
+
+Вербах (река)	http://dbpedia.org/resource/Wehrbach_(Nidda)
+
+
+Вербе	http://dbpedia.org/resource/Werbe_(Eder)
+
+
+Верде (приток Солта)	http://dbpedia.org/resource/Verde_River
+
+
+Вердон (река)	http://dbpedia.org/resource/Verdon_(river)
+
+
+Вердура	http://dbpedia.org/resource/Verdura
+
+
+Вере (приток Верры)	http://dbpedia.org/resource/Wehre
+
+
+Вере (приток Куры)	http://dbpedia.org/resource/Vere_River
+
+
+Верзаска	http://dbpedia.org/resource/Verzasca_River
+
+
+Верман (река)	http://dbpedia.org/resource/Verman_River
+
+
+Верн (река)	http://dbpedia.org/resource/Wern
+
+
+Версуа (река)	http://dbpedia.org/resource/Versoix_(river)
+
+
+Вертах (река)	http://dbpedia.org/resource/Wertach_(river)
+
+
+Верфенер-Бах	http://dbpedia.org/resource/Werfener_Bach
+
+
+Вершбах	http://dbpedia.org/resource/Werschbach
+
+
+Весляна (приток Камы)	http://dbpedia.org/resource/Veslyana_River
+
+
+Ветерница	http://dbpedia.org/resource/Veternica
+
+
+Ветлуга (река)	http://dbpedia.org/resource/Vetluga_River
+
+
+Веттер (река)	http://dbpedia.org/resource/Wetter_(river)
+
+
+Ветшафт	http://dbpedia.org/resource/Wetschaft
+
+
+Вешниц	http://dbpedia.org/resource/Weschnitz
+
+
+Вибах	http://dbpedia.org/resource/Wiebach
+
+
+Вид (река)	http://dbpedia.org/resource/Wied_(river)
+
+
+Вижаиха (приток Вишеры)	http://dbpedia.org/resource/Vizhaikha_River
+
+
+Вижаиха (приток Колвы)	http://dbpedia.org/resource/Vizhaikha_River_(Kolva_River)
+
+
+Визац	http://dbpedia.org/resource/Wiesaz
+
+
+Визе (река)	http://dbpedia.org/resource/Wiese
+
+
+Визекк	http://dbpedia.org/resource/Wieseck_(river)
+
+
+Визяха	http://dbpedia.org/resource/Vizyakha_River
+
+
+Виккербах	http://dbpedia.org/resource/Wickerbach
+
+
+Виледь	http://dbpedia.org/resource/Viled_River
+
+
+Вилен (река)	http://dbpedia.org/resource/Vilaine
+
+
+Вилия (река)	http://dbpedia.org/resource/Neris
+
+
+Виловатая (приток Вялы)	http://dbpedia.org/resource/Vilovataya_(tributary_of_Vyala)
+
+
+Виловатая (река, впадает в Белое море)	http://dbpedia.org/resource/Vilovataya_(river_flowing_into_White_Sea)
+
+
+Виль (приток Аггера)	http://dbpedia.org/resource/Wiehl_(Agger)
+
+
+Вильва (приток Усьвы)	http://dbpedia.org/resource/Vilva_River
+
+
+Вильгельмсталер-Бах	http://dbpedia.org/resource/Wilhelmstaler_Bach
+
+
+Вильдбах (приток Вурма)	http://dbpedia.org/resource/Wildbach_(Wurm)
+
+
+Вильдбах (приток Майна)	http://dbpedia.org/resource/Wildbach_(Main)
+
+
+Вильде (приток Эдера)	http://dbpedia.org/resource/Wilde_(Eder)
+
+
+Вильде-А	http://dbpedia.org/resource/Wilde_Aa
+
+
+Вильде-Гера	http://dbpedia.org/resource/Wilde_Gera
+
+
+Вильде-Родах	http://dbpedia.org/resource/Wilde_Rodach
+
+
+Вильдебах	http://dbpedia.org/resource/Wildebach
+
+
+Вильня	http://dbpedia.org/resource/Vilnia_River
+
+
+Вильц (река)	http://dbpedia.org/resource/Wiltz_(river)
+
+
+Вилюй	http://dbpedia.org/resource/Vilyuy_River
+
+
+Вимбекке	http://dbpedia.org/resource/Wiembecke
+
+
+Виндах (река)	http://dbpedia.org/resource/Windach_(river)
+
+
+Виндбах	http://dbpedia.org/resource/Windbach
+
+
+Виндвеэ	http://dbpedia.org/resource/Windwehe
+
+
+Виннипег (река)	http://dbpedia.org/resource/Winnipeg_River
+
+
+Випава	http://dbpedia.org/resource/Vipava_(river)
+
+
+Виппе	http://dbpedia.org/resource/Wippe_(Rhedaer_Bach)
+
+
+Виппер (приток Унструта)	http://dbpedia.org/resource/Wipper_(Unstrut)
+
+
+Випперфельдер-Бах	http://dbpedia.org/resource/Wipperfelder_Bach
+
+
+Вир (река)	http://dbpedia.org/resource/Vire_(river)
+
+
+Вира (приток Плайсе)	http://dbpedia.org/resource/Wyhra
+
+
+Вира (приток Швальма)	http://dbpedia.org/resource/Wiera_(Schwalm)
+
+
+Вирвите	http://dbpedia.org/resource/Virvytė
+
+
+Вирджин	http://dbpedia.org/resource/Virgin_River
+
+
+Вис (река)	http://dbpedia.org/resource/Vis_(river)
+
+
+Висбах (приток Узы)	http://dbpedia.org/resource/Wiesbach_(Usa)
+
+
+Висконсин (река)	http://dbpedia.org/resource/Wisconsin_River
+
+
+Виссер-Бах	http://dbpedia.org/resource/Wisser_Bach
+
+
+Висте	http://dbpedia.org/resource/Wieste
+
+
+Витце (приток Эрце)	http://dbpedia.org/resource/Wietze_(Örtze)
+
+
+Вишера (приток Вычегды)	http://dbpedia.org/resource/Vishera_River_(Komi_Republic)
+
+
+Вишера (приток Камы)	http://dbpedia.org/resource/Vishera_River_(Perm_Krai)
+
+
+Вишерка	http://dbpedia.org/resource/Visherka_River
+
+
+Власина	http://dbpedia.org/resource/Vlasina_(river)
+
+
+Вогулка (приток Сылвы)	http://dbpedia.org/resource/Vogulka_River
+
+
+Водла	http://dbpedia.org/resource/Vodla_River
+
+
+Водопадная (река, впадает в Чёрное море)	http://dbpedia.org/resource/Uchan-su_(river)
+
+
+Вожега (река)	http://dbpedia.org/resource/Vozhega_River
+
+
+Волинька	http://dbpedia.org/resource/Volyňka
+
+
+Воллбах	http://dbpedia.org/resource/Wollbach_(Baden)
+
+
+Вологда (река)	http://dbpedia.org/resource/Vologda_River
+
+
+Волонь (река)	http://dbpedia.org/resource/Vologne
+
+
+Волошка (река)	http://dbpedia.org/resource/Voloshka_River
+
+
+Волчина	http://dbpedia.org/resource/Volchina_River
+
+
+Волчья (приток Вуоксы)	http://dbpedia.org/resource/Volchya_River_(Vuoksi_tributary)
+
+
+Вольтурно	http://dbpedia.org/resource/Volturno
+
+
+Вольф (река)	http://dbpedia.org/resource/Wolf_(river)
+
+
+Вольфсбах (приток Земенбаха)	http://dbpedia.org/resource/Wolfsbach_(Seemenbach)
+
+
+Вонгода	http://dbpedia.org/resource/Vongoda_River
+
+
+Вора (река)	http://dbpedia.org/resource/Wohra_(Ohm)
+
+
+Воркута (река)	http://dbpedia.org/resource/Vorkuta_River
+
+
+Ворма	http://dbpedia.org/resource/Vorma
+
+
+Воротан	http://dbpedia.org/resource/Vorotan_(river)
+
+
+Ворскла	http://dbpedia.org/resource/Vorskla_River
+
+
+Врбас (река)	http://dbpedia.org/resource/Vrbas_(river)
+
+
+Вублиц	http://dbpedia.org/resource/Wublitz
+
+
+Вунаскватакет	http://dbpedia.org/resource/Woonasquatucket_River
+
+
+Вуокса (река)	http://dbpedia.org/resource/Vuoksi_River
+
+
+Вуппер	http://dbpedia.org/resource/Wupper
+
+
+Вурм (река)	http://dbpedia.org/resource/Wurm
+
+
+Вурцахер-Ах	http://dbpedia.org/resource/Wurzacher_Ach
+
+
+Вутах (река)	http://dbpedia.org/resource/Wutach_(river)
+
+
+Выдрица (приток Дуная)	http://dbpedia.org/resource/Vydrica_(river)
+
+
+Вымь	http://dbpedia.org/resource/Vym_River
+
+
+Вынгапур	http://dbpedia.org/resource/Vyngapur_River
+
+
+Вытегра (река)	http://dbpedia.org/resource/Vytegra_River
+
+
+Вычегда	http://dbpedia.org/resource/Vychegda_River
+
+
+Выя (приток Пинеги)	http://dbpedia.org/resource/Vyya_River
+
+
+Вьенна (река)	http://dbpedia.org/resource/Vienne_(river)
+
+
+Вьоса	http://dbpedia.org/resource/Aoös
+
+
+Вюмме	http://dbpedia.org/resource/Wümme
+
+
+Вюрм (приток Ампера)	http://dbpedia.org/resource/Würm
+
+
+Вюрцбах	http://dbpedia.org/resource/Würzbach
+
+
+Вяйке-Эмайыги	http://dbpedia.org/resource/Väike_Emajõgi
+
+
+Вятка (река)	http://dbpedia.org/resource/Vyatka_River
+
+
+Вёкса (приток Костромы)	http://dbpedia.org/resource/Vyoksa_River
+
+
+Вёрбке	http://dbpedia.org/resource/Wörbke
+
+
+Вёрниц (река)	http://dbpedia.org/resource/Wörnitz_(river)
+
+
+Вёрсбах	http://dbpedia.org/resource/Wörsbach_(Emsbach)
+
+
+Гав-де-По	http://dbpedia.org/resource/Gave_de_Pau
+
+
+Гавья	http://dbpedia.org/resource/Gauja_(Neman)
+
+
+Газимур	http://dbpedia.org/resource/Gazimur_River
+
+
+Гайль	http://dbpedia.org/resource/Gail_(river)
+
+
+Гайсбах	http://dbpedia.org/resource/Geisbach
+
+
+Гайслер (приток Лауэра)	http://dbpedia.org/resource/Geißler_(Lauer)
+
+
+Гакона (река)	http://dbpedia.org/resource/Gakona_River
+
+
+Галлатин	http://dbpedia.org/resource/Gallatin_River
+
+
+Гальего (река)	http://dbpedia.org/resource/Gállego_(river)
+
+
+Гандер	http://dbpedia.org/resource/Gander_(Moselle)
+
+
+Гандловка	http://dbpedia.org/resource/Handlovka
+
+
+Ганнисон	http://dbpedia.org/resource/Gunnison_River
+
+
+Гансбах	http://dbpedia.org/resource/Gansbach_(river)
+
+
+Гань (река)	http://dbpedia.org/resource/Gan_River_(Jiangxi)
+
+
+Гаравог	http://dbpedia.org/resource/River_Garavogue
+
+
+Гардон	http://dbpedia.org/resource/Gardon
+
+
+Гарильяно	http://dbpedia.org/resource/Garigliano
+
+
+Гаронна	http://dbpedia.org/resource/Garonne
+
+
+Гартамп (река)	http://dbpedia.org/resource/Gartempe
+
+
+Гатино (река)	http://dbpedia.org/resource/Gatineau_River
+
+
+Гауангельбах	http://dbpedia.org/resource/Gauangelbach
+
+
+Гаульбах	http://dbpedia.org/resource/Gaulbach
+
+
+Гаухсбах	http://dbpedia.org/resource/Gauchsbach
+
+
+Гауя	http://dbpedia.org/resource/Gauja
+
+
+Гвадаррама (река)	http://dbpedia.org/resource/Guadarrama_(river)
+
+
+Гвадиана	http://dbpedia.org/resource/Guadiana
+
+
+Гдовка	http://dbpedia.org/resource/Gdovka_River
+
+
+Гебке (верхний приток Рура)	http://dbpedia.org/resource/Gebke_(Meschede)
+
+
+гебке верхний приток Рура,,	Gebke_(Meschede)
+Гебке (нижний приток Рура)	http://dbpedia.org/resource/Gebke_(Wennemen)
+
+
+гебке нижний приток Рура,,	Gebke_(Wennemen)
+Гевингхаузер-Бах	http://dbpedia.org/resource/Gewinghauser_Bach
+
+
+Гедиз	http://dbpedia.org/resource/Gediz_River
+
+
+Геле	http://dbpedia.org/resource/Gehle
+
+
+Гельпе	http://dbpedia.org/resource/Gelpe
+
+
+Гельсбах	http://dbpedia.org/resource/Gehlsbach_(river)
+
+
+Генкель (река)	http://dbpedia.org/resource/Genkel
+
+
+Геннах (река)	http://dbpedia.org/resource/Gennach
+
+
+Гера (река)	http://dbpedia.org/resource/Gera_(river)
+
+
+Гершпренц	http://dbpedia.org/resource/Gersprenz
+
+
+Гизель (река)	http://dbpedia.org/resource/Giesel_(Fulda)
+
+
+Гиль (река)	http://dbpedia.org/resource/Guil
+
+
+Гильбах	http://dbpedia.org/resource/Gillbach
+
+
+Гильгбах	http://dbpedia.org/resource/Gilgbach
+
+
+Гильза (река)	http://dbpedia.org/resource/Gilsa_(Schwalm)
+
+
+Гильменд (река)	http://dbpedia.org/resource/Helmand_River
+
+
+Гимбах	http://dbpedia.org/resource/Gimbach
+
+
+Гинсбах	http://dbpedia.org/resource/Ginsbach_(Jagst)
+
+
+Гирбах	http://dbpedia.org/resource/Gierbach
+
+
+Гирскоппбах	http://dbpedia.org/resource/Gierskoppbach
+
+
+Глан (приток Наэ)	http://dbpedia.org/resource/Glan_(Nahe)
+
+
+Глане	http://dbpedia.org/resource/Glane_(Ems)
+
+
+Гланербек	http://dbpedia.org/resource/Glanerbeek
+
+
+Глатт	http://dbpedia.org/resource/Glatt_(Neckar)
+
+
+Глемс	http://dbpedia.org/resource/Glems
+
+
+Гленне	http://dbpedia.org/resource/Glenne_(Möhne)
+
+
+Глимке	http://dbpedia.org/resource/Glimke
+
+
+Глиндер-Ау	http://dbpedia.org/resource/Glinder_Au
+
+
+Глонн (приток Мангфалля)	http://dbpedia.org/resource/Glonn_(Mangfall)
+
+
+Глоттер	http://dbpedia.org/resource/Glotter
+
+
+Глухая Вильва	http://dbpedia.org/resource/Glukhaya_Vilva_River
+
+
+Гнилец (река)	http://dbpedia.org/resource/Hnilec_(river)
+
+
+Гнилой Тикич	http://dbpedia.org/resource/Hnyly_Tikych
+
+
+Го (река)	http://dbpedia.org/resource/Gōnokawa_River
+
+
+Говоруха (приток Вишеры)	http://dbpedia.org/resource/Govorukha_River
+
+
+Гозенбах	http://dbpedia.org/resource/Gosenbach
+
+
+Голлах	http://dbpedia.org/resource/Gollach
+
+
+Голо	http://dbpedia.org/resource/Golo_(river)
+
+
+Голубой Нил	http://dbpedia.org/resource/Blue_Nile
+
+
+Гольдбах (приток Пегница)	http://dbpedia.org/resource/Goldbach_(Pegnitz)
+
+
+Гольдерсбах	http://dbpedia.org/resource/Goldersbach
+
+
+Гордон (река, Тасмания)	http://dbpedia.org/resource/Gordon_River
+
+
+Горный Тикич	http://dbpedia.org/resource/Hirsky_Tikych
+
+
+Горынь	http://dbpedia.org/resource/Horyn_River
+
+
+Гравона	http://dbpedia.org/resource/Gravona
+
+
+Гранд-Бален	http://dbpedia.org/resource/Great_Whale_River
+
+
+Гранд-Ривер (река, впадает в Эри)	http://dbpedia.org/resource/Grand_River_(Ontario)
+
+
+Граник	http://dbpedia.org/resource/Biga_Çayı
+
+
+Греннельбах	http://dbpedia.org/resource/Grennelbach
+
+
+Грин-Ривер (приток Огайо)	http://dbpedia.org/resource/Green_River_(Kentucky)
+
+
+Грихальва	http://dbpedia.org/resource/Grijalva_River
+
+
+Грона	http://dbpedia.org/resource/Grosne_(river)
+
+
+Гросе-А (приток Абаха)	http://dbpedia.org/resource/Große_Aa_(Aabach)
+
+
+Гросе-Фильс	http://dbpedia.org/resource/Große_Vils
+
+
+Гросер-Бастерграбен	http://dbpedia.org/resource/Großer_Bastergraben
+
+
+Гросер-Диккфлус	http://dbpedia.org/resource/Großer_Dieckfluss
+
+
+Гросер-Козербах	http://dbpedia.org/resource/Großer_Koserbach
+
+
+Грубе (ручей)	http://dbpedia.org/resource/Grube_(Weser)
+
+
+Грубебах	http://dbpedia.org/resource/Grubebach
+
+
+Грумбах	http://dbpedia.org/resource/Grumbach_(Werra)
+
+
+Груттбах	http://dbpedia.org/resource/Gruttbach
+
+
+Грюмпель	http://dbpedia.org/resource/Grümpel
+
+
+Грюмпен	http://dbpedia.org/resource/Grümpen_(river)
+
+
+Грюнбах	http://dbpedia.org/resource/Grünbach_(Tauber)
+
+
+Грюндау (река)	http://dbpedia.org/resource/Gründau_(river)
+
+
+Грюндлайнсбах	http://dbpedia.org/resource/Gründleinsbach
+
+
+Грязнуха (приток Кунгура)	http://dbpedia.org/resource/Gryaznukha_River
+
+
+Гуавьяре	http://dbpedia.org/resource/Guaviare_River
+
+
+Гуадалопе	http://dbpedia.org/resource/Guadalope
+
+
+Гуадальмедина	http://dbpedia.org/resource/Guadalmedina
+
+
+Гуаитара	http://dbpedia.org/resource/Guáitara_River
+
+
+Гудзон (река)	http://dbpedia.org/resource/Hudson_River
+
+
+Гулкана (река)	http://dbpedia.org/resource/Gulkana_River
+
+
+Гумаль	http://dbpedia.org/resource/Gomal_River
+
+
+Гумбольдт (река)	http://dbpedia.org/resource/Humboldt_River
+
+
+Гумиста (река)	http://dbpedia.org/resource/Gumista_River
+
+
+Гундбах	http://dbpedia.org/resource/Gundbach
+
+
+Гурк (река)	http://dbpedia.org/resource/Gurk_(river)
+
+
+Гутах (приток Кинцига)	http://dbpedia.org/resource/Gutach_(Kinzig)
+
+
+Гутах (приток Эльца)	http://dbpedia.org/resource/Wild_Gutach
+
+
+Гутнах	http://dbpedia.org/resource/Gutnach
+
+
+Гюнц	http://dbpedia.org/resource/Günz
+
+
+Гёзель	http://dbpedia.org/resource/Gösel
+
+
+Гёксу	http://dbpedia.org/resource/Göksu
+
+
+Гёта-Эльв	http://dbpedia.org/resource/Göta_älv
+
+
+Гёттельбах	http://dbpedia.org/resource/Göttelbach
+
+
+Гёттхесбах	http://dbpedia.org/resource/Göttchesbach
+
+
+Гёула (река, впадает в Норвежское море)	http://dbpedia.org/resource/Gaula_(Sør-Trøndelag)
+
+
+Гёула (река, впадает в Северное море)	http://dbpedia.org/resource/Gaula_(Sogn_og_Fjordane)
+
+
+Гёцингер-Ахен	http://dbpedia.org/resource/Götzinger_Achen
+
+
+Да (река)	http://dbpedia.org/resource/Black_River_(Asia)
+
+
+Дадухэ	http://dbpedia.org/resource/Dadu_River_(Sichuan)
+
+
+Дазе	http://dbpedia.org/resource/Dase_(Erpe)
+
+
+Дайамантина	http://dbpedia.org/resource/Diamantina_River
+
+
+Дайльбах	http://dbpedia.org/resource/Deilbach
+
+
+Дайман	http://dbpedia.org/resource/Daymán_River
+
+
+Дак-Ривер	http://dbpedia.org/resource/Duck_River_(Tennessee)
+
+
+Дальке	http://dbpedia.org/resource/Dalke
+
+
+Даме (река)	http://dbpedia.org/resource/Dahme_(river)
+
+
+Дармбах	http://dbpedia.org/resource/Darmbach
+
+
+Дармюленбах	http://dbpedia.org/resource/Darmühlenbach
+
+
+Даутфе	http://dbpedia.org/resource/Dautphe
+
+
+Двиница	http://dbpedia.org/resource/Dvinitsa_River
+
+
+Дебед (река)	http://dbpedia.org/resource/Debed
+
+
+Дельта (река)	http://dbpedia.org/resource/Delta_River
+
+
+Денмарк (река)	http://dbpedia.org/resource/Denmark_River
+
+
+Деренбах	http://dbpedia.org/resource/Derenbach_(Bröl)
+
+
+Дерри (река)	http://dbpedia.org/resource/River_Derry
+
+
+Деруэнт (приток Трента)	http://dbpedia.org/resource/River_Derwent,_Derbyshire
+
+
+Детина	http://dbpedia.org/resource/Đetinja
+
+
+Дешут	http://dbpedia.org/resource/Deschutes_River_(Oregon)
+
+
+Джеди	http://dbpedia.org/resource/Djedi_River
+
+
+Джеймс (приток Миссури)	http://dbpedia.org/resource/James_River_(Dakotas)
+
+
+Джела (река)	http://dbpedia.org/resource/Gela_(river)
+
+
+Джелам (река)	http://dbpedia.org/resource/Jhelum_River
+
+
+Джефферсон (река)	http://dbpedia.org/resource/Jefferson_River
+
+
+Джордан (река)	http://dbpedia.org/resource/Jordan_River_(Utah)
+
+
+Джордж (река)	http://dbpedia.org/resource/George_River_(Quebec)
+
+
+Джубба	http://dbpedia.org/resource/Jubba_River
+
+
+Джурич (приток Южной Кельтмы)	http://dbpedia.org/resource/Dzhurich_River
+
+
+Дзиндзу	http://dbpedia.org/resource/Jinzū_River
+
+
+Дзорагет	http://dbpedia.org/resource/Dzoraget_River
+
+
+Дие	http://dbpedia.org/resource/Thaya
+
+
+Дилль (река)	http://dbpedia.org/resource/Dill_(river)
+
+
+Дильсбах	http://dbpedia.org/resource/Dilsbach
+
+
+Димель	http://dbpedia.org/resource/Diemel
+
+
+Динкель	http://dbpedia.org/resource/Dinkel
+
+
+Дирилло	http://dbpedia.org/resource/Dirillo
+
+
+Дисна (река)	http://dbpedia.org/resource/Dysna
+
+
+Дистельбах	http://dbpedia.org/resource/Diestelbach
+
+
+Дите	http://dbpedia.org/resource/Diete
+
+
+Диттайно	http://dbpedia.org/resource/Dittaino
+
+
+Диттенбах	http://dbpedia.org/resource/Dittenbach
+
+
+Дицхёльце	http://dbpedia.org/resource/Dietzhölze
+
+
+Дияла (река)	http://dbpedia.org/resource/Diyala_River
+
+
+Днестр	http://dbpedia.org/resource/Dniester
+
+
+Добер	http://dbpedia.org/resource/Dober_(Kremnitz)
+
+
+Добрах	http://dbpedia.org/resource/Dobrach
+
+
+Дог-Салмон	http://dbpedia.org/resource/Dog_Salmon_River
+
+
+Доддер	http://dbpedia.org/resource/River_Dodder
+
+
+Дозовка (приток Весляны)	http://dbpedia.org/resource/Dozovka_River
+
+
+Дойтерграбен	http://dbpedia.org/resource/Deutergraben
+
+
+Дойче-Тайя	http://dbpedia.org/resource/German_Thaya
+
+
+Долорес (река)	http://dbpedia.org/resource/Dolores_River
+
+
+Дольбек	http://dbpedia.org/resource/Dollbek
+
+
+Доммел	http://dbpedia.org/resource/Dommel
+
+
+Дон (приток Уза)	http://dbpedia.org/resource/River_Don,_South_Yorkshire
+
+
+Дон (река, впадает в Северное море)	http://dbpedia.org/resource/River_Don,_Aberdeenshire
+
+
+Дора-Бальтеа	http://dbpedia.org/resource/Dora_Baltea
+
+
+Дора-Рипария	http://dbpedia.org/resource/Dora_Riparia
+
+
+Дордонь (река)	http://dbpedia.org/resource/Dordogne_(river)
+
+
+Дорнбах	http://dbpedia.org/resource/Dornbach_(Eschbach)
+
+
+Дорнмюленбах	http://dbpedia.org/resource/Dornmühlenbach
+
+
+Доспат (река)	http://dbpedia.org/resource/Dospat_(river)
+
+
+Доссе (река)	http://dbpedia.org/resource/Dosse
+
+
+Дотнувеле	http://dbpedia.org/resource/Dotnuvėlė
+
+
+Дравиня	http://dbpedia.org/resource/Dravinja
+
+
+Драговиштица (река)	http://dbpedia.org/resource/Dragovištica
+
+
+Драйсбах (приток Брёля)	http://dbpedia.org/resource/Dreisbach_(Bröl)
+
+
+Драк	http://dbpedia.org/resource/Drac_(river)
+
+
+Дрива	http://dbpedia.org/resource/Driva
+
+
+Дрина	http://dbpedia.org/resource/Drina
+
+
+Дрозедовер-Бек	http://dbpedia.org/resource/Drosedower_Bek
+
+
+Дром (река)	http://dbpedia.org/resource/Drôme_(river)
+
+
+Друзель	http://dbpedia.org/resource/Drusel
+
+
+Друть	http://dbpedia.org/resource/Drut_River
+
+
+Ду (приток Соны)	http://dbpedia.org/resource/Doubs_(river)
+
+
+Дубиса	http://dbpedia.org/resource/Dubysa
+
+
+Дубна (приток Западной Двины)	http://dbpedia.org/resource/Dubna_(Daugava)
+
+
+Дудх-Коси	http://dbpedia.org/resource/Dudh_Kosi
+
+
+Дункан (река)	http://dbpedia.org/resource/Duncan_River
+
+
+Дурбеке	http://dbpedia.org/resource/Durbeke
+
+
+Дюзедиксбах	http://dbpedia.org/resource/Düsedieksbach
+
+
+Дюльбах	http://dbpedia.org/resource/Dühlbach
+
+
+Дюнн	http://dbpedia.org/resource/Dhünn
+
+
+Дюранс	http://dbpedia.org/resource/Durance
+
+
+Дюррайх	http://dbpedia.org/resource/Dürreych
+
+
+Дюссель	http://dbpedia.org/resource/Düssel
+
+
+Дюте	http://dbpedia.org/resource/Düte
+
+
+Дёрпе	http://dbpedia.org/resource/Dörpe
+
+
+Евишовка	http://dbpedia.org/resource/Jevišovka_(river)
+
+
+Егорлык	http://dbpedia.org/resource/Yegorlyk_River
+
+
+Егошиха (река)	http://dbpedia.org/resource/Yegoshikha_River
+
+
+Егричка	http://dbpedia.org/resource/Jegrička
+
+
+Елымовка	http://dbpedia.org/resource/Yelymovka_River
+
+
+Ельчо (река)	http://dbpedia.org/resource/Yelcho_River
+
+
+Емца (река)	http://dbpedia.org/resource/Yemtsa_River
+
+
+Ерез (река)	http://dbpedia.org/resource/Jerez_(river)
+
+
+Еруслан (река)	http://dbpedia.org/resource/Yeruslan_River
+
+
+Ешильырмак	http://dbpedia.org/resource/Yeşilırmak_River
+
+
+Жак-Картье	http://dbpedia.org/resource/Jacques-Cartier_River
+
+
+Жеймяна (река)	http://dbpedia.org/resource/Žeimena
+
+
+Желивка	http://dbpedia.org/resource/Želivka
+
+
+Желонь	http://dbpedia.org/resource/Zhelon
+
+
+Желча (река)	http://dbpedia.org/resource/Zhelcha_River
+
+
+Жер (река)	http://dbpedia.org/resource/Gers_(river)
+
+
+Житава	http://dbpedia.org/resource/Žitava_(river)
+
+
+Журуа	http://dbpedia.org/resource/Juruá_River
+
+
+Загебах	http://dbpedia.org/resource/Sagebach
+
+
+Зай (река)	http://dbpedia.org/resource/Zay_River
+
+
+Зайендеруд	http://dbpedia.org/resource/Zayanderud
+
+
+Зала (река)	http://dbpedia.org/resource/Zala_(river)
+
+
+Залах (река)	http://dbpedia.org/resource/Saalach
+
+
+Залвай	http://dbpedia.org/resource/Salwey
+
+
+Залив Принцессы Шарлотты	http://dbpedia.org/resource/Princess_Charlotte_Bay
+
+
+залив принцессы шарлотты,,	Princess_Charlotte_Bay
+Зальбах	http://dbpedia.org/resource/Saalbach_(Gelpe)
+
+
+Зальм (приток Мозеля)	http://dbpedia.org/resource/Salm_(Moselle)
+
+
+Зальц	http://dbpedia.org/resource/Salz_(river)
+
+
+Зальца (приток Зале)	http://dbpedia.org/resource/Salza_(Saale)
+
+
+Зальцах	http://dbpedia.org/resource/Salzach
+
+
+Зальцбах (приток Нидды)	http://dbpedia.org/resource/Salzbach_(Nidda)
+
+
+Зальцбах (приток Рейна)	http://dbpedia.org/resource/Salzbach_(Wiesbaden)
+
+
+Зальцбёде	http://dbpedia.org/resource/Salzböde
+
+
+Зальце	http://dbpedia.org/resource/Salze_(Bega)
+
+
+Заманты	http://dbpedia.org/resource/Zamantı_River
+
+
+Зане	http://dbpedia.org/resource/Saane/Sarine
+
+
+Западная Двина	http://dbpedia.org/resource/Daugava_(river)
+
+
+Западная Морава	http://dbpedia.org/resource/West_Morava
+
+
+Заубах (приток Инде)	http://dbpedia.org/resource/Saubach_(Inde)
+
+
+Зауренбах	http://dbpedia.org/resource/Hover_Bach
+
+
+Зауэр (приток Альтенау)	http://dbpedia.org/resource/Sauer_(Altenau)
+
+
+Зауэр (приток Мозеля)	http://dbpedia.org/resource/Sauer
+
+
+Зауэрборнсбах	http://dbpedia.org/resource/Sauerbornsbach
+
+
+Збруч	http://dbpedia.org/resource/Zbruch_River
+
+
+Зварте-Ватер	http://dbpedia.org/resource/Zwarte_Water
+
+
+Зебах (приток Узы)	http://dbpedia.org/resource/Seebach_(Usa)
+
+
+Зекках (река)	http://dbpedia.org/resource/Seckach_(Jagst)
+
+
+Зельвянка (река)	http://dbpedia.org/resource/Zel’vyanka_River
+
+
+Зельц (река)	http://dbpedia.org/resource/Selz
+
+
+Зельценбах	http://dbpedia.org/resource/Selzenbach
+
+
+Земенбах	http://dbpedia.org/resource/Seemenbach
+
+
+Зенбах	http://dbpedia.org/resource/Seenbach
+
+
+Зенгбах	http://dbpedia.org/resource/Sengbach
+
+
+Зенденер-Бах	http://dbpedia.org/resource/Sendener_Bach
+
+
+Зеннебах	http://dbpedia.org/resource/Sennebach
+
+
+Зесмарбах	http://dbpedia.org/resource/Seßmarbach
+
+
+Зефе	http://dbpedia.org/resource/Seeve
+
+
+Зибенбах (река)	http://dbpedia.org/resource/Siebenbach_(river)
+
+
+Зиг	http://dbpedia.org/resource/Sieg
+
+
+Зигбах (приток Ара)	http://dbpedia.org/resource/Siegbach_(Aar)
+
+
+Зикбах	http://dbpedia.org/resource/Siekbach_(Werre)
+
+
+Зиль (река)	http://dbpedia.org/resource/Sihl
+
+
+Зильбербах	http://dbpedia.org/resource/Silberbach_(Heubach)
+
+
+Зимняя Золотица	http://dbpedia.org/resource/Zolotitsa_River
+
+
+Зингольд	http://dbpedia.org/resource/Singold
+
+
+Зиндельбах	http://dbpedia.org/resource/Sindelbach
+
+
+Зиндерсбах	http://dbpedia.org/resource/Sindersbach
+
+
+Зиттенбах	http://dbpedia.org/resource/Sittenbach
+
+
+Зойльбах	http://dbpedia.org/resource/Seulbach
+
+
+Зольмсбах	http://dbpedia.org/resource/Solmsbach
+
+
+Зольц (верхний приток Фульды)	http://dbpedia.org/resource/Solz_(südliche)
+
+
+зольц верхний приток Фульды,,	Solz_(südliche)
+Зольц (нижний приток Фульды)	http://dbpedia.org/resource/Solz_(nördliche)
+
+
+зольц нижний приток Фульды,,	Solz_(nördliche)
+Зоннеборн (приток Нуне)	http://dbpedia.org/resource/Sonneborn_(Nuhne)
+
+
+Зонтра (река)	http://dbpedia.org/resource/Sontra_(river)
+
+
+Зорпе	http://dbpedia.org/resource/Sorpe_(Röhr)
+
+
+Зубра (река)	http://dbpedia.org/resource/Zubra_River
+
+
+Зудбах	http://dbpedia.org/resource/Sudbach
+
+
+Зульцбах (приток Майна)	http://dbpedia.org/resource/Sulzbach_(Main)
+
+
+Зульцбах (приток Нидды)	http://dbpedia.org/resource/Sulzbach_(Nidda)
+
+
+Зундербах	http://dbpedia.org/resource/Sunderbach_(Else)
+
+
+Зур (река)	http://dbpedia.org/resource/Sur_(river)
+
+
+Зюльц	http://dbpedia.org/resource/Sülz_(river)
+
+
+Зёстбах	http://dbpedia.org/resource/Soestbach
+
+
+Ибар	http://dbpedia.org/resource/Ibar_(river)
+
+
+Иббенбюренер-А	http://dbpedia.org/resource/Dreierwalder_Aa
+
+
+Ибс	http://dbpedia.org/resource/Ybbs
+
+
+Ивалойоки	http://dbpedia.org/resource/Ivalo_(river)
+
+
+Игуара	http://dbpedia.org/resource/Iguará_River
+
+
+Иден (река)	http://dbpedia.org/resource/River_Eden,_Cumbria
+
+
+Иецава (река)	http://dbpedia.org/resource/Iecava_(river)
+
+
+Иж (приток Камы)	http://dbpedia.org/resource/Izh_River
+
+
+Ижма (приток Печоры)	http://dbpedia.org/resource/Izhma_River
+
+
+Ижора (река)	http://dbpedia.org/resource/Izhora_River
+
+
+Изар	http://dbpedia.org/resource/Isar
+
+
+Изер (приток Роны)	http://dbpedia.org/resource/Isère_(river)
+
+
+Изер (река, впадает в Северное море)	http://dbpedia.org/resource/Yser
+
+
+Иййоки (река, впадает в Балтийское море)	http://dbpedia.org/resource/Iijoki
+
+
+Ик (приток Камы)	http://dbpedia.org/resource/Ik_River
+
+
+Иккер	http://dbpedia.org/resource/Uecker
+
+
+Илекса (река, впадает в Водлозеро)	http://dbpedia.org/resource/Ileksa_River
+
+
+Илеть	http://dbpedia.org/resource/Ilet_River
+
+
+Илеша	http://dbpedia.org/resource/Ilesha_River
+
+
+Или (река)	http://dbpedia.org/resource/Ili_River
+
+
+Илимпея	http://dbpedia.org/resource/Ilimpeya_River
+
+
+Иллер	http://dbpedia.org/resource/Iller
+
+
+Иллинойс (река)	http://dbpedia.org/resource/Illinois_River
+
+
+Илль (приток Рейна)	http://dbpedia.org/resource/Ill_(Austria)
+
+
+Илль (приток Теля)	http://dbpedia.org/resource/Ill_(Saarland)
+
+
+Иль (приток Вилена)	http://dbpedia.org/resource/Ille
+
+
+Иль (приток Рейна)	http://dbpedia.org/resource/Ill_(France)
+
+
+Ильзе (приток Беги)	http://dbpedia.org/resource/Ilse_(Bega)
+
+
+Ильзе (приток Везера)	http://dbpedia.org/resource/Ilse_(Weser)
+
+
+Ильзе (приток Лана)	http://dbpedia.org/resource/Ilse_(Lahn)
+
+
+Ильм (приток Зале)	http://dbpedia.org/resource/Ilm_(Thuringia)
+
+
+Ильпе	http://dbpedia.org/resource/Ilpe
+
+
+Ильсбах	http://dbpedia.org/resource/Ilsbach_(Seenbach)
+
+
+Имджа-Кхола	http://dbpedia.org/resource/Imja_Khola
+
+
+Имонт	http://dbpedia.org/resource/River_Eamont
+
+
+Ингул	http://dbpedia.org/resource/Inhul
+
+
+Ингулец (река)	http://dbpedia.org/resource/Inhulets_River
+
+
+Ингури	http://dbpedia.org/resource/Inguri_River
+
+
+Инде	http://dbpedia.org/resource/Inde
+
+
+Индига	http://dbpedia.org/resource/Indiga_River
+
+
+Индигирка	http://dbpedia.org/resource/Indigirka_River
+
+
+Индравати	http://dbpedia.org/resource/Indravati_River,_Nepal
+
+
+Ине (река)	http://dbpedia.org/resource/Ihne
+
+
+Инирида (река)	http://dbpedia.org/resource/Inírida_River
+
+
+Инн (река)	http://dbpedia.org/resource/Inn_(river)
+
+
+Иннерсте	http://dbpedia.org/resource/Innerste
+
+
+Инноко	http://dbpedia.org/resource/Innoko_River
+
+
+Иньва	http://dbpedia.org/resource/Inva_River
+
+
+Ипиранга (река)	http://dbpedia.org/resource/Ipiranga_Brook
+
+
+Иппари	http://dbpedia.org/resource/Ippari
+
+
+Иравади (река)	http://dbpedia.org/resource/Irrawaddy_River
+
+
+Ирвелл	http://dbpedia.org/resource/River_Irwell
+
+
+Иргина	http://dbpedia.org/resource/Irgina_River
+
+
+Ирень	http://dbpedia.org/resource/Iren_River
+
+
+Ирминио	http://dbpedia.org/resource/Irminio
+
+
+Ирпень (река)	http://dbpedia.org/resource/Irpin_River
+
+
+Иртинг	http://dbpedia.org/resource/River_Irthing
+
+
+Иртыш	http://dbpedia.org/resource/Irtysh_River
+
+
+Исеть	http://dbpedia.org/resource/Iset_River
+
+
+Искыр	http://dbpedia.org/resource/Iskar_(river)
+
+
+Ист-Ривер	http://dbpedia.org/resource/East_River
+
+
+Истмейн (река)	http://dbpedia.org/resource/Eastmain_River
+
+
+Истра (река)	http://dbpedia.org/resource/Istra_River
+
+
+Иттер (приток Неккара)	http://dbpedia.org/resource/Itter_(Neckar)
+
+
+Иттер (приток Рейна)	http://dbpedia.org/resource/Itter_(Rhein)
+
+
+Иттлингер-Бах	http://dbpedia.org/resource/Ittlinger_Bach
+
+
+Иц (река)	http://dbpedia.org/resource/Itz
+
+
+Ишим (река)	http://dbpedia.org/resource/Ishim_River
+
+
+Йи (река)	http://dbpedia.org/resource/Yí_River
+
+
+Йиглава (река)	http://dbpedia.org/resource/Jihlava_(river)
+
+
+Йонна (река)	http://dbpedia.org/resource/Yonne_(river)
+
+
+Йосса (приток Зинна)	http://dbpedia.org/resource/Jossa_(Sinn)
+
+
+Йосса (приток Людера)	http://dbpedia.org/resource/Jossa_(Lüder)
+
+
+Йосса (приток Фульды)	http://dbpedia.org/resource/Jossa_(Fulda)
+
+
+Йёлленбеккер-Мюленбах	http://dbpedia.org/resource/Jöllenbecker_Mühlenbach
+
+
+Кабул (река)	http://dbpedia.org/resource/Kabul_River
+
+
+Кавалли (река)	http://dbpedia.org/resource/Cavalla_River
+
+
+Кагальник (река, впадает в Азовское море)	http://dbpedia.org/resource/Kagalnik_River
+
+
+Кадь (приток Яйвы)	http://dbpedia.org/resource/Kad_River
+
+
+Казанка (приток Волги)	http://dbpedia.org/resource/Kazanka_River
+
+
+Казари	http://dbpedia.org/resource/Kasari_(river)
+
+
+Кайахога	http://dbpedia.org/resource/Cuyahoga_River
+
+
+Кайнах	http://dbpedia.org/resource/Kainach_(Wiesent)
+
+
+Кайнсбах	http://dbpedia.org/resource/Kainsbach
+
+
+Калавон	http://dbpedia.org/resource/Calavon
+
+
+Калаус	http://dbpedia.org/resource/Kalaus_River
+
+
+Каленбергер-Бах	http://dbpedia.org/resource/Bach_vom_Schlüsselgrund
+
+
+Калле	http://dbpedia.org/resource/Kalle_(river)
+
+
+Калль (ручей)	http://dbpedia.org/resource/Kall_(Rur)
+
+
+Калу-Ганга	http://dbpedia.org/resource/Kalu_River
+
+
+Кальбах (приток Нидды)	http://dbpedia.org/resource/Kalbach_(Nidda)
+
+
+Кальекалье	http://dbpedia.org/resource/Calle-Calle_River
+
+
+Калькуррупе	http://dbpedia.org/resource/Calcurrupe_River
+
+
+Кальмиус	http://dbpedia.org/resource/Kalmius
+
+
+Кальтес-Вассер	http://dbpedia.org/resource/Kaltes_Wasser
+
+
+Кальчик (река)	http://dbpedia.org/resource/Kalchik_River
+
+
+Кама	http://dbpedia.org/resource/Kama_River
+
+
+Камак	http://dbpedia.org/resource/River_Camac
+
+
+Камаронес (река)	http://dbpedia.org/resource/Camarones_River
+
+
+Камберленд (река)	http://dbpedia.org/resource/Cumberland_River
+
+
+Каммель	http://dbpedia.org/resource/Kammel
+
+
+Камо (приток Ёдо)	http://dbpedia.org/resource/Kamo_River
+
+
+Камчия	http://dbpedia.org/resource/Kamchiya
+
+
+Кандер (приток Рейна)	http://dbpedia.org/resource/Kander_(Germany)
+
+
+Кандик (река)	http://dbpedia.org/resource/Kandik_River
+
+
+Канзас (река)	http://dbpedia.org/resource/Kansas_River
+
+
+Канцельбах	http://dbpedia.org/resource/Kanzelbach
+
+
+Капуас (приток Барито)	http://dbpedia.org/resource/Kapuas_River_(Barito_River)
+
+
+Капуас (река, впадает в Южно-Китайское море)	http://dbpedia.org/resource/Kapuas_River
+
+
+Капша	http://dbpedia.org/resource/Kapsha_River
+
+
+Кара (река)	http://dbpedia.org/resource/Kara_River
+
+
+Каракаш (река)	http://dbpedia.org/resource/Karakash_River
+
+
+Карапелле (река)	http://dbpedia.org/resource/Carapelle_(river)
+
+
+Каратал (река)	http://dbpedia.org/resource/Karatal_River
+
+
+Карбах	http://dbpedia.org/resource/Karbach_(Main)
+
+
+Карес (река)	http://dbpedia.org/resource/Cares
+
+
+Карибу (приток Кенеля)	http://dbpedia.org/resource/Cariboo_River
+
+
+Карони	http://dbpedia.org/resource/Caroní_River
+
+
+Карповка (рукав Невы)	http://dbpedia.org/resource/Karpovka_River
+
+
+Карсон (река)	http://dbpedia.org/resource/Carson_River
+
+
+Картане	http://dbpedia.org/resource/Karthane
+
+
+Касадепага	http://dbpedia.org/resource/Casadepaga_River
+
+
+Касилоф	http://dbpedia.org/resource/Kasilof_River
+
+
+Каслтаун (река)	http://dbpedia.org/resource/Castletown_River
+
+
+Кассибиле	http://dbpedia.org/resource/Cassibile_(river)
+
+
+Катценбах (река)	http://dbpedia.org/resource/Katzenbach_(Neckar)
+
+
+Кау-Кау (река)	http://dbpedia.org/resource/Cau-Cau_River
+
+
+Каука (река)	http://dbpedia.org/resource/Cauca_River
+
+
+Кауконахуа	http://dbpedia.org/resource/Kaukonahua_River
+
+
+Кауто (река)	http://dbpedia.org/resource/Cauto_River
+
+
+Кацбах (ручей)	http://dbpedia.org/resource/Katzbach_(Kraichbach)
+
+
+Качава	http://dbpedia.org/resource/Kaczawa
+
+
+Кашинка (река)	http://dbpedia.org/resource/Kashinka_River
+
+
+Каяанинйоки	http://dbpedia.org/resource/Kajaani_(river)
+
+
+Квичак	http://dbpedia.org/resource/Kvichak_River
+
+
+Кегуай-Гранде	http://dbpedia.org/resource/Queguay_Grande_River
+
+
+Кейла (река)	http://dbpedia.org/resource/Keila_(river)
+
+
+Кейп-Фир (река)	http://dbpedia.org/resource/Cape_Fear_River
+
+
+Кельбербах	http://dbpedia.org/resource/Kälberbach_(Seemenbach)
+
+
+Кельбке	http://dbpedia.org/resource/Kelbke
+
+
+Кельстер	http://dbpedia.org/resource/Kelster
+
+
+Кема (река, впадает в Белое озеро)	http://dbpedia.org/resource/Kema_River
+
+
+Кембах	http://dbpedia.org/resource/Kembach_(Main)
+
+
+Кемниц (река)	http://dbpedia.org/resource/Chemnitz_(river)
+
+
+Кемь (река, впадает в Белое море)	http://dbpedia.org/resource/Kem_River
+
+
+Кена (приток Онеги)	http://dbpedia.org/resource/Kena_River
+
+
+Кенай (река)	http://dbpedia.org/resource/Kenai_River
+
+
+Кеннебек (река)	http://dbpedia.org/resource/Kennebec_River
+
+
+Кеннет (река)	http://dbpedia.org/resource/River_Kennet
+
+
+Кентукки (река)	http://dbpedia.org/resource/Kentucky_River
+
+
+Керженец	http://dbpedia.org/resource/Kerzhenets_River
+
+
+Керкербах	http://dbpedia.org/resource/Kerkerbach
+
+
+Керспе	http://dbpedia.org/resource/Kerspe
+
+
+Кесбах	http://dbpedia.org/resource/Käsbach
+
+
+Кессах	http://dbpedia.org/resource/Kessach
+
+
+Кефисс (Аттика)	http://dbpedia.org/resource/Cephissus_(Athenian_plain)
+
+
+Киевка (река, впадает в Японское море)	http://dbpedia.org/resource/Kiyevka_River
+
+
+Киллик (река)	http://dbpedia.org/resource/Killik_River
+
+
+Килль	http://dbpedia.org/resource/Kyll
+
+
+Кильсбах	http://dbpedia.org/resource/Kilsbach_(Gersprenz)
+
+
+Кильфербах	http://dbpedia.org/resource/Kilverbach
+
+
+Кимжа (приток Мезени)	http://dbpedia.org/resource/Kimzha_River
+
+
+Кинабатанган (река)	http://dbpedia.org/resource/Kinabatangan_River
+
+
+Кинциг (приток Майна)	http://dbpedia.org/resource/Kinzig_(Main)
+
+
+Кинциг (приток Мюмлинга)	http://dbpedia.org/resource/Kinzig_(Mümling)
+
+
+Кирбах	http://dbpedia.org/resource/Kirbach_(river)
+
+
+Кирнау	http://dbpedia.org/resource/Kirnau
+
+
+Кирнбах (приток Кинцига)	http://dbpedia.org/resource/Kirnbach_(Kinzig)
+
+
+Кирнбах (приток Шильтаха)	http://dbpedia.org/resource/Kirnbach_(Schiltach)
+
+
+Кисо (река)	http://dbpedia.org/resource/Kiso_River
+
+
+Кисуца	http://dbpedia.org/resource/Kysuca
+
+
+Китаками (река)	http://dbpedia.org/resource/Kitakami_River
+
+
+Китенска	http://dbpedia.org/resource/Karaagach_(river)
+
+
+Кифербах	http://dbpedia.org/resource/Kieferbach
+
+
+Кичменьга	http://dbpedia.org/resource/Kichmenga_River
+
+
+Кичуй	http://dbpedia.org/resource/Kichuy_River
+
+
+Кияук	http://dbpedia.org/resource/Kiyauk_River
+
+
+Клайне-А	http://dbpedia.org/resource/Kleine_Aa_(Aabach)
+
+
+Клайне-Бах	http://dbpedia.org/resource/Kleinebach
+
+
+Клайне-Кинциг	http://dbpedia.org/resource/Kleine_Kinzig
+
+
+Клайне-Фильс	http://dbpedia.org/resource/Kleine_Vils
+
+
+Клайне-Хенне	http://dbpedia.org/resource/Kleine_Henne
+
+
+Клайне-Эльстер	http://dbpedia.org/resource/Kleine_Elster
+
+
+Клайнер-Козербах	http://dbpedia.org/resource/Kleiner_Koserbach
+
+
+Клакамас (река)	http://dbpedia.org/resource/Clackamas_River
+
+
+Кламат (река)	http://dbpedia.org/resource/Klamath_River
+
+
+Кларе (река)	http://dbpedia.org/resource/Clarée
+
+
+Клебах	http://dbpedia.org/resource/Kleebach
+
+
+Клен (река)	http://dbpedia.org/resource/Clain
+
+
+Клеппе	http://dbpedia.org/resource/Kleppe_(Orpe)
+
+
+Клерф	http://dbpedia.org/resource/Clerve
+
+
+Клингбах (приток Кинцига)	http://dbpedia.org/resource/Klingbach_(Kinzig)
+
+
+Клингенграбен	http://dbpedia.org/resource/Klingengraben
+
+
+Клинч (река)	http://dbpedia.org/resource/Clinch_River
+
+
+Клируотер (приток реки Снейк)	http://dbpedia.org/resource/Clearwater_River_(Idaho)
+
+
+Клута	http://dbpedia.org/resource/Clutha_River
+
+
+Ключевка (приток Аспы)	http://dbpedia.org/resource/Klyuchyovka_River
+
+
+Кляйне-Энц	http://dbpedia.org/resource/Kleine_Enz
+
+
+Кник (река)	http://dbpedia.org/resource/Knik_River
+
+
+Книстербах	http://dbpedia.org/resource/Knisterbach
+
+
+Кноллербах	http://dbpedia.org/resource/Knollerbach
+
+
+Кнохенбах	http://dbpedia.org/resource/Berlebecke
+
+
+Кнёзельбах	http://dbpedia.org/resource/Knöselbach
+
+
+Кобожа	http://dbpedia.org/resource/Kobozha_River
+
+
+Ковжа (река, впадает в Белое озеро)	http://dbpedia.org/resource/Kovzha_River
+
+
+Когинас	http://dbpedia.org/resource/Coghinas
+
+
+Когыльник	http://dbpedia.org/resource/Cogalnic_River
+
+
+Кодина (река)	http://dbpedia.org/resource/Kodina_River
+
+
+Кодори	http://dbpedia.org/resource/Kodori_River
+
+
+Кодыма (река)	http://dbpedia.org/resource/Kodyma_River
+
+
+Козер (приток Шоргаста)	http://dbpedia.org/resource/Koser_(Schorgast)
+
+
+Койва	http://dbpedia.org/resource/Koyva_River
+
+
+Коколик	http://dbpedia.org/resource/Kokolik_River
+
+
+Кокосинг	http://dbpedia.org/resource/Kokosing_River
+
+
+Кокшеньга	http://dbpedia.org/resource/Kokshenga_River
+
+
+Кола (река)	http://dbpedia.org/resource/Kola_River
+
+
+Колва (приток Вишеры)	http://dbpedia.org/resource/Kolva_River_(Perm_Krai)
+
+
+Колдью	http://dbpedia.org/resource/River_Caldew
+
+
+Колласйоки	http://dbpedia.org/resource/Kollaa_River
+
+
+Коллау	http://dbpedia.org/resource/Kollau_(Tarpenbek)
+
+
+Колпь (приток Суды)	http://dbpedia.org/resource/Kolp_River
+
+
+Колубара	http://dbpedia.org/resource/Kolubara
+
+
+Колумбия (река)	http://dbpedia.org/resource/Columbia_River
+
+
+Колыма	http://dbpedia.org/resource/Kolyma_River
+
+
+Кольбах (приток Гершпренца)	http://dbpedia.org/resource/Kohlbach_(Gersprenz)
+
+
+Кольбах (приток Фильса)	http://dbpedia.org/resource/Kollbach
+
+
+Кондурча	http://dbpedia.org/resource/Kondurcha_River
+
+
+Коне (река)	http://dbpedia.org/resource/Côney
+
+
+Конкорд (река)	http://dbpedia.org/resource/Concord_River
+
+
+Контровод	http://dbpedia.org/resource/Kontrovod_River
+
+
+Коппер	http://dbpedia.org/resource/Copper_River_(Alaska)
+
+
+Копьяпо (река)	http://dbpedia.org/resource/Copiapó_River
+
+
+Кормиловка (приток Кунгури)	http://dbpedia.org/resource/Kormilovka_River
+
+
+Корожечна	http://dbpedia.org/resource/Korozhechna_River
+
+
+Корриб	http://dbpedia.org/resource/River_Corrib
+
+
+Коса (приток Камы)	http://dbpedia.org/resource/Kosa_River
+
+
+Косапилья	http://dbpedia.org/resource/Cosapilla_River
+
+
+Кострома (река)	http://dbpedia.org/resource/Kostroma_River
+
+
+Косьва	http://dbpedia.org/resource/Kosva_River
+
+
+Котра	http://dbpedia.org/resource/Kotra_(river)
+
+
+Кохер (река)	http://dbpedia.org/resource/Kocher
+
+
+Коххарт	http://dbpedia.org/resource/Kochhart
+
+
+Коюк (река)	http://dbpedia.org/resource/Koyuk_River
+
+
+Коюкук (река)	http://dbpedia.org/resource/Koyukuk_River
+
+
+Крабах	http://dbpedia.org/resource/Krabach
+
+
+Крайхбах	http://dbpedia.org/resource/Kraichbach
+
+
+Крапина (река)	http://dbpedia.org/resource/Krapina_(river)
+
+
+Кребсбах (приток Ица)	http://dbpedia.org/resource/Krebsbach_(Itz)
+
+
+Кребсбах (приток Ниддера)	http://dbpedia.org/resource/Krebsbach_(Nidder)
+
+
+Кребсбах (приток Паара)	http://dbpedia.org/resource/Krebsbach_(Paar)
+
+
+Кребсбах (приток Родаха)	http://dbpedia.org/resource/Krebsbach_(Rodach)
+
+
+Кребсбах (приток Фальбаха)	http://dbpedia.org/resource/Krebsbach_(Fallbach)
+
+
+Кребсбах (приток Хафербаха)	http://dbpedia.org/resource/Krebsbach_(Haferbach)
+
+
+Кребсбах (приток Шварцбаха)	http://dbpedia.org/resource/Krebsbach_(Schwarzbach)
+
+
+Кребсбах (приток Штайнаха)	http://dbpedia.org/resource/Krebsbach_(Steinach)
+
+
+Кремниц (приток Кронаха)	http://dbpedia.org/resource/Kremnitz_(Kronach)
+
+
+Кретцер-Бах	http://dbpedia.org/resource/Kretzer_Bach
+
+
+Крехенбах	http://dbpedia.org/resource/Krähenbach_(Kammel)
+
+
+Криппенбах	http://dbpedia.org/resource/Krippenbach
+
+
+Крка (приток Савы)	http://dbpedia.org/resource/Krka_(Sava)
+
+
+Кройцбах	http://dbpedia.org/resource/Kreuzbach_(Erlenbach)
+
+
+Крокер (река)	http://dbpedia.org/resource/Croker_River
+
+
+Кромбах (река)	http://dbpedia.org/resource/Krombach_(river)
+
+
+Кронах (приток Вайсер-Майна)	http://dbpedia.org/resource/Kronach_(Weißer_Main)
+
+
+Кронах (река)	http://dbpedia.org/resource/Kronach_(Haßlach)
+
+
+Крузгамепа	http://dbpedia.org/resource/Kruzgamepa_River
+
+
+Крульсбах	http://dbpedia.org/resource/Krullsbach
+
+
+Крумбах (приток Каммеля)	http://dbpedia.org/resource/Krumbach_(Kammel)
+
+
+Крумбехлайн	http://dbpedia.org/resource/Krumbächlein
+
+
+Крумм	http://dbpedia.org/resource/Krumm_(river)
+
+
+Круммбах	http://dbpedia.org/resource/Krummbach_(Ablach)
+
+
+Крутыня	http://dbpedia.org/resource/Krutynia
+
+
+Крынка (река)	http://dbpedia.org/resource/Krynka_River
+
+
+Крюккау	http://dbpedia.org/resource/Krückau
+
+
+Крёз (река)	http://dbpedia.org/resource/Creuse_(river)
+
+
+Куара	http://dbpedia.org/resource/Kuara_River
+
+
+Кубань (река)	http://dbpedia.org/resource/Kuban_River
+
+
+Кубена	http://dbpedia.org/resource/Kubena_River
+
+
+Кубня	http://dbpedia.org/resource/Kubnya_River
+
+
+Кугарок	http://dbpedia.org/resource/Kougarok_River
+
+
+Кугарт	http://dbpedia.org/resource/Kögart_River
+
+
+Кузитрин	http://dbpedia.org/resource/Kuzitrin_River
+
+
+Куин (река, Тасмания)	http://dbpedia.org/resource/Queen_River
+
+
+Куйсеб	http://dbpedia.org/resource/Kuiseb_River
+
+
+Кукенан (река)	http://dbpedia.org/resource/Cuquenán_River
+
+
+Кукповрук	http://dbpedia.org/resource/Kukpowruk_River
+
+
+Кулой (приток Ваги)	http://dbpedia.org/resource/Kuloy_River_(Vaga)
+
+
+Кулой (река, впадает в Белое море)	http://dbpedia.org/resource/Kuloy_River_(White_Sea)
+
+
+Култым	http://dbpedia.org/resource/Kultym_River
+
+
+Кумай (приток Колвы)	http://dbpedia.org/resource/Kumay_River
+
+
+Кумано (река)	http://dbpedia.org/resource/Kumano_River
+
+
+Кунани (река)	http://dbpedia.org/resource/Cunani_River
+
+
+Кунгур (река)	http://dbpedia.org/resource/Kungur_River
+
+
+Кунья (приток Ловати)	http://dbpedia.org/resource/Kunya_River
+
+
+Куогги	http://dbpedia.org/resource/River_Quaggy
+
+
+Купа (приток Савы)	http://dbpedia.org/resource/Kupa
+
+
+Купарук (река)	http://dbpedia.org/resource/Kuparuk_River
+
+
+Купер-Крик	http://dbpedia.org/resource/Cooper_Creek
+
+
+Купфер (река)	http://dbpedia.org/resource/Kupfer_(river)
+
+
+Купфербах	http://dbpedia.org/resource/Kupferbach_(Berka)
+
+
+Курмакаш	http://dbpedia.org/resource/Kurmakash_River
+
+
+Куроне	http://dbpedia.org/resource/Curone
+
+
+Куру (река, впадает в Атлантический океан)	http://dbpedia.org/resource/Kourou_(river)
+
+
+Куру-Чу	http://dbpedia.org/resource/Kuri_Chhu
+
+
+Куса (приток Алабамы)	http://dbpedia.org/resource/Coosa_River
+
+
+Кускокуим	http://dbpedia.org/resource/Kuskokwim_River
+
+
+Кута (приток Лены)	http://dbpedia.org/resource/Kuta_River
+
+
+Кутим	http://dbpedia.org/resource/Kutim_River
+
+
+Кухва	http://dbpedia.org/resource/Kukhva_River
+
+
+Куштанка	http://dbpedia.org/resource/Kushtanka_River
+
+
+Куэйрас	http://dbpedia.org/resource/Cuieiras_River
+
+
+Кыма	http://dbpedia.org/resource/Kyma_River
+
+
+Кьезе	http://dbpedia.org/resource/Chiese_(river)
+
+
+Кюльбах	http://dbpedia.org/resource/Kühlbach
+
+
+Кюмийоки	http://dbpedia.org/resource/Kymi_(river)
+
+
+Кюнзебеккер-Бах	http://dbpedia.org/resource/Künsebecker_Bach
+
+
+Кюртенер-Зюльц	http://dbpedia.org/resource/Kürtener_Sülz
+
+
+Кёллербах	http://dbpedia.org/resource/Köllerbach_(Saar)
+
+
+Кёрёш (нижний приток Тисы)	http://dbpedia.org/resource/Körös-ér
+
+
+кёрёш нижний приток Тисы,,	Körös-ér
+Кёц (река)	http://dbpedia.org/resource/Kötz_(Günz)
+
+
+К’Аппель	http://dbpedia.org/resource/Qu'Appelle_River
+
+
+Ла-Плата (река)	http://dbpedia.org/resource/La_Plata_River_(San_Juan_River)
+
+
+Лаба	http://dbpedia.org/resource/Laba_River
+
+
+Лайбах (река)	http://dbpedia.org/resource/Laibach_(Ruthenbach)
+
+
+Лайербах	http://dbpedia.org/resource/Leyerbach
+
+
+Лаймбах (река)	http://dbpedia.org/resource/Leimbach_(Rhein-Neckar)
+
+
+Лайнлайтер	http://dbpedia.org/resource/Leinleiter
+
+
+Лайсбах	http://dbpedia.org/resource/Laisbach
+
+
+Лайсе	http://dbpedia.org/resource/Leiße
+
+
+Лайта (река)	http://dbpedia.org/resource/Leitha
+
+
+Лайтенбах	http://dbpedia.org/resource/Leitenbach
+
+
+Лайтцах	http://dbpedia.org/resource/Leitzach
+
+
+Лаксбах (приток Кохера)	http://dbpedia.org/resource/Laxbach
+
+
+Ламбах (приток Аггера)	http://dbpedia.org/resource/Lambach_(Agger)
+
+
+Ламбах (приток Айккумер-Мюленбаха)	http://dbpedia.org/resource/Lambach_(Eickumer_Mühlenbach)
+
+
+Ламбро	http://dbpedia.org/resource/Lambro
+
+
+Лан (река)	http://dbpedia.org/resource/Lahn
+
+
+Ландвассер (река)	http://dbpedia.org/resource/Landwasser_(river)
+
+
+Ландербах	http://dbpedia.org/resource/Landerbach
+
+
+Лантерн	http://dbpedia.org/resource/Lanterne_river
+
+
+Ланценбах	http://dbpedia.org/resource/Lanzenbach_(Weißach)
+
+
+Лань (река)	http://dbpedia.org/resource/Lan_River
+
+
+Ларами (река)	http://dbpedia.org/resource/Laramie_River
+
+
+Ларрис-Крик	http://dbpedia.org/resource/Larrys_Creek
+
+
+Латорица	http://dbpedia.org/resource/Latorica
+
+
+Латроп	http://dbpedia.org/resource/Latrop_(Lenne)
+
+
+Лаубах (приток Веттера)	http://dbpedia.org/resource/Laubach_(Wetter)
+
+
+Лаутенбах (приток Аблаха)	http://dbpedia.org/resource/Lautenbach_(Ablach)
+
+
+Лаутенбах (приток Линцер-Аха)	http://dbpedia.org/resource/Lautenbach_(Linzer_Aach)
+
+
+Лаутер (верхний приток Рейна)	http://dbpedia.org/resource/Lauter_(Rhine)
+
+
+лаутер верхний приток Рейна,,	Lauter_(Rhine)
+Лаутер (нижний приток Рейна)	http://dbpedia.org/resource/Lauter_(Odenwald)
+
+
+лаутер нижний приток Рейна,,	Lauter_(Odenwald)
+Лаутер (приток Блау)	http://dbpedia.org/resource/Lauter_(Blau)
+
+
+Лаутер (приток Веттера)	http://dbpedia.org/resource/Lauter_(Wetter)
+
+
+Лаутер (приток Имонта)	http://dbpedia.org/resource/River_Lowther
+
+
+Лаутер (приток Неккара)	http://dbpedia.org/resource/Lauter_(Neckar)
+
+
+Лаутер (приток Фильса)	http://dbpedia.org/resource/Lauter_(Fils)
+
+
+Лауфах (река)	http://dbpedia.org/resource/Laufach_(river)
+
+
+Лауэр	http://dbpedia.org/resource/Lauer_(river)
+
+
+Лашва	http://dbpedia.org/resource/Lašva
+
+
+Ле	http://dbpedia.org/resource/Lee_(Vechte)
+
+
+Леба (река)	http://dbpedia.org/resource/Łeba_(river)
+
+
+Левуо	http://dbpedia.org/resource/Lėvuo
+
+
+Ледь	http://dbpedia.org/resource/Led_River
+
+
+Лежа (река)	http://dbpedia.org/resource/Lezha_River
+
+
+Леккнер-Ах	http://dbpedia.org/resource/Leckner_Ach
+
+
+Лель (приток Чёрной)	http://dbpedia.org/resource/Lel_River
+
+
+Лембах (река)	http://dbpedia.org/resource/Lembach_(Schwalm)
+
+
+Лемон (река)	http://dbpedia.org/resource/River_Lemon
+
+
+Лемп	http://dbpedia.org/resource/Lemp_(Dill)
+
+
+Лемпе	http://dbpedia.org/resource/Lempe
+
+
+Ленне (приток Рура)	http://dbpedia.org/resource/Lenne
+
+
+Лепенац	http://dbpedia.org/resource/Lepenac
+
+
+Лепона	http://dbpedia.org/resource/Liepona
+
+
+Леппе	http://dbpedia.org/resource/Leppe
+
+
+Лепсы (река)	http://dbpedia.org/resource/Lepsy_River
+
+
+Лер (река)	http://dbpedia.org/resource/Leyre_(river)
+
+
+Лерма (река)	http://dbpedia.org/resource/Lerma_River
+
+
+Лес (приток Мааса)	http://dbpedia.org/resource/Lesse
+
+
+Летавка	http://dbpedia.org/resource/Lietauka
+
+
+Лех (река)	http://dbpedia.org/resource/Lech_(river)
+
+
+Лжа	http://dbpedia.org/resource/Ludza_River
+
+
+Ли (приток Темзы)	http://dbpedia.org/resource/River_Lea
+
+
+Ли (река, Ирландия)	http://dbpedia.org/resource/River_Lee
+
+
+Лидербах (приток Майна)	http://dbpedia.org/resource/Liederbach_(Main)
+
+
+Лиелупе	http://dbpedia.org/resource/Lielupe
+
+
+Лизе	http://dbpedia.org/resource/Liese_(river)
+
+
+Лизер (река)	http://dbpedia.org/resource/Lieser_(river)
+
+
+Ликинг (приток Маскингума)	http://dbpedia.org/resource/Licking_River_(Ohio)
+
+
+Ликинг (река)	http://dbpedia.org/resource/Licking_River_(Kentucky)
+
+
+Лиллах	http://dbpedia.org/resource/Lillach
+
+
+Лим	http://dbpedia.org/resource/Lim_(river)
+
+
+Лимай	http://dbpedia.org/resource/Limay_River
+
+
+Лимари (река)	http://dbpedia.org/resource/Limarí_River
+
+
+Лиммат	http://dbpedia.org/resource/Limmat_(river)
+
+
+Линдах	http://dbpedia.org/resource/Lindach
+
+
+Линде (река)	http://dbpedia.org/resource/Linde_River
+
+
+Линдларер-Зюльц	http://dbpedia.org/resource/Lindlarer_Sülz
+
+
+Линклойер-Бах	http://dbpedia.org/resource/Linkläuer_Bach
+
+
+Линненбеке	http://dbpedia.org/resource/Linnenbeeke
+
+
+Линнепе	http://dbpedia.org/resource/Linnepe_(Röhr)
+
+
+Линсфербах	http://dbpedia.org/resource/Linspherbach
+
+
+Линт	http://dbpedia.org/resource/Linth
+
+
+Липпе (река)	http://dbpedia.org/resource/Lippe_(river)
+
+
+Липпингхаузер-Бах	http://dbpedia.org/resource/Lippinghauser_Bach
+
+
+Лирбах	http://dbpedia.org/resource/Lierbach
+
+
+Лири (река)	http://dbpedia.org/resource/Liri
+
+
+Лис (река)	http://dbpedia.org/resource/Leie
+
+
+Лисварта	http://dbpedia.org/resource/Liswarta
+
+
+Листер (река)	http://dbpedia.org/resource/Lister_(river)
+
+
+Литл-Бигхорн	http://dbpedia.org/resource/Little_Bighorn_River
+
+
+Литл-Канова	http://dbpedia.org/resource/Little_Kanawha_River
+
+
+Литл-Колорадо	http://dbpedia.org/resource/Little_Colorado_River
+
+
+Литл-Майами	http://dbpedia.org/resource/Little_Miami_River
+
+
+Литл-Маскингум	http://dbpedia.org/resource/Little_Muskingum_River
+
+
+Литл-Сайото	http://dbpedia.org/resource/Little_Scioto_River_(Ohio_River)
+
+
+Литл-Саскачеван	http://dbpedia.org/resource/Little_Saskatchewan_River
+
+
+Литл-Снейк	http://dbpedia.org/resource/Little_Snake_River
+
+
+Литл-Теннесси	http://dbpedia.org/resource/Little_Tennessee_River
+
+
+Литтфе	http://dbpedia.org/resource/Littfe
+
+
+Лиффи	http://dbpedia.org/resource/River_Liffey
+
+
+Лихте (река)	http://dbpedia.org/resource/Lichte_(river)
+
+
+Лихтебах	http://dbpedia.org/resource/Lichtebach
+
+
+Ло (река)	http://dbpedia.org/resource/Lot_(river)
+
+
+Лоа (река)	http://dbpedia.org/resource/Loa_River
+
+
+Лобах (приток Вуппера)	http://dbpedia.org/resource/Lohbach_(Wupper)
+
+
+Лобах (приток Эшбаха)	http://dbpedia.org/resource/Lobach_(Eschbach)
+
+
+Лоббах (река)	http://dbpedia.org/resource/Lobbach_(Elsenz)
+
+
+Ловать	http://dbpedia.org/resource/Lovat_River
+
+
+Логен	http://dbpedia.org/resource/Numedalslågen
+
+
+Лодденбах	http://dbpedia.org/resource/Loddenbach
+
+
+Лойзах	http://dbpedia.org/resource/Loisach
+
+
+Лойкбах	http://dbpedia.org/resource/Leukbach
+
+
+Лойкзенбах	http://dbpedia.org/resource/Leuchsenbach
+
+
+Лойнсбах	http://dbpedia.org/resource/Läunsbach
+
+
+Локня (приток Ловати)	http://dbpedia.org/resource/Loknya_River
+
+
+Ломбах (приток Аггера)	http://dbpedia.org/resource/Lombach_(Agger)
+
+
+Лообу (река)	http://dbpedia.org/resource/Loobu_(river)
+
+
+Лопебах	http://dbpedia.org/resource/Loopebach
+
+
+Лопер-Бах	http://dbpedia.org/resource/Loper_Bach
+
+
+Лор (река)	http://dbpedia.org/resource/Lohr_(river)
+
+
+Лорбах (приток Аубаха)	http://dbpedia.org/resource/Lohrbach_(Heigenbrücken)
+
+
+Лорел-Форк	http://dbpedia.org/resource/Laurel_Fork_(Cheat_River)
+
+
+Лос-Анджелес (река)	http://dbpedia.org/resource/Los_Angeles_River
+
+
+Лоссе (река)	http://dbpedia.org/resource/Losse_(river)
+
+
+Лотта	http://dbpedia.org/resource/Lutto_(river)
+
+
+Лоттенбах	http://dbpedia.org/resource/Lottenbach
+
+
+Лофа (река)	http://dbpedia.org/resource/Lofa_River
+
+
+Луар	http://dbpedia.org/resource/Loir
+
+
+Луара	http://dbpedia.org/resource/Loire
+
+
+Лувуа (река)	http://dbpedia.org/resource/Luvua_River
+
+
+Луга (река)	http://dbpedia.org/resource/Luga_River
+
+
+Лугань	http://dbpedia.org/resource/Luhan_River
+
+
+Лудербах	http://dbpedia.org/resource/Luderbach
+
+
+Луза (река)	http://dbpedia.org/resource/Luza_River
+
+
+Лукуга	http://dbpedia.org/resource/Lukuga_River
+
+
+Лулонга	http://dbpedia.org/resource/Lulonga_River
+
+
+Лумда	http://dbpedia.org/resource/Lumda_(river)
+
+
+Луттер (приток А)	http://dbpedia.org/resource/Lutter_(Aa)
+
+
+Луттер (приток Лахте)	http://dbpedia.org/resource/Lutter_(Lachte)
+
+
+Луттер (приток Шунтера)	http://dbpedia.org/resource/Lutter_(Schunter)
+
+
+Луттер (приток Эмса)	http://dbpedia.org/resource/Lutter_(Ems)
+
+
+Луэн (река)	http://dbpedia.org/resource/Loing
+
+
+Лхаса (река)	http://dbpedia.org/resource/Lhasa_River
+
+
+Лыбедь (приток Днепра)	http://dbpedia.org/resource/Lybid_River
+
+
+Лызовка	http://dbpedia.org/resource/Lyzovka_River
+
+
+Лыпья (приток Вишеры)	http://dbpedia.org/resource/Lypiya_River
+
+
+Льобрегат	http://dbpedia.org/resource/Llobregat
+
+
+Льюис (приток Снейка)	http://dbpedia.org/resource/Lewis_River_(Wyoming)
+
+
+Льюта	http://dbpedia.org/resource/Lluta_River
+
+
+Льянкиуэ (река)	http://dbpedia.org/resource/Llanquihue_River
+
+
+Любляница	http://dbpedia.org/resource/Ljubljanica
+
+
+Людер (река)	http://dbpedia.org/resource/Lüder_(river)
+
+
+Люи (река)	http://dbpedia.org/resource/Luy
+
+
+Люсбах	http://dbpedia.org/resource/Lüßbach
+
+
+Люттер	http://dbpedia.org/resource/Lütter
+
+
+Люцзян	http://dbpedia.org/resource/Liu_River
+
+
+Лямин (река)	http://dbpedia.org/resource/Lyamin_River
+
+
+Ляпин (река)	http://dbpedia.org/resource/Lyapin_River
+
+
+Лёнер-Шульбах	http://dbpedia.org/resource/Löhner_Schulbach
+
+
+Лёрмекке	http://dbpedia.org/resource/Lörmecke
+
+
+Маас	http://dbpedia.org/resource/Meuse_(river)
+
+
+Магра	http://dbpedia.org/resource/Magra_(river)
+
+
+Мадисон (река)	http://dbpedia.org/resource/Madison_River
+
+
+Мадон (река)	http://dbpedia.org/resource/Madon
+
+
+Майами-Ривер	http://dbpedia.org/resource/Great_Miami_River
+
+
+Майенн (река)	http://dbpedia.org/resource/Mayenne_(river)
+
+
+Майзингер-Бах	http://dbpedia.org/resource/Maisinger_Bach
+
+
+Майн (приток Рейна)	http://dbpedia.org/resource/Main_(river)
+
+
+Макаль	http://dbpedia.org/resource/Macal_River
+
+
+Малая Кокшага	http://dbpedia.org/resource/Malaya_Kokshaga_River
+
+
+Малая Соль	http://dbpedia.org/resource/Malaya_Sol_River
+
+
+Мали (река)	http://dbpedia.org/resource/Mali_River
+
+
+Малиновка (приток Большой Уссурки)	http://dbpedia.org/resource/Malinovka_River_(Primorsky_Krai)
+
+
+Малше	http://dbpedia.org/resource/Malše
+
+
+Малый Ашап (река)	http://dbpedia.org/resource/Maly_Ashap_River
+
+
+Малый Дюссель	http://dbpedia.org/resource/Kleine_Düssel
+
+
+Малый Иргиз	http://dbpedia.org/resource/Maly_Irgiz_River
+
+
+Малый Куб	http://dbpedia.org/resource/Maly_Kub_River
+
+
+Малый Кундыш	http://dbpedia.org/resource/Maly_Kundysh_River
+
+
+Малый Лип	http://dbpedia.org/resource/Maly_Lip_River
+
+
+Малый Мендерес	http://dbpedia.org/resource/Küçükmenderes_River
+
+
+Малый Чабис	http://dbpedia.org/resource/Maly_Chabes_River
+
+
+Малый Черемшан	http://dbpedia.org/resource/Maly_Cheremshan_River
+
+
+Мальбергбах	http://dbpedia.org/resource/Mahlbergbach
+
+
+Мальксе	http://dbpedia.org/resource/Malxe
+
+
+Мама (река)	http://dbpedia.org/resource/Mama_River
+
+
+Мамер (река)	http://dbpedia.org/resource/Mamer_(river)
+
+
+Мамоновка (река, впадает в Балтийское море)	http://dbpedia.org/resource/Mamonovka
+
+
+Мамфлас	http://dbpedia.org/resource/Manflas_River
+
+
+Манас (приток Брахмапутры)	http://dbpedia.org/resource/Manas_River
+
+
+Маныч	http://dbpedia.org/resource/Manych_River
+
+
+Марано	http://dbpedia.org/resource/Marano_(river)
+
+
+Марджери (река)	http://dbpedia.org/resource/Margaree_River
+
+
+Марица (река)	http://dbpedia.org/resource/Maritsa
+
+
+Маркбах	http://dbpedia.org/resource/Markbach_(Else)
+
+
+Марна (река)	http://dbpedia.org/resource/Marne_(river)
+
+
+Марош	http://dbpedia.org/resource/Mureș_River
+
+
+Марпе	http://dbpedia.org/resource/Marpe_(Salwey)
+
+
+Марха (приток Лены)	http://dbpedia.org/resource/Markha_River_(Lena)
+
+
+Мас (река)	http://dbpedia.org/resource/Maß_(Lauer)
+
+
+Маскингум	http://dbpedia.org/resource/Muskingum_River
+
+
+Масселшелл	http://dbpedia.org/resource/Musselshell_River
+
+
+Матаура	http://dbpedia.org/resource/Mataura_River
+
+
+Маулах	http://dbpedia.org/resource/Maulach
+
+
+Мауле (река)	http://dbpedia.org/resource/Maule_River
+
+
+Маульин (река)	http://dbpedia.org/resource/Maullín_River
+
+
+Махавели	http://dbpedia.org/resource/Mahaweli_River
+
+
+Махонинг	http://dbpedia.org/resource/Mahoning_River
+
+
+Мая (приток Алдана)	http://dbpedia.org/resource/Maya_River
+
+
+Мга (река)	http://dbpedia.org/resource/Mga_River
+
+
+Медведица (приток Волги)	http://dbpedia.org/resource/Medveditsa_River_(Volga_basin)
+
+
+Медведица (приток Дона)	http://dbpedia.org/resource/Medveditsa_River_(Don_basin)
+
+
+Медебах (река)	http://dbpedia.org/resource/Medebach_(Orke)
+
+
+Медем (река)	http://dbpedia.org/resource/Medem
+
+
+Меджерда	http://dbpedia.org/resource/Medjerda_River
+
+
+Медуэй (река)	http://dbpedia.org/resource/River_Medway
+
+
+Межа (приток Западной Двины)	http://dbpedia.org/resource/Mezha_River_(Western_Dvina)
+
+
+Мезенская Пижма	http://dbpedia.org/resource/Mezenskaya_Pizhma_River
+
+
+Мезень (река)	http://dbpedia.org/resource/Mezen_River
+
+
+Мелеча (река)	http://dbpedia.org/resource/Melecha_River
+
+
+Мельббах	http://dbpedia.org/resource/Melbbach
+
+
+Мемеле	http://dbpedia.org/resource/Nemunėlis
+
+
+Меммингер-Ах	http://dbpedia.org/resource/Memminger_Aach
+
+
+Мен (река)	http://dbpedia.org/resource/Maine_(river)
+
+
+Мензеля	http://dbpedia.org/resource/Menzelya_River
+
+
+Менкебах	http://dbpedia.org/resource/Menkebach
+
+
+Мергбах	http://dbpedia.org/resource/Mergbach
+
+
+Меркенфритцербах	http://dbpedia.org/resource/Merkenfritzerbach
+
+
+Мерсед (река)	http://dbpedia.org/resource/Merced_River
+
+
+Мерси (река)	http://dbpedia.org/resource/River_Mersey
+
+
+Мерцбах (приток Рура)	http://dbpedia.org/resource/Merzbach
+
+
+Мерчисон (река)	http://dbpedia.org/resource/Murchison_River_(Western_Australia)
+
+
+Мес	http://dbpedia.org/resource/Mess_(river)
+
+
+Мессояха	http://dbpedia.org/resource/Messoyakha_River
+
+
+Места	http://dbpedia.org/resource/Nestos_(river)
+
+
+Мета (река)	http://dbpedia.org/resource/Meta_River
+
+
+Метауро	http://dbpedia.org/resource/Metauro
+
+
+Меттер	http://dbpedia.org/resource/Metter_(river)
+
+
+Меттма	http://dbpedia.org/resource/Mettma
+
+
+Метуе	http://dbpedia.org/resource/Metuje
+
+
+Мехреньга	http://dbpedia.org/resource/Mekhrenga_River
+
+
+Меэ	http://dbpedia.org/resource/Mehe
+
+
+Мзымта	http://dbpedia.org/resource/Mzymta_River
+
+
+Мильц (река)	http://dbpedia.org/resource/Milz_(river)
+
+
+Миляцка	http://dbpedia.org/resource/Miljacka
+
+
+Миния	http://dbpedia.org/resource/Minija
+
+
+Минчо	http://dbpedia.org/resource/Mincio
+
+
+Миньцзян (приток Янцзы)	http://dbpedia.org/resource/Min_River_(Sichuan)
+
+
+Мира (река)	http://dbpedia.org/resource/Mira_River_(Portugal)
+
+
+Миркер-Бах	http://dbpedia.org/resource/Hohenhager_Bach
+
+
+Миса (река)	http://dbpedia.org/resource/Misa_(river_in_Latvia)
+
+
+Миссисипи (приток Оттавы)	http://dbpedia.org/resource/Mississippi_River_(Ontario)
+
+
+Миссури (река)	http://dbpedia.org/resource/Missouri_River
+
+
+Мистель	http://dbpedia.org/resource/Mistel_(Red_Main)
+
+
+Митбах	http://dbpedia.org/resource/Mitbach
+
+
+Миттельбах	http://dbpedia.org/resource/Mittelbach_(Werre)
+
+
+Миттельрадде	http://dbpedia.org/resource/Mittelradde
+
+
+Миттлере-Эбрах	http://dbpedia.org/resource/Mittlere_Ebrach
+
+
+Митува	http://dbpedia.org/resource/Mituva
+
+
+Михельбах (приток Нидды)	http://dbpedia.org/resource/Michelbach_(Nidda)
+
+
+Михельбах (приток Узы)	http://dbpedia.org/resource/Michelbach_(Usa)
+
+
+Могоча (приток Осени)	http://dbpedia.org/resource/Mogocha_River
+
+
+Модау	http://dbpedia.org/resource/Modau
+
+
+Мозелот	http://dbpedia.org/resource/Moselotte
+
+
+Мозель	http://dbpedia.org/resource/Moselle
+
+
+Мойва (приток Вишеры)	http://dbpedia.org/resource/Moyva_River
+
+
+Мойи (река)	http://dbpedia.org/resource/Moyie_River
+
+
+Молмыс (река)	http://dbpedia.org/resource/Molmys_River
+
+
+Молодо	http://dbpedia.org/resource/Molodo_River
+
+
+Молочная (река)	http://dbpedia.org/resource/Molochna_River
+
+
+Молсэльва	http://dbpedia.org/resource/Målselva
+
+
+Молчадь (река)	http://dbpedia.org/resource/Molchad_River
+
+
+Молёбка (приток Асовки)	http://dbpedia.org/resource/Molyobka_River_(Asovka_River)
+
+
+Моми (река)	http://dbpedia.org/resource/Maumee_River
+
+
+Монокаси	http://dbpedia.org/resource/Monocacy_River
+
+
+Мононгахила	http://dbpedia.org/resource/Monongahela_River
+
+
+Мопан	http://dbpedia.org/resource/Mopan_River
+
+
+морава верхний приток Дуная,австрия,	Morava_(river)
+Морава (нижний приток Дуная)	http://dbpedia.org/resource/Great_Morava
+
+
+морава нижний приток Дуная,,	Great_Morava
+Моравица	http://dbpedia.org/resource/Golijska_Moravica
+
+
+Моравице	http://dbpedia.org/resource/Moravice_(river)
+
+
+Моравска-Дие	http://dbpedia.org/resource/Moravian_Thaya
+
+
+Морбах (приток Бевера)	http://dbpedia.org/resource/Moorbach_(Bever)
+
+
+Морбах (приток Верфенер-Баха)	http://dbpedia.org/resource/Moorbach_(Werfener_Bach)
+
+
+Моркока	http://dbpedia.org/resource/Morkoka_River
+
+
+Морсбах (приток Вуппера)	http://dbpedia.org/resource/Morsbach_(Wupper)
+
+
+Мостербах	http://dbpedia.org/resource/Moosterbach
+
+
+Мотлава	http://dbpedia.org/resource/Motława
+
+
+Мохикан	http://dbpedia.org/resource/Mohican_River
+
+
+Мохок (река)	http://dbpedia.org/resource/Mohawk_River
+
+
+Моченбах	http://dbpedia.org/resource/Motschenbach
+
+
+Моша	http://dbpedia.org/resource/Mosha_River
+
+
+Мста	http://dbpedia.org/resource/Msta_River
+
+
+Муд (река)	http://dbpedia.org/resource/Mud_(river)
+
+
+Мудыль	http://dbpedia.org/resource/Mudyl_River
+
+
+Мулуя	http://dbpedia.org/resource/Moulouya_River
+
+
+Мульде	http://dbpedia.org/resource/Mulde
+
+
+Мулянка (река)	http://dbpedia.org/resource/Mulyanka_River
+
+
+Мундо (река)	http://dbpedia.org/resource/Mundo_(river)
+
+
+Мура (приток Ангары)	http://dbpedia.org/resource/Mura_River_(Angara)
+
+
+Мура (приток Дравы)	http://dbpedia.org/resource/Mur_(river)
+
+
+Мурат (река)	http://dbpedia.org/resource/Murat_River
+
+
+Мурбах	http://dbpedia.org/resource/Murbach_(Wupper)
+
+
+Мург (верхний приток Рейна)	http://dbpedia.org/resource/Murg_(Southern_Black_Forest)
+
+
+мург верхний приток Рейна,,	Murg_(Southern_Black_Forest)
+мург нижний приток Рейна,германия,	Murg_(Northern_Black_Forest)
+Мурн (река)	http://dbpedia.org/resource/River_Mourne
+
+
+Муррей (река)	http://dbpedia.org/resource/Murray_River
+
+
+Мус (река, впадает в Гудзонов залив)	http://dbpedia.org/resource/Moose_River_(Ontario)
+
+
+Муса (река)	http://dbpedia.org/resource/Mūša
+
+
+Мусбах	http://dbpedia.org/resource/Mußbach
+
+
+Мухавец	http://dbpedia.org/resource/Mukhavets_River
+
+
+Муцбах	http://dbpedia.org/resource/Mutzbach
+
+
+Мыка (приток Улса)	http://dbpedia.org/resource/Myka_River
+
+
+Мэри (река)	http://dbpedia.org/resource/Mary_River_(Queensland)
+
+
+Мэрэб	http://dbpedia.org/resource/Mareb_River
+
+
+Мюленбах (приток Верре)	http://dbpedia.org/resource/Mühlenbach_(Werre)
+
+
+Мюленбах (приток Эггеля)	http://dbpedia.org/resource/Mühlenbach_(Eggel)
+
+
+Мюльбах (приток Шварцбаха)	http://dbpedia.org/resource/Mühlbach_(Schwarzbach)
+
+
+Мюльмиш	http://dbpedia.org/resource/Mülmisch
+
+
+Мюрц	http://dbpedia.org/resource/Mürz
+
+
+Мяркис	http://dbpedia.org/resource/Merkys
+
+
+Мёлин (приток Рейна)	http://dbpedia.org/resource/Möhlin_(Rhine)
+
+
+Мёне	http://dbpedia.org/resource/Möhne
+
+
+Мёрт	http://dbpedia.org/resource/Meurthe_(river)
+
+
+Мёша	http://dbpedia.org/resource/Myosha_River
+
+
+Наб	http://dbpedia.org/resource/Naab
+
+
+Набесна (река)	http://dbpedia.org/resource/Nabesna_River
+
+
+Навахо (река)	http://dbpedia.org/resource/Navajo_River
+
+
+Навести	http://dbpedia.org/resource/Navesti_(river)
+
+
+Нагара (река)	http://dbpedia.org/resource/Nagara_River
+
+
+Нагольд (река)	http://dbpedia.org/resource/Nagold_(river)
+
+
+Найобрэра (река)	http://dbpedia.org/resource/Niobrara_River
+
+
+Найфер-Бах	http://dbpedia.org/resource/Naifer_Bach
+
+
+Накнек (река)	http://dbpedia.org/resource/Naknek_River
+
+
+Наменлозе	http://dbpedia.org/resource/Namenlose
+
+
+Намербах	http://dbpedia.org/resource/Nahmerbach
+
+
+Наникен	http://dbpedia.org/resource/Naniken_River
+
+
+Нантикок (река)	http://dbpedia.org/resource/Nanticoke_River
+
+
+Нанук (река, Виктория)	http://dbpedia.org/resource/Nanook_River
+
+
+Напа (река)	http://dbpedia.org/resource/Napa_River
+
+
+Напте	http://dbpedia.org/resource/Napte
+
+
+Нарочь (река)	http://dbpedia.org/resource/Narach_River
+
+
+Нарым (река)	http://dbpedia.org/resource/Narym_River
+
+
+Нассах	http://dbpedia.org/resource/Nassach_(Main)
+
+
+Нафбах	http://dbpedia.org/resource/Naafbach
+
+
+Наэ (река)	http://dbpedia.org/resource/Nahe_(river)
+
+
+Небель (река)	http://dbpedia.org/resource/Nebel_(river)
+
+
+Невольничья	http://dbpedia.org/resource/Slave_River
+
+
+Негер (приток Бике)	http://dbpedia.org/resource/Neger_(Bieke)
+
+
+Негер (приток Рура)	http://dbpedia.org/resource/Neger_(Ruhr)
+
+
+Недеррейн	http://dbpedia.org/resource/Nederrijn
+
+
+Нежарка	http://dbpedia.org/resource/Nežárka
+
+
+Неккар	http://dbpedia.org/resource/Neckar
+
+
+Нельсон (река)	http://dbpedia.org/resource/Nelson_River
+
+
+Нельтуме (река)	http://dbpedia.org/resource/Neltume_River
+
+
+Неман	http://dbpedia.org/resource/Neman_(river)
+
+
+Немнюга (приток Кулоя)	http://dbpedia.org/resource/Nemnyuga_River
+
+
+Непа (река)	http://dbpedia.org/resource/Nepa_River
+
+
+Непонсет (река)	http://dbpedia.org/resource/Neponset_River
+
+
+Нера (приток Тибра)	http://dbpedia.org/resource/Nera_(Italy)
+
+
+Нердар	http://dbpedia.org/resource/Neerdar_(Wilde_Aa)
+
+
+Неретва	http://dbpedia.org/resource/Neretva
+
+
+Нерль (приток Волги)	http://dbpedia.org/resource/Nerl_River_(Volga)
+
+
+Несс	http://dbpedia.org/resource/River_Ness
+
+
+Нестукка (река)	http://dbpedia.org/resource/Nestucca_River
+
+
+Нете	http://dbpedia.org/resource/Nethe
+
+
+Нетте (приток Ленне)	http://dbpedia.org/resource/Nette_(Lenne)
+
+
+Нетте (приток Рейна)	http://dbpedia.org/resource/Nette_(Rhine)
+
+
+Нетфе	http://dbpedia.org/resource/Netphe
+
+
+Нетце (приток Эдера)	http://dbpedia.org/resource/Netze_(Eder)
+
+
+Неффельбах	http://dbpedia.org/resource/Neffelbach
+
+
+Ниагара	http://dbpedia.org/resource/Niagara_River
+
+
+Нид (река)	http://dbpedia.org/resource/Nied
+
+
+Нидда (река)	http://dbpedia.org/resource/Nidda_(river)
+
+
+Нидэльва (река, впадает в Норвежское море)	http://dbpedia.org/resource/Nidelva
+
+
+Нидэльва (река, впадает в Северное море)	http://dbpedia.org/resource/Nidelva_(Aust-Agder)
+
+
+Нижняя Тойма	http://dbpedia.org/resource/Nizhnyaya_Toyma_River
+
+
+Низе	http://dbpedia.org/resource/Niese_(Emmer)
+
+
+Низьва	http://dbpedia.org/resource/Nizva_River
+
+
+Ниме	http://dbpedia.org/resource/Nieme
+
+
+Нимс	http://dbpedia.org/resource/Nims_(river)
+
+
+Ниолс	http://dbpedia.org/resource/Niols_River
+
+
+Нирбах	http://dbpedia.org/resource/Neismecke
+
+
+Нирс	http://dbpedia.org/resource/Niers
+
+
+Нисте (река)	http://dbpedia.org/resource/Nieste_(river)
+
+
+Нистер (река)	http://dbpedia.org/resource/Nister_(river)
+
+
+Нит (река, впадает в Ирландское море)	http://dbpedia.org/resource/River_Nith
+
+
+Ниуклук	http://dbpedia.org/resource/Niukluk_River
+
+
+Нишава	http://dbpedia.org/resource/Nišava
+
+
+Ноатак (река)	http://dbpedia.org/resource/Noatak_River
+
+
+Новитна (река)	http://dbpedia.org/resource/Nowitna_River
+
+
+Нойенхагенер-Мюленфлис	http://dbpedia.org/resource/Neuenhagener_Mühlenfließ
+
+
+Ноймаген	http://dbpedia.org/resource/Neumagen
+
+
+Ном (река)	http://dbpedia.org/resource/Nome_River
+
+
+Нор (река)	http://dbpedia.org/resource/River_Nore
+
+
+Нордзе-канал	http://dbpedia.org/resource/North_Sea_Canal
+
+
+Норренбергер-Бах	http://dbpedia.org/resource/Norrenberger_Bach
+
+
+Норт-Саскачеван	http://dbpedia.org/resource/North_Saskatchewan_River
+
+
+Носка	http://dbpedia.org/resource/Noska
+
+
+Нун (река)	http://dbpedia.org/resource/Nun_River
+
+
+Нуне	http://dbpedia.org/resource/Nuhne
+
+
+Нурец (река)	http://dbpedia.org/resource/Nurzec
+
+
+Нуте	http://dbpedia.org/resource/Nuthe
+
+
+Нушагак	http://dbpedia.org/resource/Nushagak_River
+
+
+Ньиве-Маас	http://dbpedia.org/resource/Nieuwe_Maas
+
+
+Нью-Ривер (впадает в Солтон-Си)	http://dbpedia.org/resource/New_River_(Mexico–United_States)
+
+
+нью-ривер впадает в Солтон-Си,,	New_River_(Mexico–United_States)
+Нью-Ривер (приток Кановы)	http://dbpedia.org/resource/New_River_(Kanawha_River)
+
+
+Нюзим	http://dbpedia.org/resource/Nyuzim_River
+
+
+Нюролька	http://dbpedia.org/resource/Nyurolka_River
+
+
+Нявежис	http://dbpedia.org/resource/Nevėžis_(river)
+
+
+Няризь (приток Колвы)	http://dbpedia.org/resource/Nyariz_River
+
+
+Нёлленбергер-Бах	http://dbpedia.org/resource/Nöllenberger_Bach
+
+
+Нёне (река)	http://dbpedia.org/resource/Neuné
+
+
+Об (река)	http://dbpedia.org/resource/Aube_(river)
+
+
+Обва	http://dbpedia.org/resource/Obva_River
+
+
+Обводный канал	http://dbpedia.org/resource/Obvodny_Canal
+
+
+Обербек	http://dbpedia.org/resource/Oberbek
+
+
+Обере-Арген	http://dbpedia.org/resource/Obere_Argen
+
+
+Обша	http://dbpedia.org/resource/Obsha_River
+
+
+Огове	http://dbpedia.org/resource/Ogooué_River
+
+
+Огрже	http://dbpedia.org/resource/Ohře
+
+
+Од (река)	http://dbpedia.org/resource/Aude_(river)
+
+
+Одеборн	http://dbpedia.org/resource/Odeborn
+
+
+Оделока	http://dbpedia.org/resource/Odelouca_River
+
+
+Оденсе-О	http://dbpedia.org/resource/Odense_River
+
+
+Одьель	http://dbpedia.org/resource/Odiel
+
+
+Оирасэ (река)	http://dbpedia.org/resource/Oirase_River
+
+
+Ока	http://dbpedia.org/resource/Oka_River
+
+
+Ока (приток Ангары)	http://dbpedia.org/resource/Oka_River_(Siberia)
+
+
+Окер	http://dbpedia.org/resource/Oker
+
+
+Оккервиль	http://dbpedia.org/resource/Okkervil_River_(Neva_basin)
+
+
+Окмалги (река)	http://dbpedia.org/resource/Ocmulgee_River
+
+
+Олдмен	http://dbpedia.org/resource/Oldman_River
+
+
+Олеф (река)	http://dbpedia.org/resource/Olef
+
+
+Олимар-Гранде	http://dbpedia.org/resource/Olimar_Grande_River
+
+
+Оллигсбах	http://dbpedia.org/resource/Olligsbach
+
+
+Олона (река)	http://dbpedia.org/resource/Olona
+
+
+Олше	http://dbpedia.org/resource/Olza_(river)
+
+
+Ольмес	http://dbpedia.org/resource/Olmes
+
+
+Ольо	http://dbpedia.org/resource/Oglio
+
+
+Ольпе (приток Бигге)	http://dbpedia.org/resource/Olpe_(Bigge)
+
+
+Ольпе (приток Хундема)	http://dbpedia.org/resource/Olpe_(Hundem)
+
+
+Ом (река)	http://dbpedia.org/resource/Ohm_(river)
+
+
+Омброне (река)	http://dbpedia.org/resource/Ombrone
+
+
+Омербах	http://dbpedia.org/resource/Omerbach
+
+
+Омерсбах (река)	http://dbpedia.org/resource/Omersbach
+
+
+Омоно	http://dbpedia.org/resource/Omono_River
+
+
+Омулёвка	http://dbpedia.org/resource/Omulyovka_River
+
+
+Он (река)	http://dbpedia.org/resource/Aulne
+
+
+Ондава	http://dbpedia.org/resource/Ondava
+
+
+Онега (река)	http://dbpedia.org/resource/Onega_River
+
+
+Оникс (река)	http://dbpedia.org/resource/Onyx_River
+
+
+Оньон (приток Соны)	http://dbpedia.org/resource/Ognon_(Franche-Comté)
+
+
+Опава (река)	http://dbpedia.org/resource/Opava_(river)
+
+
+Опон	http://dbpedia.org/resource/Opon_River
+
+
+Ора (приток Унструта)	http://dbpedia.org/resource/Ohra_(river)
+
+
+Орб (приток Кинцига)	http://dbpedia.org/resource/Orb_(Kinzig)
+
+
+Орб (река, впадает в Средиземное море)	http://dbpedia.org/resource/Orb_(river)
+
+
+Орд (река)	http://dbpedia.org/resource/Ord_River
+
+
+Оре (река)	http://dbpedia.org/resource/Ohre
+
+
+Оредеж (река)	http://dbpedia.org/resource/Oredezh_River
+
+
+Орель (река)	http://dbpedia.org/resource/Oril
+
+
+Орке	http://dbpedia.org/resource/Orke
+
+
+Оркла (река)	http://dbpedia.org/resource/Orkla_(river)
+
+
+Орн (приток Кохера)	http://dbpedia.org/resource/Ohrn
+
+
+Орн (река, впадает в Ла-Манш)	http://dbpedia.org/resource/Orne_(river)
+
+
+Орна (приток Мозеля)	http://dbpedia.org/resource/Orne_(Moselle)
+
+
+Орнен (река)	http://dbpedia.org/resource/Ornain
+
+
+Орпе	http://dbpedia.org/resource/Orpe
+
+
+Ос (река)	http://dbpedia.org/resource/Oos_(river)
+
+
+Осень (река)	http://dbpedia.org/resource/Osen_River
+
+
+Оскуя	http://dbpedia.org/resource/Oskuya_River
+
+
+Ослава (река)	http://dbpedia.org/resource/Oslava
+
+
+Особлага (река)	http://dbpedia.org/resource/Osobłoga
+
+
+Остбах (приток Эльзе)	http://dbpedia.org/resource/Ostbach_(Else)
+
+
+Осте (река)	http://dbpedia.org/resource/Oste
+
+
+Остер (ручей)	http://dbpedia.org/resource/Oster_(Blies)
+
+
+Остербах (приток Гершпренца)	http://dbpedia.org/resource/Osterbach_(Gersprenz)
+
+
+Остшайдер-Бах	http://dbpedia.org/resource/Ostscheider_Bach
+
+
+Остёр (приток Десны)	http://dbpedia.org/resource/Oster_River
+
+
+Осуга (приток Вазузы)	http://dbpedia.org/resource/Osuga_River_(Vazuza)
+
+
+Осуга (приток Тверцы)	http://dbpedia.org/resource/Osuga_River_(Tvertsa)
+
+
+Осым	http://dbpedia.org/resource/Osam
+
+
+Ота (река)	http://dbpedia.org/resource/Ōta_River
+
+
+Отава	http://dbpedia.org/resource/Otava_(river)
+
+
+Отра	http://dbpedia.org/resource/Otra
+
+
+Отта (река)	http://dbpedia.org/resource/Otta_(river)
+
+
+Оттава (река)	http://dbpedia.org/resource/Ottawa_River
+
+
+Оттер-Крик (река)	http://dbpedia.org/resource/Otter_Creek_(Vermont)
+
+
+Оттербах (приток Инде)	http://dbpedia.org/resource/Otterbach_(Inde)
+
+
+Оттерсбах	http://dbpedia.org/resource/Ottersbach
+
+
+Оунасйоки	http://dbpedia.org/resource/Ounasjoki
+
+
+Оур	http://dbpedia.org/resource/Our_(river)
+
+
+Офанто	http://dbpedia.org/resource/Ofanto
+
+
+Охота (река)	http://dbpedia.org/resource/Okhota_River
+
+
+Охта (приток Невы)	http://dbpedia.org/resource/Okhta_River_(Neva_basin)
+
+
+Оша	http://dbpedia.org/resource/Osha_River
+
+
+Оэ (приток Альны)	http://dbpedia.org/resource/Ohe_(Allna)
+
+
+Оять	http://dbpedia.org/resource/Oyat_River
+
+
+Падма	http://dbpedia.org/resource/Padma_River
+
+
+Пак (река, впадает в Панд-Орей)	http://dbpedia.org/resource/Pack_River
+
+
+Палана (река)	http://dbpedia.org/resource/Palana_River
+
+
+Палар	http://dbpedia.org/resource/Palar_River
+
+
+Палус (река)	http://dbpedia.org/resource/Palouse_River
+
+
+Пальмбах (река)	http://dbpedia.org/resource/Palmbach_(river)
+
+
+Памба (река)	http://dbpedia.org/resource/Pamba_River
+
+
+Памбак	http://dbpedia.org/resource/Pambak_River
+
+
+Панаро (река)	http://dbpedia.org/resource/Panaro_(river)
+
+
+Пангани (река)	http://dbpedia.org/resource/Pangani_River
+
+
+Пандо (река)	http://dbpedia.org/resource/Pando_Creek
+
+
+Панфельд	http://dbpedia.org/resource/Penfeld
+
+
+Пар (река)	http://dbpedia.org/resource/Paar
+
+
+Паранаиба (река)	http://dbpedia.org/resource/Paranaíba_River
+
+
+Паранапанема (река)	http://dbpedia.org/resource/Paranapanema_River
+
+
+Парманка	http://dbpedia.org/resource/Parmanka_River
+
+
+Паро (река)	http://dbpedia.org/resource/Paro_Chhu
+
+
+Парок	http://dbpedia.org/resource/Parok_River
+
+
+Пасак (река)	http://dbpedia.org/resource/Pa_Sak_River
+
+
+Пасленка	http://dbpedia.org/resource/Pasłęka
+
+
+Пассаде (река)	http://dbpedia.org/resource/Passade_(river)
+
+
+Пасторатсхофер-Бах	http://dbpedia.org/resource/Pastoratshofer_Bach
+
+
+Патия (река)	http://dbpedia.org/resource/Patía_River
+
+
+Патсойоки	http://dbpedia.org/resource/Paatsjoki
+
+
+Паханг (река)	http://dbpedia.org/resource/Pahang_River
+
+
+Паша (приток Свири)	http://dbpedia.org/resource/Pasha_River
+
+
+Пегниц (река)	http://dbpedia.org/resource/Pegnitz_(river)
+
+
+Педедзе	http://dbpedia.org/resource/Pededze
+
+
+Педиэос	http://dbpedia.org/resource/Pedieos
+
+
+Педья (река)	http://dbpedia.org/resource/Pedja_(river)
+
+
+Пежма (приток Ваги)	http://dbpedia.org/resource/Pezhma_River
+
+
+Пейетт (река)	http://dbpedia.org/resource/Payette_River
+
+
+Пелес (приток Чёрной)	http://dbpedia.org/resource/Peles_River_(Chyornaya_River)
+
+
+Пеля (приток Улса)	http://dbpedia.org/resource/Pelya_River
+
+
+Пенжина (река)	http://dbpedia.org/resource/Penzhina_River
+
+
+Пенобскот (река)	http://dbpedia.org/resource/Penobscot_River
+
+
+Передний Рейн	http://dbpedia.org/resource/Vorderrhein_(river)
+
+
+Перетна	http://dbpedia.org/resource/Peretna_River
+
+
+Перибонка (река)	http://dbpedia.org/resource/Peribonka_River
+
+
+Перл (река)	http://dbpedia.org/resource/Pearl_River_(Mississippi–Louisiana)
+
+
+Персе (река)	http://dbpedia.org/resource/Pērse
+
+
+Перф	http://dbpedia.org/resource/Perf_(Lahn)
+
+
+Песь (река)	http://dbpedia.org/resource/Pes_River
+
+
+Петроуэ	http://dbpedia.org/resource/Petrohué_River
+
+
+Петрус (река)	http://dbpedia.org/resource/Pétrusse
+
+
+Петтерил	http://dbpedia.org/resource/River_Petteril
+
+
+Пизь	http://dbpedia.org/resource/Piz_River
+
+
+Пиксвагер-Бах	http://dbpedia.org/resource/Pixwaager_Bach
+
+
+Пилчак (река)	http://dbpedia.org/resource/Pilchuck_River
+
+
+Пинг (река)	http://dbpedia.org/resource/Ping_River
+
+
+Пинега (река)	http://dbpedia.org/resource/Pinega_River
+
+
+Пиньос	http://dbpedia.org/resource/Pineios_(Thessaly)
+
+
+Пиньос (Пелопоннес)	http://dbpedia.org/resource/Pineios_(Peloponnese)
+
+
+Пиньэйрус (река)	http://dbpedia.org/resource/Pinheiros_River
+
+
+Пирита (река)	http://dbpedia.org/resource/Pirita_(river)
+
+
+Писа	http://dbpedia.org/resource/Pisa_(river)
+
+
+Писанка (приток Вишеры)	http://dbpedia.org/resource/Pisanka_River
+
+
+Писуэрга	http://dbpedia.org/resource/Pisuerga
+
+
+Пит (река)	http://dbpedia.org/resource/Pit_River
+
+
+Пиуза	http://dbpedia.org/resource/Piusa_(river)
+
+
+Плайсбах	http://dbpedia.org/resource/Pleisbach
+
+
+Плайхах	http://dbpedia.org/resource/Pleichach
+
+
+Плантэйн-Гарден	http://dbpedia.org/resource/Plantain_Garden_River
+
+
+Платани (река)	http://dbpedia.org/resource/Platani_(river)
+
+
+Платошинка	http://dbpedia.org/resource/Platoshinka_River
+
+
+Платт (река)	http://dbpedia.org/resource/Platte_River
+
+
+Плим (река)	http://dbpedia.org/resource/River_Plym
+
+
+Плюсса (река)	http://dbpedia.org/resource/Plyussa_River
+
+
+По (река)	http://dbpedia.org/resource/Po_(river)
+
+
+Поддл	http://dbpedia.org/resource/River_Poddle
+
+
+Подкаменная Тунгуска	http://dbpedia.org/resource/Podkamennaya_Tunguska_River
+
+
+Пойма (река)	http://dbpedia.org/resource/Poyma_River
+
+
+Покшеньга	http://dbpedia.org/resource/Pokshenga_River
+
+
+Пола (река)	http://dbpedia.org/resource/Pola_River
+
+
+Полисть (приток Ловати)	http://dbpedia.org/resource/Polist_River
+
+
+Полометь	http://dbpedia.org/resource/Polomet_River
+
+
+Полота (река)	http://dbpedia.org/resource/Palata_River
+
+
+Полочик	http://dbpedia.org/resource/Polochic_River
+
+
+Полтва (приток Западного Буга)	http://dbpedia.org/resource/Poltva_River
+
+
+Полуй	http://dbpedia.org/resource/Polui_River
+
+
+Посьмак	http://dbpedia.org/resource/Posmak_River
+
+
+Потенца (река)	http://dbpedia.org/resource/Potenza_(river)
+
+
+Правая Лесная	http://dbpedia.org/resource/Leśna_Prawa
+
+
+Праньди (река)	http://dbpedia.org/resource/Prandi_(river)
+
+
+Премих	http://dbpedia.org/resource/Premich
+
+
+Примс	http://dbpedia.org/resource/Prims
+
+
+Прин (река)	http://dbpedia.org/resource/Prien_(river)
+
+
+Припять (река)	http://dbpedia.org/resource/Pripyat_River
+
+
+Провадийска	http://dbpedia.org/resource/Provadiya_River
+
+
+Прохладная (река)	http://dbpedia.org/resource/Prokhladnaya_(river)
+
+
+Прюм (река)	http://dbpedia.org/resource/Prüm_(river)
+
+
+Пскова	http://dbpedia.org/resource/Pskova_River
+
+
+Псоу (река)	http://dbpedia.org/resource/Psou_River
+
+
+Псёл	http://dbpedia.org/resource/Psel_River
+
+
+Птикодьяк	http://dbpedia.org/resource/Petitcodiac_River
+
+
+Птичь	http://dbpedia.org/resource/Ptsich
+
+
+Пукшеньга	http://dbpedia.org/resource/Pukshenga_River
+
+
+Пульинке (река)	http://dbpedia.org/resource/Pullinque_River
+
+
+Пуста (река)	http://dbpedia.org/resource/Pusta_River_(South_Morava)
+
+
+Пуэрко	http://dbpedia.org/resource/Puerco_River
+
+
+Пуя	http://dbpedia.org/resource/Puya_River
+
+
+Пфинц	http://dbpedia.org/resource/Pfinz
+
+
+Пфримм	http://dbpedia.org/resource/Pfrimm
+
+
+Пчёвжа (река)	http://dbpedia.org/resource/Pchyovzha_River
+
+
+Пыж (река)	http://dbpedia.org/resource/Pyzh_River
+
+
+Пыльтсамаа (река)	http://dbpedia.org/resource/Põltsamaa_(river)
+
+
+Пьедра	http://dbpedia.org/resource/Piedra_River_(Colorado)
+
+
+Пьюджет-Саунд	http://dbpedia.org/resource/Puget_Sound
+
+
+Пьяве	http://dbpedia.org/resource/Piave_(river)
+
+
+Пьяна	http://dbpedia.org/resource/Pyana_River
+
+
+Пюттлах (река)	http://dbpedia.org/resource/Püttlach
+
+
+Пякупур	http://dbpedia.org/resource/Pyakupur_River
+
+
+Пяндж	http://dbpedia.org/resource/Panj_River
+
+
+Пярну (река)	http://dbpedia.org/resource/Pärnu_(river)
+
+
+Пёза	http://dbpedia.org/resource/Pyoza_River
+
+
+Пёппельше	http://dbpedia.org/resource/Pöppelsche
+
+
+Раба (река)	http://dbpedia.org/resource/Rába
+
+
+Рави (река)	http://dbpedia.org/resource/Ravi_River
+
+
+Раздан (река)	http://dbpedia.org/resource/Hrazdan_River
+
+
+Раздольная (река)	http://dbpedia.org/resource/Razdolnaya_River
+
+
+Райербах (приток Луттера)	http://dbpedia.org/resource/Reiherbach_(Lutter)
+
+
+Райербах (приток Эдерзе)	http://dbpedia.org/resource/Reiherbach_(Edersee)
+
+
+Райхенбах (приток Кохера)	http://dbpedia.org/resource/Reichenbach_(Kocher)
+
+
+Райхенбах (приток Лидербаха)	http://dbpedia.org/resource/Reichenbach_(Liederbach)
+
+
+Райхенбехле	http://dbpedia.org/resource/Reichenbächle_(Schiltach)
+
+
+Ралья	http://dbpedia.org/resource/Ralja_(river)
+
+
+Рамеде	http://dbpedia.org/resource/Rahmede
+
+
+Рамме	http://dbpedia.org/resource/Ramme
+
+
+Рамокгвебана	http://dbpedia.org/resource/Ramokgwebana_River
+
+
+Рамхольцер-Вассер	http://dbpedia.org/resource/Ramholzer_Wasser
+
+
+Раннах	http://dbpedia.org/resource/Rannach
+
+
+Ранс (река)	http://dbpedia.org/resource/Rance_(river)
+
+
+Рансбах	http://dbpedia.org/resource/Ransbach_(Lauer)
+
+
+Рапель	http://dbpedia.org/resource/Rapel_River
+
+
+Раппаханнок (река)	http://dbpedia.org/resource/Rappahannock_River
+
+
+Рапти (река)	http://dbpedia.org/resource/West_Rapti_River
+
+
+Расина	http://dbpedia.org/resource/Rasina_(river)
+
+
+Рауэ	http://dbpedia.org/resource/Rahue_River
+
+
+Рашен-Ривер	http://dbpedia.org/resource/Russian_River_(California)
+
+
+Рашка (река)	http://dbpedia.org/resource/Raška_(river)
+
+
+Рега (река)	http://dbpedia.org/resource/Rega
+
+
+Реген (река)	http://dbpedia.org/resource/Regen_(river)
+
+
+Регниц	http://dbpedia.org/resource/Regnitz
+
+
+Ред-Дир (река)	http://dbpedia.org/resource/Red_Deer_River
+
+
+Ред-Ривер (река, впадает в Виннипег)	http://dbpedia.org/resource/Red_River_of_the_North
+
+
+Редаэр-Бах	http://dbpedia.org/resource/Rhedaer_Bach
+
+
+Редвуд-Крик	http://dbpedia.org/resource/Redwood_Creek_(Humboldt_County)
+
+
+Редниц	http://dbpedia.org/resource/Rednitz
+
+
+Редья	http://dbpedia.org/resource/Redya_River
+
+
+Резекне (река)	http://dbpedia.org/resource/Rēzekne_(river)
+
+
+Резовска	http://dbpedia.org/resource/Rezovo_River
+
+
+Рей (река)	http://dbpedia.org/resource/Rae_River
+
+
+Река Святого Лаврентия	http://dbpedia.org/resource/Saint_Lawrence_River
+
+
+река святого лаврентия,,	Saint_Lawrence_River
+Ремерло-Меннигхюффер-Мюленбах	http://dbpedia.org/resource/Rehmerloh-Mennighüffer_Mühlenbach
+
+
+Ремлинградер-Бах	http://dbpedia.org/resource/Remlingrader_Bach
+
+
+Ремс	http://dbpedia.org/resource/Rems
+
+
+Рена (река)	http://dbpedia.org/resource/Rhena_(Neerdar)
+
+
+Ренгзе	http://dbpedia.org/resource/Rengse
+
+
+Рено (река)	http://dbpedia.org/resource/Reno_(river)
+
+
+Ренх	http://dbpedia.org/resource/Rench
+
+
+Репабликан	http://dbpedia.org/resource/Republican_River
+
+
+Репе (река)	http://dbpedia.org/resource/Repe
+
+
+Ресава	http://dbpedia.org/resource/Resava_(river)
+
+
+Ресуз	http://dbpedia.org/resource/Reyssouze_(river)
+
+
+Реут	http://dbpedia.org/resource/Răut_River
+
+
+Реченбах	http://dbpedia.org/resource/Retschenbach
+
+
+Риббл (река)	http://dbpedia.org/resource/River_Ribble
+
+
+Ривьер-де-Миль-Иль	http://dbpedia.org/resource/Rivière_des_Mille_Îles
+
+
+Ривьер-де-Прери	http://dbpedia.org/resource/Rivière_des_Prairies
+
+
+Ридбах (река)	http://dbpedia.org/resource/Riedbach_(Kinzig)
+
+
+Ридер-Бах	http://dbpedia.org/resource/Rieder_Bach_(Mindel)
+
+
+Риенца	http://dbpedia.org/resource/Rienz
+
+
+Рикк	http://dbpedia.org/resource/Ryck
+
+
+Рин (река)	http://dbpedia.org/resource/Rhin
+
+
+Риндербах	http://dbpedia.org/resource/Rinderbach_(Ruhr)
+
+
+Рио-Буэно (река)	http://dbpedia.org/resource/Bueno_River
+
+
+Рио-Гранде (приток Маморе)	http://dbpedia.org/resource/Río_Grande_(Bolivia)
+
+
+Рио-Гранде (река, Огненная Земля)	http://dbpedia.org/resource/Río_Grande_(Tierra_del_Fuego)
+
+
+Рио-Гранде (река, впадает в Карибское море)	http://dbpedia.org/resource/Río_Grande_de_Matagalpa
+
+
+Рио-Гранде-де-Сантьяго	http://dbpedia.org/resource/Grande_de_Santiago_River
+
+
+Рио-Дульсе (река, впадает в Карибское море)	http://dbpedia.org/resource/Dulce_River_(Guatemala)
+
+
+Рио-Дульсе (река, впадает в Мар-Чикиту)	http://dbpedia.org/resource/Dulce_River_(Argentina)
+
+
+Рио-Кончос	http://dbpedia.org/resource/Rio_Conchos
+
+
+Рио-Негро (река, впадает в Атлантический океан)	http://dbpedia.org/resource/Río_Negro_(Argentina)
+
+
+Рио-Ондо	http://dbpedia.org/resource/Hondo_River_(Belize)
+
+
+Рио-Пас	http://dbpedia.org/resource/Paz_River
+
+
+Рио-Пулидо	http://dbpedia.org/resource/Pulido_River
+
+
+Рис (река)	http://dbpedia.org/resource/Riss
+
+
+Риу-Авиа	http://dbpedia.org/resource/Avia_(river)
+
+
+Рог (река, впадает в Тихий океан)	http://dbpedia.org/resource/Rogue_River_(Oregon)
+
+
+Рода (река)	http://dbpedia.org/resource/Roda_(river)
+
+
+Родау (приток Майна)	http://dbpedia.org/resource/Rodau_(Main)
+
+
+Родах (приток Ица)	http://dbpedia.org/resource/Rodach_(Itz)
+
+
+Родах (приток Майна)	http://dbpedia.org/resource/Rodach_(Main)
+
+
+Роденбах (приток Вапельбаха)	http://dbpedia.org/resource/Rodenbach_(Wapelbach)
+
+
+Родинг (река)	http://dbpedia.org/resource/River_Roding
+
+
+Розенауэ	http://dbpedia.org/resource/Rosenaue
+
+
+Ройс (река)	http://dbpedia.org/resource/Reuss_(river)
+
+
+Ромбах (приток Лидербаха)	http://dbpedia.org/resource/Rombach_(Liederbach)
+
+
+Ромен (приток Сулы)	http://dbpedia.org/resource/Romen_River
+
+
+Рорах (приток Айба)	http://dbpedia.org/resource/Rohrach_(Eyb)
+
+
+Рорах (приток Иллера)	http://dbpedia.org/resource/Rohrach_(Iller)
+
+
+Рорбах (приток Саара)	http://dbpedia.org/resource/Rohrbach_(Saarland)
+
+
+Рорбах (приток Фульды)	http://dbpedia.org/resource/Rohrbach_(Fulda)
+
+
+Росбах (приток Нидды)	http://dbpedia.org/resource/Rosbach_(Nidda)
+
+
+Роско (река)	http://dbpedia.org/resource/Roscoe_River
+
+
+Россель (река)	http://dbpedia.org/resource/Rossel_(Saar)
+
+
+Рось	http://dbpedia.org/resource/Ros_River
+
+
+Рот (приток Вурцахер-Аха)	http://dbpedia.org/resource/Rot_(Wurzacher_Ach)
+
+
+Рот (приток Редница)	http://dbpedia.org/resource/Roth_(Rednitz)
+
+
+Ротбах (приток Драйзама)	http://dbpedia.org/resource/Rotbach_(Dreisam)
+
+
+Ротбах (приток Рейна)	http://dbpedia.org/resource/Rotbach_(Rhine)
+
+
+Ротбах (приток Эрфта)	http://dbpedia.org/resource/Rotbach_(Erft)
+
+
+Ротенбах (приток Верре)	http://dbpedia.org/resource/Rothenbach_(Werre)
+
+
+Ротес-Вассер	http://dbpedia.org/resource/Rotes_Wasser_(Ohm)
+
+
+Ротт (река)	http://dbpedia.org/resource/Rott_(river)
+
+
+Роттах	http://dbpedia.org/resource/Rottach_(Iller)
+
+
+Роуб	http://dbpedia.org/resource/Robe_River_(Ireland)
+
+
+Руайа (река)	http://dbpedia.org/resource/Roya_(river)
+
+
+Рубикон	http://dbpedia.org/resource/Rubicon
+
+
+Рувер (река)	http://dbpedia.org/resource/Ruwer_(river)
+
+
+Румбах (ручей)	http://dbpedia.org/resource/Rumbach_(Ruhr)
+
+
+Руме	http://dbpedia.org/resource/Rhume
+
+
+Рур (приток Мааса)	http://dbpedia.org/resource/Rur
+
+
+Рур (приток Рейна)	http://dbpedia.org/resource/Ruhr_(river)
+
+
+Рутебах	http://dbpedia.org/resource/Ruthebach
+
+
+Рутенбах	http://dbpedia.org/resource/Ruthenbach_(Ems)
+
+
+Рутка	http://dbpedia.org/resource/Rutka_River
+
+
+Ручь	http://dbpedia.org/resource/Ruch_River
+
+
+Рыбинка (приток Яузы)	http://dbpedia.org/resource/Rybenka_River
+
+
+Рю-де-Ма	http://dbpedia.org/resource/Rupt_de_Mad
+
+
+Рюккерсбах	http://dbpedia.org/resource/Rückersbach
+
+
+Рёльбах (приток Майна)	http://dbpedia.org/resource/Röllbach_(Main)
+
+
+Рёльбах (приток Узы)	http://dbpedia.org/resource/Röllbach_(Usa)
+
+
+Рёр (река)	http://dbpedia.org/resource/Röhr_(river)
+
+
+Рётельбах	http://dbpedia.org/resource/Rötelbach_(Jagst)
+
+
+Рётен (река)	http://dbpedia.org/resource/Röthen
+
+
+Рётенбах (река)	http://dbpedia.org/resource/Rötenbach_(Kinzig)
+
+
+Рёума (река)	http://dbpedia.org/resource/Rauma_(river)
+
+
+Саар (река)	http://dbpedia.org/resource/Saar_(river)
+
+
+Саба (река)	http://dbpedia.org/resource/Saba_River
+
+
+Сав	http://dbpedia.org/resource/Save_(Garonne)
+
+
+Савала	http://dbpedia.org/resource/Savala_River
+
+
+Савиня	http://dbpedia.org/resource/Savinja
+
+
+Савлек	http://dbpedia.org/resource/Savlek_River
+
+
+Сагаваниркток	http://dbpedia.org/resource/Sagavanirktok_River
+
+
+Сагами (река)	http://dbpedia.org/resource/Sagami_River
+
+
+Саду (река)	http://dbpedia.org/resource/Sado_River
+
+
+Сайлец (река)	http://dbpedia.org/resource/Siletz_River
+
+
+Сайото	http://dbpedia.org/resource/Scioto_River
+
+
+Сак (река)	http://dbpedia.org/resource/River_Suck
+
+
+Сакарья (река)	http://dbpedia.org/resource/Sakarya_River
+
+
+Сакмара	http://dbpedia.org/resource/Sakmara_River
+
+
+Сако (река)	http://dbpedia.org/resource/Saco_River
+
+
+Саладо (приток Лоа)	http://dbpedia.org/resource/Salado_River_(Antofagasta,_Chile)
+
+
+Салаца	http://dbpedia.org/resource/Salaca
+
+
+Салгир	http://dbpedia.org/resource/Salhir_River
+
+
+Салин (река)	http://dbpedia.org/resource/Saline_River_(Kansas)
+
+
+Салмон (приток реки Сэнди)	http://dbpedia.org/resource/Salmon_River_(Clackamas_County,_Oregon)
+
+
+Салтен (река)	http://dbpedia.org/resource/Sultan_River
+
+
+Самара (приток Волги)	http://dbpedia.org/resource/Samara_River
+
+
+Самара (приток Днепра)	http://dbpedia.org/resource/Samara_River_(Dnieper)
+
+
+Самбра (река)	http://dbpedia.org/resource/Sambre
+
+
+Самора (река)	http://dbpedia.org/resource/Zamora_River
+
+
+Сан (приток Меконга)	http://dbpedia.org/resource/Tonlé_San
+
+
+Сан-Антонио (река)	http://dbpedia.org/resource/San_Antonio_River
+
+
+Сан-Жуан-ду-Параизу (река)	http://dbpedia.org/resource/São_João_do_Paraíso_River
+
+
+Сан-Марино (река)	http://dbpedia.org/resource/San_Marino_(river)
+
+
+Сан-Мигель (река)	http://dbpedia.org/resource/San_Miguel_River_(Colorado)
+
+
+Сан-Педро (приток Кальекалье)	http://dbpedia.org/resource/San_Pedro_River_(Chile)
+
+
+Сан-Педро (приток Лоа)	http://dbpedia.org/resource/San_Pedro_de_Inacaliri_River
+
+
+Сан-Педро (река)	http://dbpedia.org/resource/San_Pedro_River_(Guatemala)
+
+
+Сан-Сальвадор (приток Лоа)	http://dbpedia.org/resource/San_Salvador_River_(Chile)
+
+
+Сан-Сальвадор (приток Уругвая)	http://dbpedia.org/resource/San_Salvador_River_(Uruguay)
+
+
+Сан-Хасинто (река)	http://dbpedia.org/resource/San_Jacinto_River_(California)
+
+
+Сан-Хуан (приток Десагуадеро)	http://dbpedia.org/resource/San_Juan_River_(Argentina)
+
+
+Сан-Хуан (река, впадает в Карибское море)	http://dbpedia.org/resource/San_Juan_River_(Nicaragua)
+
+
+Сан-Хуан (река, впадает в Ла-Плату)	http://dbpedia.org/resource/San_Juan_River_(Uruguay)
+
+
+Сан-Хуан (река, впадает в Тихий океан)	http://dbpedia.org/resource/San_Juan_River_(Colombia)
+
+
+Сана (река)	http://dbpedia.org/resource/Sana_(river)
+
+
+Сангро	http://dbpedia.org/resource/Sangro
+
+
+Санкара (река)	http://dbpedia.org/resource/Záncara
+
+
+Санта-Ана (река)	http://dbpedia.org/resource/Santa_Ana_River
+
+
+Санта-Круз (река)	http://dbpedia.org/resource/Santa_Cruz_River_(Arizona)
+
+
+Сантерно (река)	http://dbpedia.org/resource/Santerno
+
+
+Сантри (река)	http://dbpedia.org/resource/Santry_River
+
+
+Сарата (река)	http://dbpedia.org/resource/Sarata_River
+
+
+Сарда	http://dbpedia.org/resource/Sharda_River
+
+
+Сарстун	http://dbpedia.org/resource/Sarstoon_River
+
+
+Сарта (река)	http://dbpedia.org/resource/Sarthe_(river)
+
+
+Саскачеван (река)	http://dbpedia.org/resource/Saskatchewan_River
+
+
+Саут-Наханни	http://dbpedia.org/resource/South_Nahanni_River
+
+
+Саут-Платт (река)	http://dbpedia.org/resource/South_Platte_River
+
+
+Саут-Форк-Флатхед	http://dbpedia.org/resource/South_Fork_Flathead_River
+
+
+Сая (приток Шаквы)	http://dbpedia.org/resource/Saya_River
+
+
+Свента	http://dbpedia.org/resource/Šventoji_(Baltic)
+
+
+Свете	http://dbpedia.org/resource/Svete_(river)
+
+
+Свидь	http://dbpedia.org/resource/Svid_River
+
+
+Свина	http://dbpedia.org/resource/Świna
+
+
+Свирь (река)	http://dbpedia.org/resource/Svir_River
+
+
+Свислочь (приток Березины)	http://dbpedia.org/resource/Svislach_River
+
+
+Свияга	http://dbpedia.org/resource/Sviyaga_River
+
+
+Свратка	http://dbpedia.org/resource/Svratka_(river)
+
+
+Себольяти (река)	http://dbpedia.org/resource/Cebollatí_River
+
+
+Северн	http://dbpedia.org/resource/River_Severn
+
+
+Северная Двина	http://dbpedia.org/resource/Northern_Dvina_River
+
+
+Северная Кельтма	http://dbpedia.org/resource/North_Keltma_River
+
+
+Северский Донец	http://dbpedia.org/resource/Donets
+
+
+Севир (река)	http://dbpedia.org/resource/Sevier_River
+
+
+Севр-Нантез	http://dbpedia.org/resource/Sèvre_Nantaise
+
+
+Севр-Ньортез	http://dbpedia.org/resource/Sèvre_Niortaise
+
+
+Сегре (река)	http://dbpedia.org/resource/Segre_(river)
+
+
+Сегура (река)	http://dbpedia.org/resource/Segura
+
+
+Седедема	http://dbpedia.org/resource/Sededema_River
+
+
+Сезия	http://dbpedia.org/resource/Sesia
+
+
+Сей (приток Соны)	http://dbpedia.org/resource/Seille_(Saône)
+
+
+Сей (река)	http://dbpedia.org/resource/Seille_(Moselle)
+
+
+Сейм (река)	http://dbpedia.org/resource/Seym_River
+
+
+Селавик (река)	http://dbpedia.org/resource/Selawik_River
+
+
+Селе (река, впадает в Тирренское море)	http://dbpedia.org/resource/Sele_(river)
+
+
+Селенга	http://dbpedia.org/resource/Selenga_River
+
+
+Селеннях	http://dbpedia.org/resource/Selennyakh_River
+
+
+Селея	http://dbpedia.org/resource/Seleya_River
+
+
+Семуа (река)	http://dbpedia.org/resource/Semois
+
+
+Сен-Шарль (река)	http://dbpedia.org/resource/Saint-Charles_River
+
+
+Сена	http://dbpedia.org/resource/Seine
+
+
+Сенио	http://dbpedia.org/resource/Senio
+
+
+Сенна (река)	http://dbpedia.org/resource/Zenne
+
+
+Сент-Джон (река)	http://dbpedia.org/resource/Saint_John_River_(Bay_of_Fundy)
+
+
+Сент-Джонс (река)	http://dbpedia.org/resource/St._Johns_River
+
+
+Сент-Клэр (река)	http://dbpedia.org/resource/St._Clair_River
+
+
+Сент-Круа (река)	http://dbpedia.org/resource/St._Croix_River_(Maine–New_Brunswick)
+
+
+Серебрянка (приток Учи)	http://dbpedia.org/resource/Serebryanka_River_(Moscow_Oblast)
+
+
+Серебрянка (приток Хапиловки)	http://dbpedia.org/resource/Serebryanka_River_(Moscow)
+
+
+Серио (река)	http://dbpedia.org/resource/Serio_(river)
+
+
+Серкьо	http://dbpedia.org/resource/Serchio
+
+
+Сестра (река, впадает в Сестрорецкий Разлив)	http://dbpedia.org/resource/Sestra_River_(Leningrad_Oblast)
+
+
+Сива (приток Камы)	http://dbpedia.org/resource/Siva_River
+
+
+Сиги (река)	http://dbpedia.org/resource/Zigi_River
+
+
+Сигуэла	http://dbpedia.org/resource/Cigüela
+
+
+Сиеве	http://dbpedia.org/resource/Sieve_(river)
+
+
+Сим (река)	http://dbpedia.org/resource/Sim_River
+
+
+Симаррон (река)	http://dbpedia.org/resource/Cimarron_River_(Arkansas_River)
+
+
+Симето (река)	http://dbpedia.org/resource/Simeto
+
+
+Симуа	http://dbpedia.org/resource/Simoa
+
+
+Синано (река)	http://dbpedia.org/resource/Shinano_River
+
+
+Синка (река)	http://dbpedia.org/resource/Cinca_(Spain)
+
+
+Синни	http://dbpedia.org/resource/Sinni_(river)
+
+
+Синяя (приток Великой)	http://dbpedia.org/resource/Sinyaya_River
+
+
+Сир (река)	http://dbpedia.org/resource/Syre
+
+
+Сира (река)	http://dbpedia.org/resource/Sira_(river)
+
+
+Сиснес (река)	http://dbpedia.org/resource/Cisnes_River
+
+
+Ситаун (река)	http://dbpedia.org/resource/Sittaung_River
+
+
+Ситница (приток Ибара)	http://dbpedia.org/resource/Sitnica
+
+
+Сицзян	http://dbpedia.org/resource/Xi_River
+
+
+Скайкомиш	http://dbpedia.org/resource/Skykomish_River
+
+
+Слана (приток Коппера)	http://dbpedia.org/resource/Slana_River
+
+
+Словечна (река)	http://dbpedia.org/resource/Slovechna
+
+
+Случь (приток Горыни)	http://dbpedia.org/resource/Sluch_River_(Ukraine)
+
+
+Случь (приток Припяти)	http://dbpedia.org/resource/Sluch_River_(Belarus)
+
+
+Слэни (река)	http://dbpedia.org/resource/River_Slaney
+
+
+Смилга (река)	http://dbpedia.org/resource/Smilga_River
+
+
+Смит (река, Калифорния)	http://dbpedia.org/resource/Smith_River_(California)
+
+
+Смоки (река)	http://dbpedia.org/resource/Smoky_River
+
+
+Смоки-Хилл	http://dbpedia.org/resource/Smoky_Hill_River
+
+
+Снохомиш (река)	http://dbpedia.org/resource/Snohomish_River
+
+
+Со (река)	http://dbpedia.org/resource/Saulx_(river)
+
+
+Сова (приток Шаквы)	http://dbpedia.org/resource/Sova_River
+
+
+Сож (река)	http://dbpedia.org/resource/Sozh_River
+
+
+Сок (река)	http://dbpedia.org/resource/Sok_River
+
+
+Сола (река)	http://dbpedia.org/resource/Soła
+
+
+Солис-Гранде	http://dbpedia.org/resource/Solís_Grande_Creek
+
+
+Солис-Чико	http://dbpedia.org/resource/Solís_Chico_Creek
+
+
+Соло (река)	http://dbpedia.org/resource/Solo_River
+
+
+Солокия (река)	http://dbpedia.org/resource/Solokiya_River
+
+
+Соломон (река)	http://dbpedia.org/resource/Solomon_River
+
+
+Солотва	http://dbpedia.org/resource/Sołotwa
+
+
+Солт (приток Огайо)	http://dbpedia.org/resource/Salt_River_(Kentucky)
+
+
+Солт (приток реки Снейк)	http://dbpedia.org/resource/Salt_River_(Wyoming)
+
+
+Соль (приток Чёрной)	http://dbpedia.org/resource/Sol_River
+
+
+Солянка (приток Бабки)	http://dbpedia.org/resource/Solyanka_River
+
+
+Сомеш	http://dbpedia.org/resource/Someș_River
+
+
+Сомма (река)	http://dbpedia.org/resource/River_Somme
+
+
+Сороть	http://dbpedia.org/resource/Sorot_River
+
+
+Сота	http://dbpedia.org/resource/Sota_River
+
+
+Соча	http://dbpedia.org/resource/Soča
+
+
+Сочи (река)	http://dbpedia.org/resource/Sochi_River
+
+
+Сояна (река)	http://dbpedia.org/resource/Soyana_River
+
+
+Спаниш-Форк	http://dbpedia.org/resource/Spanish_Fork_River
+
+
+Спей (река)	http://dbpedia.org/resource/River_Spey
+
+
+Стикин (река)	http://dbpedia.org/resource/Stikine_River
+
+
+Стикс (река, Тасмания)	http://dbpedia.org/resource/Styx_River_(Tasmania)
+
+
+Стироне	http://dbpedia.org/resource/Stirone
+
+
+Стоход (река)	http://dbpedia.org/resource/Stokhid_River
+
+
+Стрвяж	http://dbpedia.org/resource/Strwiąż
+
+
+Струма (река)	http://dbpedia.org/resource/Struma_(river)
+
+
+Струмица (река)	http://dbpedia.org/resource/Strumica_(river)
+
+
+Стугна (река)	http://dbpedia.org/resource/Stuhna_River
+
+
+Студва (река)	http://dbpedia.org/resource/Studva
+
+
+Стыр	http://dbpedia.org/resource/Styr_River
+
+
+Суда (река, впадает в Рыбинское водохранилище)	http://dbpedia.org/resource/Suda_River
+
+
+Судома	http://dbpedia.org/resource/Sudoma_River
+
+
+Судость	http://dbpedia.org/resource/Sudost_River
+
+
+Суилли (река)	http://dbpedia.org/resource/River_Swilly
+
+
+Сула (приток Днепра)	http://dbpedia.org/resource/Sula_River
+
+
+Сула (приток Мезени)	http://dbpedia.org/resource/Sula_River_(Mezen)
+
+
+Сулак (река)	http://dbpedia.org/resource/Sulak_River
+
+
+Сулица (приток Свияги)	http://dbpedia.org/resource/Sulitsa_River
+
+
+Сумка (нижний приток Волги)	http://dbpedia.org/resource/Sumka_River
+
+
+сумка нижний приток Волги,,	Sumka_River
+Сун-Коси	http://dbpedia.org/resource/Sun_Kosi
+
+
+Сунгача	http://dbpedia.org/resource/Songacha_River
+
+
+Сунжа (приток Терека)	http://dbpedia.org/resource/Sunzha_River
+
+
+Суон (река)	http://dbpedia.org/resource/Swan_River_(Western_Australia)
+
+
+Супой	http://dbpedia.org/resource/Supiy_River
+
+
+Супрасль (река)	http://dbpedia.org/resource/Supraśl_(river)
+
+
+Сура (приток Волги)	http://dbpedia.org/resource/Sura_River
+
+
+Сурья (приток Улса)	http://dbpedia.org/resource/Surya_River
+
+
+Сус (река)	http://dbpedia.org/resource/Sous_River
+
+
+Суситна (река)	http://dbpedia.org/resource/Susitna_River
+
+
+Сутла	http://dbpedia.org/resource/Sutla
+
+
+Сухар (река)	http://dbpedia.org/resource/Zújar_River
+
+
+Сухобизярка	http://dbpedia.org/resource/Sukhobizyarka_River
+
+
+Сухона	http://dbpedia.org/resource/Sukhona_River
+
+
+Сухотыль	http://dbpedia.org/resource/Sukhotyl_River
+
+
+Сучжоухэ	http://dbpedia.org/resource/Suzhou_Creek
+
+
+Сучьяте (река)	http://dbpedia.org/resource/Suchiate_River
+
+
+Сылва	http://dbpedia.org/resource/Sylva_River
+
+
+Сып	http://dbpedia.org/resource/Syp_River
+
+
+Сытке	http://dbpedia.org/resource/Sõtke_(river)
+
+
+Сэнди (река)	http://dbpedia.org/resource/Sandy_River_(Oregon)
+
+
+Сюнь (река)	http://dbpedia.org/resource/Syun_River
+
+
+Сюньцзян	http://dbpedia.org/resource/Xun_River
+
+
+Сямжена	http://dbpedia.org/resource/Syamzhena_River
+
+
+Сясь	http://dbpedia.org/resource/Syas_River
+
+
+Сёдр	http://dbpedia.org/resource/Seudre
+
+
+Тавиньяно	http://dbpedia.org/resource/Tavignano
+
+
+Таиери	http://dbpedia.org/resource/Taieri_River
+
+
+Тайн	http://dbpedia.org/resource/River_Tyne
+
+
+Тайснах (река)	http://dbpedia.org/resource/Teisnach_(river)
+
+
+Такуарембо (река)	http://dbpedia.org/resource/Tacuarembó_River
+
+
+Такуари (река)	http://dbpedia.org/resource/Tacuarí_River
+
+
+Талкитна (река)	http://dbpedia.org/resource/Talkeetna_River
+
+
+Тальбах (приток Аблаха)	http://dbpedia.org/resource/Talbach_(Ablach)
+
+
+Тальбах (приток Вайербаха)	http://dbpedia.org/resource/Talbach_(Weiherbach)
+
+
+Тальяменто	http://dbpedia.org/resource/Tagliamento
+
+
+Тамур (река)	http://dbpedia.org/resource/Tamur_River
+
+
+Тана (река, впадает в Формозу)	http://dbpedia.org/resource/Tana_River_(Kenya)
+
+
+Танагро	http://dbpedia.org/resource/Tanagro
+
+
+Танана (река)	http://dbpedia.org/resource/Tanana_River
+
+
+Танаро (река)	http://dbpedia.org/resource/Tanaro
+
+
+Танншорренбах	http://dbpedia.org/resource/Tannschorrenbach
+
+
+Тараво	http://dbpedia.org/resource/Taravo
+
+
+Тарколес (река)	http://dbpedia.org/resource/Tárcoles_River
+
+
+Таро (река)	http://dbpedia.org/resource/Taro_(river)
+
+
+Тарпенбек	http://dbpedia.org/resource/Tarpenbek
+
+
+Татарка (приток Шадейки)	http://dbpedia.org/resource/Tatarka_River
+
+
+Тате	http://dbpedia.org/resource/Tati_River
+
+
+Татшеншини	http://dbpedia.org/resource/Tatshenshini_River
+
+
+Тауи (река)	http://dbpedia.org/resource/River_Towy
+
+
+Тверца	http://dbpedia.org/resource/Tvertsa_River
+
+
+Твисте (приток Димеля)	http://dbpedia.org/resource/Twiste_(Diemel)
+
+
+Твисте (приток Осте)	http://dbpedia.org/resource/Twiste_(Oste)
+
+
+Теберда (река)	http://dbpedia.org/resource/Teberda_River
+
+
+Тей (река)	http://dbpedia.org/resource/River_Tay
+
+
+Тейлор (река)	http://dbpedia.org/resource/Taylor_River_(Colorado)
+
+
+Теймар (река, Тасмания)	http://dbpedia.org/resource/Tamar_River
+
+
+Текланика	http://dbpedia.org/resource/Teklanika_River
+
+
+Телес	http://dbpedia.org/resource/Teles_River
+
+
+Телесбах	http://dbpedia.org/resource/Tälesbach
+
+
+Телис-Пирис	http://dbpedia.org/resource/Teles_Pires
+
+
+Тель (река)	http://dbpedia.org/resource/Theel
+
+
+Темерник	http://dbpedia.org/resource/Temernik_River
+
+
+Темза	http://dbpedia.org/resource/River_Thames
+
+
+Теннесси (река)	http://dbpedia.org/resource/Tennessee_River
+
+
+Тердоппио	http://dbpedia.org/resource/Terdoppio
+
+
+Терек	http://dbpedia.org/resource/Terek_River
+
+
+Терешка	http://dbpedia.org/resource/Tereshka_River
+
+
+Териберка (река)	http://dbpedia.org/resource/Teriberka_River
+
+
+Тетерев (река)	http://dbpedia.org/resource/Teteriv_River
+
+
+Теуантепек (река)	http://dbpedia.org/resource/Tehuantepec_River
+
+
+Тибр	http://dbpedia.org/resource/Tiber
+
+
+Тигода (река)	http://dbpedia.org/resource/Tigoda_River
+
+
+Тий	http://dbpedia.org/resource/Tille_(river)
+
+
+Тикуго (река)	http://dbpedia.org/resource/Chikugo_River
+
+
+Тилигул (река)	http://dbpedia.org/resource/Tylihul_River
+
+
+Тимшор	http://dbpedia.org/resource/Timsher_River
+
+
+Тине	http://dbpedia.org/resource/Tinée
+
+
+Тирбах (река)	http://dbpedia.org/resource/Thierbach
+
+
+Тирсо	http://dbpedia.org/resource/Tirso_(river)
+
+
+Тис (река, Великобритания)	http://dbpedia.org/resource/River_Tees
+
+
+Тифенбах (приток Виспера)	http://dbpedia.org/resource/Tiefenbach_(Wisper)
+
+
+Тифина	http://dbpedia.org/resource/Tifina_River
+
+
+Тихвинка (река)	http://dbpedia.org/resource/Tikhvinka_River
+
+
+Тичино (река)	http://dbpedia.org/resource/Ticino_(river)
+
+
+Тогиак (река)	http://dbpedia.org/resource/Togiak_River
+
+
+Тодбах	http://dbpedia.org/resource/Todbach
+
+
+Тойма (приток Камы)	http://dbpedia.org/resource/Toyma_River
+
+
+Тойшниц (река)	http://dbpedia.org/resource/Teuschnitz_(Kremnitz)
+
+
+Толка (река, впадает в пролив Святого Георга)	http://dbpedia.org/resource/River_Tolka
+
+
+Толлензе	http://dbpedia.org/resource/Tollense
+
+
+Толшма	http://dbpedia.org/resource/Tolshma_River
+
+
+Тольтен (река)	http://dbpedia.org/resource/Toltén_River
+
+
+Тонг (река)	http://dbpedia.org/resource/Tongue_River_(Montana)
+
+
+Тоне (река)	http://dbpedia.org/resource/Tone_River
+
+
+Ториса	http://dbpedia.org/resource/Torysa_(river)
+
+
+Торренс (река)	http://dbpedia.org/resource/River_Torrens
+
+
+Торьон	http://dbpedia.org/resource/Taurion
+
+
+Тосна	http://dbpedia.org/resource/Tosna_River
+
+
+Траве (река)	http://dbpedia.org/resource/Trave
+
+
+Травянка (приток Весляны)	http://dbpedia.org/resource/Travyanka_River
+
+
+Трайсбах (приток Ветшафта)	http://dbpedia.org/resource/Engelbach_(Hesse)
+
+
+Трайсбах (приток Гильзы)	http://dbpedia.org/resource/Treisbach_(Gilsa)
+
+
+Траки (река)	http://dbpedia.org/resource/Truckee_River
+
+
+Траун (река)	http://dbpedia.org/resource/Traun_(river)
+
+
+Треббия	http://dbpedia.org/resource/Trebbia
+
+
+Требгаст (приток Вайсер-Майна)	http://dbpedia.org/resource/Trebgast_(Weißer_Main)
+
+
+Требишница	http://dbpedia.org/resource/Trebišnjica
+
+
+Трене (река)	http://dbpedia.org/resource/Treene_(river)
+
+
+Три (река)	http://dbpedia.org/resource/Tree_River
+
+
+Тринити (река)	http://dbpedia.org/resource/Trinity_River_(Texas)
+
+
+Триньо	http://dbpedia.org/resource/Trigno
+
+
+Трисули	http://dbpedia.org/resource/Trishuli_River
+
+
+Тромъёган	http://dbpedia.org/resource/Tromyogan_River
+
+
+Тронто	http://dbpedia.org/resource/Tronto
+
+
+Трубах	http://dbpedia.org/resource/Trubach
+
+
+Трубеж (приток Днепра)	http://dbpedia.org/resource/Trubizh_River
+
+
+Трубеж (река, впадает в Плещеево озеро)	http://dbpedia.org/resource/Trubezh_River
+
+
+Трузе	http://dbpedia.org/resource/Truse
+
+
+Труппах	http://dbpedia.org/resource/Truppach_(Wiesent)
+
+
+Трюггельбах	http://dbpedia.org/resource/Trüggelbach
+
+
+Трюйер	http://dbpedia.org/resource/Truyère
+
+
+Тудовка	http://dbpedia.org/resource/Tudovka_River
+
+
+Туид (река)	http://dbpedia.org/resource/River_Tweed
+
+
+Туйкос	http://dbpedia.org/resource/Tuykos_River
+
+
+Туканнон	http://dbpedia.org/resource/Tucannon_River
+
+
+Тулва	http://dbpedia.org/resource/Tulva_River_(Russia)
+
+
+Тулгас (приток Северной Двины)	http://dbpedia.org/resource/Tulgas_River
+
+
+Тулома	http://dbpedia.org/resource/Tuloma_River
+
+
+Тулпан	http://dbpedia.org/resource/Tulpan_River
+
+
+Тульба	http://dbpedia.org/resource/Thulba
+
+
+Тунгабхадра	http://dbpedia.org/resource/Tungabhadra_River
+
+
+Тунджа	http://dbpedia.org/resource/Tundzha
+
+
+Туне (река)	http://dbpedia.org/resource/Thune_(river)
+
+
+Тур (река)	http://dbpedia.org/resource/Thur_(Switzerland)
+
+
+Турка (приток Ирени)	http://dbpedia.org/resource/Turka_River
+
+
+Турунчук	http://dbpedia.org/resource/Turunchuk_River
+
+
+Турыш (река)	http://dbpedia.org/resource/Turysh_River
+
+
+Турья (приток Припяти)	http://dbpedia.org/resource/Turija_River
+
+
+Тускарь	http://dbpedia.org/resource/Tuskar_River
+
+
+Тэдонган	http://dbpedia.org/resource/Taedong_River
+
+
+Тэкэзе	http://dbpedia.org/resource/Tekezé_River
+
+
+Тэнрю (река)	http://dbpedia.org/resource/Tenryū_River
+
+
+Тясмин	http://dbpedia.org/resource/Tiasmyn_River
+
+
+Тёс (река)	http://dbpedia.org/resource/Töss_(river)
+
+
+Уаза (река)	http://dbpedia.org/resource/Oise_(river)
+
+
+Уаиау	http://dbpedia.org/resource/Waiau_River_(Southland)
+
+
+Уаикато (река)	http://dbpedia.org/resource/Waikato_River
+
+
+Уайт-Ривер (нижний приток Миссисипи)	http://dbpedia.org/resource/White_River_(Arkansas)
+
+
+уайт-ривер нижний приток Миссисипи,мэдисон (округ, арканзас),бейтсвилл (арканзас),фейетвилл (арканзас),ньюпорт (арканзас)	White_River_(Arkansas)
+Уайт-Ривер (приток Грин-Ривера)	http://dbpedia.org/resource/White_River_(Green_River)
+
+
+Уайт-Ривер (приток Миссури)	http://dbpedia.org/resource/White_River_(Missouri_River)
+
+
+Уайт-Ривер (приток Уобаша)	http://dbpedia.org/resource/White_River_(Indiana)
+
+
+Уайт-Ривер (приток Юкона)	http://dbpedia.org/resource/White_River_(Yukon)
+
+
+Уалхондинг	http://dbpedia.org/resource/Walhonding_River
+
+
+Уаско (река)	http://dbpedia.org/resource/Huasco_River
+
+
+Увац	http://dbpedia.org/resource/Uvac
+
+
+Увез	http://dbpedia.org/resource/Ouvèze
+
+
+Уверь	http://dbpedia.org/resource/Uver_River
+
+
+Угашик (река)	http://dbpedia.org/resource/Ugashik_River
+
+
+Углава	http://dbpedia.org/resource/Úhlava
+
+
+Удай (река)	http://dbpedia.org/resource/Uday_River
+
+
+Уж (приток Лаборца)	http://dbpedia.org/resource/Uzh_River
+
+
+Уза (приток Веттера)	http://dbpedia.org/resource/Usa_River_(Germany)
+
+
+Уилламетт	http://dbpedia.org/resource/Willamette_River
+
+
+Уиллс-Крик	http://dbpedia.org/resource/Wills_Creek_(Ohio)
+
+
+Ула (приток Мяркиса)	http://dbpedia.org/resource/Ūla
+
+
+Уленбах	http://dbpedia.org/resource/Uhlenbach_(Werre)
+
+
+Улс	http://dbpedia.org/resource/Uls_River
+
+
+Ульвич	http://dbpedia.org/resource/Ulvich_River
+
+
+Ульмбах (приток Кинцига)	http://dbpedia.org/resource/Ulmbach_(Kinzig)
+
+
+Ульмбах (приток Лана)	http://dbpedia.org/resource/Ulmbach_(Lahn)
+
+
+Ульстер (река)	http://dbpedia.org/resource/Ulster_(river)
+
+
+Ульфа (река)	http://dbpedia.org/resource/Ulfa_(river)
+
+
+Ульфе (приток Вуппера)	http://dbpedia.org/resource/Uelfe
+
+
+Ульфе (приток Зонтры)	http://dbpedia.org/resource/Ulfe_(Sontra)
+
+
+Ульфе (приток Фульды)	http://dbpedia.org/resource/Ulfe_(Fulda)
+
+
+Ульфенбах	http://dbpedia.org/resource/Ulfenbach
+
+
+Умпфер	http://dbpedia.org/resource/Umpfer
+
+
+Уна (приток Савы)	http://dbpedia.org/resource/Una_(Sava)
+
+
+Уналаклит (река)	http://dbpedia.org/resource/Unalakleet_River
+
+
+Ункенбах (приток Майна)	http://dbpedia.org/resource/Unkenbach_(Main)
+
+
+Унструт	http://dbpedia.org/resource/Unstrut
+
+
+Унтере-Арген	http://dbpedia.org/resource/Untere_Argen
+
+
+Унтере-Штайнах	http://dbpedia.org/resource/Untere_Steinach
+
+
+Унтройе (река)	http://dbpedia.org/resource/Untreue
+
+
+Уобаш (река)	http://dbpedia.org/resource/Wabash_River
+
+
+Уонгануи (река)	http://dbpedia.org/resource/Whanganui_River
+
+
+Уорбертон (река)	http://dbpedia.org/resource/Warburton_River
+
+
+Уошито (приток Блэк-Ривера)	http://dbpedia.org/resource/Ouachita_River
+
+
+Уошито (река, впадает в Тексому)	http://dbpedia.org/resource/Washita_River
+
+
+Упа (приток Эльбы)	http://dbpedia.org/resource/Úpa
+
+
+Урал (река)	http://dbpedia.org/resource/Ural_River
+
+
+Уржумка (река)	http://dbpedia.org/resource/Urzhumka_River
+
+
+Урзельбах	http://dbpedia.org/resource/Urselbach
+
+
+Урик	http://dbpedia.org/resource/Urik_River
+
+
+Урк (река)	http://dbpedia.org/resource/Ourcq
+
+
+Урс (река)	http://dbpedia.org/resource/Ource
+
+
+Уруп (река)	http://dbpedia.org/resource/Urup_River
+
+
+Урфт (река)	http://dbpedia.org/resource/Urft_(river)
+
+
+Уршпринг	http://dbpedia.org/resource/Urspring_(Ach)
+
+
+Уса (приток Печоры)	http://dbpedia.org/resource/Usa_River_(Komi_Republic)
+
+
+Усвяча	http://dbpedia.org/resource/Usvyacha_River
+
+
+Усекай	http://dbpedia.org/resource/Usekay_River
+
+
+Услава	http://dbpedia.org/resource/Úslava
+
+
+Устья	http://dbpedia.org/resource/Ustya_River
+
+
+Усьва	http://dbpedia.org/resource/Usva_River
+
+
+Утва	http://dbpedia.org/resource/Utva_River_(Ural)
+
+
+Утроя	http://dbpedia.org/resource/Utroya_River
+
+
+Утукок	http://dbpedia.org/resource/Utukok_River
+
+
+Уть (приток Сожа)	http://dbpedia.org/resource/Uts_River
+
+
+Утьва	http://dbpedia.org/resource/Utva_River_(Perm_Krai)
+
+
+Уфа (река)	http://dbpedia.org/resource/Ufa_River
+
+
+Уфтюга (приток Северной Двины)	http://dbpedia.org/resource/Uftyuga_River_(Arkhangelsk_Oblast)
+
+
+Уфтюга (приток Сухоны)	http://dbpedia.org/resource/Uftyuga_River_(Sukhona)
+
+
+Ухта (приток Ижмы)	http://dbpedia.org/resource/Ukhta_River
+
+
+Ухтым (река)	http://dbpedia.org/resource/Ukhtym_River
+
+
+Уцзян (приток Янцзы)	http://dbpedia.org/resource/Wu_River_(Yangtze_River_tributary)
+
+
+Уш (река)	http://dbpedia.org/resource/Ouche
+
+
+Уэби-Шабелле	http://dbpedia.org/resource/Shebelle_River
+
+
+Уэнатчи (река)	http://dbpedia.org/resource/Wenatchee_River
+
+
+Уэст-Кетл	http://dbpedia.org/resource/West_Kettle_River
+
+
+Уяс	http://dbpedia.org/resource/Uyas_River
+
+
+Файбах	http://dbpedia.org/resource/Veybach
+
+
+Файшеде	http://dbpedia.org/resource/Veischede
+
+
+Факатане (река)	http://dbpedia.org/resource/Whakatane_River
+
+
+Фальбах (река)	http://dbpedia.org/resource/Fallbach_(Kinzig)
+
+
+Фалькенбах (река)	http://dbpedia.org/resource/Falkenbach_(Omersbach)
+
+
+Фальме	http://dbpedia.org/resource/Valme
+
+
+Фандарья	http://dbpedia.org/resource/Fan_Darya
+
+
+Фаренбах (река)	http://dbpedia.org/resource/Fahrenbach_(Rosbach)
+
+
+Фаульбах (река)	http://dbpedia.org/resource/Faulbach_(Main)
+
+
+Фауэрбах	http://dbpedia.org/resource/Fauerbach_(Usa)
+
+
+Федербах	http://dbpedia.org/resource/Federbach_(Alb)
+
+
+Феллах (река)	http://dbpedia.org/resource/Fellach
+
+
+Фельда	http://dbpedia.org/resource/Felda_(Ohm)
+
+
+Фельдербах	http://dbpedia.org/resource/Felderbach
+
+
+Фельдкаль (река)	http://dbpedia.org/resource/Feldkahl
+
+
+Фергус (река)	http://dbpedia.org/resource/River_Fergus
+
+
+Фергусон (река)	http://dbpedia.org/resource/Ferguson_River_(Nunavut)
+
+
+Ферзе	http://dbpedia.org/resource/Verse_(river)
+
+
+Ферндорфбах	http://dbpedia.org/resource/Ferndorfbach
+
+
+Ферс (река)	http://dbpedia.org/resource/Vers_(river)
+
+
+Фехте	http://dbpedia.org/resource/Vechte
+
+
+Фиагдон	http://dbpedia.org/resource/Fiagdon_River
+
+
+Фильс (приток Леха)	http://dbpedia.org/resource/Vils_(Lech)
+
+
+Фильс (приток Наба)	http://dbpedia.org/resource/Vils_(Naab)
+
+
+Фильс (приток Неккара)	http://dbpedia.org/resource/Fils_(river)
+
+
+Финкельбах	http://dbpedia.org/resource/Finkelbach
+
+
+Финкенбах (приток Лаксбаха)	http://dbpedia.org/resource/Finkenbach_(Laxbach)
+
+
+Финлей (река)	http://dbpedia.org/resource/Finlay_River
+
+
+Финн (река)	http://dbpedia.org/resource/River_Finn
+
+
+Финтау	http://dbpedia.org/resource/Fintau
+
+
+Фихтбах	http://dbpedia.org/resource/Vichtbach
+
+
+Фицрой (река, впадает в Индийский океан)	http://dbpedia.org/resource/Fitzroy_River_(Western_Australia)
+
+
+Фицрой (река, впадает в Коралловое море)	http://dbpedia.org/resource/Fitzroy_River_(Queensland)
+
+
+Фиш (река, впадает в Берингово море)	http://dbpedia.org/resource/Fish_River_(Alaska)
+
+
+Фишах (приток Бюлера)	http://dbpedia.org/resource/Fischach_(Bühler)
+
+
+Фишбах (приток Гершпренца)	http://dbpedia.org/resource/Fischbach_(Gersprenz)
+
+
+Фишбах (приток Пегница)	http://dbpedia.org/resource/Fischbach_(Pegnitz)
+
+
+Флаттенер-Бах	http://dbpedia.org/resource/Vlattener_Bach
+
+
+Флатхед (река)	http://dbpedia.org/resource/Flathead_River
+
+
+Флиде	http://dbpedia.org/resource/Fliede
+
+
+Флинт (река)	http://dbpedia.org/resource/Flint_River_(Georgia)
+
+
+Флинцбах	http://dbpedia.org/resource/Flinzbach
+
+
+Флорида (река)	http://dbpedia.org/resource/Florida_River
+
+
+Флумендоса	http://dbpedia.org/resource/Flumendosa
+
+
+Флэбах	http://dbpedia.org/resource/Flehbach
+
+
+Флёрсбах	http://dbpedia.org/resource/Flörsbach_(Lohr)
+
+
+Фогельталь-Бах	http://dbpedia.org/resource/Vogelthal-Bach
+
+
+Фойербах (река)	http://dbpedia.org/resource/Feuerbach_(Neckar)
+
+
+Фокс (приток Иллинойса)	http://dbpedia.org/resource/Fox_River_(Illinois_River_tributary)
+
+
+Фольках (река)	http://dbpedia.org/resource/Volkach_(river)
+
+
+Фольме	http://dbpedia.org/resource/Volme
+
+
+Фолья	http://dbpedia.org/resource/Foglia
+
+
+Форбах (приток Таубера)	http://dbpedia.org/resource/Vorbach_(river)
+
+
+Форбах (приток Узы)	http://dbpedia.org/resource/Forbach_(Usa)
+
+
+Форелленбах	http://dbpedia.org/resource/Forellenbach_(Weser)
+
+
+Фортескью (река)	http://dbpedia.org/resource/Fortescue_River
+
+
+Фортимайл	http://dbpedia.org/resource/Fortymile_River
+
+
+Форхбах	http://dbpedia.org/resource/Forchbach
+
+
+Фрайбергер-Мульде	http://dbpedia.org/resource/Freiberger_Mulde
+
+
+Франценбах	http://dbpedia.org/resource/Franzenbach
+
+
+Фребах	http://dbpedia.org/resource/Freebach
+
+
+Френкише-Рецат	http://dbpedia.org/resource/Fränkische_Rezat
+
+
+Френч-Брод	http://dbpedia.org/resource/French_Broad_River
+
+
+Френчман (река)	http://dbpedia.org/resource/Frenchman_River
+
+
+Фреттербах	http://dbpedia.org/resource/Fretterbach
+
+
+Фризенбах (приток Ротер-Майна)	http://dbpedia.org/resource/Friesenbach_(Roter_Main)
+
+
+Фронхаузер-Бах	http://dbpedia.org/resource/Frohnhauser_Bach
+
+
+Фудзи (река)	http://dbpedia.org/resource/Fuji_River
+
+
+Фузе	http://dbpedia.org/resource/Fuhse
+
+
+Фуй (река)	http://dbpedia.org/resource/Fui_River
+
+
+Фульда (река)	http://dbpedia.org/resource/Fulda_(river)
+
+
+Футалеуфу	http://dbpedia.org/resource/Futaleufú_River
+
+
+Фьер (река)	http://dbpedia.org/resource/Fier_(river)
+
+
+Фьюме-Гранде	http://dbpedia.org/resource/Grande_River_(Sicily)
+
+
+Фюльбах	http://dbpedia.org/resource/Füllbach
+
+
+Ха-Чу	http://dbpedia.org/resource/Ha_Chhu
+
+
+Хабигхорстер-Бах	http://dbpedia.org/resource/Habighorster_Bach
+
+
+Хагенбах (река)	http://dbpedia.org/resource/Hagenbach_(river)
+
+
+Хазельбах (приток Гюнца)	http://dbpedia.org/resource/Haselbach_(Günz)
+
+
+Хазельбах (приток Каммеля)	http://dbpedia.org/resource/Haselbach_(Kammel)
+
+
+Хайденбах	http://dbpedia.org/resource/Heidenbach
+
+
+Хайлигенлоэр-Беке	http://dbpedia.org/resource/Heiligenloher_Beeke
+
+
+Хайльсбах	http://dbpedia.org/resource/Heilsbach
+
+
+Хаймбах (река)	http://dbpedia.org/resource/Heimbach_(Glatt)
+
+
+Хайнбах (приток Майна)	http://dbpedia.org/resource/Hainbach_(Offenbach)
+
+
+Хайпкер-Бах	http://dbpedia.org/resource/Heipker_Bach
+
+
+Халлербах	http://dbpedia.org/resource/Hallerbach_(Holtebach)
+
+
+Халлисте (река)	http://dbpedia.org/resource/Halliste_(river)
+
+
+Хальстенбах	http://dbpedia.org/resource/Halstenbach_(Agger)
+
+
+Хамбер (река, Великобритания)	http://dbpedia.org/resource/Humber
+
+
+Хамель (река)	http://dbpedia.org/resource/Hamel_(river)
+
+
+Хантайка	http://dbpedia.org/resource/Khantayka_River
+
+
+Ханфбах	http://dbpedia.org/resource/Hanfbach
+
+
+Ханьшуй	http://dbpedia.org/resource/Han_River_(Shaanxi_and_Hubei)
+
+
+Хардтбах (приток Вуппера)	http://dbpedia.org/resource/Hardtbach_(Wupper)
+
+
+Хардтбах (приток Рейна)	http://dbpedia.org/resource/Hardtbach_(Rhein)
+
+
+Харлебах	http://dbpedia.org/resource/Harlebach
+
+
+Харрикана (река)	http://dbpedia.org/resource/Harricana_River
+
+
+Харт (река)	http://dbpedia.org/resource/Heart_River_(Wyoming)
+
+
+Харьков (река)	http://dbpedia.org/resource/Kharkiv_River
+
+
+Харьяпеа (река)	http://dbpedia.org/resource/Härjapea
+
+
+Хаслах (приток Родаха)	http://dbpedia.org/resource/Haßlach
+
+
+Хаслах (приток Рота)	http://dbpedia.org/resource/Haslach_(Rot)
+
+
+Хаслохбах	http://dbpedia.org/resource/Haslochbach
+
+
+Хассельбах (приток Верре)	http://dbpedia.org/resource/Hasselbach_(Werre)
+
+
+Хассельбах (приток Дальке)	http://dbpedia.org/resource/Hasselbach_(Dalke)
+
+
+Хатт (река)	http://dbpedia.org/resource/Hutt_River_(New_Zealand)
+
+
+Хауне	http://dbpedia.org/resource/Haune
+
+
+Хауптграбен	http://dbpedia.org/resource/Haggraben
+
+
+Хафель	http://dbpedia.org/resource/Havel
+
+
+Хафербах	http://dbpedia.org/resource/Haferbach
+
+
+Хегбрюккербах	http://dbpedia.org/resource/Heegbrückerbach
+
+
+Хей (река)	http://dbpedia.org/resource/Hay_River_(Canada)
+
+
+Хеккергрундбах	http://dbpedia.org/resource/Häckergrundbach
+
+
+Хелльбах	http://dbpedia.org/resource/Hellbach
+
+
+Хельграбен	http://dbpedia.org/resource/Hellgraben
+
+
+Хемельтер-Бах	http://dbpedia.org/resource/Hemelter_Bach
+
+
+Хенне (река)	http://dbpedia.org/resource/Henne_(river)
+
+
+Хенсбах	http://dbpedia.org/resource/Hensbach
+
+
+Хенти (река)	http://dbpedia.org/resource/Henty_River
+
+
+Хергстбах	http://dbpedia.org/resource/Hergstbach
+
+
+Хесбах (река)	http://dbpedia.org/resource/Heesbach
+
+
+Хилле (река)	http://dbpedia.org/resource/Hillebach
+
+
+Хиллерсбах	http://dbpedia.org/resource/Hillersbach
+
+
+Хиртенбах	http://dbpedia.org/resource/Hirtenbach_(Wetter)
+
+
+Хобек (река)	http://dbpedia.org/resource/Hoback_River
+
+
+Хоби (река)	http://dbpedia.org/resource/Khobi_(river)
+
+
+Хойбах (приток Кинцига)	http://dbpedia.org/resource/Heubach_(Kinzig)
+
+
+Хойбах (приток Майна)	http://dbpedia.org/resource/Heubach_(Main)
+
+
+Хойбах (приток Эммера)	http://dbpedia.org/resource/Heubach_(Emmer)
+
+
+Хокинг (река)	http://dbpedia.org/resource/Hocking_River
+
+
+Холлерграбен	http://dbpedia.org/resource/Hollergraben
+
+
+Холова	http://dbpedia.org/resource/Kholova_River
+
+
+Холстон (река)	http://dbpedia.org/resource/Holston_River
+
+
+Хольбах	http://dbpedia.org/resource/Hohlbach_(Nidda)
+
+
+Хольтебах	http://dbpedia.org/resource/Holtebach
+
+
+Хольцапе	http://dbpedia.org/resource/Holzape
+
+
+Хольцбах (приток Узы)	http://dbpedia.org/resource/Holzbach_(Usa)
+
+
+Хольцкапе	http://dbpedia.org/resource/Holzkape
+
+
+Хондерфельдбах	http://dbpedia.org/resource/Hohnderfeldbach
+
+
+Хонер-Бах	http://dbpedia.org/resource/Hohner_Bach
+
+
+Хоппнер (река)	http://dbpedia.org/resource/Hoppner_River
+
+
+Хор (река)	http://dbpedia.org/resource/Khor_River
+
+
+Хорбахер-Бах	http://dbpedia.org/resource/Horbacher_Bach
+
+
+Хоркера (река)	http://dbpedia.org/resource/Jorquera_River
+
+
+Хорлофф	http://dbpedia.org/resource/Horloff
+
+
+Хорол (река)	http://dbpedia.org/resource/Khorol_River
+
+
+Хофебах	http://dbpedia.org/resource/Hovebach
+
+
+Хофзифен	http://dbpedia.org/resource/Hofsiefen
+
+
+Хохшпайербах	http://dbpedia.org/resource/Hochspeyerbach
+
+
+Хоэнштайнербах	http://dbpedia.org/resource/Hohensteinerbach
+
+
+Хубертусбах	http://dbpedia.org/resource/Hubertusbach
+
+
+Худосей	http://dbpedia.org/resource/Khudosey_River
+
+
+Хумме	http://dbpedia.org/resource/Humme_(Weser)
+
+
+Хунгербах	http://dbpedia.org/resource/Hungerbach_(Gennach)
+
+
+Хундем	http://dbpedia.org/resource/Hundem
+
+
+Хьерадсвётн	http://dbpedia.org/resource/Héraðsvötn
+
+
+Хьюон (река)	http://dbpedia.org/resource/Huon_River
+
+
+Хюрбе	http://dbpedia.org/resource/Hürbe
+
+
+Хёгенбах	http://dbpedia.org/resource/Högenbach
+
+
+Хённе	http://dbpedia.org/resource/Hönne
+
+
+Хённиге	http://dbpedia.org/resource/Hönnige_(Wupper)
+
+
+Хёрзель	http://dbpedia.org/resource/Hörsel
+
+
+Хёрстер-Бах	http://dbpedia.org/resource/Hörster_Bach
+
+
+Хёрстерольцер-Бах	http://dbpedia.org/resource/Hörsterholzer_Bach
+
+
+Хёршбах	http://dbpedia.org/resource/Hörschbach
+
+
+Цаме-Гера	http://dbpedia.org/resource/Zahme_Gera
+
+
+Царнов	http://dbpedia.org/resource/Zarnow_(river)
+
+
+Цвестер-Ом	http://dbpedia.org/resource/Zwester_Ohm
+
+
+Цвиккауэр-Мульде	http://dbpedia.org/resource/Zwickau_Mulde
+
+
+Цена (река)	http://dbpedia.org/resource/Cena_(river)
+
+
+Центбах	http://dbpedia.org/resource/Zentbach
+
+
+Цетина	http://dbpedia.org/resource/Cetina
+
+
+Цидлина	http://dbpedia.org/resource/Cidlina
+
+
+Циевна (река)	http://dbpedia.org/resource/Cem_(river)
+
+
+Цильма	http://dbpedia.org/resource/Tsilma_River
+
+
+Циммербах	http://dbpedia.org/resource/Zimmerbach_(Starzel)
+
+
+Ципфельбах	http://dbpedia.org/resource/Zipfelbach_(Neckar)
+
+
+Цна (приток Припяти)	http://dbpedia.org/resource/Tsna_River_(Pripyat)
+
+
+Цна (река, впадает в Мстино)	http://dbpedia.org/resource/Tsna_River_(Tver_Oblast)
+
+
+Цойбах	http://dbpedia.org/resource/Zeubach_(Wiesent)
+
+
+Црна	http://dbpedia.org/resource/Crna_(river)
+
+
+Цяньцзян	http://dbpedia.org/resource/Qian_River
+
+
+Чавон	http://dbpedia.org/resource/Chavón_River
+
+
+Чаган (приток Урала)	http://dbpedia.org/resource/Chagan_River
+
+
+Чагода (приток Мологи)	http://dbpedia.org/resource/Chagodoshcha_River
+
+
+Чакачатна (река)	http://dbpedia.org/resource/Chakachatna_River
+
+
+Чалияр (река)	http://dbpedia.org/resource/Chaliyar
+
+
+Чане (река)	http://dbpedia.org/resource/Ciane
+
+
+Чаньва	http://dbpedia.org/resource/Chanva_River
+
+
+Чапаевка (приток Волги)	http://dbpedia.org/resource/Chapayevka_River
+
+
+Чаттахучи (река)	http://dbpedia.org/resource/Chattahoochee_River
+
+
+Чаупхрая	http://dbpedia.org/resource/Chao_Phraya_River
+
+
+Чена (приток Тананы)	http://dbpedia.org/resource/Chena_River
+
+
+Чено	http://dbpedia.org/resource/Ceno
+
+
+Черчилл (река, впадает в Атлантический океан)	http://dbpedia.org/resource/Churchill_River_(Atlantic)
+
+
+Черёха (река)	http://dbpedia.org/resource/Cheryokha_River
+
+
+Чесапикский залив	http://dbpedia.org/resource/Chesapeake_Bay
+
+
+Чесма (река)	http://dbpedia.org/resource/Česma
+
+
+Чи (река)	http://dbpedia.org/resource/Chi_River
+
+
+Чибитка	http://dbpedia.org/resource/Chibit_River
+
+
+Чивейва	http://dbpedia.org/resource/Chiwawa_River
+
+
+Чикаго (река)	http://dbpedia.org/resource/Chicago_River
+
+
+Чикман (река)	http://dbpedia.org/resource/Chikman_River
+
+
+Чилкат (река)	http://dbpedia.org/resource/Chilkat_River
+
+
+Чиндуин (река)	http://dbpedia.org/resource/Chindwin_River
+
+
+Чира	http://dbpedia.org/resource/Chira_River
+
+
+Читарум	http://dbpedia.org/resource/Citarum_River
+
+
+Читина (река)	http://dbpedia.org/resource/Chitina_River
+
+
+Чопау (река)	http://dbpedia.org/resource/Zschopau_(river)
+
+
+Чорох	http://dbpedia.org/resource/Çoruh_River
+
+
+Чугрум	http://dbpedia.org/resource/Chugrum_River
+
+
+Чудова (приток Колвы)	http://dbpedia.org/resource/Chudova_River
+
+
+Чукля	http://dbpedia.org/resource/Chuklya_River
+
+
+Чулышман	http://dbpedia.org/resource/Chulyshman_River
+
+
+Чурал	http://dbpedia.org/resource/Chural_River
+
+
+Чусовая	http://dbpedia.org/resource/Chusovaya_River
+
+
+Чёрная (приток Весляны)	http://dbpedia.org/resource/Chyornaya_River
+
+
+Чёрная Турка	http://dbpedia.org/resource/Chyornaya_Turka_River
+
+
+Чёрный Дрин	http://dbpedia.org/resource/Black_Drin
+
+
+Чёрный Эрнц	http://dbpedia.org/resource/Black_Ernz
+
+
+Шайх	http://dbpedia.org/resource/Schaich
+
+
+Шаква	http://dbpedia.org/resource/Shakva_River
+
+
+Шаларон	http://dbpedia.org/resource/Chalaronne
+
+
+Шальчя	http://dbpedia.org/resource/Šalčia
+
+
+Шандалар	http://dbpedia.org/resource/Chandalar_River
+
+
+Шаранта (река)	http://dbpedia.org/resource/Charente_(river)
+
+
+Шарженьга	http://dbpedia.org/resource/Sharzhenga_River
+
+
+Шахе	http://dbpedia.org/resource/Shakhe_River
+
+
+Шача (приток Костромы)	http://dbpedia.org/resource/Shacha_River_(Kostroma_Oblast)
+
+
+Шаше	http://dbpedia.org/resource/Shashe_River
+
+
+Швабах (река)	http://dbpedia.org/resource/Schwabach_(Rednitz)
+
+
+Швайна (река)	http://dbpedia.org/resource/Schweina_(river)
+
+
+Швальбах (река)	http://dbpedia.org/resource/Schwalbach_(Sulzbach)
+
+
+Швальм (приток Мааса)	http://dbpedia.org/resource/Schwalm_(Meuse)
+
+
+Швальм (приток Эдера)	http://dbpedia.org/resource/Schwalm_(Eder)
+
+
+Шварца (приток Зале)	http://dbpedia.org/resource/Schwarza_(Saale)
+
+
+Шварцах (приток Майна)	http://dbpedia.org/resource/Schwarzach_(Main)
+
+
+Шварцах (приток Редница)	http://dbpedia.org/resource/Schwarzach_(Rednitz)
+
+
+Шварцах (приток Шуссена)	http://dbpedia.org/resource/Schwarzach_(Schussen)
+
+
+Шварцбах (приток Близа)	http://dbpedia.org/resource/Schwarzbach_(Blies)
+
+
+Шварцбах (приток Вутаха)	http://dbpedia.org/resource/Schwarzbach_(Klettgau)
+
+
+Шварцбах (приток Гинсхаймер-Альтрайна)	http://dbpedia.org/resource/Schwarzbach_(Ried)
+
+
+Шварцбах (приток Залаха)	http://dbpedia.org/resource/Schwarzbach_(Saalach)
+
+
+Шварцбах (приток Майна)	http://dbpedia.org/resource/Schwarzbach_(Main)
+
+
+Шварцбах (приток Эльзенца)	http://dbpedia.org/resource/Schwarzbach_(Kraichgau)
+
+
+Шварцбах (приток Эльмбаха)	http://dbpedia.org/resource/Schwarzbach_(Elmbach)
+
+
+Шварцвассербах	http://dbpedia.org/resource/Schwarzwasserbach_(Ems)
+
+
+Шварце-Лаутер	http://dbpedia.org/resource/Black_Lauter
+
+
+Шварце-Эльстер	http://dbpedia.org/resource/Black_Elster
+
+
+Шварценбах (река)	http://dbpedia.org/resource/Schwarzenbach_(Obere_Argen)
+
+
+Шварцер-Кохер	http://dbpedia.org/resource/Schwarzer_Kocher
+
+
+Швебише-Рецат	http://dbpedia.org/resource/Schwäbische_Rezat
+
+
+Швельге	http://dbpedia.org/resource/Schwelge
+
+
+Швельме	http://dbpedia.org/resource/Schwelme
+
+
+Швинге	http://dbpedia.org/resource/Schwinge_(Elbe)
+
+
+Швиппе	http://dbpedia.org/resource/Schwippe
+
+
+Швянтойи (приток Вилии)	http://dbpedia.org/resource/Šventoji_(Neris)
+
+
+Ше (река)	http://dbpedia.org/resource/Chée
+
+
+Шеде	http://dbpedia.org/resource/Schede_(river)
+
+
+Шейверс-Форк	http://dbpedia.org/resource/Shavers_Fork
+
+
+Шексна (река)	http://dbpedia.org/resource/Sheksna_River
+
+
+Шелберн (река)	http://dbpedia.org/resource/Shelburne_River
+
+
+Шелленбах	http://dbpedia.org/resource/Schellenbach
+
+
+Шелонь	http://dbpedia.org/resource/Shelon_River
+
+
+Шельда	http://dbpedia.org/resource/Scheldt
+
+
+Шельде	http://dbpedia.org/resource/Schelde_(Dill)
+
+
+Шемкир	http://dbpedia.org/resource/Shamkirchay
+
+
+Шер (река)	http://dbpedia.org/resource/Cher_(river)
+
+
+Шерцах	http://dbpedia.org/resource/Scherzach
+
+
+Шеффленц	http://dbpedia.org/resource/Schefflenz_(Jagst)
+
+
+Шешма (река)	http://dbpedia.org/resource/Sheshma_River
+
+
+Шешупе	http://dbpedia.org/resource/Šešupė
+
+
+Шилка	http://dbpedia.org/resource/Shilka_River
+
+
+Шильтах (река)	http://dbpedia.org/resource/Schiltach_(river)
+
+
+Ширвинта	http://dbpedia.org/resource/Širvinta
+
+
+Шиффлахе	http://dbpedia.org/resource/Schifflache
+
+
+Шкотовка	http://dbpedia.org/resource/Shkotovka_River
+
+
+Шкумбини	http://dbpedia.org/resource/Shkumbin
+
+
+Шледде	http://dbpedia.org/resource/Schledde_(Ahse)
+
+
+Шлемер-Бах	http://dbpedia.org/resource/Schleemer_Bach
+
+
+Шлина	http://dbpedia.org/resource/Shlina_River
+
+
+Шлингенбах	http://dbpedia.org/resource/Schlingenbach
+
+
+Шлиц (река)	http://dbpedia.org/resource/Schlitz_(river)
+
+
+Шлойзе	http://dbpedia.org/resource/Schleuse_(river)
+
+
+Шлюхт	http://dbpedia.org/resource/Schlücht
+
+
+Шмала	http://dbpedia.org/resource/Schmala
+
+
+Шмаленхофер-Бах	http://dbpedia.org/resource/Schmalenhofer_Bach
+
+
+Шмельцбах	http://dbpedia.org/resource/Schmelzbach
+
+
+Шмерах	http://dbpedia.org/resource/Schmerach
+
+
+Шмибах	http://dbpedia.org/resource/Schmiehbach
+
+
+Шмиттеборнер-Бах	http://dbpedia.org/resource/Schmitteborner_Bach
+
+
+Шмих	http://dbpedia.org/resource/Schmiech
+
+
+Шмуттер	http://dbpedia.org/resource/Schmutter
+
+
+Шнайттах (река)	http://dbpedia.org/resource/Schnaittach_(Pegnitz)
+
+
+Шнаудер	http://dbpedia.org/resource/Schnauder
+
+
+Шожма	http://dbpedia.org/resource/Shozhma_River
+
+
+Шойербах	http://dbpedia.org/resource/Scheuerbach
+
+
+Шондра (река)	http://dbpedia.org/resource/Schondra_(river)
+
+
+Шоргаст	http://dbpedia.org/resource/Schorgast
+
+
+Шоша	http://dbpedia.org/resource/Shosha_River
+
+
+Шошма	http://dbpedia.org/resource/Shoshma_River
+
+
+Шпайербах	http://dbpedia.org/resource/Speyerbach
+
+
+Шпельтах	http://dbpedia.org/resource/Speltach
+
+
+Шпенгер-Мюленбах	http://dbpedia.org/resource/Spenger_Mühlenbach
+
+
+Шписбах	http://dbpedia.org/resource/Spießbach_(Nidder)
+
+
+Шполебах	http://dbpedia.org/resource/Spolebach
+
+
+Шпре	http://dbpedia.org/resource/Spree
+
+
+Шпрелер-Бах	http://dbpedia.org/resource/Spreeler_Bach
+
+
+Шпринг (приток Мильца)	http://dbpedia.org/resource/Spring_(Milz)
+
+
+Шпрунгбах	http://dbpedia.org/resource/Sprungbach
+
+
+Шпёль	http://dbpedia.org/resource/Spöl
+
+
+Штайна (приток Вутаха)	http://dbpedia.org/resource/Steina_(Wutach)
+
+
+Штайнаггер	http://dbpedia.org/resource/Steinagger
+
+
+Штайнах (верхний приток Неккара)	http://dbpedia.org/resource/Steinach_(Nürtingen)
+
+
+штайнах верхний приток Неккара,,	Steinach_(Nürtingen)
+Штайнах (нижний приток Неккара)	http://dbpedia.org/resource/Steinach_(Neckarsteinach)
+
+
+штайнах нижний приток Неккара,,	Steinach_(Neckarsteinach)
+Штайнах (приток Родаха)	http://dbpedia.org/resource/Steinach_(Rodach)
+
+
+Штайнбах (приток Гершпренца)	http://dbpedia.org/resource/Steinbach_(Gersprenz)
+
+
+Штайнбах (приток Нидды)	http://dbpedia.org/resource/Steinbach_(Nidda)
+
+
+Штайнбеке	http://dbpedia.org/resource/Steinbeke
+
+
+Штайнебах (река)	http://dbpedia.org/resource/Steinebach_(Kinzig)
+
+
+Штайнзикбах	http://dbpedia.org/resource/Steinsiekbach
+
+
+Штайнфуртер-А	http://dbpedia.org/resource/Steinfurter_Aa
+
+
+Штайнхаузер-Бах	http://dbpedia.org/resource/Steinhauser_Bach_(Wupper)
+
+
+Штарцель	http://dbpedia.org/resource/Starzel_(Neckar)
+
+
+Штевер	http://dbpedia.org/resource/Stever
+
+
+Штедерау	http://dbpedia.org/resource/Stederau
+
+
+Штендлиц	http://dbpedia.org/resource/Stendlitz
+
+
+Штепениц	http://dbpedia.org/resource/Stepenitz_(Brandenburg)
+
+
+Штоккхаймер-Бах	http://dbpedia.org/resource/Stockheimer_Bach
+
+
+Штоффельсбергер-Бах	http://dbpedia.org/resource/Stoffelsberger_Bach
+
+
+Штрайтмюльбах	http://dbpedia.org/resource/Streitmühlbach
+
+
+Штрангбах	http://dbpedia.org/resource/Strangbach
+
+
+Штрасбах	http://dbpedia.org/resource/Straßbach
+
+
+Штригис	http://dbpedia.org/resource/Striegis
+
+
+Штрой	http://dbpedia.org/resource/Streu_(Franconian_Saale)
+
+
+Штромбах	http://dbpedia.org/resource/Strombach_(Agger)
+
+
+Штротбах	http://dbpedia.org/resource/Strothbach
+
+
+Шуа	http://dbpedia.org/resource/Sjoa
+
+
+Шунтер	http://dbpedia.org/resource/Schunter
+
+
+Шур (река)	http://dbpedia.org/resource/River_Suir
+
+
+Шуртан	http://dbpedia.org/resource/Shurtan_River
+
+
+Шуттер	http://dbpedia.org/resource/Schutter_(Kinzig)
+
+
+Шушве	http://dbpedia.org/resource/Šušvė
+
+
+Шуя (река, впадает в Логмозеро)	http://dbpedia.org/resource/Shuya_River_(Karelia)
+
+
+Шьер	http://dbpedia.org/resource/Chiers
+
+
+Шяшувис	http://dbpedia.org/resource/Šešuvis
+
+
+Шёнбах (река)	http://dbpedia.org/resource/Schönbach_(river)
+
+
+Шёпфебах	http://dbpedia.org/resource/Schöpfebach
+
+
+Щара	http://dbpedia.org/resource/Shchara_River
+
+
+Щучья (приток Оби)	http://dbpedia.org/resource/Shchuchya_River
+
+
+Ы (река)	http://dbpedia.org/resource/Y_River
+
+
+Ыгыатта	http://dbpedia.org/resource/Ygyatta_River
+
+
+Ыхне	http://dbpedia.org/resource/Õhne
+
+
+Эвасо-Нгиро	http://dbpedia.org/resource/Ewaso_Ng'iro
+
+
+Эвротас	http://dbpedia.org/resource/Eurotas_(river)
+
+
+Эга (река)	http://dbpedia.org/resource/Ega_(river)
+
+
+Эггель	http://dbpedia.org/resource/Eggel
+
+
+Эдельбах	http://dbpedia.org/resource/Edelbach
+
+
+Эдер	http://dbpedia.org/resource/Eder
+
+
+Эдер (приток Эггеля)	http://dbpedia.org/resource/Eder_(Eggel)
+
+
+Эдо (река)	http://dbpedia.org/resource/Edo_River
+
+
+Эзе (приток Нете)	http://dbpedia.org/resource/Öse_(Nethe)
+
+
+Эзе (приток Хённе)	http://dbpedia.org/resource/Oese_(Hönne)
+
+
+Эзельсбах (приток Варменау)	http://dbpedia.org/resource/Eselsbach_(Warmenau)
+
+
+Эзельсбах (приток Эльзе)	http://dbpedia.org/resource/Eselsbach_(Else)
+
+
+Эзино	http://dbpedia.org/resource/Esino
+
+
+Эйвон (приток Северна)	http://dbpedia.org/resource/River_Avon,_Warwickshire
+
+
+Эйвон (река, Южный остров)	http://dbpedia.org/resource/Avon_River_(Canterbury)
+
+
+Эйвон (река, впадает в Бристольский залив)	http://dbpedia.org/resource/River_Avon_(Bristol)
+
+
+Эйвон (река, впадает в Ла-Манш)	http://dbpedia.org/resource/River_Avon,_Hampshire
+
+
+Экаллук	http://dbpedia.org/resource/Ekalluk_River
+
+
+Эккбах	http://dbpedia.org/resource/Eckbach
+
+
+Эккельсбах	http://dbpedia.org/resource/Eckelsbach
+
+
+Экс (река)	http://dbpedia.org/resource/River_Exe
+
+
+Экстер (река)	http://dbpedia.org/resource/Exter_(Weser)
+
+
+Элбоу	http://dbpedia.org/resource/Elbow_River
+
+
+Элк (приток Кутенея)	http://dbpedia.org/resource/Elk_River_(British_Columbia)
+
+
+Элк (приток Ямпы)	http://dbpedia.org/resource/Elk_River_(Colorado)
+
+
+Эллербах (приток Альтенау)	http://dbpedia.org/resource/Ellerbach_(Altenau)
+
+
+Эллерброкграбен	http://dbpedia.org/resource/Ellerbrockgraben
+
+
+Эллерзикер-Бах	http://dbpedia.org/resource/Ellersieker_Bach
+
+
+Эллис (река)	http://dbpedia.org/resource/Ellice_River
+
+
+Эль-Газаль	http://dbpedia.org/resource/Bahr_el_Ghazal_River
+
+
+Эльбах (приток Вапельбаха)	http://dbpedia.org/resource/Ölbach_(Wapelbach)
+
+
+Эльбах (приток Рота)	http://dbpedia.org/resource/Ölbach_(Rot)
+
+
+Эльбах (приток Саара)	http://dbpedia.org/resource/Ellbach
+
+
+Эльббах (приток Лана)	http://dbpedia.org/resource/Elbbach_(Lahn)
+
+
+Эльбе (приток Эдера)	http://dbpedia.org/resource/Elbe_(Eder)
+
+
+Эльбекк	http://dbpedia.org/resource/Ehlbeck_(Lopau)
+
+
+Эльде	http://dbpedia.org/resource/Elde
+
+
+Эльзава	http://dbpedia.org/resource/Elsava
+
+
+Эльзе (приток Ленне)	http://dbpedia.org/resource/Else_(Lenne)
+
+
+Эльзебах	http://dbpedia.org/resource/Elsebach
+
+
+Эльзенц	http://dbpedia.org/resource/Elsenz
+
+
+Эльзофф	http://dbpedia.org/resource/Elsoff_(river)
+
+
+Эльки (река)	http://dbpedia.org/resource/Elqui_River
+
+
+Эльмбах	http://dbpedia.org/resource/Elmbach
+
+
+Эльнхаузер-Вассер	http://dbpedia.org/resource/Elnhauser_Wasser
+
+
+Эльпе	http://dbpedia.org/resource/Elpe
+
+
+Эльпенбах	http://dbpedia.org/resource/Elpenbach
+
+
+Эльс	http://dbpedia.org/resource/Els_(Rhön)
+
+
+Эльте	http://dbpedia.org/resource/Elte_(river)
+
+
+Эммер (река)	http://dbpedia.org/resource/Emmer_(Weser)
+
+
+Эмс (приток Эдера)	http://dbpedia.org/resource/Ems_(Eder)
+
+
+Эмсбах	http://dbpedia.org/resource/Emsbach
+
+
+Эмшер	http://dbpedia.org/resource/Emscher
+
+
+Эн (приток Роны)	http://dbpedia.org/resource/Ain_(river)
+
+
+Эна (река)	http://dbpedia.org/resource/Aisne_(river)
+
+
+Энденихер-Бах	http://dbpedia.org/resource/Endenicher_Bach
+
+
+Эндр (река)	http://dbpedia.org/resource/Indre_(river)
+
+
+Энко	http://dbpedia.org/resource/Enco_River
+
+
+Эннепе	http://dbpedia.org/resource/Ennepe
+
+
+Энс (река)	http://dbpedia.org/resource/Enns_(river)
+
+
+Энц (приток Неккара)	http://dbpedia.org/resource/Enz
+
+
+Энца	http://dbpedia.org/resource/Enza
+
+
+Эр (приток Сены)	http://dbpedia.org/resource/Eure_(river)
+
+
+Эр (река, Великобритания)	http://dbpedia.org/resource/River_Aire
+
+
+Эра (приток Эны)	http://dbpedia.org/resource/Aire_(Aisne)
+
+
+Эрбах (приток Близа)	http://dbpedia.org/resource/Erbach_(Blies)
+
+
+Эрбштром	http://dbpedia.org/resource/Erbstrom
+
+
+Эрленбах (приток Бевера)	http://dbpedia.org/resource/Erlenbach_(Bever)
+
+
+Эрленбах (приток Майна)	http://dbpedia.org/resource/Erlenbach_(Main)
+
+
+Эрленбах (приток Ниддера)	http://dbpedia.org/resource/Erlenbach_(Nidder)
+
+
+Эрленбах (приток Нидды)	http://dbpedia.org/resource/Erlenbach_(Nidda)
+
+
+Эрленбах (приток Шпайербаха)	http://dbpedia.org/resource/Erlenbach_(Speyerbach)
+
+
+Эрм	http://dbpedia.org/resource/River_Erme
+
+
+Эрмс	http://dbpedia.org/resource/Erms
+
+
+Эрнстбах	http://dbpedia.org/resource/Ernstbach
+
+
+Эрнц-Бланхе	http://dbpedia.org/resource/White_Ernz
+
+
+Эро (река)	http://dbpedia.org/resource/Hérault_(river)
+
+
+Эррэр	http://dbpedia.org/resource/Erer_River
+
+
+Эрф	http://dbpedia.org/resource/Erf_(river)
+
+
+Эрфт	http://dbpedia.org/resource/Erft
+
+
+Эсгева	http://dbpedia.org/resource/Esgueva
+
+
+Эск	http://dbpedia.org/resource/River_Esk,_Cumbria
+
+
+Эсла	http://dbpedia.org/resource/Esla_(river)
+
+
+Эспе (река)	http://dbpedia.org/resource/Espe_(Fulda)
+
+
+Эспер	http://dbpedia.org/resource/Ösper
+
+
+Эссе (река)	http://dbpedia.org/resource/Esse_(Diemel)
+
+
+Эссельбах (река)	http://dbpedia.org/resource/Esselbach_(Salwey)
+
+
+Эсте (река)	http://dbpedia.org/resource/Este_(river)
+
+
+Этран (река)	http://dbpedia.org/resource/Ätran_(river)
+
+
+Этте	http://dbpedia.org/resource/Ette_(river)
+
+
+Эттернбах	http://dbpedia.org/resource/Oetternbach
+
+
+Эфтер-Бах	http://dbpedia.org/resource/Oefter_Bach
+
+
+Эффельдер (река)	http://dbpedia.org/resource/Effelder_(river)
+
+
+Эфце	http://dbpedia.org/resource/Efze
+
+
+Эхсарау	http://dbpedia.org/resource/Öxará
+
+
+Эцталер-Ахе	http://dbpedia.org/resource/Ötztaler_Ache
+
+
+Эшбах (приток Вуппера)	http://dbpedia.org/resource/Eschbach_(Wupper)
+
+
+Эшбах (приток Нидды)	http://dbpedia.org/resource/Eschbach_(Nidda)
+
+
+Эшбах (приток Узы)	http://dbpedia.org/resource/Eschbach_(Usa)
+
+
+Эшенбек	http://dbpedia.org/resource/Eschenbeek
+
+
+Эшерсбах	http://dbpedia.org/resource/Äschersbach
+
+
+Ю (река)	http://dbpedia.org/resource/Yu_River_(Russia)
+
+
+Юбай	http://dbpedia.org/resource/Ubaye
+
+
+Юг (река)	http://dbpedia.org/resource/Yug_River
+
+
+Южная Аньва	http://dbpedia.org/resource/Yuzhnaya_Anva_River
+
+
+Южная Кельтма	http://dbpedia.org/resource/South_Keltma_River
+
+
+Южная Морава	http://dbpedia.org/resource/South_Morava
+
+
+Юла (приток Пинеги)	http://dbpedia.org/resource/Yula_River
+
+
+Юнгфернбах	http://dbpedia.org/resource/Jungfernbach_(Kassel)
+
+
+Юра (приток Немана)	http://dbpedia.org/resource/Jūra
+
+
+Юрмыс	http://dbpedia.org/resource/Yurmys_River
+
+
+Юрюзань (река)	http://dbpedia.org/resource/Yuryuzan_River
+
+
+Юшут	http://dbpedia.org/resource/Yushut_River
+
+
+Ябах	http://dbpedia.org/resource/Jabach_(Agger)
+
+
+Ябланица (приток Южной Моравы)	http://dbpedia.org/resource/Jablanica_(river)
+
+
+Ягст	http://dbpedia.org/resource/Jagst
+
+
+Ядар	http://dbpedia.org/resource/Jadar_(Drina)
+
+
+Язьва	http://dbpedia.org/resource/Yazva_River
+
+
+Яйва (река)	http://dbpedia.org/resource/Yayva_River
+
+
+Якима (река)	http://dbpedia.org/resource/Yakima_River
+
+
+Ямжач	http://dbpedia.org/resource/Yamzhach_River
+
+
+Ямпа	http://dbpedia.org/resource/Yampa_River
+
+
+Янабах	http://dbpedia.org/resource/Jahnabach
+
+
+Янгон (река)	http://dbpedia.org/resource/Yangon_River
+
+
+Янтра	http://dbpedia.org/resource/Yantra_(river)
+
+
+Яренга	http://dbpedia.org/resource/Yarenga_River
+
+
+Ярра (река)	http://dbpedia.org/resource/Yarra_River
+
+
+Ясачная	http://dbpedia.org/resource/Yasachnaya_River
+
+
+Яугила	http://dbpedia.org/resource/Jaugila
+
+
+Яуза	http://dbpedia.org/resource/Yauza_River
+
+
+Ящера (река)	http://dbpedia.org/resource/Yashchera_River
+
+
