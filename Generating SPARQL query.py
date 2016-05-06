@@ -43,13 +43,15 @@ def import_dictionary(list_of_dict_names, key_index=0, value_index=1):
 
     assert list_of_dict_names
     result_dictionary = dict()
-    for name in list_of_dict_names:
-        with open(name + ".txt", "r", encoding="utf-8") as f:
+    for dict_name in list_of_dict_names:
+        with open(dict_name + ".txt", "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
-                line = line.split("\t")
+                line = line.split(" = ")
                 assert len(line) == 2
-                result_dictionary[line[key_index].strip()] = (line[value_index].strip(), name)
+                pattern = line[key_index].strip()
+                value = line[value_index].strip()
+                result_dictionary[pattern] = (value, dict_name)
 
     os.chdir(PWD)
     return result_dictionary
@@ -83,7 +85,8 @@ def import_ontology(list_of_onto_names):
     os.chdir(PWD)
     return result_dictionary
 
-DICTIONARY_NAMES = ["OBJECT", "SUBJECT", "FULL", "INFO"]
+# DICTIONARY_NAMES = ["OBJECT", "SUBJECT", "FULL", "INFO"]
+DICTIONARY_NAMES = ["subj"]
 
 PROPERTIES = import_dictionary(DICTIONARY_NAMES)
 
@@ -229,7 +232,9 @@ def search_bigram(words_list):
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
 def keyword_search(query):
     for key in PROPERTIES.keys():
-        if key in query:
+        x = re.compile(key)
+        if re.search(x, query):
+            print(PROPERTIES[key])
             return PROPERTIES[key]
     return False
 
@@ -244,8 +249,9 @@ def analyze_input(raw_query):
 
     result = find_location(raw_query)
     print(result)
+
+    keyword = keyword_search(result['query'])
 # TODO: ----------->>>>>>>>>>>>>>>
-    keyword = keyword_search(lemmas)
     if keyword:
         predicate, query_type = keyword[0], keyword[1]
         if query_type == "no_subject":
@@ -364,13 +370,13 @@ def make_query(query):
 
 
 
-# query1 = "описание камышлинского района"
+query1 = "москва столица какой страны"
 query2 = "В каком экономическом регионе находится Москва?"
 query3 = "Какое население в Берлине?"
 query4 = "какие страны в африке?"
 query5 = "острова австралии"
 
-# make_query(query1)
+make_query(query1)
 make_query(query2)
 make_query(query3)
 make_query(query4)
