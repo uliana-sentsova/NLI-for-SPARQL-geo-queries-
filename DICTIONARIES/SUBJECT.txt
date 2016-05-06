@@ -1,5 +1,5 @@
-описание	dbo:abstract
-(какая)?\s+площадь	dbo:areaTotal
+описани.{0,2}	dbo:abstract
+какая площадь	dbo:areaTotal
 в какой страна	dbo:country
 где находиться	dbo:country
 как звать мэр	dbo:leader

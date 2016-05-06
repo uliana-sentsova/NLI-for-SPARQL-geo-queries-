@@ -163,7 +163,8 @@ def find_location(input_query):
                 ind = lemmas.index(synonym)
                 removing.append(ind)
 
-        removing.append(lemmas.index(location))
+        ind = lemmas.index(location)
+        input_query[ind] = category
         for i in removing:
             input_query[i] = ""
 
