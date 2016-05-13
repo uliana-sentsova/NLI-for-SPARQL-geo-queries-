@@ -30,7 +30,6 @@ def import_dictionary(list_of_dict_names, key_index=0, value_index=1):
 def import_ontology(list_of_onto_names):
 
     os.chdir(PWD + "/ONTOLOGIES")
-
     assert list_of_onto_names
     result_dictionary = dict()
     for name in list_of_onto_names:
@@ -126,7 +125,6 @@ def ontology_search(lemmas):
 
 
 def find_location(input_query):
-    print("INPUT:", input_query)
 
     assert type(input_query) == str
 
@@ -137,9 +135,6 @@ def find_location(input_query):
     lemmas = [l for l in lemmas if is_word(l)]
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
-
-    print("LEMMAS:", lemmas)
-
     location_lemmatized, location = ontology_search(lemmas)
     if location:
         location_normalized = location["normalized"]
@@ -147,11 +142,7 @@ def find_location(input_query):
         category = location["type"]
         context = location["context"]
 
-        # print("LOCATION_norm:", location_normalized)
-        # print("LOCATION_lemm:", location_lemmatized)
-        # print("TRANSLATION:", translation)
-        # print("CATEGORY:", category)
-        # print("CONTEXT:", context)
+        print("Location found:", location_normalized)
 
         removing = []
 
@@ -175,10 +166,9 @@ def find_location(input_query):
         input_query = [q for q in input_query if q]
 
         info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
-                        context, "type": category}
+                        context, "type": category, "translation": translation}
         result = []
         result.append(info)
-
         # Повторный поиск в оставшемся запросе:
         if lemmas:
             location_lemmatized, location = ontology_search(lemmas)
@@ -187,12 +177,8 @@ def find_location(input_query):
                 translation = location["translation"]
                 category = location["type"]
                 context = location["context"]
-                # print("----------")
-                # print("LOCATION_norm:", location_normalized)
-                # print("LOCATION_lemm:", location_lemmatized)
-                # print("TRANSLATION:", translation)
-                # print("CATEGORY:", category)
-                # print("CONTEXT:", context)
+
+                print("Location found:", location_normalized)
 
                 removing = []
                 if context:
@@ -209,17 +195,22 @@ def find_location(input_query):
                 input_query = [q for q in input_query if q]
 
                 info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
-                        context, "type": category}
+                        context, "type": category, "translation": translation}
 
                 result.append(info)
 
         if len(result) == 2:
-            result = check_real_subject(result)
-            return result
+            checked = check_real_subject(result)
+            print("Checking for real subject...")
+            if checked:
+                print("Real subject: ", checked["normalized"])
+                return checked
+            else:
+                return result[0]
         elif len(result) > 2:
             raise ValueError("Locations more than two in the query.")
         else:
-            return result
+            return result[0]
 
     else:
         return False
@@ -278,9 +269,10 @@ def search_bigram(words_list):
     for bigram in bigrams:
         if bigram in ONTOLOGY:
             location = (ONTOLOGY[bigram], bigram)
-    for bigram in bigrams:
-        if reordered(bigram) in ONTOLOGY:
-            location = (ONTOLOGY[bigram], bigram)
+    if not location:
+        for bigram in bigrams:
+            if reordered(bigram) in ONTOLOGY:
+                location = (ONTOLOGY[bigram], bigram)
     return location
 
 
@@ -308,21 +300,23 @@ def analyze_input(raw_query):
     raw_query = remove_punctuation(raw_query)
     raw_query = remove_modifiers(raw_query)
 
+    print("Analyzing query pattern...")
     keyword, query = keyword_search(raw_query)
+    print("Query pattern found.")
     if not keyword:
         raise KeyError("Query type not found.")
+    else:
+        predicate, query_type = keyword[0], keyword[1]
 
-    location = find_location(query)
-    print(location)
-    if not location:
-        raise KeyError("Location not found.")
-
-    raise ValueError
-
-
-    predicate, query_type = keyword[0], keyword[1]
-
-    return location["location"]["translation"], predicate, query_type
+        if query_type != "no_subject":
+            print("Searching for a location...")
+            location = find_location(query)
+            if not location:
+                raise KeyError("Location not found.")
+            else:
+                print("Location found.")
+                return [location["translation"], predicate, query_type]
+    return False
 
 
 def choose_pattern(query_type):
@@ -376,7 +370,7 @@ def make_query(query):
 
     print("ЗАПРОС:", query)
     print("------------------------------------------------------------")
-    (subject, predicate, query_type) = analyze_input(query)
+    subject, predicate, query_type = analyze_input(query)
     print("SUBJECT:", subject, "PREDICATE:", predicate)
     query_pattern = construct_query(subject=subject,
                                            predicate=predicate, query_type=query_type)
@@ -399,15 +393,15 @@ def make_query(query):
         print(r)
 
 
-query1 = "новошахтинск ростовский область экономический регион?"
-query2 = "В каком экономическом регионе находится московская область?"
-query3 = "Какое население в Липецке?"
-query4 = "На какой реке расположена Пензенская область?"
+# query1 = "Добринский район"
+query2 = "добринский район липецкая область население"
+# query3 = "Какое население в Липецке?"
+# query4 = "На какой реке расположена Пензенская область?"
 # query4 = "какие страны в африке?"
 # query5 = "острова австралии"
 
-make_query(query1)
+# make_query(query1)
 make_query(query2)
-make_query(query3)
-make_query(query4)
+# make_query(query3)
+# make_query(query4)
 # # make_query(query5)
