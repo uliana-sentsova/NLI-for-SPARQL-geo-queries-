@@ -5,37 +5,7 @@ from pymystem3 import Mystem
 m = Mystem()
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
-# ======================================
-
-# LOCATION_DICTIONARY = dict()
-# with open("RU-EN.txt", 'r', encoding="utf-8") as f:
-#     for line in f:
-#         LOCATION_DICTIONARY[line.split("\t")[0]] = line.strip().split("\t")[1]
-#
-# PROPERTIES = dict()
-# with open("SUBJECT.txt", "r", encoding="utf-8") as g:
-#     for line in g:
-#         line = line.strip().split(",")
-#         PROPERTIES[line[0]] = (line[1], "default")
-#         # PROPERTIES[line[1]] = [l for l in line[0].split(",")]
-#
-# with open("FULL.txt", "r", encoding="utf-8") as g:
-#     for line in g:
-#         line = line.strip().split(",")
-#         PROPERTIES[line[0]] = (line[1], "no_subject")
-#
-# with open("INFO.txt", "r", encoding="utf-8") as g:
-#     for line in g:
-#         line = line.strip().split(",")
-#         PROPERTIES[line[0]] = (line[1], "info")
-#
-# with open("OBJECT.txt", "r", encoding="utf-8") as g:
-#     for line in g:
-#         line = line.strip().split(",")
-#         PROPERTIES[line[0]] = (line[1], "object")
-
 PWD = os.getcwd()
-
 
 def import_dictionary(list_of_dict_names, key_index=0, value_index=1):
 
@@ -70,18 +40,26 @@ def import_ontology(list_of_onto_names):
                 line = line.split("\t")
                 assert len(line) == 2
 
+                normalized = ""
+                context = []
+
                 if "," not in line[0]:
                     onto_key = line[0].strip()
                     onto_value = [line[1].strip(), name]
                 else:
-                    onto_key = line[0].split(",")[0]
-                    onto_value = [line[1].strip(), name]
-                    for word in line[0].split(",")[1:]:
-                        word = word.split(" ")
-                        for w in word:
-                            onto_value.append(w)
+                    onto_value = line[1]
 
-                result_dictionary[onto_key] = onto_value
+                    lino = line[0].split(",")
+                    onto_key = lino[0]
+                    context = lino[1:-1]
+                    normalized = lino[-1]
+                    # for word in line[0].split(",")[1:]:
+                    #     word = word.split(" ")
+                    #     for w in word:
+                    #         onto_value.append(w)
+
+                result_dictionary[onto_key] = {"translation": onto_value, "normalized":
+                    normalized, "context": context, "type": name}
     os.chdir(PWD)
     return result_dictionary
 
@@ -91,12 +69,11 @@ DICTIONARY_NAMES = ["subj"]
 PROPERTIES = import_dictionary(DICTIONARY_NAMES)
 
 
-ONTOLOGY = import_ontology(["CITY"])
-# for key, value in ONTOLOGY.items():
-#     print(key, value)
+ONTOLOGY = import_ontology(["russian_settlement"])
 
 SYNONYMS = dict()
-SYNONYMS["CITY"] = ['город', 'г.', 'деревня', "поселок", "село"]
+SYNONYMS["russian_settlement"] = ['город', 'г.', 'деревня', "поселок", "село", "пгт","населенный пункт", "россия","рф",
+                          "российкий федерация"]
 
 
 def remove_prepositions(raw_query):
@@ -104,12 +81,22 @@ def remove_prepositions(raw_query):
     raw_query = re.sub("^во?\s", "", raw_query)
     raw_query = re.sub("\sво?$", "", raw_query)
     raw_query = re.sub("\sво?\s", " ", raw_query)
+    raw_query = re.sub("^на\s", "", raw_query)
+    raw_query = re.sub("\sна$", "", raw_query)
+    raw_query = re.sub("\sна\s", " ", raw_query)
     return raw_query
 
 
 def remove_punctuation(raw_query):
     assert type(raw_query) == str
     raw_query = re.sub("[\.,!?]", "", raw_query)
+    return raw_query
+
+def remove_modifiers(raw_query):
+    assert type(raw_query) == str
+    modifiers = ["официально", "онлайн", "он лайн"]
+    for m in modifiers:
+        raw_query = raw_query.replace(m, "")
     return raw_query
 
 
@@ -121,7 +108,25 @@ def is_word(word):
     return True
 
 
+def ontology_search(lemmas):
+    location = None
+    location_lemmatized = ""
+    search = search_bigram(lemmas)
+    if search:
+        location, location_lemmatized = [s for s in search]
+    else:
+        for word in lemmas:
+            if word in ONTOLOGY:
+                location = ONTOLOGY[word]
+                location_lemmatized = word
+    if location:
+        return (location_lemmatized, location)
+    else:
+        return False, False
+
+
 def find_location(input_query):
+    print("INPUT:", input_query)
 
     assert type(input_query) == str
 
@@ -132,27 +137,21 @@ def find_location(input_query):
     lemmas = [l for l in lemmas if is_word(l)]
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
-    translation = None
-    location = None
-    category = None
-    context = None
 
-    for word in lemmas:
-        if word in ONTOLOGY:
-            location = ONTOLOGY[word][-1]
-            translation = ONTOLOGY[word][0]
-            category = ONTOLOGY[word][1]
-            context = ONTOLOGY[word][2:-1]
-    # if not location:
-    #     location = search_bigram(lemmas)
-    #     print(location)
-    #     print("!!----!!----!!")
+    print("LEMMAS:", lemmas)
 
-    if translation:
+    location_lemmatized, location = ontology_search(lemmas)
+    if location:
+        location_normalized = location["normalized"]
+        translation = location["translation"]
+        category = location["type"]
+        context = location["context"]
 
-        print("translation:",translation)
-        print("type:",category)
-        print("context:",context)
+        # print("LOCATION_norm:", location_normalized)
+        # print("LOCATION_lemm:", location_lemmatized)
+        # print("TRANSLATION:", translation)
+        # print("CATEGORY:", category)
+        # print("CONTEXT:", context)
 
         removing = []
 
@@ -161,25 +160,82 @@ def find_location(input_query):
                 if word in lemmas:
                     removing.append(lemmas.index(word))
 
-        for synonym in SYNONYMS[category]:
-            if synonym in lemmas:
-                ind = lemmas.index(synonym)
-                removing.append(ind)
+        # for synonym in SYNONYMS[category]:
+        #     if synonym in lemmas:
+        #         ind = lemmas.index(synonym)
+        #         removing.append(ind)
 
-        ind = lemmas.index(location)
-        input_query[ind] = category
+        location_lemmatized = location_lemmatized.split()
+        for l in location_lemmatized:
+            removing.append(lemmas.index(l))
         for i in removing:
             input_query[i] = ""
+            lemmas[i] = ""
+        lemmas = [l for l in lemmas if l]
+        input_query = [q for q in input_query if q]
 
-        input_query = " ".join(input_query).strip()
+        info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
+                        context, "type": category}
+        result = []
+        result.append(info)
 
-        info = {"translation": translation, "type": category, "normalized": location}
-        return {"info": info, "query": input_query}
+        # Повторный поиск в оставшемся запросе:
+        if lemmas:
+            location_lemmatized, location = ontology_search(lemmas)
+            if location:
+                location_normalized = location["normalized"]
+                translation = location["translation"]
+                category = location["type"]
+                context = location["context"]
+                # print("----------")
+                # print("LOCATION_norm:", location_normalized)
+                # print("LOCATION_lemm:", location_lemmatized)
+                # print("TRANSLATION:", translation)
+                # print("CATEGORY:", category)
+                # print("CONTEXT:", context)
+
+                removing = []
+                if context:
+                    for word in context:
+                        if word in lemmas:
+                            removing.append(lemmas.index(word))
+                location_lemmatized = location_lemmatized.split()
+                for l in location_lemmatized:
+                    removing.append(lemmas.index(l))
+                for i in removing:
+                    input_query[i] = ""
+                    lemmas[i] = ""
+                lemmas = [l for l in lemmas if l]
+                input_query = [q for q in input_query if q]
+
+                info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
+                        context, "type": category}
+
+                result.append(info)
+
+        if len(result) == 2:
+            result = check_real_subject(result)
+            return result
+        elif len(result) > 2:
+            raise ValueError("Locations more than two in the query.")
+        else:
+            return result
 
     else:
         return False
 
 print("=======")
+
+
+def check_real_subject(loc_list):
+    assert len(loc_list) == 2
+    for i in loc_list[1]["context"]:
+        if i == loc_list[0]["lemmatized"]:
+            return loc_list[1]
+    for i in loc_list[0]["context"]:
+        if i == loc_list[1]["lemmatized"]:
+            return loc_list[0]
+    return False
 
 
 
@@ -212,8 +268,8 @@ def reordered(bigram):
 # Вспомогательная функция для поиска биграммов в словаре локаций
 # (чтобы находить такие локации как "новосибирская область").
 def search_bigram(words_list):
-    locations = []
     bigrams = []
+    location = None
     for i in range(0, len(words_list)):
         try:
             bigrams.append(words_list[i] + " " + words_list [i + 1])
@@ -221,21 +277,21 @@ def search_bigram(words_list):
             break
     for bigram in bigrams:
         if bigram in ONTOLOGY:
-            locations.append(ONTOLOGY[bigram])
-    if not locations:
-        for bigram in bigrams:
-            if reordered(bigram) in ONTOLOGY:
-                locations.append(ONTOLOGY[bigram])
-    return locations
+            location = (ONTOLOGY[bigram], bigram)
+    for bigram in bigrams:
+        if reordered(bigram) in ONTOLOGY:
+            location = (ONTOLOGY[bigram], bigram)
+    return location
 
 
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
 def keyword_search(query):
     for key in PROPERTIES.keys():
         x = re.compile(key)
-        if re.search(x, query):
-            print(PROPERTIES[key])
-            return PROPERTIES[key]
+        matched = re.findall(x, query)
+        if matched:
+            query = query.replace(matched[0], "")
+            return (PROPERTIES[key], query)
     return False
 
 
@@ -247,86 +303,63 @@ def analyze_input(raw_query):
 
     assert type(raw_query) == str
 
-    result = find_location(raw_query)
-    print(result)
+    raw_query = raw_query.lower()
+    raw_query = remove_prepositions(raw_query)
+    raw_query = remove_punctuation(raw_query)
+    raw_query = remove_modifiers(raw_query)
 
-    keyword = keyword_search(result['query'])
-# TODO: ----------->>>>>>>>>>>>>>>
-    if keyword:
-        predicate, query_type = keyword[0], keyword[1]
-        if query_type == "no_subject":
-            location = ""
-        else:
-            rest = re.sub(predicate, "", lemmas)
-            location = find_location(lemmas)
+    keyword, query = keyword_search(raw_query)
+    if not keyword:
+        raise KeyError("Query type not found.")
 
-            if not location:
-                raise KeyError("Location is not in the dictionary")
-        return (translate_location(location), predicate, query_type)
-    else:
-        print("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
-        raise KeyError
+    location = find_location(query)
+    print(location)
+    if not location:
+        raise KeyError("Location not found.")
+
+    raise ValueError
 
 
-    #
-    # location = find_location(lemmas)
-    # print("Локация: ", location)
-    # if location:
-    #     rest = re.sub(location[0], "", " ".join(lemmas)).strip()
-    #     search = keyword_search(rest)
-    #     if search:
-    #         predicate, query_type = search[0], search[1]
-    #         print("Предикат:", predicate)
-    #     else:
-    #         raise KeyError("В ЗАПРОСЕ НЕ ОБНАРУЖЕНО КЛЮЧЕВЫХ СЛОВ")
-    #     return (translate_location(location), predicate, query_type)
-    # else:
-    #     raise KeyError("Location is not in the dictionary")
+    predicate, query_type = keyword[0], keyword[1]
+
+    return location["location"]["translation"], predicate, query_type
 
 
-
-def define_pattern(query_type):
-    if query_type == "default":
-        return "pattern1"
+def choose_pattern(query_type):
+    if query_type == "subj":
+        return open_pattern("pattern1")
+    elif query_type == "object":
+        return open_pattern("pattern2")
     elif query_type == "no_subject":
-        return "pattern3"
+        return open_pattern("pattern3")
     elif query_type == "info":
-        return "pattern4"
+        return open_pattern("pattern4")
     else:
         return False
 
 
-# Функция создает запрос. На вход подаётся субъект (локация),
-# переменная (неизвестная информация), предикат и шаблон запроса.
-def construct_query(subject, variable, predicate, query_type):
-    print("TYPE:    ", query_type)
-    query_pattern = define_pattern(query_type)
-    print("PATTERN:    ", query_pattern)
-    if query_pattern == "pattern1" or query_pattern == "pattern2":
-        query_pattern = open_pattern(query_pattern)
-        query_pattern = query_pattern.replace("SUBJECT", subject)
-        query_pattern = query_pattern.replace("PREDICATE", predicate)
+def construct_query(subject, predicate, query_type, variable="concept"):
+    print(query_type)
+    query_pattern = choose_pattern(query_type)
+    if not query_pattern:
+        raise KeyError("Pattern not found.")
 
-    elif query_pattern == "pattern3":
-        query_pattern = open_pattern(query_pattern)
-        query_pattern = query_pattern.replace("PREDICATE", predicate)
-
-    elif query_pattern == "pattern4":
-        query_pattern = open_pattern(query_pattern)
-        query_pattern = query_pattern.replace("SUBJECT", subject)
-
-    else:
-        print("ТИП ЗАПРОСА НЕ НАЙДЕН.")
-
+    query_pattern = query_pattern.replace("SUBJECT", subject)
+    query_pattern = query_pattern.replace("PREDICATE", predicate)
     query_pattern = query_pattern.replace("VARIABLE", variable)
+
+    return query_pattern
+
+
+def ask_query(query_pattern, variable="concept"):
+    assert not variable.startswith("?")
     sparql.setQuery(query_pattern)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
     final = []
     for result in results["results"]["bindings"]:
         final.append(result[variable]["value"])
-    return query_pattern, final
-
+    return final
 
 
 # TODO: написать функцию, подобную pattern-handler'у из бутстреппинга, чтобы одинаково мэтчились фразы "в берлине",
@@ -338,21 +371,22 @@ def construct_query(subject, variable, predicate, query_type):
 
 # TODO: сделать так, чтобы сначала поиск шел по полным шаблонам, где уже известен и объект и предикат
 
-
-
 # Делаем запрос
 def make_query(query):
-    # Открываем шаблоны
 
-    # pattern2 = open_pattern("pattern2.txt")
-    print("\n")
-    print("ЗАПРОС:")
-    print(query)
+    print("ЗАПРОС:", query)
     print("------------------------------------------------------------")
     (subject, predicate, query_type) = analyze_input(query)
-    print(subject, predicate)
-    sparql_query, result = construct_query(subject=subject, variable="variable",
+    print("SUBJECT:", subject, "PREDICATE:", predicate)
+    query_pattern = construct_query(subject=subject,
                                            predicate=predicate, query_type=query_type)
+    print("\n" + "ТЕЛО ЗАПРОСА: ")
+    print("------------------------------------------------------------")
+    print(query_pattern)
+    print("------------------------------------------------------------")
+
+    result = ask_query(query_pattern)
+
     # if not result:
     #     sparql_query, result = construct_query(subject=subject, variable="variable",
     #                                            predicate=predicate, query_type="pattern2")
@@ -363,18 +397,14 @@ def make_query(query):
     print("РЕЗУЛЬТАТ ЗАПРОСА: ")
     for r in result:
         print(r)
-    print("\n" + "ТЕЛО ЗАПРОСА: ")
-    print("------------------------------------------------------------")
-    print(sparql_query)
-    print("------------------------------------------------------------")
 
 
-
-query1 = "москва столица какой страны"
-query2 = "В каком экономическом регионе находится Москва?"
-query3 = "Какое население в Берлине?"
-query4 = "какие страны в африке?"
-query5 = "острова австралии"
+query1 = "новошахтинск ростовский область экономический регион?"
+query2 = "В каком экономическом регионе находится московская область?"
+query3 = "Какое население в Липецке?"
+query4 = "На какой реке расположена Пензенская область?"
+# query4 = "какие страны в африке?"
+# query5 = "острова австралии"
 
 make_query(query1)
 make_query(query2)

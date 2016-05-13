@@ -1,0 +1,17 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX resource: <http://dbpedia.org/resource/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX foaf: <http://xmlns.com/foaf/spec/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+
+SELECT ?name
+WHERE
+{
+ resource:SUBJECT rdfs:label ?name .
+FILTER ( langMatches (lang(?name), "ru") )
+}
+
+LIMIT 100

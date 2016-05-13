@@ -162,7 +162,8 @@ LIMIT 10000
 
 
 "Карликовые государства Европы"	"http://dbpedia.org/resource/European_microstates"
-
+Cities_of_Military_Glory
+Spa_towns_in_Russia
 
 
 select distinct ?label, ?Concept
@@ -176,3 +177,16 @@ FILTER langMatches(lang(?label), "ru") .
 
 ORDER by ?label
 LIMIT 10000
+
+select distinct ?cityname, ?city, ?name, ?abstract where {
+?Concept rdf:type dbo:Country;
+     rdfs:label ?name .
+?city dbo:country ?Concept ;
+     rdf:type dbo:PopulatedPlace;
+     rdfs:label ?cityname.
+?city dbo:abstract ?abstract .
+FILTER langMatches( lang(?name), "ru" ) .
+FILTER langMatches( lang(?cityname), "ru" ) .
+FILTER regex(?cityname, "^[авбгдеёжз]", "i")
+FILTER regex(?abstract, "город|муниципалитет|насел[её]нный|станица|коммуна|район|община|село|деревня|столица|пос[её]лок|провинция", "i")
+} ORDER BY ?cityname LIMIT 30000
