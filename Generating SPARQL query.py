@@ -7,7 +7,7 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
 PWD = os.getcwd()
 
-def import_dictionary(list_of_dict_names, key_index=0, value_index=1):
+def import_dictionary(list_of_dict_names):
 
     os.chdir(PWD + "/DICTIONARIES")
 
@@ -18,9 +18,9 @@ def import_dictionary(list_of_dict_names, key_index=0, value_index=1):
             for line in f:
                 line = line.strip()
                 line = line.split(" = ")
-                assert len(line) == 2
-                pattern = line[key_index].strip()
-                value = line[value_index].strip()
+                assert len(line) == 3
+                pattern = line[0].strip()
+                value = [l for l in line[1:]]
                 result_dictionary[pattern] = (value, dict_name)
 
     os.chdir(PWD)
@@ -63,10 +63,11 @@ def import_ontology(list_of_onto_names):
     return result_dictionary
 
 # DICTIONARY_NAMES = ["OBJECT", "SUBJECT", "FULL", "INFO"]
-DICTIONARY_NAMES = ["subj"]
+DICTIONARY_NAMES = ["subj", "obj_loc"]
 
-PROPERTIES = import_dictionary(DICTIONARY_NAMES)
-
+PREDICATES = import_dictionary(DICTIONARY_NAMES)
+# for key in PREDICATES:
+#     print(key, PREDICATES[key])
 
 ONTOLOGY = import_ontology(["russian_settlement"])
 
@@ -91,6 +92,7 @@ def remove_punctuation(raw_query):
     raw_query = re.sub("[\.,!?]", "", raw_query)
     return raw_query
 
+
 def remove_modifiers(raw_query):
     assert type(raw_query) == str
     modifiers = ["официально", "онлайн", "он лайн"]
@@ -108,10 +110,19 @@ def is_word(word):
 
 
 def ontology_search(lemmas):
+    """
+    Функция для поиска локации в онтологии. Поиск жадный: сначала ищутся биграммы, затем единичные токены.
+    :param lemmas: лемматизированный запрос (список)
+    :return:
+    """
     location = None
     location_lemmatized = ""
+
+    # Поиск по биграммам:
     search = search_bigram(lemmas)
     if search:
+        # Location - вся информация о локации, которая содержится в онтологии;
+        # location_lemmatized - лемма, вход в онтологию
         location, location_lemmatized = [s for s in search]
     else:
         for word in lemmas:
@@ -119,12 +130,22 @@ def ontology_search(lemmas):
                 location = ONTOLOGY[word]
                 location_lemmatized = word
     if location:
-        return (location_lemmatized, location)
+        return location_lemmatized, location
     else:
         return False, False
 
 
 def find_location(input_query):
+    """
+    Функция для поиска локации в запросе. Максимально возможное количество найденных локаций: 2 (пока что).
+    Функция ищет локации, если найдено две локации, то сравнивает дескрипторы каждой из локаций, чтобы
+    можно было определить, является запрос уточнением одной локации (троицк москва) или объединением двух локаций
+    (москва новосибирск).
+    :param input_query: запрос, тип: строка
+    :return: список словарей, каждый словарь содержит ключи: normalized (нормализованный тип локации), lemmatized
+    (лемма в онтологии), context (дескрипторы), translation (URI из DBPedia) и category (тип локации - город, река,
+    континент, государство и т.д.).
+    """
 
     assert type(input_query) == str
 
@@ -204,21 +225,30 @@ def find_location(input_query):
             print("Checking for real subject...")
             if checked:
                 print("Real subject: ", checked["normalized"])
-                return checked
+                return [checked]
             else:
-                return result[0]
+                return result
         elif len(result) > 2:
             raise ValueError("Locations more than two in the query.")
         else:
-            return result[0]
+            return result
 
     else:
         return False
 
-print("=======")
-
 
 def check_real_subject(loc_list):
+    """
+    Функция проверяет, входит ли одна локация в другую с точки зрения онтологии.
+    Пример 1: обрабатывая запрос ["никольск", "пензенская область"], функция вернет локацию Никольск,
+    так как Никольск находится в Пензенской области.
+
+    Пример 2: обрабатывая запрос ["новосибирск", "москва"]", функция вернет значение False,
+    так как Новосибирск и Москва являются локациями одного уровня, согласно онтологии.
+    :param loc_list: список локаций (пока можно подавать  на вход только две!)
+    :return: False, если локации одного уровня. Если локации разных уровней (город и регион), вернет локацию с
+    меньшим уровнем (город).
+    """
     assert len(loc_list) == 2
     for i in loc_list[1]["context"]:
         if i == loc_list[0]["lemmatized"]:
@@ -229,24 +259,19 @@ def check_real_subject(loc_list):
     return False
 
 
-
-# ======================================
 # Функция импортирует шаблон.
 def open_pattern(pattern_name):
+    """
+    Функция импортирует шаблон по заданному имени.
+    :param pattern_name:
+    :return:
+    """
     os.chdir(PWD + "/Patterns")
     with open(pattern_name + ".txt", 'r') as pattern:
         pattern = pattern.read()
+    os.chdir(PWD)
     return pattern
 
-
-# Вспомогательная функция для проверки, является ли токен словом,
-# а не знаком пунктуации или цифрами.
-# def is_word(word):
-#     assert type(word) == str
-#     for symbol in word:
-#         if symbol not in "абвгдеёжзийклмнопрстуфхцчшщъыьэюя":
-#             return False
-#     return True
 
 
 # Вспомогательная функция
@@ -278,12 +303,12 @@ def search_bigram(words_list):
 
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
 def keyword_search(query):
-    for key in PROPERTIES.keys():
+    for key in PREDICATES.keys():
         x = re.compile(key)
         matched = re.findall(x, query)
         if matched:
             query = query.replace(matched[0], "")
-            return (PROPERTIES[key], query)
+            return (PREDICATES[key], query)
     return False
 
 
@@ -307,6 +332,7 @@ def analyze_input(raw_query):
         raise KeyError("Query type not found.")
     else:
         predicate, query_type = keyword[0], keyword[1]
+        print("PREDICATE", predicate)
 
         if query_type != "no_subject":
             print("Searching for a location...")
@@ -314,64 +340,121 @@ def analyze_input(raw_query):
             if not location:
                 raise KeyError("Location not found.")
             else:
-                print("Location found.")
-                return [location["translation"], predicate, query_type]
+                locations = [l["translation"] for l in location]
+                if len(locations) > 1:
+                    query_type = query_type + "_union_" + str(len(locations))
+                return [locations, predicate, query_type]
     return False
 
 
 def choose_pattern(query_type):
+    """
+    Функция по типу предиката выбирает шаблон для запроса
+    :param query_type: тип предиката, известен из словаря предикатов
+    :return: строка, содержащая шаблон SPARQL
+    """
     if query_type == "subj":
-        return open_pattern("pattern1")
+        return open_pattern("subject")
     elif query_type == "object":
         return open_pattern("pattern2")
     elif query_type == "no_subject":
         return open_pattern("pattern3")
+    elif query_type == "obj_loc":
+        return open_pattern("obj_loc")
     elif query_type == "info":
         return open_pattern("pattern4")
+    elif query_type == "subj_union_2":
+        return open_pattern("subj_union_2")
+    elif query_type == "obj_union_2":
+        return open_pattern("obj_union_2")
     else:
         return False
 
 
-def construct_query(subject, predicate, query_type, variable="concept"):
-    print(query_type)
+def construct_query(subject, predicate, query_type, variable="VARIABLE"):
+    """
+    Функция берет на вход субъект, предикат и тип запроса и формирует шаблон SPARQL. Функция проверяет, относительно
+    какого количества локаций необходимо сделать запрос. Если локаций больше 1, функция заменяет обе локации в шаблоне
+    :param subject:
+    :param predicate:
+    :param query_type:
+    :param variable:
+    :return:
+    """
     query_pattern = choose_pattern(query_type)
     if not query_pattern:
         raise KeyError("Pattern not found.")
+    if "union" not in query_type:
+        subject = subject[0]
+        if "obj" in query_type:
 
-    query_pattern = query_pattern.replace("SUBJECT", subject)
-    query_pattern = query_pattern.replace("PREDICATE", predicate)
-    query_pattern = query_pattern.replace("VARIABLE", variable)
+            obj_type = predicate[1]
+            predicate = predicate[0]
+
+            query_pattern = query_pattern.replace("SUBJECT", subject)
+            query_pattern = query_pattern.replace("TYPE", obj_type)
+            query_pattern = query_pattern.replace("PREDICATE", predicate)
+        else:
+            predicate = predicate[0]
+            query_pattern = query_pattern.replace("SUBJECT", subject)
+            query_pattern = query_pattern.replace("PREDICATE", predicate)
+            query_pattern = query_pattern.replace("VARIABLE", variable)
+
+    else:
+        predicate = predicate[0]
+        query_pattern = query_pattern.replace("PREDICATE", predicate)
+        for i in range(0, len(subject)):
+            query_pattern = query_pattern.replace("SUBJECT" + str(i + 1), subject[i])
+            query_pattern = query_pattern.replace("VARIABLE" + str(i + 1), variable + str(i+1))
 
     return query_pattern
 
 
-def ask_query(query_pattern, variable="concept"):
+def ask_query(query_pattern, variable="VARIABLE", num_vars=1):
+    """
+    Функция отправляет сформированный запрос SPAQRL в DBPedia. Предварительно функция проверяет правильность имени
+    переменной, а также количество переменных, которых не может быть больше двух и меньше единицы (пока что).
+    :param query_pattern: готовый шаблон SPARQL
+    :param variable: название переменной, лучше не менять
+    :param num_vars: количество переменных в запросе
+    :return:
+    """
     assert not variable.startswith("?")
-    sparql.setQuery(query_pattern)
-    sparql.setReturnFormat(JSON)
-    results = sparql.query().convert()
-    final = []
-    for result in results["results"]["bindings"]:
-        final.append(result[variable]["value"])
-    return final
+    assert "_" not in variable
+    assert num_vars > 0
+    assert num_vars < 3
+    if num_vars == 1:
+        sparql.setQuery(query_pattern)
+        sparql.setReturnFormat(JSON)
+        results = sparql.query().convert()
+        final = []
+        for result in results["results"]["bindings"]:
+            final.append(result[variable]["value"])
+        return final
 
+    elif num_vars == 2:
+        sparql.setQuery(query_pattern)
+        sparql.setReturnFormat(JSON)
+        results = sparql.query().convert()
+        final = []
+        for result in results["results"]["bindings"]:
+            variable1 = variable + "1"
+            variable2 = variable + "2"
+            final.append(result[variable1]["value"])
+            final.append(result[variable2]["value"])
+        return final
 
-# TODO: написать функцию, подобную pattern-handler'у из бутстреппинга, чтобы одинаково мэтчились фразы "в берлине",
-# TODO: "берлина", "берлин"
+    else:
+        return False
 
-# TODO: подумать, как сделать функцию выбора шаблона sparql
-
-# TODO: написать грамматику, которая делает из простой локации разные варианты (новосибирск, город новосибирск)
-
-# TODO: сделать так, чтобы сначала поиск шел по полным шаблонам, где уже известен и объект и предикат
 
 # Делаем запрос
 def make_query(query):
-
+    print("------------------------------------------------------------")
     print("ЗАПРОС:", query)
     print("------------------------------------------------------------")
     subject, predicate, query_type = analyze_input(query)
-    print("SUBJECT:", subject, "PREDICATE:", predicate)
+    # print("SUBJECT:", subject, "PREDICATE:", predicate)
     query_pattern = construct_query(subject=subject,
                                            predicate=predicate, query_type=query_type)
     print("\n" + "ТЕЛО ЗАПРОСА: ")
@@ -379,29 +462,26 @@ def make_query(query):
     print(query_pattern)
     print("------------------------------------------------------------")
 
-    result = ask_query(query_pattern)
-
-    # if not result:
-    #     sparql_query, result = construct_query(subject=subject, variable="variable",
-    #                                            predicate=predicate, query_type="pattern2")
-    # if not result:
-    #     sparql_query, result = construct_query(subject=subject, variable="variable",
-    #                                            predicate=predicate, query_type="pattern4")
+    result = ask_query(query_pattern, variable="VARIABLE", num_vars = len(subject))
 
     print("РЕЗУЛЬТАТ ЗАПРОСА: ")
-    for r in result:
-        print(r)
+    if result:
+        for r in result:
+            print(r)
+
+    print("\n\n\n")
 
 
-# query1 = "Добринский район"
-query2 = "добринский район липецкая область население"
-# query3 = "Какое население в Липецке?"
-# query4 = "На какой реке расположена Пензенская область?"
-# query4 = "какие страны в африке?"
-# query5 = "острова австралии"
+query1 = "Где находится г. Липецк?"
+query2 = "мэр города новосибирска и москвы"
+query3 = "На какой реке расположен Красноярск?"
+query4 = "река ульяновск"
+query5 = "Новосибирск какая река рядом?"
+# # query4 = "какие страны в африке?"
+# # query5 = "острова австралии"
 
-# make_query(query1)
+make_query(query1)
 make_query(query2)
-# make_query(query3)
-# make_query(query4)
-# # make_query(query5)
+make_query(query3)
+make_query(query4)
+make_query(query5)

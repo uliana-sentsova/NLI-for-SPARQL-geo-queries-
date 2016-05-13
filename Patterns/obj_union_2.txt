@@ -7,9 +7,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX foaf: <http://xmlns.com/foaf/spec/>
 PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 
-SELECT ?VARIABLE
+SELECT ?VARIABLE1, ?VARIABLE2
 WHERE
 {
- ?VARIABLE PREDICATE <SUBJECT> .
+ ?VARIABLE1 PREDICATE <SUBJECT1> .
+ ?VARIABLE2 PREDICATE <SUBJECT2> .
 }
 LIMIT 100
