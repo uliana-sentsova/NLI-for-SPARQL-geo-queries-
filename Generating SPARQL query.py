@@ -7,6 +7,7 @@ sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
 PWD = os.getcwd()
 
+
 def import_dictionary(list_of_dict_names):
 
     os.chdir(PWD + "/DICTIONARIES")
@@ -104,7 +105,7 @@ def remove_modifiers(raw_query):
 def is_word(word):
     assert type(word) == str
     for symbol in word.lower():
-        if symbol not in "абвгдеёжзийклмнопрстуфхцчшщъыьэюя":
+        if symbol not in "абвгдеёжзийклмнопрстуфхцчшщъыьэюя-":
             return False
     return True
 
@@ -222,11 +223,14 @@ def find_location(input_query):
 
         if len(result) == 2:
             checked = check_real_subject(result)
-            print("Checking for real subject...")
+            print("Subjects analysis...")
             if checked:
-                print("Real subject: ", checked["normalized"])
+                print("One subject: ", checked["normalized"])
                 return [checked]
             else:
+                print("Number of subjects: ", len(result))
+                print("Subject 1: ", result[0]["normalized"])
+                print("Subject 2: ", result[1]["normalized"])
                 return result
         elif len(result) > 2:
             raise ValueError("Locations more than two in the query.")
@@ -304,7 +308,10 @@ def search_bigram(words_list):
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
 def keyword_search(query):
     for key in PREDICATES.keys():
-        x = re.compile(key)
+        try:
+            x = re.compile(key)
+        except Exception:
+            print("______", key)
         matched = re.findall(x, query)
         if matched:
             query = query.replace(matched[0], "")
@@ -327,12 +334,13 @@ def analyze_input(raw_query):
 
     print("Analyzing query pattern...")
     keyword, query = keyword_search(raw_query)
-    print("Query pattern found.")
+
     if not keyword:
         raise KeyError("Query type not found.")
     else:
         predicate, query_type = keyword[0], keyword[1]
-        print("PREDICATE", predicate)
+        print("Query pattern found. Type:", query_type)
+        print("Predicate:", predicate[0])
 
         if query_type != "no_subject":
             print("Searching for a location...")
@@ -472,16 +480,34 @@ def make_query(query):
     print("\n\n\n")
 
 
-query1 = "Где находится г. Липецк?"
+query1 = "где находиться г. липецк?"
 query2 = "мэр города новосибирска и москвы"
 query3 = "На какой реке расположен Красноярск?"
-query4 = "река ульяновск"
+query4 = "Ульяновск кто родился из знаменитостей"
 query5 = "Новосибирск какая река рядом?"
-# # query4 = "какие страны в африке?"
-# # query5 = "острова австралии"
+query6 = "Москва столица какого государства?"
+query7 = "экономический регион москвы?"
+query8 = "тюмень где располагается"
+query9 = "про екатеринбург"
+query10 = "кемерово описание"
+query11 = "омск томск координаты"
+query12 = "Москва столица какого государства?"
 
-make_query(query1)
-make_query(query2)
-make_query(query3)
-make_query(query4)
-make_query(query5)
+queries = ["где находиться г. липецк?", "численность москвы и московской области", "про екатеринбург",
+           "грязи липецкая область какая численность", "мэр воронежа", "мэр города новосибирска и москвы",
+           "На какой реке расположен Красноярск?", "Новосибирск какая река рядом?", "экономический регион москвы?",
+           "Москва столица какого государства?", "тюмень где располагается", "кемерово описание", "омск томск координаты"
+           "где расположен владивосток", "петербург координаты", "широта санкт-петербург в градусах", "реки россии",
+           "липецк экономический регион"]
+
+for query in queries:
+    try:
+        make_query(query)
+    except KeyError:
+        print("ЗАПРОС НЕ ОБРАБОТАН", query)
+
+
+
+# for query in queries:
+#     make_query(query)
+# make_query(query5)
