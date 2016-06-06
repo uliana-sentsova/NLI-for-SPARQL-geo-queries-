@@ -215,7 +215,9 @@ def new_locations(patterns, sourcefile = "queries.txt"):
 
 
 def check_location(query):
-    if constructor.find_location(query):
+    query = m.lemmatize(query)
+    query = "".join(query)
+    if constructor.ontology_search(query):
         return True
     else:
         return False
@@ -230,12 +232,14 @@ queries_location(city_names, queries="queries.txt", break_by=50000000)
 evaluation_set = []
 for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
     query_array = []
+    print("Создание коллекции случайно выбранных запросов для ключевого слова: ", filename.split(".")[0].lower())
     with open(filename, "r", encoding="utf-8") as keyword_file:
         for line in keyword_file:
             line = line.strip()
-            query_array.append(line)
+            if check_location(line):
+                query_array.append(line)
         for i in range(0, 100):
-            random_index = random.randint(0, 49999999)
+            random_index = random.randint(0, len(query_array) - 1)
             random_query = query_array[random_index]
             evaluation_set.append(random_query)
 
