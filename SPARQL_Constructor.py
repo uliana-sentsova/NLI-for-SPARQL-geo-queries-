@@ -34,7 +34,7 @@ def import_ontology(list_of_onto_names):
     assert list_of_onto_names
     result_dictionary = dict()
     for name in list_of_onto_names:
-        with open(name + ".txt", "r", encoding="utf-8") as f:
+        with open(name, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 line = line.split("\t")
@@ -511,11 +511,11 @@ queries = ["где находиться г. липецк?", "численнос�
            "где расположен владивосток", "петербург координаты", "широта санкт-петербург в градусах", "реки россии",
            "липецк экономический регион", "омск в каком округе находиться", "магадан какой край"]
 
-for query in queries:
-    try:
-        make_query(query)
-    except KeyError:
-        print("ЗАПРОС НЕ ОБРАБОТАН", query)
+# for query in queries:
+#     try:
+#         make_query(query)
+#     except KeyError:
+#         print("ЗАПРОС НЕ ОБРАБОТАН", query)
 
 
 

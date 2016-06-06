@@ -3,6 +3,7 @@ from pymystem3 import Mystem
 import SPARQL_Constructor as constructor
 m = Mystem()
 import re
+import random
 
 # Функция для поиска заданной подстроки во всех поисковых запросах.
 def queries_location(locations_list, queries = "queries.txt", break_by=162000000):
@@ -220,10 +221,26 @@ def check_location(query):
         return False
 
 
-city_names = ["широта", "долгота", "географическое положение", "численность", "родился в", ]
+city_names = ["широта", "долгота"]
+# "географическое положение", "численность", "родился в", "экономический регион",
+#               "река рядом", "координаты"]
 queries_location(city_names, queries="queries.txt", break_by=50000000)
 
 
+evaluation_set = []
+for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
+    query_array = []
+    with open(filename, "r", encoding="utf-8") as keyword_file:
+        for line in keyword_file:
+            line = line.strip()
+            query_array.append(line)
+        for i in range(0, 100):
+            random_index = random.randint(0, 49999999)
+            random_query = query_array[random_index]
+            evaluation_set.append(random_query)
+
+for entry in evaluation_set:
+    print(entry)
 
 
 
