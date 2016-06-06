@@ -10,7 +10,7 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?name
 WHERE
 {
- resource:SUBJECT rdfs:label ?name .
+ <SUBJECT> rdfs:label ?name .
 FILTER ( langMatches (lang(?name), "ru") )
 }
 

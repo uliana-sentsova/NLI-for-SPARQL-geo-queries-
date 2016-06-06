@@ -1,7 +1,0 @@
-про	dbo:abstract
-описание	dbo:abstract
-информация о	dbo:abstract
-общий информация	dbo:abstract
-что такой	dbo:abstract
-это	dbo:abstract
-что это	dbo:abstract
