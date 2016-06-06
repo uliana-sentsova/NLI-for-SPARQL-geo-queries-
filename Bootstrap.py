@@ -1,10 +1,11 @@
 import os
 from pymystem3 import Mystem
+import SPARQL_Constructor as constructor
 m = Mystem()
 import re
 
 # Функция для поиска заданной подстроки во всех поисковых запросах.
-def queries_location(locations_list, queries = "queries.txt"):
+def queries_location(locations_list, queries = "queries.txt", break_by=162000000):
     """
     Функция берет на вход массив строк (географических названий) и делает поиск по файлу запросов. Запросы для каждого
     географического названия функция записывает в текстовый файл с названием, соответствующим названию геолокации.
@@ -17,14 +18,18 @@ def queries_location(locations_list, queries = "queries.txt"):
     count = 0
     try:
         for location in locations_list:
-            with open(location.capitalize() + ".txt", 'w') as target_file, open(queries, 'r', encoding='utf-8') as source_file:
+            with open("Bootstrap_results/" + location.capitalize() + ".txt", 'w') as target_file, open(queries, 'r', encoding='utf-8') as source_file:
                 p = re.compile(location+"\w{0,2}", re.IGNORECASE)
                 for line in source_file:
                     if p.search(line) is not None:
                         target_file.write(line)
                     count += 1
                     if count % 1000000 == 0:
-                        print("Обработано ", count, " строк (локация: ", location, ").")
+                        print("Обработано ", count, " строк (ключевое слово: ", location, ").")
+                    if count >= break_by:
+                        print("Достигнуто количество строк: ", break_by)
+                        print("Переход к следующему ключевому слову...")
+                        break
                 count = 0
         return True
     except Exception as err:
@@ -208,35 +213,46 @@ def new_locations(patterns, sourcefile = "queries.txt"):
     return locations
 
 
-# city_names = ["широта", "долгота", "географическое положение", "численность"]
-# queries_location(city_names, filename="queries.txt")
+def check_location(query):
+    if constructor.find_location(query):
+        return True
+    else:
+        return False
 
 
-# Файл для хранения использованных шаблонов, чтобы избежать повторений.
-used_patterns = []
-with open("Used_patterns.txt", "r", encoding="utf-8") as h:
-    for line in h:
-        used_patterns.append(line.strip())
+city_names = ["широта", "долгота", "географическое положение", "численность", "родился в", ]
+queries_location(city_names, queries="queries.txt", break_by=50000000)
 
-freq = all_patterns()
-freq = frequent_patterns(freq, threshold=300)
 
-patterns_to_use = [key for key in freq if len(key.split()) > 2]
-print(patterns_to_use)
 
-with open("Used_patterns.txt", "a", encoding="utf-8") as f:
-    f.write("\n")
-    for p in patterns_to_use:
-        f.write(p + "\n")
-print("Использованные паттерны записаны в файл Used_patterns.txt.")
 
-# Ищем новые географические локации и составляем из полученных частотный словарь
-locations = new_locations(patterns_to_use)
-freq_locations = make_freq_dict(locations)
 
-# Записываем самые часто встречающиеся новые географические названия в файл:
-f = open("New locations.txt", 'w')
-for popular in most_popular(freq_locations, 150):
-    print(m.lemmatize(popular[1])[0])
-    f.write(popular[1] + '\n')
-f.close()
+
+# # Файл для хранения использованных шаблонов, чтобы избежать повторений.
+# used_patterns = []
+# with open("Used_patterns.txt", "r", encoding="utf-8") as h:
+#     for line in h:
+#         used_patterns.append(line.strip())
+#
+# freq = all_patterns()
+# freq = frequent_patterns(freq, threshold=300)
+#
+# patterns_to_use = [key for key in freq if len(key.split()) > 2]
+# print(patterns_to_use)
+#
+# with open("Used_patterns.txt", "a", encoding="utf-8") as f:
+#     f.write("\n")
+#     for p in patterns_to_use:
+#         f.write(p + "\n")
+# print("Использованные паттерны записаны в файл Used_patterns.txt.")
+#
+# # Ищем новые географические локации и составляем из полученных частотный словарь
+# locations = new_locations(patterns_to_use)
+# freq_locations = make_freq_dict(locations)
+#
+# # Записываем самые часто встречающиеся новые географические названия в файл:
+# f = open("New locations.txt", 'w')
+# for popular in most_popular(freq_locations, 150):
+#     print(m.lemmatize(popular[1])[0])
+#     f.write(popular[1] + '\n')
+# f.close()

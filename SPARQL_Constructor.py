@@ -10,7 +10,7 @@ PWD = os.getcwd()
 
 def import_dictionary(list_of_dict_names):
 
-    os.chdir(PWD + "/DICTIONARIES")
+    os.chdir(PWD + "/PREDICATES_DICTIONARY")
 
     assert list_of_dict_names
     result_dictionary = dict()
@@ -70,12 +70,22 @@ PREDICATES = import_dictionary(DICTIONARY_NAMES)
 # for key in PREDICATES:
 #     print(key, PREDICATES[key])
 
-ONTOLOGY = import_ontology(["russian_settlement"])
+ONTOLOGY = import_ontology(os.listdir(PWD + "/ONTOLOGIES"))
 
 SYNONYMS = dict()
-SYNONYMS["russian_settlement"] = ['город', 'г.', 'деревня', "поселок", "село", "пгт","населенный пункт", "россия","рф",
+SYNONYMS["settlements"] = ["город", "г.", "деревня", "поселок", "село", "пгт","населенный пункт", "россия","рф",
                           "российкий федерация"]
-SYNONYMS["russian_river"] = ['река', 'речка']
+SYNONYMS["rivers"] = ["река", "речка"]
+SYNONYMS["mountains"] = ["гора", "сопка", "вулкан"]
+SYNONYMS["seas"] = ["море"]
+SYNONYMS["volcanos"] = ["вулкан", "гора"]
+SYNONYMS["islands"] = ["архипелаг", "остров"]
+SYNONYMS["lakes"] = ["озеро", "водохранилище"]
+SYNONYMS["regions"] = ["край", "регион", "область"]
+
+
+
+
 
 
 def remove_prepositions(raw_query):
@@ -271,7 +281,7 @@ def open_pattern(pattern_name):
     :param pattern_name:
     :return:
     """
-    os.chdir(PWD + "/Patterns")
+    os.chdir(PWD + "/PATTERNS_LIBRARY")
     with open(pattern_name + ".txt", 'r') as pattern:
         pattern = pattern.read()
     os.chdir(PWD)

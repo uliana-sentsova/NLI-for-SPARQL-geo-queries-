@@ -9,7 +9,7 @@ result = []
 
 
 def open_pattern(pattern_name):
-    os.chdir("/Users/ulyanasidorova/Learning/Course_Work/untitled/Patterns")
+    os.chdir("/Users/ulyanasidorova/Learning/Course_Work/untitled/PATTERNS_LIBRARY")
     with open(pattern_name + ".txt", 'r') as pattern:
         pattern = pattern.read()
     os.chdir(PWD)
