@@ -1,6 +1,6 @@
 import os
 from pymystem3 import Mystem
-import SPARQL_Constructor as constructor
+import Constructor as constructor
 m = Mystem()
 import re
 import random
@@ -228,9 +228,9 @@ def check_location(query):
 
 
 
-city_names = ["река", "часовой пояс", "река рядом", "основание", "основан", "почтовый код",
-"географическое положение", "притоки", "куда впадает", "кто основал"]
-queries_location(city_names, queries="queries.txt", break_by=50000000)
+# city_names = ["река", "часовой пояс", "река рядом", "основание", "основан", "почтовый код",
+# "географическое положение", "притоки", "куда впадает", "кто основал"]
+# queries_location(city_names, queries="queries.txt", break_by=50000000)
 
 
 evaluation_set = []
@@ -242,9 +242,9 @@ for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
         for line in keyword_file:
             line = line.strip()
             query = lemmatize_query(line)
-            if check_location(query):
+            if check_location(query) and len(query) < 6:
                 query_array.append(line)
-        for i in range(0, 100):
+        for i in range(0, 20):
             try:
                 random_index = random.randint(0, len(query_array) - 1)
                 random_query = query_array[random_index]

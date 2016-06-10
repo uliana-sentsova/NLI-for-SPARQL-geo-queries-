@@ -5,7 +5,30 @@ from pymystem3 import Mystem
 m = Mystem()
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
-PWD = os.getcwd()
+
+class Error(Exception):
+    """
+    Базовый класс для исключений в модуле.
+    """
+    pass
+
+
+class LocationNotFoundError(Error):
+    def __init__(self, ontology_name):
+        self.ontology_name = ontology_name
+
+
+class KeywordNotFoundError(Error):
+    pass
+
+
+class KeywordCompileEror(Error):
+    def __init__(self, keyword):
+        self.keyword = keyword
+
+
+class MultipleLocationError(Error):
+    pass
 
 
 def import_dictionary(list_of_dict_names):
@@ -62,26 +85,6 @@ def import_ontology(list_of_onto_names):
                     normalized, "context": context, "type": name}
     os.chdir(PWD)
     return result_dictionary
-
-# DICTIONARY_NAMES = ["OBJECT", "SUBJECT", "FULL", "INFO"]
-DICTIONARY_NAMES = ["subj", "obj_loc"]
-
-PREDICATES = import_dictionary(DICTIONARY_NAMES)
-# for key in PREDICATES:
-#     print(key, PREDICATES[key])
-
-ONTOLOGY = import_ontology(os.listdir(PWD + "/ONTOLOGIES"))
-
-SYNONYMS = dict()
-SYNONYMS["settlements"] = ["город", "г.", "деревня", "поселок", "село", "пгт","населенный пункт", "россия","рф",
-                          "российкий федерация"]
-SYNONYMS["rivers"] = ["река", "речка"]
-SYNONYMS["mountains"] = ["гора", "сопка", "вулкан"]
-SYNONYMS["seas"] = ["море"]
-SYNONYMS["volcanos"] = ["вулкан", "гора"]
-SYNONYMS["islands"] = ["архипелаг", "остров"]
-SYNONYMS["lakes"] = ["озеро", "водохранилище"]
-SYNONYMS["regions"] = ["край", "регион", "область"]
 
 
 def remove_prepositions(raw_query):
@@ -140,7 +143,7 @@ def ontology_search(lemmas):
     if location:
         return location_lemmatized, location
     else:
-        return False, False
+        raise LocationNotFoundError
 
 
 def find_location(input_query):
@@ -155,7 +158,7 @@ def find_location(input_query):
     континент, государство и т.д.).
     """
 
-    assert type(input_query) == str
+    assert type(input_query) == str, "Input format not supported."
 
     input_query = input_query.lower()
     input_query = remove_prepositions(input_query)
@@ -164,90 +167,85 @@ def find_location(input_query):
     lemmas = [l for l in lemmas if is_word(l)]
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
-    check_location = ontology_search(lemmas)
+    location_lemmatized, location = ontology_search(lemmas)
+    location_normalized = location["normalized"]
+    translation = location["translation"]
+    category = location["type"]
+    context = location["context"]
 
-    if check_location:
-        location_lemmatized, location = check_location
-        location_normalized = location["normalized"]
-        translation = location["translation"]
-        category = location["type"]
-        context = location["context"]
+    print("Location found:", location_normalized)
 
-        print("Location found:", location_normalized)
+    removing = []
 
-        removing = []
+    if context:
+        for word in context:
+            if word in lemmas:
+                removing.append(lemmas.index(word))
 
-        if context:
-            for word in context:
-                if word in lemmas:
-                    removing.append(lemmas.index(word))
+        for synonym in SYNONYMS[category]:
+            if synonym in lemmas:
+                ind = lemmas.index(synonym)
+                removing.append(ind)
 
-        # for synonym in SYNONYMS[category]:
-        #     if synonym in lemmas:
-        #         ind = lemmas.index(synonym)
-        #         removing.append(ind)
+    location_lemmatized = location_lemmatized.split()
+    for l in location_lemmatized:
+        removing.append(lemmas.index(l))
+    for i in removing:
+        input_query[i] = ""
+        lemmas[i] = ""
+    lemmas = [l for l in lemmas if l]
+    input_query = [q for q in input_query if q]
 
-        location_lemmatized = location_lemmatized.split()
-        for l in location_lemmatized:
-            removing.append(lemmas.index(l))
-        for i in removing:
-            input_query[i] = ""
-            lemmas[i] = ""
-        lemmas = [l for l in lemmas if l]
-        input_query = [q for q in input_query if q]
-
-        info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
+    info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
                         context, "type": category, "translation": translation}
-        result = []
-        result.append(info)
-        # Повторный поиск в оставшемся запросе:
-        if lemmas:
-            location_lemmatized, location = ontology_search(lemmas)
-            if location:
-                location_normalized = location["normalized"]
-                translation = location["translation"]
-                category = location["type"]
-                context = location["context"]
+    result = []
+    result.append(info)
 
-                print("Location found:", location_normalized)
+    # Повторный поиск в оставшемся запросе:
+    if lemmas:
+        location_lemmatized, location = ontology_search(lemmas)
+        if location:
+            location_normalized = location["normalized"]
+            translation = location["translation"]
+            category = location["type"]
+            context = location["context"]
 
-                removing = []
-                if context:
-                    for word in context:
-                        if word in lemmas:
-                            removing.append(lemmas.index(word))
-                location_lemmatized = location_lemmatized.split()
-                for l in location_lemmatized:
-                    removing.append(lemmas.index(l))
-                for i in removing:
-                    input_query[i] = ""
-                    lemmas[i] = ""
-                lemmas = [l for l in lemmas if l]
-                input_query = [q for q in input_query if q]
+            print("Location found:", location_normalized)
 
-                info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
+            removing = []
+            if context:
+                for word in context:
+                    if word in lemmas:
+                        removing.append(lemmas.index(word))
+            location_lemmatized = location_lemmatized.split()
+            for l in location_lemmatized:
+                removing.append(lemmas.index(l))
+            for i in removing:
+                input_query[i] = ""
+                lemmas[i] = ""
+            lemmas = [l for l in lemmas if l]
+            input_query = [q for q in input_query if q]
+
+            info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
                         context, "type": category, "translation": translation}
 
-                result.append(info)
+            result.append(info)
 
-        if len(result) == 2:
-            checked = check_real_subject(result)
-            print("Subjects analysis...")
-            if checked:
-                print("One subject: ", checked["normalized"])
-                return [checked]
-            else:
-                print("Number of subjects: ", len(result))
-                print("Subject 1: ", result[0]["normalized"])
-                print("Subject 2: ", result[1]["normalized"])
-                return result
-        elif len(result) > 2:
-            raise ValueError("Locations more than two in the query.")
+    if len(result) == 2:
+        checked = check_real_subject(result)
+        print("Subjects analysis...")
+        if checked:
+            print("One subject: ", checked["normalized"])
+            return [checked]
         else:
+            print("Number of subjects: ", len(result))
+            print("Subject 1: ", result[0]["normalized"])
+            print("Subject 2: ", result[1]["normalized"])
             return result
-
+    elif len(result) > 2:
+        raise MultipleLocationError()
     else:
-        return False
+        return result
 
 
 def check_real_subject(loc_list):
@@ -284,7 +282,6 @@ def open_pattern(pattern_name):
         pattern = pattern.read()
     os.chdir(PWD)
     return pattern
-
 
 
 # Вспомогательная функция
@@ -491,32 +488,27 @@ def make_query(query):
     print("\n\n\n")
 
 
-query1 = "где находиться г. липецк?"
-query2 = "мэр города новосибирска и москвы"
-query3 = "На какой реке расположен Красноярск?"
-query4 = "Ульяновск кто родился из знаменитостей"
-query5 = "Новосибирск какая река рядом?"
-query6 = "Москва столица какого государства?"
-query7 = "экономический регион москвы?"
-query8 = "тюмень где располагается"
-query9 = "про екатеринбург"
-query10 = "кемерово описание"
-query11 = "омск томск координаты"
-query12 = "Москва столица какого государства?"
+# Устанавливаем директорию проекта:
+PWD = os.getcwd()
 
-queries = ["куда впадат река волга", "когда основана москва", "притоки волги", "притоки оби", "где находиться г. липецк?", "численность москвы и московской области", "про екатеринбург",
-           "грязи липецкая область какая численность", "мэр воронежа", "мэр города новосибирска и москвы",
-           "На какой реке расположен Красноярск?", "Новосибирск какая река рядом?", "экономический регион москвы?",
-           "Москва столица какого государства?", "тюмень где располагается", "кемерово описание", "омск томск координаты"
-           "где расположен владивосток", "петербург координаты", "широта санкт-петербург в градусах", "реки россии",
-           "липецк экономический регион", "омск в каком округе находиться", "магадан какой край"]
-# #
-# for query in queries[:3]:
-#     try:
-#         make_query(query)
-#     except KeyError:
-#         print("ЗАПРОС НЕ ОБРАБОТАН", query)
-#
-#
-#
-# # TODO распар
+# Устанавливаем имена словарей предикатов:
+DICTIONARY_NAMES = ["subj", "obj_loc"]
+
+# Импортируем словари предикатов:
+PREDICATES = import_dictionary(DICTIONARY_NAMES)
+
+# Импортируем онтологии из директории с онтологиями:
+ONTOLOGY = import_ontology(os.listdir(PWD + "/ONTOLOGIES"))
+
+# Создаём небольшой словарь синонимов для различных типов географических объектов:
+SYNONYMS = dict()
+
+SYNONYMS["settlements"] = ["город", "г.", "деревня", "поселок", "село", "пгт","населенный пункт", "россия","рф",
+                          "российкий федерация"]
+SYNONYMS["rivers"] = ["река", "речка"]
+SYNONYMS["mountains"] = ["гора", "сопка", "вулкан"]
+SYNONYMS["seas"] = ["море"]
+SYNONYMS["volcanos"] = ["вулкан", "гора"]
+SYNONYMS["islands"] = ["архипелаг", "остров"]
+SYNONYMS["lakes"] = ["озеро", "водохранилище"]
+SYNONYMS["regions"] = ["край", "регион", "область"]
