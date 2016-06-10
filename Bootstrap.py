@@ -20,7 +20,7 @@ def queries_location(locations_list, queries = "queries.txt", break_by=162000000
     try:
         for location in locations_list:
             with open("Bootstrap_results/" + location.capitalize() + ".txt", 'w') as target_file, open(queries, 'r', encoding='utf-8') as source_file:
-                p = re.compile(location+"\w{0,2}", re.IGNORECASE)
+                p = re.compile("(?:^|\s)" + location + "(?:$|\s)", re.IGNORECASE)
                 for line in source_file:
                     if p.search(line) is not None:
                         target_file.write(line)
@@ -213,35 +213,44 @@ def new_locations(patterns, sourcefile = "queries.txt"):
                     locations.append(same_structure(pattern, line))
     return locations
 
+def lemmatize_query(query):
+    query = m.lemmatize(query)
+    lemmas = [l for l in query if constructor.is_word(l)]
+    return lemmas
+
 
 def check_location(query):
-    query = m.lemmatize(query)
-    query = "".join(query)
-    if constructor.ontology_search(query):
+    location = constructor.ontology_search(query)
+    if location != (False, False):
         return True
     else:
         return False
 
 
-city_names = ["широта", "долгота"]
-# "географическое положение", "численность", "родился в", "экономический регион",
-#               "река рядом", "координаты"]
+
+city_names = ["река", "часовой пояс", "река рядом", "основание", "основан", "почтовый код",
+"географическое положение", "притоки", "куда впадает", "кто основал"]
 queries_location(city_names, queries="queries.txt", break_by=50000000)
 
 
 evaluation_set = []
 for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
     query_array = []
+
     print("Создание коллекции случайно выбранных запросов для ключевого слова: ", filename.split(".")[0].lower())
-    with open(filename, "r", encoding="utf-8") as keyword_file:
+    with open("Bootstrap_results/" + filename, "r", encoding="utf-8") as keyword_file:
         for line in keyword_file:
             line = line.strip()
-            if check_location(line):
+            query = lemmatize_query(line)
+            if check_location(query):
                 query_array.append(line)
         for i in range(0, 100):
-            random_index = random.randint(0, len(query_array) - 1)
-            random_query = query_array[random_index]
-            evaluation_set.append(random_query)
+            try:
+                random_index = random.randint(0, len(query_array) - 1)
+                random_query = query_array[random_index]
+                evaluation_set.append(random_query)
+            except ValueError:
+                continue
 
 for entry in evaluation_set:
     print(entry)

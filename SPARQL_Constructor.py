@@ -84,10 +84,6 @@ SYNONYMS["lakes"] = ["озеро", "водохранилище"]
 SYNONYMS["regions"] = ["край", "регион", "область"]
 
 
-
-
-
-
 def remove_prepositions(raw_query):
     assert type(raw_query) == str
     raw_query = re.sub("^во?\s", "", raw_query)
@@ -168,8 +164,10 @@ def find_location(input_query):
     lemmas = [l for l in lemmas if is_word(l)]
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
-    location_lemmatized, location = ontology_search(lemmas)
-    if location:
+    check_location = ontology_search(lemmas)
+
+    if check_location:
+        location_lemmatized, location = check_location
         location_normalized = location["normalized"]
         translation = location["translation"]
         category = location["type"]
@@ -312,7 +310,7 @@ def search_bigram(words_list):
     if not location:
         for bigram in bigrams:
             if reordered(bigram) in ONTOLOGY:
-                location = (ONTOLOGY[bigram], bigram)
+                location = (ONTOLOGY[reordered(bigram)], bigram)
     return location
 
 
@@ -344,11 +342,13 @@ def analyze_input(raw_query):
     raw_query = remove_modifiers(raw_query)
 
     print("Analyzing query pattern...")
-    keyword, query = keyword_search(raw_query)
 
-    if not keyword:
+    check_keyword = keyword_search(raw_query)
+
+    if not check_keyword:
         raise KeyError("Query type not found.")
     else:
+        keyword, query = check_keyword
         predicate, query_type = keyword[0], keyword[1]
         print("Query pattern found. Type:", query_type)
         print("Predicate:", predicate[0])
@@ -504,19 +504,19 @@ query10 = "кемерово описание"
 query11 = "омск томск координаты"
 query12 = "Москва столица какого государства?"
 
-queries = ["где находиться г. липецк?", "численность москвы и московской области", "про екатеринбург",
+queries = ["куда впадат река волга", "когда основана москва", "притоки волги", "притоки оби", "где находиться г. липецк?", "численность москвы и московской области", "про екатеринбург",
            "грязи липецкая область какая численность", "мэр воронежа", "мэр города новосибирска и москвы",
            "На какой реке расположен Красноярск?", "Новосибирск какая река рядом?", "экономический регион москвы?",
            "Москва столица какого государства?", "тюмень где располагается", "кемерово описание", "омск томск координаты"
            "где расположен владивосток", "петербург координаты", "широта санкт-петербург в градусах", "реки россии",
            "липецк экономический регион", "омск в каком округе находиться", "магадан какой край"]
-
-# for query in queries:
+# #
+# for query in queries[:3]:
 #     try:
 #         make_query(query)
 #     except KeyError:
 #         print("ЗАПРОС НЕ ОБРАБОТАН", query)
-
-
-
-# TODO распар
+#
+#
+#
+# # TODO распар
