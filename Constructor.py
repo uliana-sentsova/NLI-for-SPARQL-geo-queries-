@@ -176,6 +176,8 @@ def disambiguation(lemmatized_query, locations_list):
     if not ambiguos:
         return locations_list
 
+    print("Desambiguation process...")
+
     result = []
 
     for ambiguos_pair in ambiguos:
@@ -200,7 +202,6 @@ def disambiguation(lemmatized_query, locations_list):
 
         # Если тип географических объектов совпадает или если не был произведен выбор правильной локации:
         if not real_location:
-            print("КОНТЕКСТ")
             for c in loc_1[1]["context"]:
                 if c in lemmatized_query:
                     real_location = loc_1
@@ -617,4 +618,4 @@ SYNONYMS["region"] = ["край", "регион", "область"]
 
 
 
-x = find_location("завьяловский район город")
+x = find_location("завьяловский район удмуртия")
