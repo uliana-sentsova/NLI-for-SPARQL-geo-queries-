@@ -168,11 +168,14 @@ def ontology_search(lemmas):
 
 def disambiguation(lemmatized_query, locations_list):
     ambiguos = []
+    result = []
     for i in range(0, len(locations_list)):
         for j in range(0, len(locations_list)):
-            if i != j and locations_list[i][1]["entry"] == locations_list[j][1]["entry"]:
-                if [locations_list[j], locations_list[i]] not in ambiguos:
-                    ambiguos.append([locations_list[i], locations_list[j]])
+            if i != j:
+                if locations_list[i][1]["entry"] == locations_list[j][1]["entry"]:
+                    if [locations_list[j], locations_list[i]] not in ambiguos:
+                        ambiguos.append([locations_list[i], locations_list[j]])
+
     if not ambiguos:
         return locations_list
 
@@ -217,7 +220,10 @@ def disambiguation(lemmatized_query, locations_list):
         if real_location:
             result.append(real_location)
         else:
+            print("Failed.")
             result.append(loc_1)
+
+# TODO: дописать, чтобы функция возвращала неомонимичные локации тоже, а то они теряются в процессе.
 
     if result == [[]]:
         return locations_list
@@ -618,4 +624,4 @@ SYNONYMS["region"] = ["край", "регион", "область"]
 
 
 
-x = find_location("завьяловский район удмуртия")
+x = find_location("город обь новосибирск")
