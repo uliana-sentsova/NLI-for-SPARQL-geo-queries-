@@ -14,8 +14,7 @@ class Error(Exception):
 
 
 class LocationNotFoundError(Error):
-    def __init__(self, ontology_name):
-        self.ontology_name = ontology_name
+    pass
 
 
 class KeywordNotFoundError(Error):
@@ -23,8 +22,7 @@ class KeywordNotFoundError(Error):
 
 
 class KeywordCompileEror(Error):
-    def __init__(self, keyword):
-        self.keyword = keyword
+    pass
 
 
 class MultipleLocationError(Error):
@@ -80,21 +78,16 @@ def import_ontology(list_of_onto_names):
                     #     word = word.split(" ")
                     #     for w in word:
                     #         onto_value.append(w)
-
-                result_dictionary[onto_key] = {"translation": onto_value, "normalized":
-                    normalized, "context": context, "type": name}
+                result_dictionary[onto_value] = {"entry": onto_key, "normalized":
+                    normalized, "context": context, "type": name.split(".")[0]}
     os.chdir(PWD)
     return result_dictionary
 
 
 def remove_prepositions(raw_query):
     assert type(raw_query) == str
-    raw_query = re.sub("^во?\s", "", raw_query)
-    raw_query = re.sub("\sво?$", "", raw_query)
-    raw_query = re.sub("\sво?\s", " ", raw_query)
-    raw_query = re.sub("^на\s", "", raw_query)
-    raw_query = re.sub("\sна$", "", raw_query)
-    raw_query = re.sub("\sна\s", " ", raw_query)
+    raw_query = re.sub("(?:^|\s)(во?)\s", "", raw_query)
+    raw_query = re.sub("(?:^|\s)(на)\s", "", raw_query)
     return raw_query
 
 
@@ -120,30 +113,117 @@ def is_word(word):
     return True
 
 
+# Вспомогательная функция
+def reordered(bigram):
+    bigram = bigram.split(" ")
+    bigram = bigram[1] + " " + bigram[0]
+    return bigram
+
+
+# Вспомогательная функция для поиска биграммов в словаре локаций
+# (чтобы находить такие локации как "новосибирская область").
+def search_bigram(words_list):
+    bigrams = []
+    for i in range(0, len(words_list)):
+        try:
+            bigrams.append(words_list[i] + " " + words_list [i + 1])
+        except IndexError:
+            break
+    locations_list = []
+    for bigram in bigrams:
+        for key in ONTOLOGY:
+            if bigram == ONTOLOGY[key]["entry"]:
+                locations_list.append((key, ONTOLOGY[key]))
+    if not locations_list:
+        for bigram in bigrams:
+            for key in ONTOLOGY:
+                if reordered(bigram) in ONTOLOGY[key]["entry"]:
+                    locations_list.append((key, ONTOLOGY[key]))
+    return locations_list
+
+
+def simple_search(word):
+    locations_list = []
+    for key in ONTOLOGY:
+        if word == ONTOLOGY[key]["entry"]:
+            locations_list.append((key, ONTOLOGY[key]))
+    return locations_list
+
+
 def ontology_search(lemmas):
     """
     Функция для поиска локации в онтологии. Поиск жадный: сначала ищутся биграммы, затем единичные токены.
     :param lemmas: лемматизированный запрос (список)
-    :return:
+    :return: список локаций с онтологической информацией и URI
     """
-    location = None
-    location_lemmatized = ""
-
     # Поиск по биграммам:
-    search = search_bigram(lemmas)
-    if search:
-        # Location - вся информация о локации, которая содержится в онтологии;
-        # location_lemmatized - лемма, вход в онтологию
-        location, location_lemmatized = [s for s in search]
+    locations_list = search_bigram(lemmas)
+    for lemma in lemmas:
+        location = simple_search(lemma)
+        if location:
+            for loc in location:
+                locations_list.append(loc)
+    return locations_list
+
+
+def disambiguation(lemmatized_query, locations_list):
+    ambiguos = []
+    for i in range(0, len(locations_list)):
+        for j in range(0, len(locations_list)):
+            if i != j and locations_list[i][1]["entry"] == locations_list[j][1]["entry"]:
+                if [locations_list[j], locations_list[i]] not in ambiguos:
+                    ambiguos.append([locations_list[i], locations_list[j]])
+    if not ambiguos:
+        return locations_list
+
+    result = []
+
+    for ambiguos_pair in ambiguos:
+        # print(ambiguos_pair[0], ambiguos_pair[1])
+        loc_1 = ambiguos_pair[0]
+        loc_2 = ambiguos_pair[1]
+
+        real_location = []
+
+        # Если одинаковые типы географических объектов:
+        if loc_1[1]["type"] != loc_2[1]["type"]:
+
+            for s in SYNONYMS[loc_1[1]["type"]]:
+                if s in lemmatized_query:
+                    real_location = loc_1
+                    break
+            if not real_location:
+                for s in SYNONYMS[loc_2[1]["type"]]:
+                    if s in lemmatized_query:
+                        real_location = loc_2
+                        break
+
+        # Если тип географических объектов совпадает или если не был произведен выбор правильной локации:
+        if not real_location:
+            print("КОНТЕКСТ")
+            for c in loc_1[1]["context"]:
+                if c in lemmatized_query:
+                    real_location = loc_1
+                    break
+
+            if not real_location:
+                for c in loc_2[1]["context"]:
+                    if c in lemmatized_query:
+                        real_location = loc_2
+                        break
+
+        # ВНИМАНИЕ: если не получилось выполнить дезамбигуацию, функция всегда выбирает первую локацию!
+        if real_location:
+            result.append(real_location)
+        else:
+            result.append(loc_1)
+
+    if result == [[]]:
+        return locations_list
     else:
-        for word in lemmas:
-            if word in ONTOLOGY:
-                location = ONTOLOGY[word]
-                location_lemmatized = word
-    if location:
-        return location_lemmatized, location
-    else:
-        raise LocationNotFoundError
+        return result
+
+
 
 
 def find_location(input_query):
@@ -157,9 +237,9 @@ def find_location(input_query):
     (лемма в онтологии), context (дескрипторы), translation (URI из DBPedia) и category (тип локации - город, река,
     континент, государство и т.д.).
     """
-
     assert type(input_query) == str, "Input format not supported."
 
+    # Удаляем из запроса предлоги и пунктуацию, лемматизируем запрос:
     input_query = input_query.lower()
     input_query = remove_prepositions(input_query)
     input_query = remove_punctuation(input_query)
@@ -167,7 +247,42 @@ def find_location(input_query):
     lemmas = [l for l in lemmas if is_word(l)]
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
-    location_lemmatized, location = ontology_search(lemmas)
+    # Поиск в онтологии:
+
+    locations_list = (ontology_search(lemmas))
+    amb = disambiguation(lemmas, locations_list)
+    print(amb)
+
+
+    raise LocationNotFoundError
+
+    for location in locations_list:
+        entry = location["entry"]
+        normalized = location["normalized"]
+        lemmatized = location["lemmatized"]
+        location_type = location["type"]
+        context = location["context"]
+
+
+
+
+
+    location = None
+    search = search_bigram(lemmas)
+    if search:
+        print("HERE")
+        # Location - вся информация о локации, которая содержится в онтологии;
+        # location_lemmatized - лемма, вход в онтологию
+        location, location_lemmatized = [s for s in search]
+    else:
+        for word in lemmas:
+            if word in ONTOLOGY:
+                location = ONTOLOGY[word]
+                location_lemmatized = word
+
+    if not location:
+        raise LocationNotFoundError
+
     location_normalized = location["normalized"]
     translation = location["translation"]
     category = location["type"]
@@ -182,17 +297,21 @@ def find_location(input_query):
             if word in lemmas:
                 removing.append(lemmas.index(word))
 
-        for synonym in SYNONYMS[category]:
-            if synonym in lemmas:
-                ind = lemmas.index(synonym)
-                removing.append(ind)
+        # for synonym in SYNONYMS[category]:
+        #     if synonym in lemmas:
+        #         ind = lemmas.index(synonym)
+        #         removing.append(ind)
 
     location_lemmatized = location_lemmatized.split()
     for l in location_lemmatized:
         removing.append(lemmas.index(l))
     for i in removing:
-        input_query[i] = ""
-        lemmas[i] = ""
+        try:
+            input_query[i] = ""
+            lemmas[i] = ""
+        except IndexError:
+            pass
+
     lemmas = [l for l in lemmas if l]
     input_query = [q for q in input_query if q]
 
@@ -203,7 +322,18 @@ def find_location(input_query):
 
     # Повторный поиск в оставшемся запросе:
     if lemmas:
-        location_lemmatized, location = ontology_search(lemmas)
+        location = None
+        search = search_bigram(lemmas)
+        if search:
+            print("HERE")
+
+            location, location_lemmatized = [s for s in search]
+        else:
+            for word in lemmas:
+                if word in ONTOLOGY:
+                    location = ONTOLOGY[word]
+                    location_lemmatized = word
+
         if location:
             location_normalized = location["normalized"]
             translation = location["translation"]
@@ -230,6 +360,8 @@ def find_location(input_query):
                         context, "type": category, "translation": translation}
 
             result.append(info)
+        else:
+            raise LocationNotFoundError
 
     if len(result) == 2:
         checked = check_real_subject(result)
@@ -244,6 +376,7 @@ def find_location(input_query):
             return result
     elif len(result) > 2:
         raise MultipleLocationError()
+
     else:
         return result
 
@@ -284,45 +417,20 @@ def open_pattern(pattern_name):
     return pattern
 
 
-# Вспомогательная функция
-def reordered(bigram):
-    bigram = bigram.split(" ")
-    bigram = bigram[1] + " " + bigram[0]
-    return bigram
-
-
-# Вспомогательная функция для поиска биграммов в словаре локаций
-# (чтобы находить такие локации как "новосибирская область").
-def search_bigram(words_list):
-    bigrams = []
-    location = None
-    for i in range(0, len(words_list)):
-        try:
-            bigrams.append(words_list[i] + " " + words_list [i + 1])
-        except IndexError:
-            break
-    for bigram in bigrams:
-        if bigram in ONTOLOGY:
-            location = (ONTOLOGY[bigram], bigram)
-    if not location:
-        for bigram in bigrams:
-            if reordered(bigram) in ONTOLOGY:
-                location = (ONTOLOGY[reordered(bigram)], bigram)
-    return location
-
 
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
 def keyword_search(query):
     for key in PREDICATES.keys():
         try:
             x = re.compile(key)
-        except Exception:
-            print("______", key)
+        except Exception as err:
+            print(err, key)
+            raise KeywordCompileEror()
         matched = re.findall(x, query)
         if matched:
             query = query.replace(matched[0], "")
-            return (PREDICATES[key], query)
-    return False
+            return PREDICATES[key], query
+    raise KeywordNotFoundError()
 
 
 # TODO: что делать, если найдено больше одного ключевого слова?
@@ -340,26 +448,21 @@ def analyze_input(raw_query):
 
     print("Analyzing query pattern...")
 
-    check_keyword = keyword_search(raw_query)
+    keyword, query = keyword_search(raw_query)
+    predicate, query_type = keyword[0], keyword[1]
+    print("Query pattern found. Type:", query_type)
+    print("Predicate:", predicate[0])
+    print(query)
 
-    if not check_keyword:
-        raise KeyError("Query type not found.")
-    else:
-        keyword, query = check_keyword
-        predicate, query_type = keyword[0], keyword[1]
-        print("Query pattern found. Type:", query_type)
-        print("Predicate:", predicate[0])
+    if query_type != "no_subject":
+        print("Searching for a location...")
+        location = find_location(query)
 
-        if query_type != "no_subject":
-            print("Searching for a location...")
-            location = find_location(query)
-            if not location:
-                raise KeyError("Location not found.")
-            else:
-                locations = [l["translation"] for l in location]
-                if len(locations) > 1:
-                    query_type = query_type + "_union_" + str(len(locations))
-                return [locations, predicate, query_type]
+        locations = [l["translation"] for l in location]
+
+        if len(locations) > 1:
+            query_type = query_type + "_union_" + str(len(locations))
+        return [locations, predicate, query_type]
     return False
 
 
@@ -503,12 +606,15 @@ ONTOLOGY = import_ontology(os.listdir(PWD + "/ONTOLOGIES"))
 # Создаём небольшой словарь синонимов для различных типов географических объектов:
 SYNONYMS = dict()
 
-SYNONYMS["settlements"] = ["город", "г.", "деревня", "поселок", "село", "пгт","населенный пункт", "россия","рф",
-                          "российкий федерация"]
-SYNONYMS["rivers"] = ["река", "речка"]
-SYNONYMS["mountains"] = ["гора", "сопка", "вулкан"]
-SYNONYMS["seas"] = ["море"]
-SYNONYMS["volcanos"] = ["вулкан", "гора"]
-SYNONYMS["islands"] = ["архипелаг", "остров"]
-SYNONYMS["lakes"] = ["озеро", "водохранилище"]
-SYNONYMS["regions"] = ["край", "регион", "область"]
+SYNONYMS["settlement"] = ["город", "г.", "деревня", "поселок", "село", "пгт","населенный пункт","район","край"]
+SYNONYMS["river"] = ["река", "речка", "приток", "исток"]
+SYNONYMS["mountain"] = ["гора", "сопка", "вулкан"]
+SYNONYMS["sea"] = ["море"]
+SYNONYMS["volcano"] = ["вулкан", "гора"]
+SYNONYMS["island"] = ["архипелаг", "остров"]
+SYNONYMS["lake"] = ["озеро", "водохранилище"]
+SYNONYMS["region"] = ["край", "регион", "область"]
+
+
+
+x = find_location("завьяловский район город")
