@@ -168,13 +168,13 @@ def ontology_search(lemmas):
 
 def disambiguation(lemmatized_query, locations_list):
     ambiguos = []
-    result = []
     for i in range(0, len(locations_list)):
         for j in range(0, len(locations_list)):
             if i != j:
                 if locations_list[i][1]["entry"] == locations_list[j][1]["entry"]:
                     if [locations_list[j], locations_list[i]] not in ambiguos:
                         ambiguos.append([locations_list[i], locations_list[j]])
+
 
     if not ambiguos:
         return locations_list
@@ -183,7 +183,10 @@ def disambiguation(lemmatized_query, locations_list):
 
     result = []
 
+    checked = []
     for ambiguos_pair in ambiguos:
+        for loc in ambiguos_pair:
+            checked.append(loc[0])
         # print(ambiguos_pair[0], ambiguos_pair[1])
         loc_1 = ambiguos_pair[0]
         loc_2 = ambiguos_pair[1]
@@ -223,12 +226,12 @@ def disambiguation(lemmatized_query, locations_list):
             print("Failed.")
             result.append(loc_1)
 
-# TODO: дописать, чтобы функция возвращала неомонимичные локации тоже, а то они теряются в процессе.
+    # Все остальные локации присоединяем к результату:
+    for location in locations_list:
+        if location[0] not in checked and location not in result:
+            result.append(location)
 
-    if result == [[]]:
-        return locations_list
-    else:
-        return result
+    return result
 
 
 
@@ -255,124 +258,36 @@ def find_location(input_query):
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
     # Поиск в онтологии:
-
     locations_list = (ontology_search(lemmas))
-    amb = disambiguation(lemmas, locations_list)
-    print(amb)
 
+    # Дезамбигуация:
+    locations_list = disambiguation(lemmas, locations_list)
 
-    raise LocationNotFoundError
-
-    for location in locations_list:
-        entry = location["entry"]
-        normalized = location["normalized"]
-        lemmatized = location["lemmatized"]
-        location_type = location["type"]
-        context = location["context"]
-
-
-
-
-
-    location = None
-    search = search_bigram(lemmas)
-    if search:
-        print("HERE")
-        # Location - вся информация о локации, которая содержится в онтологии;
-        # location_lemmatized - лемма, вход в онтологию
-        location, location_lemmatized = [s for s in search]
-    else:
-        for word in lemmas:
-            if word in ONTOLOGY:
-                location = ONTOLOGY[word]
-                location_lemmatized = word
-
-    if not location:
-        raise LocationNotFoundError
-
-    location_normalized = location["normalized"]
-    translation = location["translation"]
-    category = location["type"]
-    context = location["context"]
-
-    print("Location found:", location_normalized)
-
-    removing = []
-
-    if context:
-        for word in context:
-            if word in lemmas:
-                removing.append(lemmas.index(word))
-
-        # for synonym in SYNONYMS[category]:
-        #     if synonym in lemmas:
-        #         ind = lemmas.index(synonym)
-        #         removing.append(ind)
-
-    location_lemmatized = location_lemmatized.split()
-    for l in location_lemmatized:
-        removing.append(lemmas.index(l))
-    for i in removing:
-        try:
-            input_query[i] = ""
-            lemmas[i] = ""
-        except IndexError:
-            pass
-
-    lemmas = [l for l in lemmas if l]
-    input_query = [q for q in input_query if q]
-
-    info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
-                        context, "type": category, "translation": translation}
+    # Извлечение информации о локациии:
     result = []
-    result.append(info)
+    count = 1
+    for location in locations_list:
 
-    # Повторный поиск в оставшемся запросе:
-    if lemmas:
-        location = None
-        search = search_bigram(lemmas)
-        if search:
-            print("HERE")
+        URI = location[0]
+        lemmatized = location[1]["entry"]
+        normalized = location[1]["normalized"]
+        loc_type = location[1]["type"]
+        context = location[1]["context"]
 
-            location, location_lemmatized = [s for s in search]
-        else:
-            for word in lemmas:
-                if word in ONTOLOGY:
-                    location = ONTOLOGY[word]
-                    location_lemmatized = word
+        info = {"normalized": normalized,
+                "lemmatized": lemmatized,
+                "context": context,
+                "type": loc_type,
+                "URI": URI}
+        result.append(info)
 
-        if location:
-            location_normalized = location["normalized"]
-            translation = location["translation"]
-            category = location["type"]
-            context = location["context"]
+        print("Location #{0} found: {1}. URI: {2}".format(count, normalized, URI))
+        count += 1
 
-            print("Location found:", location_normalized)
-
-            removing = []
-            if context:
-                for word in context:
-                    if word in lemmas:
-                        removing.append(lemmas.index(word))
-            location_lemmatized = location_lemmatized.split()
-            for l in location_lemmatized:
-                removing.append(lemmas.index(l))
-            for i in removing:
-                input_query[i] = ""
-                lemmas[i] = ""
-            lemmas = [l for l in lemmas if l]
-            input_query = [q for q in input_query if q]
-
-            info = {"lemmatized": " ".join(location_lemmatized), "normalized": location_normalized, "context":
-                        context, "type": category, "translation": translation}
-
-            result.append(info)
-        else:
-            raise LocationNotFoundError
-
+    # Если больше одной локации:
     if len(result) == 2:
+        print("Two locations in the input query. Analyzing subject...")
         checked = check_real_subject(result)
-        print("Subjects analysis...")
         if checked:
             print("One subject: ", checked["normalized"])
             return [checked]
@@ -381,6 +296,7 @@ def find_location(input_query):
             print("Subject 1: ", result[0]["normalized"])
             print("Subject 2: ", result[1]["normalized"])
             return result
+
     elif len(result) > 2:
         raise MultipleLocationError()
 
@@ -624,4 +540,4 @@ SYNONYMS["region"] = ["край", "регион", "область"]
 
 
 
-x = find_location("город обь новосибирск")
+x = find_location("привет волга")
