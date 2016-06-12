@@ -158,15 +158,18 @@ def ontology_search(lemmas):
     """
     # Поиск по биграммам:
     locations_list = search_bigram(lemmas)
+    print("--------", locations_list)
 
     # Чтобы избежать нахождения локации внутри биграмма:
     lemmas = " ".join(lemmas)
     for bigram in locations_list:
         lemmas = lemmas.replace(bigram[1]["entry"], " ")
     lemmas = [l for l in lemmas.split(" ") if l]
+    print("LEMMAS: ", lemmas)
 
     for lemma in lemmas:
         location = simple_search(lemma)
+        print(location)
         if location:
             for loc in location:
                 locations_list.append(loc)
@@ -357,12 +360,13 @@ def keyword_search(query):
         matched = re.findall(x, query)
         if matched:
             query = query.replace(matched[0], "")
+            print("---", PREDICATES[key])
             return PREDICATES[key], query
 
     for key in SYNONYMS:
         for synonym in SYNONYMS[key]:
             if synonym in query:
-                return "dbo:abstract", query
+                return (["dbo:abstract", "default"], query)
 
     raise KeywordNotFoundError()
 

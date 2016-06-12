@@ -358,7 +358,7 @@ WHERE
 
 LIMIT 1000
 ====================================================================
-петербург координаты
+широта санкт-петербург в градусах
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -371,7 +371,7 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Saint_Petersburg> geo:geometry ?VARIABLE .
+ <http://dbpedia.org/resource/Saint_Petersburg> geo:lat ?VARIABLE .
 }
 
 LIMIT 1000
@@ -484,7 +484,7 @@ WHERE
 
 LIMIT 1000
 ====================================================================
-географическое положение москвы
+географическое положение северо восточное
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -497,12 +497,12 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Moscow> geo:geometry ?VARIABLE .
+ <http://dbpedia.org/resource/Vostochny_District,_Moscow> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
 ====================================================================
-географическое положение россии 6 класс
+географическое положение ясной поляны
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -515,138 +515,12 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Russia> geo:geometry ?VARIABLE .
+ <http://dbpedia.org/resource/Yasny,_Orenburg_Oblast> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
 ====================================================================
-географическое положение реки лена
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Lena_River> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение южной америки 7 класс
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Yuzhny_Island> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение москвы
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Moscow> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-южная америка географическое положение википедия
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Yuzhny_Island> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение восточной сибири
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE1, ?VARIABLE2
-WHERE
-{
- <http://dbpedia.org/resource/Vostochny_District,_Moscow> geo:geometry ?VARIABLE1 .
- <http://dbpedia.org/resource/Siberia> geo:geometry ?VARIABLE2 .
-}
-LIMIT 100
-====================================================================
-географическое положение россии
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Russia> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение воронежа
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Voronezh> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение острова мадагаскар
+географическое положение острова танзания
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -660,42 +534,6 @@ SELECT ?VARIABLE
 WHERE
 {
  <http://dbpedia.org/resource/Ostrov,_Ostrovsky_District,_Pskov_Oblast> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение реки волги
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Volga_River> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение красноярского края википедия
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Krasnoyarsk_Krai> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
@@ -718,7 +556,7 @@ WHERE
 
 LIMIT 1000
 ====================================================================
-географическое положение города москва
+географическое положение северной африки
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -731,43 +569,7 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Moscow> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-географическое положение красноярского края
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Krasnoyarsk_Krai> geo:geometry ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-улан-удэ город географическое положение
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Ulan-Ude> geo:geometry ?VARIABLE .
+ <http://dbpedia.org/resource/Severny_Island> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
@@ -790,7 +592,7 @@ WHERE
 
 LIMIT 1000
 ====================================================================
-географическое положение уральских гор
+сейшельские острова географическое положение
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -803,12 +605,12 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Uralsky,_Perm_Krai> geo:geometry ?VARIABLE .
+ <http://dbpedia.org/resource/Ostrov,_Ostrovsky_District,_Pskov_Oblast> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
 ====================================================================
-эколого географическое положение санкт петербурга
+географическое положение тайги
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -821,12 +623,12 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Saint_Petersburg> geo:geometry ?VARIABLE .
+ <http://dbpedia.org/resource/Tayga> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
 ====================================================================
-долгота дня завтра в москве
+географическое положение красноярского края
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -839,12 +641,30 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Moscow> geo:lon ?VARIABLE .
+ <http://dbpedia.org/resource/Krasnoyarsk_Krai> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
 ====================================================================
-долгота дня 22 декабря 2014 уфа
+географическое положение восточной сибири
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX resource: <http://dbpedia.org/resource/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX foaf: <http://xmlns.com/foaf/spec/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+
+SELECT ?VARIABLE1, ?VARIABLE2
+WHERE
+{
+ <http://dbpedia.org/resource/Vostochny_District,_Moscow> geo:geometry ?VARIABLE1 .
+ <http://dbpedia.org/resource/Siberia> geo:geometry ?VARIABLE2 .
+}
+LIMIT 100
+====================================================================
+географическое положение красноярского края
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -857,12 +677,12 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Ufa_River> geo:lon ?VARIABLE .
+ <http://dbpedia.org/resource/Krasnoyarsk_Krai> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
 ====================================================================
-долгота дня в калининграде
+географическое положение реки волга
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX resource: <http://dbpedia.org/resource/>
@@ -875,63 +695,7 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 SELECT ?VARIABLE
 WHERE
 {
- <http://dbpedia.org/resource/Kaliningrad> geo:lon ?VARIABLE .
+ <http://dbpedia.org/resource/Volga_River> geo:geometry ?VARIABLE .
 }
 
 LIMIT 1000
-====================================================================
-долгота и широта города иркутска
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Irkutsk> geo:lon ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-долгота дня в сочи 23 января
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Sochi_River> geo:lon ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-восход заход долгота дня
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX resource: <http://dbpedia.org/resource/>
-PREFIX yago: <http://dbpedia.org/class/yago/>
-PREFIX dbp: <http://dbpedia.org/property/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX foaf: <http://xmlns.com/foaf/spec/>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-
-SELECT ?VARIABLE
-WHERE
-{
- <http://dbpedia.org/resource/Voskhod,_Moscow_Oblast> geo:lon ?VARIABLE .
-}
-
-LIMIT 1000
-====================================================================
-долгота дня сегодня в москве
