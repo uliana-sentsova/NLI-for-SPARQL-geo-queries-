@@ -21,7 +21,7 @@ class KeywordNotFoundError(Error):
     pass
 
 
-class KeywordCompileEror(Error):
+class KeywordCompileError(Error):
     pass
 
 
@@ -158,6 +158,13 @@ def ontology_search(lemmas):
     """
     # Поиск по биграммам:
     locations_list = search_bigram(lemmas)
+
+    # Чтобы избежать нахождения локации внутри биграмма:
+    lemmas = " ".join(lemmas)
+    for bigram in locations_list:
+        lemmas = lemmas.replace(bigram[1]["entry"], " ")
+    lemmas = [l for l in lemmas.split(" ") if l]
+
     for lemma in lemmas:
         location = simple_search(lemma)
         if location:
@@ -174,15 +181,11 @@ def disambiguation(lemmatized_query, locations_list):
                 if locations_list[i][1]["entry"] == locations_list[j][1]["entry"]:
                     if [locations_list[j], locations_list[i]] not in ambiguos:
                         ambiguos.append([locations_list[i], locations_list[j]])
-
-
     if not ambiguos:
         return locations_list
 
-    print("Desambiguation process...")
-
+    # Проводим дезамбигуацию:
     result = []
-
     checked = []
     for ambiguos_pair in ambiguos:
         for loc in ambiguos_pair:
@@ -259,6 +262,9 @@ def find_location(input_query):
 
     # Поиск в онтологии:
     locations_list = (ontology_search(lemmas))
+
+    if not locations_list:
+        raise LocationNotFoundError
 
     # Дезамбигуация:
     locations_list = disambiguation(lemmas, locations_list)
@@ -340,7 +346,6 @@ def open_pattern(pattern_name):
     return pattern
 
 
-
 # Функция проверяет потенциальный предикат на наличие в словаре предикатов.
 def keyword_search(query):
     for key in PREDICATES.keys():
@@ -373,15 +378,15 @@ def analyze_input(raw_query):
 
     keyword, query = keyword_search(raw_query)
     predicate, query_type = keyword[0], keyword[1]
-    print("Query pattern found. Type:", query_type)
+    print("Query pattern found. Type:{0}.".format(query_type))
     print("Predicate:", predicate[0])
-    print(query)
+    # print(query)
 
     if query_type != "no_subject":
         print("Searching for a location...")
         location = find_location(query)
 
-        locations = [l["translation"] for l in location]
+        locations = [l["URI"] for l in location]
 
         if len(locations) > 1:
             query_type = query_type + "_union_" + str(len(locations))
@@ -513,6 +518,8 @@ def make_query(query):
 
     print("\n\n\n")
 
+    return query_pattern
+
 
 # Устанавливаем директорию проекта:
 PWD = os.getcwd()
@@ -537,7 +544,3 @@ SYNONYMS["volcano"] = ["вулкан", "гора"]
 SYNONYMS["island"] = ["архипелаг", "остров"]
 SYNONYMS["lake"] = ["озеро", "водохранилище"]
 SYNONYMS["region"] = ["край", "регион", "область"]
-
-
-
-x = find_location("привет волга")
