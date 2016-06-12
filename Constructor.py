@@ -237,8 +237,6 @@ def disambiguation(lemmatized_query, locations_list):
     return result
 
 
-
-
 def find_location(input_query):
     """
     Функция для поиска локации в запросе. Максимально возможное количество найденных локаций: 2 (пока что).
@@ -254,13 +252,15 @@ def find_location(input_query):
 
     # Удаляем из запроса предлоги и пунктуацию, лемматизируем запрос:
     input_query = input_query.lower()
-    input_query = remove_prepositions(input_query)
+    # print(input_query)
     input_query = remove_punctuation(input_query)
     lemmas = m.lemmatize(input_query.lower())
-    lemmas = [l for l in lemmas if is_word(l)]
+
+    lemmas = [l for l in lemmas if is_word(l) and len(l) > 1]
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
     # Поиск в онтологии:
+    print(lemmas)
     locations_list = (ontology_search(lemmas))
 
     if not locations_list:
@@ -353,11 +353,17 @@ def keyword_search(query):
             x = re.compile(key)
         except Exception as err:
             print(err, key)
-            raise KeywordCompileEror()
+            raise KeywordCompileError
         matched = re.findall(x, query)
         if matched:
             query = query.replace(matched[0], "")
             return PREDICATES[key], query
+
+    for key in SYNONYMS:
+        for synonym in SYNONYMS[key]:
+            if synonym in query:
+                return "dbo:abstract", query
+
     raise KeywordNotFoundError()
 
 
@@ -370,7 +376,7 @@ def analyze_input(raw_query):
     assert type(raw_query) == str
 
     raw_query = raw_query.lower()
-    raw_query = remove_prepositions(raw_query)
+    # raw_query = remove_prepositions(raw_query)
     raw_query = remove_punctuation(raw_query)
     raw_query = remove_modifiers(raw_query)
 

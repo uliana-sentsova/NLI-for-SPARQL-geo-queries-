@@ -13,3 +13,4 @@
 (?:\s?про\s+|описание\s?|это\s?) = dbo:abstract = default
 (?:(?:куда)?впадае?ть?) = dbo:riverMouth = default
 (?:(?:когда\s*)?(?:была?|s*)?основана?) = dbp:establishedDate = default
+(?:почтовый\s+код(?:\s|$)) = dbo:postalCode = default

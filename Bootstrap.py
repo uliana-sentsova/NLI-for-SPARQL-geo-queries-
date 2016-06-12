@@ -221,7 +221,7 @@ def lemmatize_query(query):
 
 def check_location(query):
     location = constructor.ontology_search(query)
-    if location != (False, False):
+    if location:
         return True
     else:
         return False
@@ -244,13 +244,14 @@ for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
             query = lemmatize_query(line)
             if check_location(query) and len(query) < 6:
                 query_array.append(line)
-        for i in range(0, 20):
+        for i in range(0, 30):
             try:
                 random_index = random.randint(0, len(query_array) - 1)
                 random_query = query_array[random_index]
+                print(random_query)
                 evaluation_set.append(random_query)
             except ValueError:
-                continue
+                break
 
 for entry in evaluation_set:
     print(entry)

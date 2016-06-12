@@ -1,6 +1,5 @@
 import Constructor as constructor
 
-
 total_count = 0
 accept = 0
 reject = 0
