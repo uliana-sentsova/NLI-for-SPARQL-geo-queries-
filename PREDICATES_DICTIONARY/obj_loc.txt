@@ -3,3 +3,4 @@
 (?:столица\s(?:(?:како.*\s*(?:стран.?|государств.?))|чего)) = dbo:capital = dbo:PopulatedPlace
 (?:столица\s(?:(?:како.*\s*(?:регион.?|кра[яй]))|чего)) = dbo:capital = dbo:PopulatedPlace
 (?:притоки?) = dbo:riverMouth = dbo:River
+(?:(?:города\s+на\s+)|через\s+какие\s+города\s+(?:течет|протекает|проходит)) = dbo:city = dbo:PopulatedPlace

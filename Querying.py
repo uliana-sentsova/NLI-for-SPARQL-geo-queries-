@@ -39,6 +39,7 @@ with open("evaluation_set.txt", "r", encoding="utf-8") as evaluation_set, open("
             total_count += 1
 
 
+print("Количество запросов: {0}.".format(total_count))
 print("Количество корректно обработанных запросов: {0}.".format(accept))
 print("Количество некорректно обработанных запросов: {0}.".format(reject))
 print("Количество запросов с ненайденными локациями: {0}.".format(location_not_found))

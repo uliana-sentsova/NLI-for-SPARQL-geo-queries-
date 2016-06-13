@@ -14,3 +14,7 @@
 (?:(?:куда)?впадае?ть?) = dbo:riverMouth = default
 (?:(?:когда\s*)?(?:была?|s*)?основана?) = dbp:establishedDate = default
 (?:почтовый\s+код(?:\s|$)) = dbo:postalCode = default
+(?:правы[йе]\s+притоки?) = dbo:rightTributary = default
+(?:левы[йе]\s+притоки?) = dbo:leftTributary = default
+(?:(:?\s|^)длина(?:\s|$)) = dbp:length = default
+(?:где\s+протекает) = dbp:region = default

@@ -228,13 +228,14 @@ def check_location(query):
 
 
 
-# city_names = ["река", "часовой пояс", "река рядом", "основание", "основан", "почтовый код",
-# "географическое положение", "притоки", "куда впадает", "кто основал"]
+# city_names = ["гора", "море", "область"]
 # queries_location(city_names, queries="queries.txt", break_by=50000000)
 
 
+# Создание "золотого стандарта"
 evaluation_set = []
-for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
+# for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
+for filename in ["Гора.txt", "Область.txt"]:
     query_array = []
 
     print("Создание коллекции случайно выбранных запросов для ключевого слова: ", filename.split(".")[0].lower())
@@ -242,13 +243,12 @@ for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
         for line in keyword_file:
             line = line.strip()
             query = lemmatize_query(line)
-            if check_location(query) and len(query) < 6:
+            if len(query) < 6 and check_location(query):
                 query_array.append(line)
         for i in range(0, 30):
             try:
                 random_index = random.randint(0, len(query_array) - 1)
                 random_query = query_array[random_index]
-                print(random_query)
                 evaluation_set.append(random_query)
             except ValueError:
                 break

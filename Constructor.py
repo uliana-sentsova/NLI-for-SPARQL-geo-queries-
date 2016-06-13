@@ -158,18 +158,15 @@ def ontology_search(lemmas):
     """
     # Поиск по биграммам:
     locations_list = search_bigram(lemmas)
-    print("--------", locations_list)
 
     # Чтобы избежать нахождения локации внутри биграмма:
     lemmas = " ".join(lemmas)
     for bigram in locations_list:
         lemmas = lemmas.replace(bigram[1]["entry"], " ")
     lemmas = [l for l in lemmas.split(" ") if l]
-    print("LEMMAS: ", lemmas)
 
     for lemma in lemmas:
         location = simple_search(lemma)
-        print(location)
         if location:
             for loc in location:
                 locations_list.append(loc)
@@ -263,7 +260,6 @@ def find_location(input_query):
     input_query = [word.strip().lower() for word in input_query.split(" ") if is_word(word)]
 
     # Поиск в онтологии:
-    print(lemmas)
     locations_list = (ontology_search(lemmas))
 
     if not locations_list:
