@@ -49,15 +49,16 @@ PREFIX foaf: <http://xmlns.com/foaf/spec/>
 PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-select distinct ?one, ?an, ?rel
-where
+SELECT DISTINCT ?one, ?another, ?relation
+WHERE
 {
 ?one rdf:type dbo:Place.
 ?an rdf:type dbo:Place.
-?one ?rel ?an .
+?one ?relation ?another .
 FILTER regex(?rel, "Regions", "i") .
 }
-LIMIT 100
+LIMIT 1000
+ORDER BY ?relation
 
 dbc:Member_states_of_the_European_Union
 
@@ -140,22 +141,22 @@ ORDER by ?label
 LIMIT 10000
 
 
-select distinct ?label, ?Concept, ?llabel
+select distinct ?rivername, ?Object, ?areaname
 
 where {
-?Concept rdf:type dbo:River .
-?Concept rdfs:label ?label .
+?Object rdf:type dbo:River .
+?Object rdfs:label ?rivername .
 
-?Concept dbo:locatedInArea ?loc .
-?loc rdfs:label ?llabel
+?Object dbo:locatedInArea ?loc .
+?loc rdfs:label ?areaname
 
-FILTER langMatches(lang(?label), "ru") .
-FILTER langMatches(lang(?llabel), "ru") .
+FILTER langMatches(lang(?rivername), "ru") .
+FILTER langMatches(lang(?areaname), "ru") .
 
 
 }
 
-ORDER by ?label
+ORDER by ?rivername
 LIMIT 10000
 
 
