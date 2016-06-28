@@ -228,14 +228,14 @@ def check_location(query):
 
 
 
-# city_names = ["гора", "море", "область"]
+# city_names = ["устье", "какой регион", "где находится"]
 # queries_location(city_names, queries="queries.txt", break_by=50000000)
-
+#
 
 # Создание "золотого стандарта"
 evaluation_set = []
 # for filename in os.listdir(constructor.PWD + "/Bootstrap_results"):
-for filename in ["Гора.txt", "Область.txt"]:
+for filename in ["Устье.txt", "Какой регион.txt", "Где находится.txt"]:
     query_array = []
 
     print("Создание коллекции случайно выбранных запросов для ключевого слова: ", filename.split(".")[0].lower())
@@ -253,7 +253,7 @@ for filename in ["Гора.txt", "Область.txt"]:
             except ValueError:
                 break
 
-for entry in evaluation_set:
+for entry in list(set(evaluation_set)):
     print(entry)
 
 

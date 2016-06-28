@@ -174,6 +174,8 @@ def ontology_search(lemmas):
 
 
 def disambiguation(lemmatized_query, locations_list):
+    for l in locations_list:
+        print("****", l)
     ambiguos = []
     for i in range(0, len(locations_list)):
         for j in range(0, len(locations_list)):
@@ -226,7 +228,6 @@ def disambiguation(lemmatized_query, locations_list):
         if real_location:
             result.append(real_location)
         else:
-            print("Failed.")
             result.append(loc_1)
 
     # Все остальные локации присоединяем к результату:
@@ -261,6 +262,9 @@ def find_location(input_query):
 
     # Поиск в онтологии:
     locations_list = (ontology_search(lemmas))
+
+    if len(locations_list) > 4:
+        raise MultipleLocationError
 
     if not locations_list:
         raise LocationNotFoundError
@@ -356,13 +360,12 @@ def keyword_search(query):
         matched = re.findall(x, query)
         if matched:
             query = query.replace(matched[0], "")
-            print("---", PREDICATES[key])
             return PREDICATES[key], query
 
     for key in SYNONYMS:
         for synonym in SYNONYMS[key]:
             if synonym in query:
-                return (["dbo:abstract", "default"], query)
+                return (["dbo:abstract", "default"], "subj"), query
 
     raise KeywordNotFoundError()
 
@@ -385,7 +388,7 @@ def analyze_input(raw_query):
     keyword, query = keyword_search(raw_query)
     predicate, query_type = keyword[0], keyword[1]
     print("Query pattern found. Type:{0}.".format(query_type))
-    print("Predicate:", predicate[0])
+    print("Predicate:", predicate)
     # print(query)
 
     if query_type != "no_subject":
@@ -448,6 +451,7 @@ def construct_query(subject, predicate, query_type, variable="VARIABLE"):
             query_pattern = query_pattern.replace("TYPE", obj_type)
             query_pattern = query_pattern.replace("PREDICATE", predicate)
         else:
+
             predicate = predicate[0]
             query_pattern = query_pattern.replace("SUBJECT", subject)
             query_pattern = query_pattern.replace("PREDICATE", predicate)
@@ -502,7 +506,7 @@ def ask_query(query_pattern, variable="VARIABLE", num_vars=1):
 
 
 # Делаем запрос
-def make_query(query):
+def make_query(query, ask_dbpedia=True):
     print("------------------------------------------------------------")
     print("ЗАПРОС:", query)
     print("------------------------------------------------------------")
@@ -515,14 +519,13 @@ def make_query(query):
     print(query_pattern)
     print("------------------------------------------------------------")
 
-    result = ask_query(query_pattern, variable="VARIABLE", num_vars = len(subject))
-
-    print("РЕЗУЛЬТАТ ЗАПРОСА: ")
-    if result:
-        for r in result:
-            print(r)
-
-    print("\n\n\n")
+    if ask_dbpedia:
+        result = ask_query(query_pattern, variable="VARIABLE", num_vars = len(subject))
+        print("РЕЗУЛЬТАТ ЗАПРОСА: ")
+        if result:
+            for r in result:
+                print(r)
+        print("\n\n\n")
 
     return query_pattern
 
@@ -543,10 +546,12 @@ ONTOLOGY = import_ontology(os.listdir(PWD + "/ONTOLOGIES"))
 SYNONYMS = dict()
 
 SYNONYMS["settlement"] = ["город", "г.", "деревня", "поселок", "село", "пгт","населенный пункт","район","край"]
-SYNONYMS["river"] = ["река", "речка", "приток", "исток"]
+SYNONYMS["river"] = ["река", "речка", "приток", "исток", "притоки","устье"]
 SYNONYMS["mountain"] = ["гора", "сопка", "вулкан"]
 SYNONYMS["sea"] = ["море"]
 SYNONYMS["volcano"] = ["вулкан", "гора"]
 SYNONYMS["island"] = ["архипелаг", "остров"]
 SYNONYMS["lake"] = ["озеро", "водохранилище"]
 SYNONYMS["region"] = ["край", "регион", "область"]
+
+# x = make_query("почтовый код заречного пензенской")
