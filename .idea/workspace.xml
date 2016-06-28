@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92853f2-6143-4c85-9213-a6d82225cfc5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Manual_evaluation.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Frequent_patterns.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/New locations.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Unique_patterns.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Used_patterns.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Географические названия.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Географическое положение.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Долгота.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Широта.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evaluation_set_copy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bootstrap.py" afterPath="$PROJECT_DIR$/Bootstrap.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Constructor.py" afterPath="$PROJECT_DIR$/Constructor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PATTERNS_LIBRARY/черновик.txt" afterPath="$PROJECT_DIR$/PATTERNS_LIBRARY/черновик.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PREDICATES_DICTIONARY/subj.txt" afterPath="$PROJECT_DIR$/PREDICATES_DICTIONARY/subj.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Querying.py" afterPath="$PROJECT_DIR$/Querying.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluation_set.txt" afterPath="$PROJECT_DIR$/evaluation_set.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs.txt" afterPath="$PROJECT_DIR$/logs.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result.txt" afterPath="$PROJECT_DIR$/result.txt" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,24 +28,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="Constructor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Constructor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6666666">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="566" column="47" selection-start-line="557" selection-start-column="1" selection-end-line="566" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Querying.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Querying.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Querying.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3448275">
-              <caret line="52" column="78" selection-start-line="52" selection-start-column="78" selection-end-line="52" selection-end-column="78" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27124774">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,12 +112,13 @@
         <option value="$PROJECT_DIR$/CONFIG/PROPERTIES.txt" />
         <option value="$PROJECT_DIR$/Bootstrap.py" />
         <option value="$PROJECT_DIR$/Generating SPARQL query.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/PREDICATES_DICTIONARY/obj_loc.txt" />
         <option value="$PROJECT_DIR$/PREDICATES_DICTIONARY/subj.txt" />
         <option value="$PROJECT_DIR$/evaluation_set.txt" />
         <option value="$PROJECT_DIR$/Manual_evaluation.py" />
         <option value="$PROJECT_DIR$/Querying.py" />
+        <option value="$PROJECT_DIR$/Constructor.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -193,7 +193,7 @@
       <recent name="$PROJECT_DIR$/Locations" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Querying">
+  <component name="RunManager" selected="Python.Constructor">
     <configuration default="false" name="Bootstrap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,23 +207,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SPARQL" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bootstrap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Lemmatize" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SPARQL" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lemmatize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -275,6 +258,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SPARQL" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Querying.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Constructor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SPARQL" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Constructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -403,18 +403,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Bootstrap" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Lemmatize" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Generating SPARQL query" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Local_changes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Querying" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Generating SPARQL query" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Local_changes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Querying" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Constructor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Querying" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Bootstrap" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Generating SPARQL query" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Local_changes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Lemmatize" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Constructor" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Querying" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Bootstrap" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Generating SPARQL query" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Local_changes" />
       </list>
     </recent_temporary>
   </component>
@@ -433,9 +433,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -500,14 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6666666">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PREDICATES_DICTIONARY/obj_loc.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12953368">
@@ -540,21 +532,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs.txt">
+    <entry file="file://$PROJECT_DIR$/result.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.060345">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.28448275">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Querying.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3448275">
-          <caret line="52" column="78" selection-start-line="52" selection-start-column="78" selection-end-line="52" selection-end-column="78" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="566" column="47" selection-start-line="557" selection-start-column="1" selection-end-line="566" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27124774">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>

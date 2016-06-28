@@ -554,4 +554,14 @@ SYNONYMS["island"] = ["архипелаг", "остров"]
 SYNONYMS["lake"] = ["озеро", "водохранилище"]
 SYNONYMS["region"] = ["край", "регион", "область"]
 
-# x = make_query("почтовый код заречного пензенской")
+
+#
+# answer = True
+# while answer:
+#     n = input("Введите запрос:    ")
+#     if n == "":
+#         answer = False
+#     try:
+#         x = make_query(n)
+#     except Exception:
+#         print("Не удалось выполнить запрос.")

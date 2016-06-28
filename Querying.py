@@ -12,7 +12,9 @@ unknown_error = 0
 
 start_time = datetime.now()
 
-with open("evaluation_set.txt", "r", encoding="utf-8") as evaluation_set, open("result.txt", 'w') as result:
+EVALUATION_SET = "evaluation_set.txt"
+
+with open(EVALUATION_SET, "r", encoding="utf-8") as evaluation_set, open("result.txt", 'w') as result:
     for query in evaluation_set:
         query = query.strip()
 
